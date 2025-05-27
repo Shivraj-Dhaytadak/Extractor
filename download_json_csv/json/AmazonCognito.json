@@ -1,0 +1,1640 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonCognito",
+  "version" : "20250310175518",
+  "publicationDate" : "2025-03-10T17:55:18Z",
+  "products" : {
+    "35WAS3YQUZX28BKP" : {
+      "sku" : "35WAS3YQUZX28BKP",
+      "productFamily" : "User Pools M2M",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CUPM2MAppClientsFull",
+        "operation" : "CognitoUserPoolsM2MAppClientOp",
+        "duration" : "Full",
+        "m2mCategory" : "AppClients",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "8JTRAZAPKBCWMQFS" : {
+      "sku" : "8JTRAZAPKBCWMQFS",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserTokenRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserToken",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "JRGNUYCVEBKA6U9J" : {
+      "sku" : "JRGNUYCVEBKA6U9J",
+      "productFamily" : "User Pool MAU",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-CognitoUserPoolMAU",
+        "operation" : "CognitoUserPoolsOperation",
+        "regionCode" : "",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "MJVKEDY4DD2B6Y58" : {
+      "sku" : "MJVKEDY4DD2B6Y58",
+      "productFamily" : "User Pool Enterprise MAU",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoEnterpriseMAU",
+        "operation" : "CognitoEnterpriseOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "DQ5U6QMBCP3ZD8TR" : {
+      "sku" : "DQ5U6QMBCP3ZD8TR",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAuthenticationRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAuthentication",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "KHSYYUADDC9Q7REG" : {
+      "sku" : "KHSYYUADDC9Q7REG",
+      "productFamily" : "Amazon Cognito - Plus",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoPlusMAU",
+        "operation" : "CognitoPlusOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "GH74CGFRXTXY2YZF" : {
+      "sku" : "GH74CGFRXTXY2YZF",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserTokenRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserToken",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "2WR3V6FCY7KB2YY6" : {
+      "sku" : "2WR3V6FCY7KB2YY6",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserReadRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserRead",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "SGRA5JDC5V5X5HZA" : {
+      "sku" : "SGRA5JDC5V5X5HZA",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAuthenticationRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAuthentication",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "AH8UFFURUFH2VCD9" : {
+      "sku" : "AH8UFFURUFH2VCD9",
+      "productFamily" : "Amazon Cognito - Essentials",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-CognitoFreeTierMAU",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "FVX33FFPNZBK2XQ9" : {
+      "sku" : "FVX33FFPNZBK2XQ9",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceReadRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceRead",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "JD5F622TZMWCHH7P" : {
+      "sku" : "JD5F622TZMWCHH7P",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserUpdateRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserUpdate",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "6DP4GAMQ3N5AD44M" : {
+      "sku" : "6DP4GAMQ3N5AD44M",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserUpdateRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserUpdate",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "S9NMN55PA3HGMB39" : {
+      "sku" : "S9NMN55PA3HGMB39",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserFederationRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserFederation",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "S7T4KX2JQSSJYD6T" : {
+      "sku" : "S7T4KX2JQSSJYD6T",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserUpdateRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserUpdate",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "QJC3UE86XSTPJMMZ" : {
+      "sku" : "QJC3UE86XSTPJMMZ",
+      "productFamily" : "User Pool MAU",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserPoolsMAU",
+        "operation" : "CognitoUserPoolsOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "KWC776HSBJBTMNS9" : {
+      "sku" : "KWC776HSBJBTMNS9",
+      "productFamily" : "User Pools M2M",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CUPM2MTokenRequestsFull",
+        "operation" : "CognitoUserPoolsM2MTokenOp",
+        "duration" : "Full",
+        "m2mCategory" : "Tokens",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "PGEDP9EQFYKDWCFT" : {
+      "sku" : "PGEDP9EQFYKDWCFT",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAccountRecoveryRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAccountRecovery",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "CJZF76THGG3FHAZW" : {
+      "sku" : "CJZF76THGG3FHAZW",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserReadRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserRead",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "8SDYCDA4W9NFS4DM" : {
+      "sku" : "8SDYCDA4W9NFS4DM",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserFederationRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserFederation",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "EY9QB3PMSYTP6DZ2" : {
+      "sku" : "EY9QB3PMSYTP6DZ2",
+      "productFamily" : "User Pool Enterprise MAU",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Globalv1-CognitoEnterpriseMAU",
+        "operation" : "CognitoEnterpriseOperation",
+        "regionCode" : "",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "NBMEWD85KPFPKPMU" : {
+      "sku" : "NBMEWD85KPFPKPMU",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserTokenRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserToken",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "ZBAPESB4JPETR3K7" : {
+      "sku" : "ZBAPESB4JPETR3K7",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceUpdateRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceUpdate",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "VBQ3BFARQ7HCHXHY" : {
+      "sku" : "VBQ3BFARQ7HCHXHY",
+      "productFamily" : "User Pools M2M",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CUPM2MTokenRequestsFree",
+        "operation" : "CognitoUserPoolsM2MTokenOp",
+        "duration" : "Free",
+        "m2mCategory" : "Tokens",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "4BHV4KQCJV5CNACS" : {
+      "sku" : "4BHV4KQCJV5CNACS",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceReadRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceRead",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "5S5DXFP6S546YWE5" : {
+      "sku" : "5S5DXFP6S546YWE5",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceUpdateRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceUpdate",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "BHGRRBF7KU9BU88Q" : {
+      "sku" : "BHGRRBF7KU9BU88Q",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserFederationRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserFederation",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "XVYWD6TWRYVQWN85" : {
+      "sku" : "XVYWD6TWRYVQWN85",
+      "productFamily" : "Amazon Cognito - Essentials",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoEssentialsMAU",
+        "operation" : "CognitoEssentialsOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "WCYDT9KZ3PRQ28WZ" : {
+      "sku" : "WCYDT9KZ3PRQ28WZ",
+      "productFamily" : "User Pools M2M",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CUPM2MAppClientsFree",
+        "operation" : "CognitoUserPoolsM2MAppClientOp",
+        "duration" : "Free",
+        "m2mCategory" : "AppClients",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "AHC5TTB3FPN66Z9A" : {
+      "sku" : "AHC5TTB3FPN66Z9A",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAccountRecoveryRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAccountRecovery",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "UWNZ2YNG3P2Y4W4W" : {
+      "sku" : "UWNZ2YNG3P2Y4W4W",
+      "productFamily" : "User Pool ASF MAU",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoASFMAU",
+        "operation" : "CognitoASFOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "QA55XHQT8NAY3D4U" : {
+      "sku" : "QA55XHQT8NAY3D4U",
+      "productFamily" : "Amazon Cognito - Lite",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoLiteMAU",
+        "operation" : "CognitoLiteOperation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "25ACPW396WCQWGD9" : {
+      "sku" : "25ACPW396WCQWGD9",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserCreationRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserCreation",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "DCBAGXQXAXYVFUAP" : {
+      "sku" : "DCBAGXQXAXYVFUAP",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAuthenticationRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAuthentication",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "VX6XAQ6RADE9KMNF" : {
+      "sku" : "VX6XAQ6RADE9KMNF",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceReadRPSPartial",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceRead",
+        "duration" : "Partial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "PF3RWXHFZC9T6S7H" : {
+      "sku" : "PF3RWXHFZC9T6S7H",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserAccountRecoveryRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserAccountRecovery",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "WDVWYRPADRYQC2ZQ" : {
+      "sku" : "WDVWYRPADRYQC2ZQ",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserResourceUpdateRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserResourceUpdate",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "KJ43FVXAVBF9KXBH" : {
+      "sku" : "KJ43FVXAVBF9KXBH",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserReadRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserRead",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "GTCGC4B8NZXEEMAT" : {
+      "sku" : "GTCGC4B8NZXEEMAT",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserCreationRPSFull",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserCreation",
+        "duration" : "Full",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    },
+    "VAC9HN29NUT9699R" : {
+      "sku" : "VAC9HN29NUT9699R",
+      "productFamily" : "User Pool RPS",
+      "attributes" : {
+        "servicecode" : "AmazonCognito",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CognitoUserCreationRPSFree",
+        "operation" : "CognitoRPSOperation",
+        "apiCategory" : "UserCreation",
+        "duration" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "AHC5TTB3FPN66Z9A" : {
+        "AHC5TTB3FPN66Z9A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AHC5TTB3FPN66Z9A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AHC5TTB3FPN66Z9A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AHC5TTB3FPN66Z9A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserAccountRecovery (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VBQ3BFARQ7HCHXHY" : {
+        "VBQ3BFARQ7HCHXHY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VBQ3BFARQ7HCHXHY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VBQ3BFARQ7HCHXHY.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "VBQ3BFARQ7HCHXHY.JRTCKXETXF.925HBHWMHV",
+              "description" : "USD 0.00 per client credential flow (M2M) token request in tier 1  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VBQ3BFARQ7HCHXHY.JRTCKXETXF.QFSY5JDYF6" : {
+              "rateCode" : "VBQ3BFARQ7HCHXHY.JRTCKXETXF.QFSY5JDYF6",
+              "description" : "USD 0.00 per client credential flow (M2M) token request in tier 2  in US East (N. Virginia)",
+              "beginRange" : "250000",
+              "endRange" : "5000000",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VBQ3BFARQ7HCHXHY.JRTCKXETXF.XCXBHCFFQ2" : {
+              "rateCode" : "VBQ3BFARQ7HCHXHY.JRTCKXETXF.XCXBHCFFQ2",
+              "description" : "USD 0.00 per client credential flow (M2M) token request in tier 3  in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GTCGC4B8NZXEEMAT" : {
+        "GTCGC4B8NZXEEMAT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GTCGC4B8NZXEEMAT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GTCGC4B8NZXEEMAT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GTCGC4B8NZXEEMAT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserCreation (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WCYDT9KZ3PRQ28WZ" : {
+        "WCYDT9KZ3PRQ28WZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WCYDT9KZ3PRQ28WZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.ETY2894C67" : {
+              "rateCode" : "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.ETY2894C67",
+              "description" : "USD 0.00 per client credential flow app client, pro-rated by the second, in tier 1  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.WQ4TY4VCYZ" : {
+              "rateCode" : "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.WQ4TY4VCYZ",
+              "description" : "USD 0.00 per client credential flow app client, pro-rated by the second, in tier 2  in US East (N. Virginia)",
+              "beginRange" : "100",
+              "endRange" : "500",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.TAV9HKW45C" : {
+              "rateCode" : "WCYDT9KZ3PRQ28WZ.JRTCKXETXF.TAV9HKW45C",
+              "description" : "USD 0.00 per client credential flow app client, pro-rated by the second, in tier 3  in US East (N. Virginia)",
+              "beginRange" : "500",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "35WAS3YQUZX28BKP" : {
+        "35WAS3YQUZX28BKP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "35WAS3YQUZX28BKP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "35WAS3YQUZX28BKP.JRTCKXETXF.ETY2894C67" : {
+              "rateCode" : "35WAS3YQUZX28BKP.JRTCKXETXF.ETY2894C67",
+              "description" : "USD 6.00 per client credential flow app client, pro-rated by the second, in tier 1  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "35WAS3YQUZX28BKP.JRTCKXETXF.WQ4TY4VCYZ" : {
+              "rateCode" : "35WAS3YQUZX28BKP.JRTCKXETXF.WQ4TY4VCYZ",
+              "description" : "USD 3.00 per client credential flow app client, pro-rated by the second, in tier 2  in US East (N. Virginia)",
+              "beginRange" : "100",
+              "endRange" : "500",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "35WAS3YQUZX28BKP.JRTCKXETXF.TAV9HKW45C" : {
+              "rateCode" : "35WAS3YQUZX28BKP.JRTCKXETXF.TAV9HKW45C",
+              "description" : "USD 1.50 per client credential flow app client, pro-rated by the second, in tier 3  in US East (N. Virginia)",
+              "beginRange" : "500",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPools-M2MAppClientMo",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UWNZ2YNG3P2Y4W4W" : {
+        "UWNZ2YNG3P2Y4W4W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UWNZ2YNG3P2Y4W4W",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.ZM2XF3EGYR" : {
+              "rateCode" : "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.ZM2XF3EGYR",
+              "description" : "Cognito User Pools us-east-1 advanced security features users tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "50000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.MY3WCTDBMM" : {
+              "rateCode" : "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.MY3WCTDBMM",
+              "description" : "Cognito User Pools us-east-1 advanced security features users tier 2 pricing",
+              "beginRange" : "50000",
+              "endRange" : "100000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.9H3PSG253F" : {
+              "rateCode" : "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.9H3PSG253F",
+              "description" : "Cognito User Pools us-east-1 advanced security features users tier 3 pricing",
+              "beginRange" : "100000",
+              "endRange" : "1000000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.H9V8AVEXGG" : {
+              "rateCode" : "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.H9V8AVEXGG",
+              "description" : "Cognito User Pools us-east-1 advanced security features users tier 4 pricing",
+              "beginRange" : "1000000",
+              "endRange" : "10000000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.EFRCQPS26J" : {
+              "rateCode" : "UWNZ2YNG3P2Y4W4W.JRTCKXETXF.EFRCQPS26J",
+              "description" : "Cognito User Pools us-east-1 advanced security features users tier 5 pricing",
+              "beginRange" : "10000000",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BHGRRBF7KU9BU88Q" : {
+        "BHGRRBF7KU9BU88Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BHGRRBF7KU9BU88Q",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BHGRRBF7KU9BU88Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BHGRRBF7KU9BU88Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserFederation (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VAC9HN29NUT9699R" : {
+        "VAC9HN29NUT9699R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VAC9HN29NUT9699R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VAC9HN29NUT9699R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VAC9HN29NUT9699R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserCreation (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S9NMN55PA3HGMB39" : {
+        "S9NMN55PA3HGMB39.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S9NMN55PA3HGMB39",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "S9NMN55PA3HGMB39.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S9NMN55PA3HGMB39.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserFederation (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PF3RWXHFZC9T6S7H" : {
+        "PF3RWXHFZC9T6S7H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PF3RWXHFZC9T6S7H",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PF3RWXHFZC9T6S7H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PF3RWXHFZC9T6S7H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserAccountRecovery (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PGEDP9EQFYKDWCFT" : {
+        "PGEDP9EQFYKDWCFT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGEDP9EQFYKDWCFT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGEDP9EQFYKDWCFT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGEDP9EQFYKDWCFT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserAccountRecovery (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZBAPESB4JPETR3K7" : {
+        "ZBAPESB4JPETR3K7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZBAPESB4JPETR3K7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZBAPESB4JPETR3K7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZBAPESB4JPETR3K7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserResourceUpdate (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QJC3UE86XSTPJMMZ" : {
+        "QJC3UE86XSTPJMMZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QJC3UE86XSTPJMMZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QJC3UE86XSTPJMMZ.JRTCKXETXF.ZM2XF3EGYR" : {
+              "rateCode" : "QJC3UE86XSTPJMMZ.JRTCKXETXF.ZM2XF3EGYR",
+              "description" : "Cognito User Pools us-east-1 tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "50000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0055000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QJC3UE86XSTPJMMZ.JRTCKXETXF.25RY46V5GS" : {
+              "rateCode" : "QJC3UE86XSTPJMMZ.JRTCKXETXF.25RY46V5GS",
+              "description" : "Cognito User Pools us-east-1 tier 2 pricing",
+              "beginRange" : "50000",
+              "endRange" : "950000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0046000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QJC3UE86XSTPJMMZ.JRTCKXETXF.HQHRVXU2H3" : {
+              "rateCode" : "QJC3UE86XSTPJMMZ.JRTCKXETXF.HQHRVXU2H3",
+              "description" : "Cognito User Pools us-east-1 tier 3 pricing",
+              "beginRange" : "950000",
+              "endRange" : "9950000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0032500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QJC3UE86XSTPJMMZ.JRTCKXETXF.JVCK9G2KFH" : {
+              "rateCode" : "QJC3UE86XSTPJMMZ.JRTCKXETXF.JVCK9G2KFH",
+              "description" : "Cognito User Pools us-east-1 tier 4 pricing",
+              "beginRange" : "9950000",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MJVKEDY4DD2B6Y58" : {
+        "MJVKEDY4DD2B6Y58.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MJVKEDY4DD2B6Y58",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MJVKEDY4DD2B6Y58.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MJVKEDY4DD2B6Y58.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cognito User Pools us-east-1 enterprise users tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GH74CGFRXTXY2YZF" : {
+        "GH74CGFRXTXY2YZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GH74CGFRXTXY2YZF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GH74CGFRXTXY2YZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GH74CGFRXTXY2YZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserToken (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8SDYCDA4W9NFS4DM" : {
+        "8SDYCDA4W9NFS4DM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8SDYCDA4W9NFS4DM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8SDYCDA4W9NFS4DM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8SDYCDA4W9NFS4DM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserFederation (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCBAGXQXAXYVFUAP" : {
+        "DCBAGXQXAXYVFUAP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCBAGXQXAXYVFUAP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCBAGXQXAXYVFUAP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCBAGXQXAXYVFUAP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserAuthentication (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DQ5U6QMBCP3ZD8TR" : {
+        "DQ5U6QMBCP3ZD8TR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DQ5U6QMBCP3ZD8TR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DQ5U6QMBCP3ZD8TR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DQ5U6QMBCP3ZD8TR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserAuthentication (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4BHV4KQCJV5CNACS" : {
+        "4BHV4KQCJV5CNACS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4BHV4KQCJV5CNACS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4BHV4KQCJV5CNACS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4BHV4KQCJV5CNACS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserResourceRead (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WDVWYRPADRYQC2ZQ" : {
+        "WDVWYRPADRYQC2ZQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WDVWYRPADRYQC2ZQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WDVWYRPADRYQC2ZQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WDVWYRPADRYQC2ZQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserResourceUpdate (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5S5DXFP6S546YWE5" : {
+        "5S5DXFP6S546YWE5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5S5DXFP6S546YWE5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5S5DXFP6S546YWE5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5S5DXFP6S546YWE5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserResourceUpdate (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8JTRAZAPKBCWMQFS" : {
+        "8JTRAZAPKBCWMQFS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8JTRAZAPKBCWMQFS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8JTRAZAPKBCWMQFS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8JTRAZAPKBCWMQFS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserToken (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KWC776HSBJBTMNS9" : {
+        "KWC776HSBJBTMNS9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KWC776HSBJBTMNS9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KWC776HSBJBTMNS9.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "KWC776HSBJBTMNS9.JRTCKXETXF.925HBHWMHV",
+              "description" : "USD 0.00225 per client credential flow (M2M) token request in tier 1  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0022500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KWC776HSBJBTMNS9.JRTCKXETXF.QFSY5JDYF6" : {
+              "rateCode" : "KWC776HSBJBTMNS9.JRTCKXETXF.QFSY5JDYF6",
+              "description" : "USD 0.0015 per client credential flow (M2M) token request in tier 2  in US East (N. Virginia)",
+              "beginRange" : "250000",
+              "endRange" : "5000000",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KWC776HSBJBTMNS9.JRTCKXETXF.XCXBHCFFQ2" : {
+              "rateCode" : "KWC776HSBJBTMNS9.JRTCKXETXF.XCXBHCFFQ2",
+              "description" : "USD 0.001125 per client credential flow (M2M) token request in tier 3  in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPools-M2MTokens",
+              "pricePerUnit" : {
+                "USD" : "0.0011250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EY9QB3PMSYTP6DZ2" : {
+        "EY9QB3PMSYTP6DZ2.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "EY9QB3PMSYTP6DZ2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EY9QB3PMSYTP6DZ2.A429C66SYZ.ZRBZXHZTV5" : {
+              "rateCode" : "EY9QB3PMSYTP6DZ2.A429C66SYZ.ZRBZXHZTV5",
+              "description" : "Cognito User Pools global enterprise users free tier pricing",
+              "beginRange" : "0",
+              "endRange" : "50",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "7XXGJPH5796APDTF", "DC7SJMH5CRSGKV6J", "VTJ85EU3DBNX3SB4", "NWMH8T6AC53W8YY4", "MJVKEDY4DD2B6Y58", "BBNTE25DFBR6DDUE", "NXW6CJJZPUH3D3CK", "TQFZZH26BBQA7GHH", "YZAGEJXZYAYR4WPV", "CS95M753FYJSYV2X", "MZB3R9M6VWVQPZVM", "DTP9Z65M7XXHYSFK", "Y8U7C9MHJSHW93G3", "BR6GNFXHPBACDKCM", "Q7BUCXU6C7FTXQU9", "RX5H9JUWTXXVX875", "9CANBKTG5GKQUTYF", "FDFZG73V5QPZ2E6C", "QKZF6ZJJWDCFJEY2", "Y6ETJKK6T97XKSN3", "5CNZF82JRTXMWNC7", "BVM9Q7QAZJ4FM7EG", "R9U9TGJ7JRJ6FPB9", "Q7YZDW7FTCA4KMBS", "ASTVU4472MWWRC3R", "EMJP7BJQXANKVJHW", "R8DBG27YA28VMKCV", "SFMQKUKJ3VJVCF8D", "8P3C9KAFXS5DUGHH", "67JBKJUC2F4KMGXB" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "VX6XAQ6RADE9KMNF" : {
+        "VX6XAQ6RADE9KMNF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VX6XAQ6RADE9KMNF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VX6XAQ6RADE9KMNF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VX6XAQ6RADE9KMNF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserResourceRead (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2WR3V6FCY7KB2YY6" : {
+        "2WR3V6FCY7KB2YY6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2WR3V6FCY7KB2YY6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2WR3V6FCY7KB2YY6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2WR3V6FCY7KB2YY6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserRead (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QA55XHQT8NAY3D4U" : {
+        "QA55XHQT8NAY3D4U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QA55XHQT8NAY3D4U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QA55XHQT8NAY3D4U.JRTCKXETXF.VV2AUKAVFP" : {
+              "rateCode" : "QA55XHQT8NAY3D4U.JRTCKXETXF.VV2AUKAVFP",
+              "description" : "Cognito Lite us-east-1 tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "90000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0055000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QA55XHQT8NAY3D4U.JRTCKXETXF.Q9R5NSMVGC" : {
+              "rateCode" : "QA55XHQT8NAY3D4U.JRTCKXETXF.Q9R5NSMVGC",
+              "description" : "Cognito Lite us-east-1 tier 2 pricing",
+              "beginRange" : "90000",
+              "endRange" : "990000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0046000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QA55XHQT8NAY3D4U.JRTCKXETXF.KQSJQ3YMHA" : {
+              "rateCode" : "QA55XHQT8NAY3D4U.JRTCKXETXF.KQSJQ3YMHA",
+              "description" : "Cognito Lite us-east-1 tier 3 pricing",
+              "beginRange" : "990000",
+              "endRange" : "9990000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0032500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QA55XHQT8NAY3D4U.JRTCKXETXF.75WZUA4FXN" : {
+              "rateCode" : "QA55XHQT8NAY3D4U.JRTCKXETXF.75WZUA4FXN",
+              "description" : "Cognito Lite us-east-1 tier 4 pricing",
+              "beginRange" : "9990000",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AH8UFFURUFH2VCD9" : {
+        "AH8UFFURUFH2VCD9.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "AH8UFFURUFH2VCD9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AH8UFFURUFH2VCD9.A429C66SYZ.A6VD9GXV7W" : {
+              "rateCode" : "AH8UFFURUFH2VCD9.A429C66SYZ.A6VD9GXV7W",
+              "description" : "Cognito  global free tier pricing",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "JVU799QJR37664RR", "PAWEFWT3AVM5G88J", "DUEYJN2PTYBG4J3T", "EVZAYBBFN7P2HUZQ", "BEFSFEYNF4BZA7MC", "Y63YB6CSPG7WZHBK", "Y8KDQDK39UDRG6XJ", "RDQXCR9N423N6FHP", "BXAB68AG56DFTJ7J", "PUSB2GCP8RF2MEMH", "RB4QWZK5J9YCU7Q9", "SCWNSEWJPCRKJ4PU", "5YCEBXG4JEW286ZP", "536563UHCHJXTENY", "5J74Y3YBXDR26WXU", "EWGAQDDF3DMFK2N3", "NQKE2UA6GA2HDANG", "K3SY4K7YCTNPBUPK", "PVNJNQNM2RM23UTB", "AQXZ7B2EDGBA5387", "3MY5CTD2GSP5F45Y", "CWU8WFA2ZYMH5EK9", "M6TB36F68GMWUH6T", "YZZRGFGGZZPMR92V", "YJ4TYMGXRS5N6ACK", "XK94SPH8SW72KYTT", "CNHN82F3S2AZPTXR", "3GVVE46F3BD9CRPA", "63GYR4KMEWCBT6DY", "Y4HPSE6CS9SD96JP", "UJ4M5FKHAN4TA9VD", "XGDZTUEKH8EGQHEM", "2BTX6F7Y357WASFT", "ZZG43CRJJFCYX26Z", "SS63SQ6T3Y6ASC3Q", "QKGZH5UTDUJE649F", "BARM6XXPJNRY73CQ", "G2B28QW9VSYB6UVB", "5HKYV426P4G9BMSG", "8ZY7Q5SKS4WKZHYF", "YR928W49T5QRMP6S", "DYBNEDWSCPCS2BUZ", "4YCJTDX7BUH9V54R", "BN6V69DXVARP9XZQ", "7YJ8S5JYQJ6MZWSW", "TJFUTGYWGKNBSHG2", "XVYWD6TWRYVQWN85", "F4M2AY3YMYJKWJBS", "YPQMGWCVPGDBE4V5", "EBSF4REW8Q54M9PN", "CQDYDGHKVVFVZZRP", "CJUNATY8K3J8WJ5U", "QA55XHQT8NAY3D4U", "KSXMU6NXDGDEEHXQ", "NBCHU5WKQQ2GJ947", "BR4R96M4DGMHCFJE", "WZTQ7QDE9T262WNY", "EYGK5MNEV88JRZDR", "VF5M4Q43UHW79W35", "D7UFP5TDYG2PN8M7" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "25ACPW396WCQWGD9" : {
+        "25ACPW396WCQWGD9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "25ACPW396WCQWGD9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "25ACPW396WCQWGD9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "25ACPW396WCQWGD9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserCreation (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KJ43FVXAVBF9KXBH" : {
+        "KJ43FVXAVBF9KXBH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJ43FVXAVBF9KXBH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJ43FVXAVBF9KXBH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJ43FVXAVBF9KXBH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserRead (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SGRA5JDC5V5X5HZA" : {
+        "SGRA5JDC5V5X5HZA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SGRA5JDC5V5X5HZA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SGRA5JDC5V5X5HZA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SGRA5JDC5V5X5HZA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserAuthentication (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JD5F622TZMWCHH7P" : {
+        "JD5F622TZMWCHH7P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JD5F622TZMWCHH7P",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JD5F622TZMWCHH7P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JD5F622TZMWCHH7P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserUpdate (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6DP4GAMQ3N5AD44M" : {
+        "6DP4GAMQ3N5AD44M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6DP4GAMQ3N5AD44M",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6DP4GAMQ3N5AD44M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6DP4GAMQ3N5AD44M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 20.00 per RPS-Month incremental RPS for UserUpdate (full month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CJZF76THGG3FHAZW" : {
+        "CJZF76THGG3FHAZW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CJZF76THGG3FHAZW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CJZF76THGG3FHAZW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CJZF76THGG3FHAZW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserRead (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KHSYYUADDC9Q7REG" : {
+        "KHSYYUADDC9Q7REG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KHSYYUADDC9Q7REG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KHSYYUADDC9Q7REG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KHSYYUADDC9Q7REG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cognito Plus us-east-1 tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JRGNUYCVEBKA6U9J" : {
+        "JRGNUYCVEBKA6U9J.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "JRGNUYCVEBKA6U9J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JRGNUYCVEBKA6U9J.A429C66SYZ.ZM2XF3EGYR" : {
+              "rateCode" : "JRGNUYCVEBKA6U9J.A429C66SYZ.ZM2XF3EGYR",
+              "description" : "Cognito User Pools global free tier pricing",
+              "beginRange" : "0",
+              "endRange" : "50000",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "KPWUACHJQEQQ5SAB", "FUE47UCUJ3EM92TN", "6P6MNAHPD4AWVTYV", "S2S549DFNTJJS9ZT", "6X4DTEBVSFYKKK58", "A7ZZQ9HSSR2SA5RQ", "2DHUBGW799QWJ7K2", "JB7EQU5EGJABZSBG", "AV3AT95VBDPKCN7Q", "QPUU797YAECSZFMT", "S5UMR9TJNRZSBCWS", "3K8FNSFZ78DTGJEX", "QJC3UE86XSTPJMMZ", "GEM568PKAS9ZHFB7", "WRTHZ3VYJTEJVHN4", "SFR2YW74GW784U2M", "E6JRDQP3G56Y9N7M", "886UYXNP3ZGBUBYN", "CPPZG83Y8JKFV9CE", "3TYUUNY2VV5YJPXN", "47JUGDNC5N3DZT85", "TEQY6CZWWUAV7AU3", "MVD92S3FM3N8M2E5", "SJDJQB52YRYNVHRN", "YP8N49B32GN7P8ZR", "PDWYSF9WEFCNUQWX", "AEA8HJGFVCZD3FKC", "MFADPXYUTRVZGFXF", "QFPS9M9JEAF83EED", "Z7W3Z8V9CNY3HCTF" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "NBMEWD85KPFPKPMU" : {
+        "NBMEWD85KPFPKPMU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NBMEWD85KPFPKPMU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NBMEWD85KPFPKPMU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NBMEWD85KPFPKPMU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 45.00 per RPS-Month incremental RPS for UserToken (partial month) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FVX33FFPNZBK2XQ9" : {
+        "FVX33FFPNZBK2XQ9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FVX33FFPNZBK2XQ9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FVX33FFPNZBK2XQ9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FVX33FFPNZBK2XQ9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserResourceRead (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XVYWD6TWRYVQWN85" : {
+        "XVYWD6TWRYVQWN85.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XVYWD6TWRYVQWN85",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XVYWD6TWRYVQWN85.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XVYWD6TWRYVQWN85.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cognito Essentials us-east-1 tier 1 pricing",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsMAU",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S7T4KX2JQSSJYD6T" : {
+        "S7T4KX2JQSSJYD6T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S7T4KX2JQSSJYD6T",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "S7T4KX2JQSSJYD6T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S7T4KX2JQSSJYD6T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per RPS-Month incremental RPS for UserUpdate (exempt) for users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoUserPoolsRPSMo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

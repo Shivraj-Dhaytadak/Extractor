@@ -1,0 +1,272 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "IoTDeviceManagement",
+  "version" : "20250303013719",
+  "publicationDate" : "2025-03-03T01:37:19Z",
+  "products" : {
+    "FNSHCPVNND2U3PS2" : {
+      "sku" : "FNSHCPVNND2U3PS2",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThingRegistration",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "BSVKNHYSWHSUZFHJ" : {
+      "sku" : "BSVKNHYSWHSUZFHJ",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CommandExecution-FW",
+        "operation" : "",
+        "eventType" : "Operation-FW",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "D6N2EB5SAWW6GRJ9" : {
+      "sku" : "D6N2EB5SAWW6GRJ9",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-IndexedData",
+        "operation" : "",
+        "eventType" : "Operation",
+        "indexingSource" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "4W3G6ANFJKV43Y6J" : {
+      "sku" : "4W3G6ANFJKV43Y6J",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TunnelsOpened",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "BXJN4NQBPS2NRH73" : {
+      "sku" : "BXJN4NQBPS2NRH73",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CommandExecution",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "RNGC4FX8SZJ3ZVRR" : {
+      "sku" : "RNGC4FX8SZJ3ZVRR",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-JobExecutions",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    },
+    "RUZHY3EB65CJWQMR" : {
+      "sku" : "RUZHY3EB65CJWQMR",
+      "productFamily" : "IoTDeviceManagement",
+      "attributes" : {
+        "servicecode" : "IoTDeviceManagement",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Queries",
+        "operation" : "",
+        "eventType" : "Queries",
+        "indexingSource" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Management"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BSVKNHYSWHSUZFHJ" : {
+        "BSVKNHYSWHSUZFHJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BSVKNHYSWHSUZFHJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BSVKNHYSWHSUZFHJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BSVKNHYSWHSUZFHJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.5 per 1,000,000 executions",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0000065000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RUZHY3EB65CJWQMR" : {
+        "RUZHY3EB65CJWQMR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RUZHY3EB65CJWQMR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RUZHY3EB65CJWQMR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RUZHY3EB65CJWQMR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 10,000 queries",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FNSHCPVNND2U3PS2" : {
+        "FNSHCPVNND2U3PS2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FNSHCPVNND2U3PS2",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "FNSHCPVNND2U3PS2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FNSHCPVNND2U3PS2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per 1,000 things registered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Things Registered",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4W3G6ANFJKV43Y6J" : {
+        "4W3G6ANFJKV43Y6J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4W3G6ANFJKV43Y6J",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "4W3G6ANFJKV43Y6J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4W3G6ANFJKV43Y6J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per Count for TunnelsOpened in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BXJN4NQBPS2NRH73" : {
+        "BXJN4NQBPS2NRH73.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BXJN4NQBPS2NRH73",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BXJN4NQBPS2NRH73.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BXJN4NQBPS2NRH73.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.5 per 1,000,000 executions",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0000065000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RNGC4FX8SZJ3ZVRR" : {
+        "RNGC4FX8SZJ3ZVRR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RNGC4FX8SZJ3ZVRR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RNGC4FX8SZJ3ZVRR.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "RNGC4FX8SZJ3ZVRR.JRTCKXETXF.925HBHWMHV",
+              "description" : "$0.003 per remote action - first 250,000 remote actions / month",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "Remote Actions",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RNGC4FX8SZJ3ZVRR.JRTCKXETXF.EJNSYSGUMQ" : {
+              "rateCode" : "RNGC4FX8SZJ3ZVRR.JRTCKXETXF.EJNSYSGUMQ",
+              "description" : "$0.0015 per remote action - over 250,000 remote actions / month",
+              "beginRange" : "250000",
+              "endRange" : "Inf",
+              "unit" : "Remote Actions",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D6N2EB5SAWW6GRJ9" : {
+        "D6N2EB5SAWW6GRJ9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D6N2EB5SAWW6GRJ9",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "D6N2EB5SAWW6GRJ9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D6N2EB5SAWW6GRJ9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.25 per 1 million index updates of 1KB size",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Index Updates",
+              "pricePerUnit" : {
+                "USD" : "0.0000022500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

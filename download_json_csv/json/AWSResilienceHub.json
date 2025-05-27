@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSResilienceHub",
+  "version" : "20241029194703",
+  "publicationDate" : "2024-10-29T19:47:03Z",
+  "products" : {
+    "2D659FG94S82TA5C" : {
+      "sku" : "2D659FG94S82TA5C",
+      "productFamily" : "AWS Resilience Hub",
+      "attributes" : {
+        "servicecode" : "AWSResilienceHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidTierApplication",
+        "operation" : "Application",
+        "feecode" : "PaidTier",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Resilience Hub"
+      }
+    },
+    "CYPMCM5WGWFN85JP" : {
+      "sku" : "CYPMCM5WGWFN85JP",
+      "productFamily" : "AWS Resilience Hub",
+      "attributes" : {
+        "servicecode" : "AWSResilienceHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeTierApplication",
+        "operation" : "Application",
+        "feecode" : "FreeTier",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Resilience Hub"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "CYPMCM5WGWFN85JP" : {
+        "CYPMCM5WGWFN85JP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CYPMCM5WGWFN85JP",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "CYPMCM5WGWFN85JP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CYPMCM5WGWFN85JP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Application for FreeTierApplication in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Application",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2D659FG94S82TA5C" : {
+        "2D659FG94S82TA5C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2D659FG94S82TA5C",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "2D659FG94S82TA5C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2D659FG94S82TA5C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$15 per Application for PaidTierApplication in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Application",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

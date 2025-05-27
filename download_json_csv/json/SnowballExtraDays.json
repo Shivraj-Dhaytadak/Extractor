@@ -1,0 +1,258 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "SnowballExtraDays",
+  "version" : "20241227192335",
+  "publicationDate" : "2024-12-27T19:23:35Z",
+  "products" : {
+    "9F8UVEUHFG45BTGJ" : {
+      "sku" : "9F8UVEUHFG45BTGJ",
+      "productFamily" : "Extra Days",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Snowball-Extra-Days-Fee-Standard",
+        "feeDescription" : "Fee for extra days of Snowball Standard",
+        "usagetype" : "Snowball-Extra-Day-Charge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Standard"
+      }
+    },
+    "7ESVW4RJSDKQXKUY" : {
+      "sku" : "7ESVW4RJSDKQXKUY",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-SBE-SO-V35S-Extra-Day",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Edge_V3_5S"
+      }
+    },
+    "NB2RTJGV6FWCR2U5" : {
+      "sku" : "NB2RTJGV6FWCR2U5",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-Extra-Day",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Snowcone"
+      }
+    },
+    "NXZ7V57PTBBV4ZPC" : {
+      "sku" : "NXZ7V57PTBBV4ZPC",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-SSD-Extra-Day",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Snowcone SSD"
+      }
+    },
+    "HXHTG4NG7MSWZPDH" : {
+      "sku" : "HXHTG4NG7MSWZPDH",
+      "productFamily" : "Extra Days",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Snowball-Extra-Days-Fee-Edge",
+        "feeDescription" : "Fee for extra days of Snowball Edge",
+        "usagetype" : "IAD-Snowball-Edge-Extra-Day",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Edge"
+      }
+    },
+    "S2QJXXFNWGTK99DK" : {
+      "sku" : "S2QJXXFNWGTK99DK",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-SBE-EC2-Extra-Day",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "Edge with EC2"
+      }
+    },
+    "JBQPN9RX5TCJJFFT" : {
+      "sku" : "JBQPN9RX5TCJJFFT",
+      "attributes" : {
+        "servicecode" : "SnowballExtraDays",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-SBE-C-ED",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Snowball Extra Days",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "9F8UVEUHFG45BTGJ" : {
+        "9F8UVEUHFG45BTGJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9F8UVEUHFG45BTGJ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "9F8UVEUHFG45BTGJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9F8UVEUHFG45BTGJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JBQPN9RX5TCJJFFT" : {
+        "JBQPN9RX5TCJJFFT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JBQPN9RX5TCJJFFT",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "JBQPN9RX5TCJJFFT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JBQPN9RX5TCJJFFT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Compute Optimized Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "125.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NXZ7V57PTBBV4ZPC" : {
+        "NXZ7V57PTBBV4ZPC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NXZ7V57PTBBV4ZPC",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NXZ7V57PTBBV4ZPC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NXZ7V57PTBBV4ZPC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowcone SSD Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7ESVW4RJSDKQXKUY" : {
+        "7ESVW4RJSDKQXKUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7ESVW4RJSDKQXKUY",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "7ESVW4RJSDKQXKUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7ESVW4RJSDKQXKUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized 210TB Extra Day Fee - Us-east-1 - N.Vriginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "250.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S2QJXXFNWGTK99DK" : {
+        "S2QJXXFNWGTK99DK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S2QJXXFNWGTK99DK",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "S2QJXXFNWGTK99DK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S2QJXXFNWGTK99DK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized with EC2 Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "50.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HXHTG4NG7MSWZPDH" : {
+        "HXHTG4NG7MSWZPDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HXHTG4NG7MSWZPDH",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HXHTG4NG7MSWZPDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HXHTG4NG7MSWZPDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "day",
+              "pricePerUnit" : {
+                "USD" : "30.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NB2RTJGV6FWCR2U5" : {
+        "NB2RTJGV6FWCR2U5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NB2RTJGV6FWCR2U5",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NB2RTJGV6FWCR2U5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NB2RTJGV6FWCR2U5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowcone Extra Day Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "days",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,227 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSAmplify",
+  "version" : "20250326195919",
+  "publicationDate" : "2025-03-26T19:59:19Z",
+  "products" : {
+    "B7CQDJW5D3KE6B5R" : {
+      "sku" : "B7CQDJW5D3KE6B5R",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AmplifyWAF",
+        "operation" : "HOSTING_WAF",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Amplify"
+      }
+    },
+    "B23WRTJMK3Q2YX5G" : {
+      "sku" : "B23WRTJMK3Q2YX5G",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BuildDuration",
+        "operation" : "",
+        "instancetype" : "InstanceType",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Amplify"
+      }
+    },
+    "R782FWVAKEGNQS8S" : {
+      "sku" : "R782FWVAKEGNQS8S",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-HostingComputeRequestDuration",
+        "operation" : "HostingComputeRequestDuration",
+        "regionCode" : "us-east-1",
+        "requestCount" : "NoRequestCount",
+        "requestDuration" : "RequestDuration",
+        "servicename" : "AWS Amplify"
+      }
+    },
+    "QRT9FFDUCFJTWSS6" : {
+      "sku" : "QRT9FFDUCFJTWSS6",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storage" : "Storage",
+        "usagetype" : "USE1-DataStorage",
+        "operation" : "",
+        "datatransferout" : "NoDataTransferOut",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Amplify"
+      }
+    },
+    "99UJP53WAKZSEFEW" : {
+      "sku" : "99UJP53WAKZSEFEW",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-HostingComputeRequestCount",
+        "operation" : "HostingComputeRequestCount",
+        "regionCode" : "us-east-1",
+        "requestCount" : "RequestCount",
+        "requestDuration" : "NoRequestDuration",
+        "servicename" : "AWS Amplify"
+      }
+    },
+    "QPQD3RGPJYEKWHWU" : {
+      "sku" : "QPQD3RGPJYEKWHWU",
+      "productFamily" : "AWS Amplify",
+      "attributes" : {
+        "servicecode" : "AWSAmplify",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storage" : "NoStorage",
+        "usagetype" : "USE1-DataTransferOut",
+        "operation" : "",
+        "datatransferout" : "DataTransferOut",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Amplify"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "B23WRTJMK3Q2YX5G" : {
+        "B23WRTJMK3Q2YX5G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B23WRTJMK3Q2YX5G",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B23WRTJMK3Q2YX5G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B23WRTJMK3Q2YX5G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per build minute (4 vCPU, 7 GB Memory)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R782FWVAKEGNQS8S" : {
+        "R782FWVAKEGNQS8S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R782FWVAKEGNQS8S",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "R782FWVAKEGNQS8S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R782FWVAKEGNQS8S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.20 per GB-Hour for Amplify Hosting Compute",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000555556"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QPQD3RGPJYEKWHWU" : {
+        "QPQD3RGPJYEKWHWU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QPQD3RGPJYEKWHWU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QPQD3RGPJYEKWHWU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QPQD3RGPJYEKWHWU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per GB served (data transfer out)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QRT9FFDUCFJTWSS6" : {
+        "QRT9FFDUCFJTWSS6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QRT9FFDUCFJTWSS6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QRT9FFDUCFJTWSS6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QRT9FFDUCFJTWSS6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB build artifacts stored",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "99UJP53WAKZSEFEW" : {
+        "99UJP53WAKZSEFEW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "99UJP53WAKZSEFEW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "99UJP53WAKZSEFEW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "99UJP53WAKZSEFEW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.30 per 1 million requests for Amplify Hosting Compute",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B7CQDJW5D3KE6B5R" : {
+        "B7CQDJW5D3KE6B5R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B7CQDJW5D3KE6B5R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B7CQDJW5D3KE6B5R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B7CQDJW5D3KE6B5R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$15.00 per Months for USE1-AmplifyWAF in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Months",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

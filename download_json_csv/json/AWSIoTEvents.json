@@ -1,0 +1,117 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIoTEvents",
+  "version" : "20220606164940",
+  "publicationDate" : "2022-06-06T16:49:40Z",
+  "products" : {
+    "6FXSEKZ2Z89Y42CD" : {
+      "sku" : "6FXSEKZ2Z89Y42CD",
+      "productFamily" : "AWSIoTEvents",
+      "attributes" : {
+        "servicecode" : "AWSIoTEvents",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Alarms",
+        "operation" : "",
+        "awsiotevents" : "alarms",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Events"
+      }
+    },
+    "WGSXVNT8DB8XKS67" : {
+      "sku" : "WGSXVNT8DB8XKS67",
+      "productFamily" : "AWSIoTEvents",
+      "attributes" : {
+        "servicecode" : "AWSIoTEvents",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Messages",
+        "operation" : "",
+        "awsiotevents" : "messages",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Events"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "6FXSEKZ2Z89Y42CD" : {
+        "6FXSEKZ2Z89Y42CD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6FXSEKZ2Z89Y42CD",
+          "effectiveDate" : "2022-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "6FXSEKZ2Z89Y42CD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6FXSEKZ2Z89Y42CD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per active alarm per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Alarms",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WGSXVNT8DB8XKS67" : {
+        "WGSXVNT8DB8XKS67.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WGSXVNT8DB8XKS67",
+          "effectiveDate" : "2022-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "WGSXVNT8DB8XKS67.JRTCKXETXF.8DQQFJNTGA" : {
+              "rateCode" : "WGSXVNT8DB8XKS67.JRTCKXETXF.8DQQFJNTGA",
+              "description" : "$15.0 per million message evaluations in US East (N. Viginia)",
+              "beginRange" : "0",
+              "endRange" : "100000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WGSXVNT8DB8XKS67.JRTCKXETXF.MPNSFMC9GB" : {
+              "rateCode" : "WGSXVNT8DB8XKS67.JRTCKXETXF.MPNSFMC9GB",
+              "description" : "$10.0 per million message evaluations in US East (N. Viginia)",
+              "beginRange" : "100000000",
+              "endRange" : "500000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WGSXVNT8DB8XKS67.JRTCKXETXF.KHSMBGBSRQ" : {
+              "rateCode" : "WGSXVNT8DB8XKS67.JRTCKXETXF.KHSMBGBSRQ",
+              "description" : "$5.0 per million message evaluations in US East (N. Viginia)",
+              "beginRange" : "500000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WGSXVNT8DB8XKS67.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "WGSXVNT8DB8XKS67.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$3.0 per million message evaluations in US East (N. Viginia)",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

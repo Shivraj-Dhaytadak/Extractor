@@ -1,0 +1,122 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonSumerian",
+  "version" : "20230110161523",
+  "publicationDate" : "2023-01-10T16:15:23Z",
+  "products" : {
+    "TJKYQEE9W2TVUVHW" : {
+      "sku" : "TJKYQEE9W2TVUVHW",
+      "productFamily" : "AR & VR",
+      "attributes" : {
+        "servicecode" : "AmazonSumerian",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Binary-Size-In-Bytes",
+        "operation" : "BinaryStorage",
+        "eventType" : "Storage",
+        "offer" : "Basic Publishing",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Sumerian"
+      }
+    },
+    "4SBU54W47BNYN28H" : {
+      "sku" : "4SBU54W47BNYN28H",
+      "productFamily" : "AR & VR",
+      "attributes" : {
+        "servicecode" : "AmazonSumerian",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Binary-Data-Transfer-Bytes",
+        "operation" : "LoadBinaryInPublishedScene",
+        "eventType" : "Publishing",
+        "offer" : "Basic Publishing",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Sumerian"
+      }
+    },
+    "P3KC2KUQA6CA22HC" : {
+      "sku" : "P3KC2KUQA6CA22HC",
+      "productFamily" : "AR & VR",
+      "attributes" : {
+        "servicecode" : "AmazonSumerian",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Binary-Data-Transfer-Bytes",
+        "operation" : "LoadBinaryInDraftScene",
+        "eventType" : "Editing",
+        "offer" : "Basic Publishing",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Sumerian"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "TJKYQEE9W2TVUVHW" : {
+        "TJKYQEE9W2TVUVHW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TJKYQEE9W2TVUVHW",
+          "effectiveDate" : "2019-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TJKYQEE9W2TVUVHW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TJKYQEE9W2TVUVHW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per GB per month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-mo",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4SBU54W47BNYN28H" : {
+        "4SBU54W47BNYN28H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4SBU54W47BNYN28H",
+          "effectiveDate" : "2019-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4SBU54W47BNYN28H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4SBU54W47BNYN28H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.38 per GB per month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.3800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P3KC2KUQA6CA22HC" : {
+        "P3KC2KUQA6CA22HC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P3KC2KUQA6CA22HC",
+          "effectiveDate" : "2019-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "P3KC2KUQA6CA22HC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P3KC2KUQA6CA22HC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.38 per GB per month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.3800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

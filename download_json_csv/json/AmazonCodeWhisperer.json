@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonCodeWhisperer",
+  "version" : "20240708183536",
+  "publicationDate" : "2024-07-08T18:35:36Z",
+  "products" : {
+    "RF3SEJ8VUXYEA9BQ" : {
+      "sku" : "RF3SEJ8VUXYEA9BQ",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AmazonCodeWhisperer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CodeWhisperer-Professional",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon CodeWhisperer",
+        "tier" : "Professional"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "RF3SEJ8VUXYEA9BQ" : {
+        "RF3SEJ8VUXYEA9BQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RF3SEJ8VUXYEA9BQ",
+          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "RF3SEJ8VUXYEA9BQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RF3SEJ8VUXYEA9BQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Monthly charge for CodeWhisperer Professional tier",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UsersPerMonth",
+              "pricePerUnit" : {
+                "USD" : "19.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,236 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonLookoutEquipment",
+  "version" : "20211123220029",
+  "publicationDate" : "2021-11-23T22:00:29Z",
+  "products" : {
+    "6SN6AXR77AUT4DCD" : {
+      "sku" : "6SN6AXR77AUT4DCD",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Training",
+        "groupDescription" : "Hourly cost for training",
+        "usagetype" : "Global-Training-Hours-L4E",
+        "operation" : "Training",
+        "regionCode" : "",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    },
+    "3RYZFXB7MPQHYYK7" : {
+      "sku" : "3RYZFXB7MPQHYYK7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Ingestion",
+        "groupDescription" : "One time charge per GB",
+        "usagetype" : "Global-Ingestion-GB-L4E",
+        "operation" : "Ingestion",
+        "regionCode" : "",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    },
+    "TYCDPB9RRA2AEFD2" : {
+      "sku" : "TYCDPB9RRA2AEFD2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Inference",
+        "groupDescription" : "hourly cost for inferencing",
+        "usagetype" : "Global-Inference-Hours-L4E",
+        "operation" : "Scheduled-Inference",
+        "regionCode" : "",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    },
+    "EAUYA2KGFXTGQ6MV" : {
+      "sku" : "EAUYA2KGFXTGQ6MV",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Training",
+        "groupDescription" : "Hourly cost for training",
+        "usagetype" : "USE1-Training-Hours-L4E",
+        "operation" : "Training",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    },
+    "GWV99EQPQV3FERQU" : {
+      "sku" : "GWV99EQPQV3FERQU",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Inference",
+        "groupDescription" : "hourly cost for inferencing",
+        "usagetype" : "USE1-Inference-Hours-L4E",
+        "operation" : "Scheduled-Inference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    },
+    "REZ5YXTVKMZG7JC2" : {
+      "sku" : "REZ5YXTVKMZG7JC2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutEquipment",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Ingestion",
+        "groupDescription" : "One time charge per GB",
+        "usagetype" : "USE1-Ingestion-GB-L4E",
+        "operation" : "Ingestion",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Equipment"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "6SN6AXR77AUT4DCD" : {
+        "6SN6AXR77AUT4DCD.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "6SN6AXR77AUT4DCD",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6SN6AXR77AUT4DCD.A429C66SYZ.9DMZF6E7MY" : {
+              "rateCode" : "6SN6AXR77AUT4DCD.A429C66SYZ.9DMZF6E7MY",
+              "description" : "$0.00 per hour of training",
+              "beginRange" : "0",
+              "endRange" : "250",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "Q6HUVRPXC8VD5GZK", "EAUYA2KGFXTGQ6MV", "N9AJEZV88JQKD9VD" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "3RYZFXB7MPQHYYK7" : {
+        "3RYZFXB7MPQHYYK7.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "3RYZFXB7MPQHYYK7",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3RYZFXB7MPQHYYK7.A429C66SYZ.ZRBZXHZTV5" : {
+              "rateCode" : "3RYZFXB7MPQHYYK7.A429C66SYZ.ZRBZXHZTV5",
+              "description" : "$0.00 per GB ingested",
+              "beginRange" : "0",
+              "endRange" : "50",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "G4FGFWJ74ZBN4GAJ", "EWRS8RHY379EHB67", "REZ5YXTVKMZG7JC2" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "TYCDPB9RRA2AEFD2" : {
+        "TYCDPB9RRA2AEFD2.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "TYCDPB9RRA2AEFD2",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TYCDPB9RRA2AEFD2.A429C66SYZ.J5N8V28DJA" : {
+              "rateCode" : "TYCDPB9RRA2AEFD2.A429C66SYZ.J5N8V28DJA",
+              "description" : "$0.00 per hour of scheduled inference",
+              "beginRange" : "0",
+              "endRange" : "168",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "P87E3WATEFDFVP9C", "KYJ8WXSWQKRSB8X3", "GWV99EQPQV3FERQU" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "EAUYA2KGFXTGQ6MV" : {
+        "EAUYA2KGFXTGQ6MV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EAUYA2KGFXTGQ6MV",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EAUYA2KGFXTGQ6MV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EAUYA2KGFXTGQ6MV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.24 per hour of training",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWV99EQPQV3FERQU" : {
+        "GWV99EQPQV3FERQU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWV99EQPQV3FERQU",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWV99EQPQV3FERQU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWV99EQPQV3FERQU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per hour of scheduled inference",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "REZ5YXTVKMZG7JC2" : {
+        "REZ5YXTVKMZG7JC2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "REZ5YXTVKMZG7JC2",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "REZ5YXTVKMZG7JC2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "REZ5YXTVKMZG7JC2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per GB ingested",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

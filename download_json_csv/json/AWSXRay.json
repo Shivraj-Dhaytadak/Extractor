@@ -1,0 +1,234 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSXRay",
+  "version" : "20250313201328",
+  "publicationDate" : "2025-03-13T20:13:28Z",
+  "products" : {
+    "EU3HQZXVTXB5DTVA" : {
+      "sku" : "EU3HQZXVTXB5DTVA",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Traces Stored",
+        "groupDescription" : "Number of X-Ray traces stored in the AWS X-Ray service",
+        "usagetype" : "Global-XRay-TracesStored",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS X-Ray"
+      }
+    },
+    "Y6TW3M2TDT7SJYK8" : {
+      "sku" : "Y6TW3M2TDT7SJYK8",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Traces Stored",
+        "groupDescription" : "Number of X-Ray traces stored in the AWS X-Ray service",
+        "usagetype" : "USE1-XRay-TracesStored",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS X-Ray"
+      }
+    },
+    "HS3H5YK4VAVS25TN" : {
+      "sku" : "HS3H5YK4VAVS25TN",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Traces Stored Insights",
+        "groupDescription" : "Number of X-Ray insights traces stored in the AWS X-Ray service",
+        "usagetype" : "USE1-XRay-InsightsTracesStored",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS X-Ray"
+      }
+    },
+    "G7U2U9R3GDETG8JR" : {
+      "sku" : "G7U2U9R3GDETG8JR",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Traces Retrieved",
+        "groupDescription" : "Number of X-Ray traces accessed and retrieved from the AWS X-Ray service",
+        "usagetype" : "USE1-XRay-TracesAccessed",
+        "operation" : "XRay-Traces-Retrieved",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS X-Ray"
+      }
+    },
+    "EVFTT5KSKWPZ32VT" : {
+      "sku" : "EVFTT5KSKWPZ32VT",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Traces Accessed",
+        "groupDescription" : "Number of X-Ray traces accessed from the AWS X-Ray service",
+        "usagetype" : "Global-XRay-TracesAccessed",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS X-Ray"
+      }
+    },
+    "3TP6FV8W3FH2HE28" : {
+      "sku" : "3TP6FV8W3FH2HE28",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSXRay",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Traces Scanned",
+        "groupDescription" : "Number of X-Ray traces accessed and scanned from the AWS X-Ray service",
+        "usagetype" : "USE1-XRay-TracesAccessed",
+        "operation" : "XRay-Traces-Scanned",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS X-Ray"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "G7U2U9R3GDETG8JR" : {
+        "G7U2U9R3GDETG8JR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G7U2U9R3GDETG8JR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "G7U2U9R3GDETG8JR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G7U2U9R3GDETG8JR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS X-Ray - Total Traces Accessed - US East (North Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y6TW3M2TDT7SJYK8" : {
+        "Y6TW3M2TDT7SJYK8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y6TW3M2TDT7SJYK8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y6TW3M2TDT7SJYK8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y6TW3M2TDT7SJYK8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS X-Ray - Total Traces Stored - US East (North Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EVFTT5KSKWPZ32VT" : {
+        "EVFTT5KSKWPZ32VT.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "EVFTT5KSKWPZ32VT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EVFTT5KSKWPZ32VT.A429C66SYZ.SB2VSFF4TP" : {
+              "rateCode" : "EVFTT5KSKWPZ32VT.A429C66SYZ.SB2VSFF4TP",
+              "description" : "AWS X-Ray - Traces Accessed Free Tier - 1,000,000 traces",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "XS5XACTKBU2D9HU4", "WH6YP3V4PCAMNXFR", "5FDV6MRM4PK8H733", "PKTAB7KJKCG3A9Q7", "G7U2U9R3GDETG8JR", "S52KW2Y3ACCED2UG", "GJ362488UVPHDK6F", "AT5EUB4N8UDDSDSX", "EF88MSYDNMMVGDTG", "TPDZTHD5NGGD9KMB", "P538WA572DYCMYVQ", "CC8M7E3T2FDE45KH", "99GQBUPM9P9CRJSF", "GHH8WTNGRJH65NC3", "9T9XSFPPQEUAGKTY", "9YXBDR4YXMV5ATCG", "9ABHZSA4BDJ24DJR", "CPAG9SFK8TJEG98T", "G4VHM75ABWMPJK59", "KFZKHB3JHWE8FJ9P", "CGKV9985BE77PRT7", "TP34XWKF94WV23SP", "W9CZ83ZZAUKFRSSS", "WUDKPSD2MJJ87SFN", "B7PGW93G82R5PSDV", "3MJN5YP3HXF87GEK", "TXCA4UYAZSXRYY8W", "RXRSATDX82R9BH97", "9WJX4QHTR26UG9H8", "MF6CHRURFKBQE3Y2", "EQJEPJHWAPJVAR9C", "2QB23ZFR2E73Y2N7", "FPD8FM7SHEYWQ3EH", "K55NPSW7SZHMEPGQ", "SJ5HKY4JRNBZGQF2", "ZFAZ623DY48W8TMR", "W2X5XHWHGSM872KH", "SBEMPJ9H72CWQ5KS", "ZV47EEWZZQCBKJ67", "SN3AZBTSNTWG9686", "UP6M63VVGUZEHFMD", "8XASN3NBW89FKJ3T", "937YF239HUMZ5M5W", "6NT96VMDVE6PNT8F", "3TP6FV8W3FH2HE28", "S2F2A47UP8JW9PGC", "77G98NHR386J5JK7", "UBTD2DKNW9RMA97W", "8SN449SEGQDB996N", "WBGG35EDBPFW3PRP", "U8XQNJ79XCEFW4VV", "Y58DPJRJVSXXGF62", "SHH8DSXSH8K25QCS", "3Z8CRKPUVWS4ZNBF", "C4ZEZJCBE5MNH2DG", "T5NN4KWAHMGMB62W", "DVCBRC9SAH5Z6MKG", "NCTHJGWTQF6XD7KY", "ERZAG9NGEHYCBP96", "J5TJJSKSD8CJ7PTP", "QXMRZDRQ92WCCW23", "EMYHWATFY6EUE5WR", "ZZ24K2EBAYPQDCQR", "ZF5AQUZ2PJQESZQR", "6KCYJ5Q5FMG7G38N", "WCM4MSVQD8DHDV77", "23UKNCFV8E6T8KAF", "DCYT282N6STZ2HXC", "X8Y5AY5M978ES6NT", "F2A8B3ECWKWBC3XQ", "CHUKN2TMQGUX8PNR", "XEU4QNCHRDABBU64" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "HS3H5YK4VAVS25TN" : {
+        "HS3H5YK4VAVS25TN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HS3H5YK4VAVS25TN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HS3H5YK4VAVS25TN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HS3H5YK4VAVS25TN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS X-Ray - Total Insights Traces Processed - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EU3HQZXVTXB5DTVA" : {
+        "EU3HQZXVTXB5DTVA.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "EU3HQZXVTXB5DTVA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EU3HQZXVTXB5DTVA.A429C66SYZ.NADQ2ZJX8V" : {
+              "rateCode" : "EU3HQZXVTXB5DTVA.A429C66SYZ.NADQ2ZJX8V",
+              "description" : "AWS X-Ray - Traces Stored Free Tier - 100,000 traces",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "XUCT4WUXRNZDVNN4", "3TGANVVUJEHVAFJC", "FWABZVAS3DTEPUDD", "NFWH6FQGRSEPBGZX", "Q88937KCK76PZFBF", "TFZU6SC9NCV4GHCW", "T2449EDEFFW4N4JJ", "Y5QPCBKD3Z9TEVCN", "9RGW7SRMHYTFRUFG", "TJ37CT96CKGAJMT2", "4B894S482QV26579", "DM9UG5M2V5V2RXKQ", "P4VY523CP9TU69QK", "HZU3ZQDQ95HA66ZM", "A2DFYMNB5KZNWKX4", "Y6TW3M2TDT7SJYK8", "TSBUGZMGJNWTT82C", "3BBEDCUBJ6W24TRJ", "VU3Z38RFM6RZVXQA", "V44RXB347DHEV8GD", "BWG9MQWUY5RY6M64", "4DBGN5NRTF52VTTR", "DFM4QSW79RJ6DPRK", "S83552KA4VNCCACJ", "8EP33WD255TT28BT", "TNJFMXVEDGSKT3RT", "Z4AVTSRQNEJWXJ3D", "B5ZR8SCHMR6VTCEK", "9GV5555FH2WAUK3F", "BGWF383EKWC9XCBV", "K4TKAYKKM8H65XYU", "RC6BHWQ2UZBDT92F", "64ZJX9V33C5ED7N4", "H4DZUFYM43BGBM2Z", "7D6C9KMWG8DZU7CP", "574HU6NUHFYTDBBE" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "3TP6FV8W3FH2HE28" : {
+        "3TP6FV8W3FH2HE28.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3TP6FV8W3FH2HE28",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3TP6FV8W3FH2HE28.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3TP6FV8W3FH2HE28.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS X-Ray - Total Traces Accessed - US East (North Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "traces",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,2018 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonRedshift",
+  "version" : "20250512222906",
+  "publicationDate" : "2025-05-12T22:29:06Z",
+  "products" : {
+    "QFBQQ3GEGTGEYNWP" : {
+      "sku" : "QFBQQ3GEGTGEYNWP",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.4xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:ra3.4xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "HP6QE56YKTDKGWCM" : {
+      "sku" : "HP6QE56YKTDKGWCM",
+      "productFamily" : "Redshift Managed Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Storage charges with Redshift managed storage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.4xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "RMS:ra3.4xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "D6R8UWTMZU6R65ZF" : {
+      "sku" : "D6R8UWTMZU6R65ZF",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ds2.xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:ds2.xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Storage"
+      }
+    },
+    "2XP6TDB4ZYZUSN2D" : {
+      "sku" : "2XP6TDB4ZYZUSN2D",
+      "productFamily" : "Redshift Managed Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Storage charges with Redshift managed storage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.xlplus",
+        "currentGeneration" : "Yes",
+        "usagetype" : "RMS:ra3.xlplus",
+        "operation" : "",
+        "pricingUnit" : "GB-Mo",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "E5AB8HE46XNNWE2Z" : {
+      "sku" : "E5AB8HE46XNNWE2Z",
+      "productFamily" : "Serverless",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Redshift Serverless compute charges",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Redshift:ServerlessUsage",
+        "operation" : "RunServerlessCompute:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "M4DFHZCHKKBNGSBR" : {
+      "sku" : "M4DFHZCHKKBNGSBR",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.large",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:dc2.large",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    },
+    "HG8UH9XWXYJ697H2" : {
+      "sku" : "HG8UH9XWXYJ697H2",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.large",
+        "currentGeneration" : "Yes",
+        "vcpu" : "2",
+        "memory" : "15 GiB",
+        "storage" : "0.16TB SSD",
+        "io" : "0.60 GB/s",
+        "usagetype" : "Node:dc2.large",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "7",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    },
+    "5GZR5W5AKZUHNFAE" : {
+      "sku" : "5GZR5W5AKZUHNFAE",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.8xlarge",
+        "currentGeneration" : "Yes",
+        "vcpu" : "32",
+        "memory" : "244 GiB",
+        "storage" : "2.56TB SSD",
+        "io" : "7.50 GB/s",
+        "usagetype" : "Node:dc2.8xlarge",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "99",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    },
+    "4D22YRE9BB4PNBSA" : {
+      "sku" : "4D22YRE9BB4PNBSA",
+      "productFamily" : "Redshift Managed Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "Amazon S3",
+        "usagetype" : "USE1-RMS:Serverless",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "VCKA5ZPJGJYVAZ8B" : {
+      "sku" : "VCKA5ZPJGJYVAZ8B",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ds2.8xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:ds2.8xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Storage"
+      }
+    },
+    "BK6TQVFUSYNYZ4W2" : {
+      "sku" : "BK6TQVFUSYNYZ4W2",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.4xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:ra3.4xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "FZ5HWYT9J344VBNK" : {
+      "sku" : "FZ5HWYT9J344VBNK",
+      "productFamily" : "Redshift Inter Region Data Transfer",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Redshift Cross-Region Data Sharing Charges",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Redshift:InterRegionDataSharing",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "WMJBZZW5JG7U6TPH" : {
+      "sku" : "WMJBZZW5JG7U6TPH",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.xlplus",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:ra3.xlplus",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "GWSDGP4SRJQEZZWK" : {
+      "sku" : "GWSDGP4SRJQEZZWK",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ds2.8xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:ds2.8xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Storage"
+      }
+    },
+    "YVF6CSKM7D9MR6YP" : {
+      "sku" : "YVF6CSKM7D9MR6YP",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.xlplus",
+        "currentGeneration" : "Yes",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "storage" : "32TB RMS",
+        "io" : "0.65 GB/s",
+        "usagetype" : "Node:ra3.xlplus",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "12.375",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "9YKPBVE84A7R399C" : {
+      "sku" : "9YKPBVE84A7R399C",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.8xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:dc2.8xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    },
+    "VB9BENVE2UGTG6YK" : {
+      "sku" : "VB9BENVE2UGTG6YK",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.large",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:dc2.large",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    },
+    "5HB4Z8DAU9Q93SV7" : {
+      "sku" : "5HB4Z8DAU9Q93SV7",
+      "productFamily" : "Storage Snapshot",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "Amazon S3",
+        "usagetype" : "Redshift:PaidSnapshots",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "F9XR4BEYFV59FJ3A" : {
+      "sku" : "F9XR4BEYFV59FJ3A",
+      "productFamily" : "Redshift Managed Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Storage charges with Redshift managed storage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.large",
+        "currentGeneration" : "Yes",
+        "usagetype" : "RMS:ra3.large",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "PEBGRJVCPBYR69ZP" : {
+      "sku" : "PEBGRJVCPBYR69ZP",
+      "productFamily" : "Redshift Inter Region Data Transfer",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Redshift Cross-Region Snapshot Copy Charges",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Redshift:InterRegionSnapshotCopy",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "ZZT3JQUBPRGHTVF3" : {
+      "sku" : "ZZT3JQUBPRGHTVF3",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.16xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:ra3.16xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "WS5KM3KFMCARWVWD" : {
+      "sku" : "WS5KM3KFMCARWVWD",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ds2.xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:ds2.xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Storage"
+      }
+    },
+    "ZYZ6HF4BA4HB6RED" : {
+      "sku" : "ZYZ6HF4BA4HB6RED",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.4xlarge",
+        "currentGeneration" : "Yes",
+        "vcpu" : "12",
+        "memory" : "96 GiB",
+        "storage" : "64TB RMS",
+        "io" : "2.00 GB/s",
+        "usagetype" : "Node:ra3.4xlarge",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "37.125",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "BW5D658ADF2GVMMQ" : {
+      "sku" : "BW5D658ADF2GVMMQ",
+      "productFamily" : "Serverless",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Redshift:ServerlessUsage-CR-1YR-AU",
+        "operation" : "RunServerlessCompute:001",
+        "paymentOption" : "All Upfront",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "term" : "1 Year"
+      }
+    },
+    "YQV5REMUWQM38HB9" : {
+      "sku" : "YQV5REMUWQM38HB9",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.large",
+        "currentGeneration" : "Yes",
+        "vcpu" : "2",
+        "memory" : "16 GiB",
+        "storage" : "8TB RMS",
+        "io" : "0.325 GB/s",
+        "usagetype" : "Node:ra3.large",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "6.1875",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "NHY3WJ6CD9BQK373" : {
+      "sku" : "NHY3WJ6CD9BQK373",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.16xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:ra3.16xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "TEQS4F3DZW2FQ3W4" : {
+      "sku" : "TEQS4F3DZW2FQ3W4",
+      "productFamily" : "Serverless",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Redshift:ServerlessUsage-CR-1YR-NU",
+        "operation" : "RunServerlessCompute:001",
+        "paymentOption" : "No Upfront",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "term" : "1 Year"
+      }
+    },
+    "BRQXPJF4RZXD4TK5" : {
+      "sku" : "BRQXPJF4RZXD4TK5",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.xlplus",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CSFreeUsage:ra3.xlplus",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "V3SQDWYU5P43BXJU" : {
+      "sku" : "V3SQDWYU5P43BXJU",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.16xlarge",
+        "currentGeneration" : "Yes",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "storage" : "64TB RMS",
+        "io" : "8.00 GB/s",
+        "usagetype" : "Node:ra3.16xlarge",
+        "operation" : "RunComputeNode:0001",
+        "ecu" : "148.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "WUPFACH4FBSJPBRP" : {
+      "sku" : "WUPFACH4FBSJPBRP",
+      "productFamily" : "Redshift Data Scan",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Data scanned per query for each successful or cancelled query",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataScanned",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift"
+      }
+    },
+    "X7VUXVP7NERMPM9U" : {
+      "sku" : "X7VUXVP7NERMPM9U",
+      "productFamily" : "Redshift Managed Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "description" : "Storage charges with Redshift managed storage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ra3.16xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "RMS:ra3.16xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "RA3"
+      }
+    },
+    "RG8F639ZXXB5WJ4P" : {
+      "sku" : "RG8F639ZXXB5WJ4P",
+      "productFamily" : "Redshift Concurrency Scaling",
+      "attributes" : {
+        "servicecode" : "AmazonRedshift",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "dc2.8xlarge",
+        "currentGeneration" : "Yes",
+        "usagetype" : "CS:dc2.8xlarge",
+        "operation" : "",
+        "concurrencyscalingfreeusage" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Redshift",
+        "usageFamily" : "Dense Compute"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BRQXPJF4RZXD4TK5" : {
+        "BRQXPJF4RZXD4TK5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BRQXPJF4RZXD4TK5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BRQXPJF4RZXD4TK5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BRQXPJF4RZXD4TK5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Redshift Concurrency Scaling RA3.XLPLUS Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D6R8UWTMZU6R65ZF" : {
+        "D6R8UWTMZU6R65ZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D6R8UWTMZU6R65ZF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D6R8UWTMZU6R65ZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D6R8UWTMZU6R65ZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Redshift Concurrency Scaling  DS2.XL Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZYZ6HF4BA4HB6RED" : {
+        "ZYZ6HF4BA4HB6RED.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.26 per Redshift RA3.4XL Compute Node-hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QFBQQ3GEGTGEYNWP" : {
+        "QFBQQ3GEGTGEYNWP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QFBQQ3GEGTGEYNWP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QFBQQ3GEGTGEYNWP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QFBQQ3GEGTGEYNWP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Redshift Concurrency Scaling RA3.4XL Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HG8UH9XWXYJ697H2" : {
+        "HG8UH9XWXYJ697H2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HG8UH9XWXYJ697H2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HG8UH9XWXYJ697H2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HG8UH9XWXYJ697H2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.250 per Redshift Dense Compute Large (DC2.L) Compute Node-hour (or partial hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FZ5HWYT9J344VBNK" : {
+        "FZ5HWYT9J344VBNK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FZ5HWYT9J344VBNK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FZ5HWYT9J344VBNK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FZ5HWYT9J344VBNK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Redshift Cross Region Data Sharing transfer charges",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NHY3WJ6CD9BQK373" : {
+        "NHY3WJ6CD9BQK373.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NHY3WJ6CD9BQK373",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NHY3WJ6CD9BQK373.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NHY3WJ6CD9BQK373.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00362 per Redshift Concurrency Scaling RA3.16XL Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0036200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4D22YRE9BB4PNBSA" : {
+        "4D22YRE9BB4PNBSA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4D22YRE9BB4PNBSA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4D22YRE9BB4PNBSA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4D22YRE9BB4PNBSA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage charges with Redshift managed storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9YKPBVE84A7R399C" : {
+        "9YKPBVE84A7R399C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9YKPBVE84A7R399C",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9YKPBVE84A7R399C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9YKPBVE84A7R399C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Redshift Concurrency Scaling  DC2.8XL Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZZT3JQUBPRGHTVF3" : {
+        "ZZT3JQUBPRGHTVF3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZZT3JQUBPRGHTVF3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZZT3JQUBPRGHTVF3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZZT3JQUBPRGHTVF3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Redshift Concurrency Scaling RA3.16XL Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YVF6CSKM7D9MR6YP" : {
+        "YVF6CSKM7D9MR6YP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.086 per Redshift RA3.XLPLUS Compute Node-hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0860000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F9XR4BEYFV59FJ3A" : {
+        "F9XR4BEYFV59FJ3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F9XR4BEYFV59FJ3A",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "F9XR4BEYFV59FJ3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F9XR4BEYFV59FJ3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage charges with Redshift managed storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5HB4Z8DAU9Q93SV7" : {
+        "5HB4Z8DAU9Q93SV7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5HB4Z8DAU9Q93SV7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5HB4Z8DAU9Q93SV7.JRTCKXETXF.D42MF2PVJS" : {
+              "rateCode" : "5HB4Z8DAU9Q93SV7.JRTCKXETXF.D42MF2PVJS",
+              "description" : "$0.022 per GB-month of snapshot storage exceeding free allocation - next 450 TB/month of storage used",
+              "beginRange" : "51200",
+              "endRange" : "512000",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0220000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5HB4Z8DAU9Q93SV7.JRTCKXETXF.PXJDJ3YRG3" : {
+              "rateCode" : "5HB4Z8DAU9Q93SV7.JRTCKXETXF.PXJDJ3YRG3",
+              "description" : "$0.021 per GB-month of snapshot storage exceeding free allocation - storage used over 500 TB/month",
+              "beginRange" : "512000",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0210000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5HB4Z8DAU9Q93SV7.JRTCKXETXF.PGHJ3S3EYE" : {
+              "rateCode" : "5HB4Z8DAU9Q93SV7.JRTCKXETXF.PGHJ3S3EYE",
+              "description" : "$0.023 per GB-month of snapshot storage exceeding free allocation - first 50 TB/month of storage used",
+              "beginRange" : "0",
+              "endRange" : "51200",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TEQS4F3DZW2FQ3W4" : {
+        "TEQS4F3DZW2FQ3W4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TEQS4F3DZW2FQ3W4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TEQS4F3DZW2FQ3W4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TEQS4F3DZW2FQ3W4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.293 per RPU for Redshift serverless capacity reservations usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "0.2930000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3SQDWYU5P43BXJU" : {
+        "V3SQDWYU5P43BXJU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$13.04 per Redshift RA3.16XL Compute Node-hour (or partial hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "13.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WUPFACH4FBSJPBRP" : {
+        "WUPFACH4FBSJPBRP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WUPFACH4FBSJPBRP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WUPFACH4FBSJPBRP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WUPFACH4FBSJPBRP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5 per TB of data scanned",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Terabytes",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WS5KM3KFMCARWVWD" : {
+        "WS5KM3KFMCARWVWD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WS5KM3KFMCARWVWD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WS5KM3KFMCARWVWD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WS5KM3KFMCARWVWD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00024 per Redshift Concurrency Scaling DS2.XL Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0002400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YQV5REMUWQM38HB9" : {
+        "YQV5REMUWQM38HB9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.543 per Redshift RA3.LARGE Compute Node-hour (or partial hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5430000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2XP6TDB4ZYZUSN2D" : {
+        "2XP6TDB4ZYZUSN2D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2XP6TDB4ZYZUSN2D",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "2XP6TDB4ZYZUSN2D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2XP6TDB4ZYZUSN2D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage charges with Redshift managed storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RG8F639ZXXB5WJ4P" : {
+        "RG8F639ZXXB5WJ4P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RG8F639ZXXB5WJ4P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RG8F639ZXXB5WJ4P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RG8F639ZXXB5WJ4P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00133 per Redshift Concurrency Scaling DC2.8XL Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0013300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WMJBZZW5JG7U6TPH" : {
+        "WMJBZZW5JG7U6TPH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WMJBZZW5JG7U6TPH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WMJBZZW5JG7U6TPH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WMJBZZW5JG7U6TPH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0003 per Redshift Concurrency Scaling RA3.XLPLUS Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0003000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWSDGP4SRJQEZZWK" : {
+        "GWSDGP4SRJQEZZWK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWSDGP4SRJQEZZWK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWSDGP4SRJQEZZWK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWSDGP4SRJQEZZWK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Redshift Concurrency Scaling  DS2.8XL Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E5AB8HE46XNNWE2Z" : {
+        "E5AB8HE46XNNWE2Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E5AB8HE46XNNWE2Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E5AB8HE46XNNWE2Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E5AB8HE46XNNWE2Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.375 per RPU-Hr for Redshift serverless usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "0.3750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5GZR5W5AKZUHNFAE" : {
+        "5GZR5W5AKZUHNFAE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5GZR5W5AKZUHNFAE",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5GZR5W5AKZUHNFAE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5GZR5W5AKZUHNFAE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.800 per Redshift Dense Compute Eight Extra Large (DC2.8XL) Compute Node-hour (or partial hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.8000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X7VUXVP7NERMPM9U" : {
+        "X7VUXVP7NERMPM9U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X7VUXVP7NERMPM9U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "X7VUXVP7NERMPM9U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X7VUXVP7NERMPM9U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.024 per GB-Mo for RMS:ra3.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BK6TQVFUSYNYZ4W2" : {
+        "BK6TQVFUSYNYZ4W2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BK6TQVFUSYNYZ4W2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BK6TQVFUSYNYZ4W2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BK6TQVFUSYNYZ4W2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0009 per Redshift Concurrency Scaling RA3.4XL Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0009000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M4DFHZCHKKBNGSBR" : {
+        "M4DFHZCHKKBNGSBR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M4DFHZCHKKBNGSBR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "M4DFHZCHKKBNGSBR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M4DFHZCHKKBNGSBR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Redshift Concurrency Scaling  DC2.L Node-second - Free Usage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BW5D658ADF2GVMMQ" : {
+        "BW5D658ADF2GVMMQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BW5D658ADF2GVMMQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BW5D658ADF2GVMMQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BW5D658ADF2GVMMQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2,430 per RPU for Redshift serverless capacity reservations all-upfront usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "2430.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VB9BENVE2UGTG6YK" : {
+        "VB9BENVE2UGTG6YK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VB9BENVE2UGTG6YK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VB9BENVE2UGTG6YK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VB9BENVE2UGTG6YK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00007 per Redshift Concurrency Scaling DC2.L Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VCKA5ZPJGJYVAZ8B" : {
+        "VCKA5ZPJGJYVAZ8B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VCKA5ZPJGJYVAZ8B",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VCKA5ZPJGJYVAZ8B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VCKA5ZPJGJYVAZ8B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00189 per Redshift Concurrency Scaling DS2.8XL Node-second",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0018900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HP6QE56YKTDKGWCM" : {
+        "HP6QE56YKTDKGWCM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HP6QE56YKTDKGWCM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HP6QE56YKTDKGWCM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HP6QE56YKTDKGWCM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage charges with Redshift managed storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PEBGRJVCPBYR69ZP" : {
+        "PEBGRJVCPBYR69ZP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PEBGRJVCPBYR69ZP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PEBGRJVCPBYR69ZP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PEBGRJVCPBYR69ZP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Redshift Cross Region Data Sharing transfer charges",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    },
+    "Reserved" : {
+      "ZYZ6HF4BA4HB6RED" : {
+        "ZYZ6HF4BA4HB6RED.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0920660000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZYZ6HF4BA4HB6RED.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "9566.5"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZYZ6HF4BA4HB6RED.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.38NPMPTW36.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6438360000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZYZ6HF4BA4HB6RED.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "16920"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZYZ6HF4BA4HB6RED.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZYZ6HF4BA4HB6RED.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "18848"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZYZ6HF4BA4HB6RED.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZYZ6HF4BA4HB6RED.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "32127"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZYZ6HF4BA4HB6RED.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.2820000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZYZ6HF4BA4HB6RED.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "ZYZ6HF4BA4HB6RED",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "ZYZ6HF4BA4HB6RED.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "ZYZ6HF4BA4HB6RED.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "Redshift, ra3.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.4181000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "YVF6CSKM7D9MR6YP" : {
+        "YVF6CSKM7D9MR6YP.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4725000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YVF6CSKM7D9MR6YP.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YVF6CSKM7D9MR6YP.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "10703"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YVF6CSKM7D9MR6YP.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3638130000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YVF6CSKM7D9MR6YP.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3187"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YVF6CSKM7D9MR6YP.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.38NPMPTW36.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2144980000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YVF6CSKM7D9MR6YP.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "5637"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YVF6CSKM7D9MR6YP.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7602000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YVF6CSKM7D9MR6YP.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "YVF6CSKM7D9MR6YP",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YVF6CSKM7D9MR6YP.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "Redshift, ra3.xlplus reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YVF6CSKM7D9MR6YP.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "YVF6CSKM7D9MR6YP.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "6279"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "V3SQDWYU5P43BXJU" : {
+        "V3SQDWYU5P43BXJU.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V3SQDWYU5P43BXJU.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "75392"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "V3SQDWYU5P43BXJU.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.3683790000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V3SQDWYU5P43BXJU.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "38267"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "V3SQDWYU5P43BXJU.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V3SQDWYU5P43BXJU.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "128509"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "V3SQDWYU5P43BXJU.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "9.1280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "V3SQDWYU5P43BXJU.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.38NPMPTW36.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5754000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V3SQDWYU5P43BXJU.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "67681.5"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "V3SQDWYU5P43BXJU.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "V3SQDWYU5P43BXJU",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "V3SQDWYU5P43BXJU.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "V3SQDWYU5P43BXJU.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "Redshift, ra3.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.6724000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "YQV5REMUWQM38HB9" : {
+        "YQV5REMUWQM38HB9.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1820000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YQV5REMUWQM38HB9.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "YQV5REMUWQM38HB9.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1594"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YQV5REMUWQM38HB9.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3801000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YQV5REMUWQM38HB9.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2362500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YQV5REMUWQM38HB9.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YQV5REMUWQM38HB9.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "YQV5REMUWQM38HB9.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "5348"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YQV5REMUWQM38HB9.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YQV5REMUWQM38HB9.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "YQV5REMUWQM38HB9.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3141"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "YQV5REMUWQM38HB9.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "YQV5REMUWQM38HB9",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "YQV5REMUWQM38HB9.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "YQV5REMUWQM38HB9.38NPMPTW36.6YS6EN2CT7",
+              "description" : "Redshift, ra3.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1072500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YQV5REMUWQM38HB9.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "YQV5REMUWQM38HB9.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "2819"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "E5AB8HE46XNNWE2Z" : {
+        "E5AB8HE46XNNWE2Z.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "E5AB8HE46XNNWE2Z",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "E5AB8HE46XNNWE2Z.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "E5AB8HE46XNNWE2Z.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "Redshift Serverless, redshift.serverless reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "E5AB8HE46XNNWE2Z.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "E5AB8HE46XNNWE2Z.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "2497"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "E5AB8HE46XNNWE2Z.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "E5AB8HE46XNNWE2Z",
+          "effectiveDate" : "2025-05-12T22:29:09Z",
+          "priceDimensions" : {
+            "E5AB8HE46XNNWE2Z.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "E5AB8HE46XNNWE2Z.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "Redshift Serverless, redshift.serverless reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

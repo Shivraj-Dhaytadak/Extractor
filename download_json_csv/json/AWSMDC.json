@@ -1,0 +1,125 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSMDC",
+  "version" : "20241216220824",
+  "publicationDate" : "2024-12-16T22:08:24Z",
+  "products" : {
+    "KCF7BAQEF98EGDAB" : {
+      "sku" : "KCF7BAQEF98EGDAB",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSMDC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ExpRack",
+        "operation" : "",
+        "configuration" : "1",
+        "contractLength" : "1",
+        "designVersion" : "1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Modular Data Center"
+      }
+    },
+    "86SDBAMK6CRYUZVP" : {
+      "sku" : "86SDBAMK6CRYUZVP",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSMDC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MDCRack-T1-Cont-Monthly",
+        "operation" : "",
+        "configuration" : "T1ContUse",
+        "contractLength" : "1-12months",
+        "designVersion" : "1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Modular Data Center"
+      }
+    },
+    "37NKAD54M4S3NNE7" : {
+      "sku" : "37NKAD54M4S3NNE7",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSMDC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MDCRack-T1-Cont",
+        "operation" : "",
+        "configuration" : "T1ContUse",
+        "contractLength" : "1 Year",
+        "designVersion" : "1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Modular Data Center"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "86SDBAMK6CRYUZVP" : {
+        "86SDBAMK6CRYUZVP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "86SDBAMK6CRYUZVP",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "86SDBAMK6CRYUZVP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "86SDBAMK6CRYUZVP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8139.66 dollars for MDCRack T1 Cont Use Monthly in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "dollars",
+              "pricePerUnit" : {
+                "USD" : "8139.6600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "37NKAD54M4S3NNE7" : {
+        "37NKAD54M4S3NNE7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "37NKAD54M4S3NNE7",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "37NKAD54M4S3NNE7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "37NKAD54M4S3NNE7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$97676 dollars for MDCRack T1 Cont Use in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "dollars",
+              "pricePerUnit" : {
+                "USD" : "97676.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KCF7BAQEF98EGDAB" : {
+        "KCF7BAQEF98EGDAB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KCF7BAQEF98EGDAB",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KCF7BAQEF98EGDAB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KCF7BAQEF98EGDAB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD154458.0 per dollars for ExpRack in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "dollars",
+              "pricePerUnit" : {
+                "USD" : "154458.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,259 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "awskms",
+  "version" : "20250311210359",
+  "publicationDate" : "2025-03-11T21:03:59Z",
+  "products" : {
+    "U553K98XGDXCYHWS" : {
+      "sku" : "U553K98XGDXCYHWS",
+      "productFamily" : "Encryption Key",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "us-east-1-KMS-Keys",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "NNYDKMC6UDJC5BNA" : {
+      "sku" : "NNYDKMC6UDJC5BNA",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-GenerateDatakeyPair-ECC",
+        "groupDescription" : "AWS KMS API Requests GenerateDatakeyPair ECC",
+        "usagetype" : "us-east-1-KMS-Requests-GenerateDatakeyPair-ECC",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "K6RTGXAZD26D3JJQ" : {
+      "sku" : "K6RTGXAZD26D3JJQ",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-GenerateDatakeyPair-RSA",
+        "groupDescription" : "AWS KMS API Requests GenerateDatakeyPair RSA",
+        "usagetype" : "us-east-1-KMS-Requests-GenerateDatakeyPair-RSA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "D2442XTM4G9ABTHW" : {
+      "sku" : "D2442XTM4G9ABTHW",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "aws-kms-Requests-Asymmetric-RSA_2048",
+        "groupDescription" : "AWS KMS Asymmetric Requests RSA_2048",
+        "usagetype" : "us-east-1-KMS-Requests-Asymmetric-RSA_2048",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "MS4387UGYYR785BJ" : {
+      "sku" : "MS4387UGYYR785BJ",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-Asymmetric",
+        "groupDescription" : "AWS KMS Asymmetric Requests except RSA_2048API",
+        "usagetype" : "us-east-1-KMS-Requests-Asymmetric",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "VTFSAGP364M6QE4A" : {
+      "sku" : "VTFSAGP364M6QE4A",
+      "productFamily" : "Bundle",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "group" : "awskms-Requests",
+        "groupDescription" : "Monthly free usage of KMS API Requests",
+        "usagetype" : "Global-KMS-Requests",
+        "operation" : "",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "MFEBZPX8NHM5FY7Z" : {
+      "sku" : "MFEBZPX8NHM5FY7Z",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-APIRequest-All",
+        "groupDescription" : "All AWS KMS API requests",
+        "usagetype" : "us-east-1-KMS-Requests",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NNYDKMC6UDJC5BNA" : {
+        "NNYDKMC6UDJC5BNA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NNYDKMC6UDJC5BNA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NNYDKMC6UDJC5BNA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NNYDKMC6UDJC5BNA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per 10000 ECC Generate Data Key Pair Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VTFSAGP364M6QE4A" : {
+        "VTFSAGP364M6QE4A.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "VTFSAGP364M6QE4A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VTFSAGP364M6QE4A.A429C66SYZ.7K6Z2V4Y4Q" : {
+              "rateCode" : "VTFSAGP364M6QE4A.A429C66SYZ.7K6Z2V4Y4Q",
+              "description" : "$0.00 per request - Monthly Global Free Tier for KMS requests",
+              "beginRange" : "0",
+              "endRange" : "20000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "A3247YR2SJRYKDEX", "MFEBZPX8NHM5FY7Z", "GAG46BCKTJNCPRCD", "H4VQ25AJP5STBY2V", "MG69RRR3V9FG2YMF", "WCDV7H2SEWSQDPHE", "2S77H5MZU5BVWEXS", "GKJ2WA9PUPY889NV", "8XH9DBV4329CDSSS", "74AFRTWKY4BVPBF7", "EZCZH4NG992U5FTR", "22NGFM2U7FQGBC49", "XV5CERB5VJ728MSB", "KHS2JMB7WKYW8C7Z", "Y2YQ2HC2B26TT67Y", "GNYCWMXMCTZC5JHT", "5Y7QS22JD2KZBNBG", "UBKP744W7HW7MT76", "9XXHSZC4PS7S6AY2", "GKZE5RA8VKSV68NC", "49JKURJSSQHXXAKH", "H9GF6XQC7UBUWPRJ", "4H6XVYZMMD8MKVZD", "3QRVDNCQFVZRB88M", "7AVHXGCZK6D9ARBK", "HZSWET2JVDK3QKYM", "N8ZHDTY86X2AN7DE", "MPVASE9XEU8AVWM6", "23PVFMNC6R4J3AB6", "QCRBRVP4WHFE4RN9", "SE9KXT6M6JTP7E4W", "2V8H8RKD5G49TF84", "ERNZKT7S85V564AK", "EVSMZX4D7HGSBAQF", "ZXP6ZS4WWG9FNXHG", "SN4PUPSHPREACEHV" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "K6RTGXAZD26D3JJQ" : {
+        "K6RTGXAZD26D3JJQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K6RTGXAZD26D3JJQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K6RTGXAZD26D3JJQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K6RTGXAZD26D3JJQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$12 per 10000 RSA Generate Data Key Pair Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0012000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D2442XTM4G9ABTHW" : {
+        "D2442XTM4G9ABTHW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D2442XTM4G9ABTHW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "D2442XTM4G9ABTHW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D2442XTM4G9ABTHW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 10000 KMS RSA 2048 requests in US East (N. Virgina)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U553K98XGDXCYHWS" : {
+        "U553K98XGDXCYHWS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U553K98XGDXCYHWS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "U553K98XGDXCYHWS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U553K98XGDXCYHWS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per customer managed KMS key version in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Keys",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MS4387UGYYR785BJ" : {
+        "MS4387UGYYR785BJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MS4387UGYYR785BJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MS4387UGYYR785BJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MS4387UGYYR785BJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per 10000 KMS Asymmetric Requests excluding RSA 2048 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MFEBZPX8NHM5FY7Z" : {
+        "MFEBZPX8NHM5FY7Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MFEBZPX8NHM5FY7Z",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MFEBZPX8NHM5FY7Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MFEBZPX8NHM5FY7Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 10000 KMS requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

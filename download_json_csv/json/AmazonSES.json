@@ -1,0 +1,1007 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonSES",
+  "version" : "20250417214848",
+  "publicationDate" : "2025-04-17T21:48:48Z",
+  "products" : {
+    "6UT7ZR288K2UTCHH" : {
+      "sku" : "6UT7ZR288K2UTCHH",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "Recipients-VirtDelivMgr",
+        "operation" : "Send",
+        "contentType" : "Message Body",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "5TGTAAJFB5N6WGZ2" : {
+      "sku" : "5TGTAAJFB5N6WGZ2",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AddOnExecution-SPAMHAUS_DBL",
+        "operation" : "Processing",
+        "contentType" : "Message Body SpamHaus",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "TGDBT84U342JGTRA" : {
+      "sku" : "TGDBT84U342JGTRA",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ArchiveIngestedSize-Byte",
+        "operation" : "ArchiveIngestion",
+        "contentType" : "Archive Ingestion",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "P3QQE7WDZQXMW6GN" : {
+      "sku" : "P3QQE7WDZQXMW6GN",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "USE1-Recipients-MultiRegnEP",
+        "operation" : "Send",
+        "contentType" : "Global Endpoint Message",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "EB5W44UX7JPDV73S" : {
+      "sku" : "EB5W44UX7JPDV73S",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AddOnExecution-TRENDMICRO_VSAPI",
+        "operation" : "Processing",
+        "contentType" : "Full Message Trend Micro",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "6M5WNQ7SQJYZPC9M" : {
+      "sku" : "6M5WNQ7SQJYZPC9M",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for each email sent to an external recipient",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Other",
+        "usagetype" : "Recipients",
+        "operation" : "Send",
+        "contentType" : "Message Body",
+        "recipient" : "Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "EJFZYT3J9R728AH6" : {
+      "sku" : "EJFZYT3J9R728AH6",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-IngressPoint-Subscription",
+        "operation" : "IngressPoint",
+        "contentType" : "Ingress Endpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "MAGJ6YJPFRA57W8B" : {
+      "sku" : "MAGJ6YJPFRA57W8B",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for each email sent from AmazonEC2 to SES Mailbox Simulator",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Amazon EC2",
+        "usagetype" : "Recipients-MailboxSim-EC2",
+        "operation" : "Send",
+        "contentType" : "Message Body",
+        "recipient" : "Amazon SES Mailbox Simulator",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "YAV8BD26RD4RWDAW" : {
+      "sku" : "YAV8BD26RD4RWDAW",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AddOnExecution-VADE_ADVANCED_EMAIL_SECURITY",
+        "operation" : "Processing",
+        "contentType" : "Message Body Vade",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "5QV8DXV2R9AY5CSJ" : {
+      "sku" : "5QV8DXV2R9AY5CSJ",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "DIP-Managed-Acc-Sub-Hours",
+        "operation" : "Subscription",
+        "contentType" : "Dedicated IPs (managed)",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "M97RRB7872PQBDUC" : {
+      "sku" : "M97RRB7872PQBDUC",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Recipients-MailManager",
+        "operation" : "Send",
+        "contentType" : "Full Message Send",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "NXT893XHS83DV8BF" : {
+      "sku" : "NXT893XHS83DV8BF",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "VirtDelivMgr",
+        "operation" : "Query",
+        "apiCategory" : "Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "UHEHNNAQCR8YR9EP" : {
+      "sku" : "UHEHNNAQCR8YR9EP",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "DIP-Hours",
+        "operation" : "Lease",
+        "contentType" : "Dedicated IPs (USE1)",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "24XQKQBWBYENKRGB" : {
+      "sku" : "24XQKQBWBYENKRGB",
+      "productFamily" : "Bundle",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "group" : "SES-MonthlyFree-OutgoingEmail-Simulator",
+        "groupDescription" : "Monthly free outgoing emails from AmazonEC2 to Amazon SES Mailbox Simulator",
+        "usagetype" : "Global-Recipients-MailboxSim-EC2",
+        "operation" : "Send",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "VJ54VJ64JJHZ4XX6" : {
+      "sku" : "VJ54VJ64JJHZ4XX6",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for each email sent to SES Mailbox Simulator",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Other",
+        "usagetype" : "Recipients-MailboxSim",
+        "operation" : "Send",
+        "contentType" : "Message Body",
+        "recipient" : "Amazon SES Mailbox Simulator",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "CFYFHZG8VWWG6RJP" : {
+      "sku" : "CFYFHZG8VWWG6RJP",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for each email sent from AmazonEC2 to an external recipient",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Amazon EC2",
+        "usagetype" : "Recipients-EC2",
+        "operation" : "Send",
+        "contentType" : "Message Body",
+        "recipient" : "Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "6VSHKQQ95CZKP5E4" : {
+      "sku" : "6VSHKQQ95CZKP5E4",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Message",
+        "operation" : "Processing",
+        "contentType" : "Message Body Processing",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "TFPG3JKV9WZMNFD9" : {
+      "sku" : "TFPG3JKV9WZMNFD9",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ReceivedChunk",
+        "operation" : "Processing",
+        "contentType" : "Full Message Chunk",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "8ZMRUUD2CUDARVQB" : {
+      "sku" : "8ZMRUUD2CUDARVQB",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Other",
+        "usagetype" : "Recipients-DIP-Managed",
+        "operation" : "Send",
+        "contentType" : "Dedicated IPs (managed)",
+        "recipient" : "Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "Z5XFNYGW5AD98PUN" : {
+      "sku" : "Z5XFNYGW5AD98PUN",
+      "productFamily" : "Receiving Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for each received e-mail communication",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Other",
+        "usagetype" : "Message",
+        "operation" : "Receive",
+        "recipient" : "Amazon SES",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "A4WBKCXWCSH7B85P" : {
+      "sku" : "A4WBKCXWCSH7B85P",
+      "productFamily" : "Receiving Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for chunks of 256 KB, applicable to incoming mail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Other",
+        "usagetype" : "ReceivedChunk",
+        "operation" : "Receive",
+        "contentType" : "Full Message",
+        "recipient" : "Amazon SES",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "XQXFNCPPEKTABJAF" : {
+      "sku" : "XQXFNCPPEKTABJAF",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AddOnExecution-ABUSIX_MAIL_INTELLIGENCE",
+        "operation" : "Processing",
+        "contentType" : "Message Body Abusix",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "B9TW7FXDGDFA7U9P" : {
+      "sku" : "B9TW7FXDGDFA7U9P",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-VirtDelivMgr",
+        "operation" : "Query",
+        "apiCategory" : "Query",
+        "regionCode" : "",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "DWHMJ4MCRQ9VB6RK" : {
+      "sku" : "DWHMJ4MCRQ9VB6RK",
+      "productFamily" : "Sending Attachments",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "description" : "Charged for attachments sent",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "AttachmentsSize-Bytes",
+        "operation" : "Send",
+        "contentType" : "Mail Attachment",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "GWPY8BHJGXRYYEFC" : {
+      "sku" : "GWPY8BHJGXRYYEFC",
+      "productFamily" : "Sending Email",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "origin" : "Any",
+        "usagetype" : "USE1-DIP-Hours",
+        "operation" : "Lease",
+        "contentType" : "Dedicated IPs",
+        "recipient" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    },
+    "HYCYGTXDACGUG3XS" : {
+      "sku" : "HYCYGTXDACGUG3XS",
+      "productFamily" : "Email Management",
+      "attributes" : {
+        "servicecode" : "AmazonSES",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ArchiveStorageSize-ByteHrs",
+        "operation" : "ArchiveStorage",
+        "contentType" : "Archive Storage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Email Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "M97RRB7872PQBDUC" : {
+        "M97RRB7872PQBDUC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M97RRB7872PQBDUC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "M97RRB7872PQBDUC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M97RRB7872PQBDUC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00015 per Count for emails with single recipient sent by Mail Manager in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A4WBKCXWCSH7B85P" : {
+        "A4WBKCXWCSH7B85P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A4WBKCXWCSH7B85P",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "A4WBKCXWCSH7B85P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A4WBKCXWCSH7B85P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per mail chunk received in USE1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReceivedChunk",
+              "pricePerUnit" : {
+                "USD" : "0.0000900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P3QQE7WDZQXMW6GN" : {
+        "P3QQE7WDZQXMW6GN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P3QQE7WDZQXMW6GN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "P3QQE7WDZQXMW6GN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P3QQE7WDZQXMW6GN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00003 per Count for Global Endpoint Message in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6UT7ZR288K2UTCHH" : {
+        "6UT7ZR288K2UTCHH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6UT7ZR288K2UTCHH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6UT7ZR288K2UTCHH.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "6UT7ZR288K2UTCHH.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "$0.00007 per Count from 0 to 10,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000700000"
+              },
+              "appliesTo" : [ ]
+            },
+            "6UT7ZR288K2UTCHH.JRTCKXETXF.RTKVR6ZK95" : {
+              "rateCode" : "6UT7ZR288K2UTCHH.JRTCKXETXF.RTKVR6ZK95",
+              "description" : "$0.00005 per Count from 10,000,000 to 100,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+              "beginRange" : "10000000",
+              "endRange" : "100000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "6UT7ZR288K2UTCHH.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "6UT7ZR288K2UTCHH.JRTCKXETXF.F83EQNDM5J",
+              "description" : "$0.00002 per Count from 100,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DWHMJ4MCRQ9VB6RK" : {
+        "DWHMJ4MCRQ9VB6RK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DWHMJ4MCRQ9VB6RK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DWHMJ4MCRQ9VB6RK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DWHMJ4MCRQ9VB6RK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per GB of attachments",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5TGTAAJFB5N6WGZ2" : {
+        "5TGTAAJFB5N6WGZ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5TGTAAJFB5N6WGZ2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5TGTAAJFB5N6WGZ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5TGTAAJFB5N6WGZ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.000125 per Count for Message processed by Spamhaus Add on in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UHEHNNAQCR8YR9EP" : {
+        "UHEHNNAQCR8YR9EP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UHEHNNAQCR8YR9EP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UHEHNNAQCR8YR9EP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UHEHNNAQCR8YR9EP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per dedicated IP in US-East-1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mo",
+              "pricePerUnit" : {
+                "USD" : "24.9500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XQXFNCPPEKTABJAF" : {
+        "XQXFNCPPEKTABJAF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XQXFNCPPEKTABJAF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XQXFNCPPEKTABJAF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XQXFNCPPEKTABJAF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.000125 per Count for Message processed by Abusix Add on in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6M5WNQ7SQJYZPC9M" : {
+        "6M5WNQ7SQJYZPC9M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6M5WNQ7SQJYZPC9M",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6M5WNQ7SQJYZPC9M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6M5WNQ7SQJYZPC9M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per recipient of SendEmail or SendRawEmail",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EB5W44UX7JPDV73S" : {
+        "EB5W44UX7JPDV73S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EB5W44UX7JPDV73S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EB5W44UX7JPDV73S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EB5W44UX7JPDV73S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0001875 per Count for Message scanned by Trend Micro in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001875000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5QV8DXV2R9AY5CSJ" : {
+        "5QV8DXV2R9AY5CSJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5QV8DXV2R9AY5CSJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5QV8DXV2R9AY5CSJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5QV8DXV2R9AY5CSJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost of Dedicated IPs (managed) subscription in IAD",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mo",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TFPG3JKV9WZMNFD9" : {
+        "TFPG3JKV9WZMNFD9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TFPG3JKV9WZMNFD9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TFPG3JKV9WZMNFD9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TFPG3JKV9WZMNFD9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD9.0E-5 per ReceivedChunk for Mail Manager Processed email in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReceivedChunk",
+              "pricePerUnit" : {
+                "USD" : "0.0000900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8ZMRUUD2CUDARVQB" : {
+        "8ZMRUUD2CUDARVQB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8ZMRUUD2CUDARVQB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8ZMRUUD2CUDARVQB.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "8ZMRUUD2CUDARVQB.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "Dedicated IPs (managed) pricing for less than 10 Million emails per month in USE1",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000800000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8ZMRUUD2CUDARVQB.JRTCKXETXF.UH4R86KK5B" : {
+              "rateCode" : "8ZMRUUD2CUDARVQB.JRTCKXETXF.UH4R86KK5B",
+              "description" : "Dedicated IPs (managed) pricing for between 10 Million and 50 Million emails per month in USE1",
+              "beginRange" : "10000000",
+              "endRange" : "50000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8ZMRUUD2CUDARVQB.JRTCKXETXF.H7TEM37A35" : {
+              "rateCode" : "8ZMRUUD2CUDARVQB.JRTCKXETXF.H7TEM37A35",
+              "description" : "Dedicated IPs (managed) pricing for between 50 Million and 100 Million emails per month in USE1",
+              "beginRange" : "50000000",
+              "endRange" : "100000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8ZMRUUD2CUDARVQB.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "8ZMRUUD2CUDARVQB.JRTCKXETXF.F83EQNDM5J",
+              "description" : "Dedicated IPs (managed) pricing for more than 100 Million emails per month in USE1",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000040000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CFYFHZG8VWWG6RJP" : {
+        "CFYFHZG8VWWG6RJP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CFYFHZG8VWWG6RJP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CFYFHZG8VWWG6RJP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CFYFHZG8VWWG6RJP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per recipient of SendEmail or SendRawEmail invoked from EC2",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MAGJ6YJPFRA57W8B" : {
+        "MAGJ6YJPFRA57W8B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MAGJ6YJPFRA57W8B",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MAGJ6YJPFRA57W8B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MAGJ6YJPFRA57W8B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per recipient of SendEmail or SendRawEmail invoked from EC2 sent to the Mailbox Simulator",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJ54VJ64JJHZ4XX6" : {
+        "VJ54VJ64JJHZ4XX6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJ54VJ64JJHZ4XX6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJ54VJ64JJHZ4XX6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJ54VJ64JJHZ4XX6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per recipient of SendEmail or SendRawEmail sent to the Mailbox Simulator",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6VSHKQQ95CZKP5E4" : {
+        "6VSHKQQ95CZKP5E4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6VSHKQQ95CZKP5E4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6VSHKQQ95CZKP5E4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6VSHKQQ95CZKP5E4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.00015 per Count for Message processed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HYCYGTXDACGUG3XS" : {
+        "HYCYGTXDACGUG3XS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HYCYGTXDACGUG3XS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HYCYGTXDACGUG3XS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HYCYGTXDACGUG3XS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.19 per GB per Mo for archive storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B9TW7FXDGDFA7U9P" : {
+        "B9TW7FXDGDFA7U9P.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "B9TW7FXDGDFA7U9P",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "B9TW7FXDGDFA7U9P.A429C66SYZ.RRH5GFDVRN" : {
+              "rateCode" : "B9TW7FXDGDFA7U9P.A429C66SYZ.RRH5GFDVRN",
+              "description" : "Free queries for Virtual Deliverability Manager",
+              "beginRange" : "0",
+              "endRange" : "5000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "6MSHBUUBHBWBYNS8", "T36YX3AR2H864B4C", "F68E65FB25SPQVWU", "B5DBEZM2NPKSVSY7", "F9CCZDD258Z7TSA9", "TREVB3XRSPFCWWSN", "ZN3PQ3JCJ9VDKNQA", "KVZ6EYHHVXUGWG6Y", "AE5FW6UUYKYDWQTH", "P5SXD7CEWHESK8V7", "PTF49UJ7PYY2X7E3", "RA4F82PHCYG7745W", "CYYAMAKDUF7JJTA8", "QFBBNTNFSSDFRY5T", "CNUNVWRRW4EYWPGY", "3YCUZR6B7AU6EG5M", "V5W7PY3BVBN97QQW", "KAFPSJ6S8YMXK882", "AU2J4BGQYCMX57ER", "TT8PZVNGPFMTYZNJ", "8M22NQNNP79QURVU", "8822NCAXCP6UMHYC", "627SBNWGX33N95CH", "5WYV6AGET2JMYHXJ", "NXT893XHS83DV8BF" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "24XQKQBWBYENKRGB" : {
+        "24XQKQBWBYENKRGB.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "24XQKQBWBYENKRGB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "24XQKQBWBYENKRGB.A429C66SYZ.YFQHUT4EVE" : {
+              "rateCode" : "24XQKQBWBYENKRGB.A429C66SYZ.YFQHUT4EVE",
+              "description" : "Cost per recipient of SendEmail or SendRawEmail invoked from EC2 sent to the Mailbox Simulator Global",
+              "beginRange" : "0",
+              "endRange" : "62000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "AAV3J4JX5E6HG3WM", "M997WGYQGANHBPT5", "HZP4H8MT2PKB4JK6", "TQFM9EBBJSVJ8STW", "DFZHPUFPXUTYTY7H", "JXJKSSW8BK8HAQEP", "D55E2SDM8PK6VKWT", "Q4YT682H5DF5GFW3", "H6C24PN6FZ588ZFX", "DEKU8BDQAPPP3GV5", "XV7M6CC4F9QRZFPN", "D5UNFFZNZJNT3B8H", "UZE3P8J8YS9B5QDF", "G59HKWMDMASDAWYM", "R3GYAFRCQAVSM5W3", "9S4NNZAT7K3KNBZK", "MAGJ6YJPFRA57W8B", "CE7WDRN649K527ZJ", "MDCSE7Z6MKSX2A4F", "XF9JCHXYX9KPZ4VX", "C2E3QQNHDQ9AYVEQ", "3YBX8MCFAW3GMK6K", "FS3X65WBAB5XWFYZ", "3HPJ58JKKA3WB7MP" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "NXT893XHS83DV8BF" : {
+        "NXT893XHS83DV8BF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NXT893XHS83DV8BF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "NXT893XHS83DV8BF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NXT893XHS83DV8BF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Queries for Virtual Deliverability Manager in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YAV8BD26RD4RWDAW" : {
+        "YAV8BD26RD4RWDAW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YAV8BD26RD4RWDAW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YAV8BD26RD4RWDAW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YAV8BD26RD4RWDAW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000415 per Count for USE1-AddOnExecution-VADE_ADVANCED_EMAIL_SECURITY in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0004150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z5XFNYGW5AD98PUN" : {
+        "Z5XFNYGW5AD98PUN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z5XFNYGW5AD98PUN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z5XFNYGW5AD98PUN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z5XFNYGW5AD98PUN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per email received in USE1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWPY8BHJGXRYYEFC" : {
+        "GWPY8BHJGXRYYEFC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWPY8BHJGXRYYEFC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWPY8BHJGXRYYEFC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWPY8BHJGXRYYEFC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cost per dedicated IP in US-East-1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mo",
+              "pricePerUnit" : {
+                "USD" : "24.9500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TGDBT84U342JGTRA" : {
+        "TGDBT84U342JGTRA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TGDBT84U342JGTRA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TGDBT84U342JGTRA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TGDBT84U342JGTRA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD2 per GB for data acceptance into archive  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EJFZYT3J9R728AH6" : {
+        "EJFZYT3J9R728AH6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EJFZYT3J9R728AH6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EJFZYT3J9R728AH6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EJFZYT3J9R728AH6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD50 per dedicated ingress endpoint subscription in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mo",
+              "pricePerUnit" : {
+                "USD" : "50.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

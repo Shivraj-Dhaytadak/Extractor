@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonConnectCases",
+  "version" : "20240529204019",
+  "publicationDate" : "2024-05-29T20:40:19Z",
+  "products" : {
+    "VN5NH6XWHD65TY5Y" : {
+      "sku" : "VN5NH6XWHD65TY5Y",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnectCases",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "us-east-1-case-created",
+        "operation" : "",
+        "connectcasemanagement" : "0",
+        "regionCode" : "us-east-1",
+        "servicename" : "AmazonConnectCases"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "VN5NH6XWHD65TY5Y" : {
+        "VN5NH6XWHD65TY5Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VN5NH6XWHD65TY5Y",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VN5NH6XWHD65TY5Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VN5NH6XWHD65TY5Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "You will be billed per case created.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "cases",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,915 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonRekognition",
+  "version" : "20241218174328",
+  "publicationDate" : "2024-12-18T17:43:28Z",
+  "products" : {
+    "UR8H7BWV3NH59UAS" : {
+      "sku" : "UR8H7BWV3NH59UAS",
+      "productFamily" : "Rekognition Video API - Archived Content",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Video API Requests - Archived Content",
+        "groupDescription" : "Number of minutes of Archived video processed using LabelDetection, FaceDetection, PersonTracking, CelebrityRecognition, ContentModeration and FaceSearch using Rekognition Video APIs",
+        "usagetype" : "USE1-MinsOfArchVideoProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "F62NT2ZKZGW9VJT8" : {
+      "sku" : "F62NT2ZKZGW9VJT8",
+      "productFamily" : "Rekognition API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Training API",
+        "groupDescription" : "Number of Minutes that a custom model is trained",
+        "usagetype" : "USE1-minutestrained",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "ZVRXPVXZRV9XGJRJ" : {
+      "sku" : "ZVRXPVXZRV9XGJRJ",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Image API Requests",
+        "groupDescription" : "Number of images processed using Compare Faces, IndexFaces, SearchFacesByImage OR Number of calls made to SearchFaceById",
+        "usagetype" : "USE1-Group1-ImagesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "NR89GWZY62M88CQ2" : {
+      "sku" : "NR89GWZY62M88CQ2",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Image Async API Requests",
+        "groupDescription" : "Number of images processed using Image Async API",
+        "usagetype" : "USE1-Group2-AsyncImagesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "22JVRTPVPTB5SRD7" : {
+      "sku" : "22JVRTPVPTB5SRD7",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Image API Requests",
+        "groupDescription" : "Number of images processed using DetectFaces, DetectModerationLabels, DetectLabels, DetectProtectiveEquipment, RecognizeCelebrities APIs",
+        "usagetype" : "USE1-Group2-ImagesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "MT4GYY47WWSKMVRM" : {
+      "sku" : "MT4GYY47WWSKMVRM",
+      "productFamily" : "Rekognition Video API - Live Streams",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Video API Requests - Live Streams",
+        "groupDescription" : "Number of minutes of Live stream video processed using StreamProcessor Rekognition Video APIs",
+        "usagetype" : "USE1-MinsOfLiveVideoProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "4R796AUWKTWNVC3X" : {
+      "sku" : "4R796AUWKTWNVC3X",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Image API Requests",
+        "groupDescription" : "Number of images processed using DetectLabels, DetectFaces, CompareFaces, SearchByImage, DetectModerationLabels, RecognizeCelebrities, IndexFaces APIs OR Number of calls made to SearchFaceById, ListFace Rekognition Image APIs",
+        "usagetype" : "USE1-ImagesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "KJZEWJCMAJ2Z6YSW" : {
+      "sku" : "KJZEWJCMAJ2Z6YSW",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition API Requests",
+        "groupDescription" : "Number of calls made to streaming API",
+        "usagetype" : "USE1-StreamingCalls",
+        "operation" : "StartFaceLivenessSession",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "792DQ4KDWFZEFJHB" : {
+      "sku" : "792DQ4KDWFZEFJHB",
+      "productFamily" : "Rekognition API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Moderation Training API",
+        "groupDescription" : "Number of minutes that a custom moderation model is trained",
+        "usagetype" : "USE1-minutestrained-custommoderation",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "35Z54DJ2RCCKXYT8" : {
+      "sku" : "35Z54DJ2RCCKXYT8",
+      "productFamily" : "Rekognition Video API - Archived Content",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Video API Requests - Archived Content",
+        "groupDescription" : "Number of minutes of Archived Video processed using Technical Cues detection",
+        "usagetype" : "USE1-MinsOfArchVideoProcessed:TechCue",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "MJ4962HE88SVX354" : {
+      "sku" : "MJ4962HE88SVX354",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition API Requests",
+        "groupDescription" : "Number of images processed using Custom Moderation Adapter",
+        "usagetype" : "USE1-ImagesProcessed-CustomModeration",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "C7CFQXQ8RQ9TCR2K" : {
+      "sku" : "C7CFQXQ8RQ9TCR2K",
+      "productFamily" : "Rekognition Video API - Archived Content",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Video API Requests - Archived Content",
+        "groupDescription" : "Number of minutes of Archived Video processed for shot detection",
+        "usagetype" : "USE1-MinsOfArchVideoProcessed:Shot",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "TBRW8MNR9VK5YS3J" : {
+      "sku" : "TBRW8MNR9VK5YS3J",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Image API Requests",
+        "groupDescription" : "Number of images processed using DetectLabels (Image Properties) API",
+        "usagetype" : "USE1-ImageProperties-ImagesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "US6Q7V44BA82VNZT" : {
+      "sku" : "US6Q7V44BA82VNZT",
+      "productFamily" : "Rekognition API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Inference API",
+        "groupDescription" : "Number of minutes of inference with a custom model",
+        "usagetype" : "USE1-inferenceminutes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "ZQ5JW2TN4J7WRQ9M" : {
+      "sku" : "ZQ5JW2TN4J7WRQ9M",
+      "productFamily" : "Rekognition Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "User Vector Storage",
+        "groupDescription" : "Number of User Vectors stored",
+        "usagetype" : "USE1-UserVectorsStored",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "V9SD5T6CMDRRUTWZ" : {
+      "sku" : "V9SD5T6CMDRRUTWZ",
+      "productFamily" : "Rekognition Storage",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Face Vector Storage",
+        "groupDescription" : "Number of Face Vectors stored",
+        "usagetype" : "USE1-FaceVectorsStored",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "JKMBG2M9KJUCNDB6" : {
+      "sku" : "JKMBG2M9KJUCNDB6",
+      "productFamily" : "Rekognition Image API",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Custom Image Async API Requests",
+        "groupDescription" : "Number of images processed using Custom Image Async API",
+        "usagetype" : "USE1-AsyncImagesProcessed-CustomModeration",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    },
+    "V3CXUX43EN8JWT4P" : {
+      "sku" : "V3CXUX43EN8JWT4P",
+      "productFamily" : "Rekognition Video API - Live Streams",
+      "attributes" : {
+        "servicecode" : "AmazonRekognition",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rekognition Video API Requests - Live Streams",
+        "groupDescription" : "Number of minutes of Live stream video processed using StreamProcessor APIs",
+        "usagetype" : "USE1-MinsOfLiveVideoProcessed",
+        "operation" : "LabelDetection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Rekognition"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "792DQ4KDWFZEFJHB" : {
+        "792DQ4KDWFZEFJHB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "792DQ4KDWFZEFJHB",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "792DQ4KDWFZEFJHB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "792DQ4KDWFZEFJHB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Custom Labels Training: USD $0.0.08333333 per minute ($5 per hour) for US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0833333300"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V9SD5T6CMDRRUTWZ" : {
+        "V9SD5T6CMDRRUTWZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V9SD5T6CMDRRUTWZ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "V9SD5T6CMDRRUTWZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V9SD5T6CMDRRUTWZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage: 0.01 USD per 1000 Faces stored per month.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Faces-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3CXUX43EN8JWT4P" : {
+        "V3CXUX43EN8JWT4P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3CXUX43EN8JWT4P",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3CXUX43EN8JWT4P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3CXUX43EN8JWT4P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Number of minutes of Live stream video processed using StreamProcessor APIs",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0081700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C7CFQXQ8RQ9TCR2K" : {
+        "C7CFQXQ8RQ9TCR2K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C7CFQXQ8RQ9TCR2K",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "C7CFQXQ8RQ9TCR2K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C7CFQXQ8RQ9TCR2K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Minutes Processed for MinsOfArchVideoProcessed:Shot in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UR8H7BWV3NH59UAS" : {
+        "UR8H7BWV3NH59UAS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UR8H7BWV3NH59UAS",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "UR8H7BWV3NH59UAS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UR8H7BWV3NH59UAS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "MinsOfArchVideoProcessed: 0.10 USD per minute of Archived Video processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes Processed",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JKMBG2M9KJUCNDB6" : {
+        "JKMBG2M9KJUCNDB6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JKMBG2M9KJUCNDB6",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "JKMBG2M9KJUCNDB6.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "JKMBG2M9KJUCNDB6.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0012000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JKMBG2M9KJUCNDB6.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "JKMBG2M9KJUCNDB6.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0009600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JKMBG2M9KJUCNDB6.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "JKMBG2M9KJUCNDB6.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0007200000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JKMBG2M9KJUCNDB6.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "JKMBG2M9KJUCNDB6.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0003000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZQ5JW2TN4J7WRQ9M" : {
+        "ZQ5JW2TN4J7WRQ9M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZQ5JW2TN4J7WRQ9M",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZQ5JW2TN4J7WRQ9M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZQ5JW2TN4J7WRQ9M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage: 0.01 USD per 1000 Faces stored per month.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZVRXPVXZRV9XGJRJ" : {
+        "ZVRXPVXZRV9XGJRJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZVRXPVXZRV9XGJRJ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed: Non Free Tier : 5M-30M images processed per month",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "ZVRXPVXZRV9XGJRJ.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed: Non Free Tier: 35M+ images processed per month",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NR89GWZY62M88CQ2" : {
+        "NR89GWZY62M88CQ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NR89GWZY62M88CQ2",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "NR89GWZY62M88CQ2.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "NR89GWZY62M88CQ2.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "NR89GWZY62M88CQ2.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "NR89GWZY62M88CQ2.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "NR89GWZY62M88CQ2.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "NR89GWZY62M88CQ2.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed: Non Free Tier : 5M-30M images processed per month",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "NR89GWZY62M88CQ2.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "NR89GWZY62M88CQ2.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed: Non Free Tier: 35M+ images processed per month",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "22JVRTPVPTB5SRD7" : {
+        "22JVRTPVPTB5SRD7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "22JVRTPVPTB5SRD7",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "22JVRTPVPTB5SRD7.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "22JVRTPVPTB5SRD7.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "22JVRTPVPTB5SRD7.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "22JVRTPVPTB5SRD7.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "22JVRTPVPTB5SRD7.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "22JVRTPVPTB5SRD7.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed: Non Free Tier : 5M-30M images processed per month",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "22JVRTPVPTB5SRD7.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "22JVRTPVPTB5SRD7.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed: Non Free Tier: 35M+ images processed per month",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KJZEWJCMAJ2Z6YSW" : {
+        "KJZEWJCMAJ2Z6YSW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJZEWJCMAJ2Z6YSW",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.X52V2NUPYZ" : {
+              "rateCode" : "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.X52V2NUPYZ",
+              "description" : "$0.015 per API call for 0-500K streaming calls in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "500000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.PMEM73BXZC" : {
+              "rateCode" : "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.PMEM73BXZC",
+              "description" : "$0.0125 per API call for 500K-3M streaming calls in US East (N. Virginia)",
+              "beginRange" : "500000",
+              "endRange" : "3000000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0125000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.WTA2GPDJU3" : {
+              "rateCode" : "KJZEWJCMAJ2Z6YSW.JRTCKXETXF.WTA2GPDJU3",
+              "description" : "$0.010 per API call for >3M streaming calls in US East (N. Virginia)",
+              "beginRange" : "3000000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "US6Q7V44BA82VNZT" : {
+        "US6Q7V44BA82VNZT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "US6Q7V44BA82VNZT",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "US6Q7V44BA82VNZT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "US6Q7V44BA82VNZT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Custom Labels Inference:  $0.06666667 per minute ($4 per hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0666666700"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MJ4962HE88SVX354" : {
+        "MJ4962HE88SVX354.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MJ4962HE88SVX354",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "MJ4962HE88SVX354.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "MJ4962HE88SVX354.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0012000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "MJ4962HE88SVX354.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "MJ4962HE88SVX354.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0009600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "MJ4962HE88SVX354.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "MJ4962HE88SVX354.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0007200000"
+              },
+              "appliesTo" : [ ]
+            },
+            "MJ4962HE88SVX354.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "MJ4962HE88SVX354.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed for Custom Moderation: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0003000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MT4GYY47WWSKMVRM" : {
+        "MT4GYY47WWSKMVRM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MT4GYY47WWSKMVRM",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "MT4GYY47WWSKMVRM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MT4GYY47WWSKMVRM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "MinsOfLiveVideoProcessed: 0.12 USD per minute of Live Stream Video processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes Processed",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F62NT2ZKZGW9VJT8" : {
+        "F62NT2ZKZGW9VJT8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F62NT2ZKZGW9VJT8",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "F62NT2ZKZGW9VJT8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F62NT2ZKZGW9VJT8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Custom Labels Training:  $0.01666667 per minute ($1 per hour)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0166666700"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "35Z54DJ2RCCKXYT8" : {
+        "35Z54DJ2RCCKXYT8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "35Z54DJ2RCCKXYT8",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "35Z54DJ2RCCKXYT8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "35Z54DJ2RCCKXYT8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Minutes Processed for MinsOfArchVideoProcessed:TechCue in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4R796AUWKTWNVC3X" : {
+        "4R796AUWKTWNVC3X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4R796AUWKTWNVC3X",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "4R796AUWKTWNVC3X.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "4R796AUWKTWNVC3X.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed: 5001 - 1 MM images processed per month, 1.00 USD per 1000 images processed.",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4R796AUWKTWNVC3X.JRTCKXETXF.H9V8AVEXGG" : {
+              "rateCode" : "4R796AUWKTWNVC3X.JRTCKXETXF.H9V8AVEXGG",
+              "description" : "Images Processed: 1,000,001 - 10 MM images processed per month, 0.80 USD per 1000 images processed.",
+              "beginRange" : "1000000",
+              "endRange" : "10000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4R796AUWKTWNVC3X.JRTCKXETXF.RTKVR6ZK95" : {
+              "rateCode" : "4R796AUWKTWNVC3X.JRTCKXETXF.RTKVR6ZK95",
+              "description" : "Images Processed: 10,000,001 - 100MM images processed per month, 0.60 USD per 1000 images per 1000 images processed.",
+              "beginRange" : "10000000",
+              "endRange" : "100000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4R796AUWKTWNVC3X.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "4R796AUWKTWNVC3X.JRTCKXETXF.F83EQNDM5J",
+              "description" : "Images Processed: 100MM+ images processed per month, 0.40 USD per 1000 images per 1000 images processed.",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TBRW8MNR9VK5YS3J" : {
+        "TBRW8MNR9VK5YS3J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TBRW8MNR9VK5YS3J",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "TBRW8MNR9VK5YS3J.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "TBRW8MNR9VK5YS3J.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Images Processed for Image Properties: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0007500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TBRW8MNR9VK5YS3J.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "TBRW8MNR9VK5YS3J.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "Images Processed for Image Properties: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TBRW8MNR9VK5YS3J.JRTCKXETXF.8GSZJDB5W5" : {
+              "rateCode" : "TBRW8MNR9VK5YS3J.JRTCKXETXF.8GSZJDB5W5",
+              "description" : "Images Processed for Image Properties: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "35000000",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0004500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TBRW8MNR9VK5YS3J.JRTCKXETXF.SHZJ45KC4M" : {
+              "rateCode" : "TBRW8MNR9VK5YS3J.JRTCKXETXF.SHZJ45KC4M",
+              "description" : "Images Processed for Image Properties: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+              "beginRange" : "35000000",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0001875000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

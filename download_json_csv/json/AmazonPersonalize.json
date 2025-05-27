@@ -1,0 +1,853 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonPersonalize",
+  "version" : "20240507210355",
+  "publicationDate" : "2024-05-07T21:03:55Z",
+  "products" : {
+    "8J3VXURF64YXNCNZ" : {
+      "sku" : "8J3VXURF64YXNCNZ",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize additional recommendation requests",
+        "usagetype" : "USE1-Recommendations-Tier2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "2"
+      }
+    },
+    "BJ27PMDBASQU8WP9" : {
+      "sku" : "BJ27PMDBASQU8WP9",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Real-Time Inference V2",
+        "usagetype" : "USE1-RealTimeRecommendationsV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "XFBVFK2JNG5D8Z5U" : {
+      "sku" : "XFBVFK2JNG5D8Z5U",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize PR V2 Training",
+        "usagetype" : "USE1-PersonalizedRankingTrainV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "UMRRHR63ENYH37WH" : {
+      "sku" : "UMRRHR63ENYH37WH",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Inference",
+        "usagetype" : "USE1-BatchInference",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "BKCS5BCD9492E8NX" : {
+      "sku" : "BKCS5BCD9492E8NX",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Segments",
+        "usagetype" : "USE1-BatchSegment-Tier3",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "3"
+      }
+    },
+    "H8XHKNEQ7MJDQSQG" : {
+      "sku" : "H8XHKNEQ7MJDQSQG",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Real-Time Inference Metadata",
+        "usagetype" : "USE1-RealTimeRecsMetadata",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "M8D9XMV87492D7MG" : {
+      "sku" : "M8D9XMV87492D7MG",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Recommender Hours Metadata",
+        "usagetype" : "USE1-RecommenderHoursMetadata",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "1"
+      }
+    },
+    "ZXJHRBT3ECV7U262" : {
+      "sku" : "ZXJHRBT3ECV7U262",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Real-Time Inference",
+        "usagetype" : "USE1-RealTimeRecommendations",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "YAWMM3BYN2Y63SYV" : {
+      "sku" : "YAWMM3BYN2Y63SYV",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Segments",
+        "usagetype" : "USE1-BatchSegment-Tier2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "2"
+      }
+    },
+    "QH88XZEB6H2UPFE6" : {
+      "sku" : "QH88XZEB6H2UPFE6",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Recommender Hours",
+        "usagetype" : "USE1-RecommenderHours-Tier3",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "3"
+      }
+    },
+    "G479RC3EK652NZW7" : {
+      "sku" : "G479RC3EK652NZW7",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize UP V2 Training",
+        "usagetype" : "USE1-UserPersonalizationTrainV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "XR9PTFRZZ94H9ZTD" : {
+      "sku" : "XR9PTFRZZ94H9ZTD",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Data",
+        "usagetype" : "USE1-DataIngestion",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "G2XHFDQZHAK58BAT" : {
+      "sku" : "G2XHFDQZHAK58BAT",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Recommender Hours",
+        "usagetype" : "USE1-RecommenderHours-Tier2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "2"
+      }
+    },
+    "QTNNV3JF4Z4GJNTA" : {
+      "sku" : "QTNNV3JF4Z4GJNTA",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize additional recommendations metadata",
+        "usagetype" : "USE1-RecommendationsMetadata",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "1"
+      }
+    },
+    "26UN2EJG56WK35DN" : {
+      "sku" : "26UN2EJG56WK35DN",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Recommender Hours",
+        "usagetype" : "USE1-RecommenderHours-Tier4",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "4"
+      }
+    },
+    "BCX7PFMSAV9QXCUW" : {
+      "sku" : "BCX7PFMSAV9QXCUW",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Training",
+        "usagetype" : "USE1-TrainingHour",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "MDMBX96P5FT3F978" : {
+      "sku" : "MDMBX96P5FT3F978",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize additional recommendation requests",
+        "usagetype" : "USE1-Recommendations-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "1"
+      }
+    },
+    "VBKRK4MFPYH37QEP" : {
+      "sku" : "VBKRK4MFPYH37QEP",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Content Generation",
+        "usagetype" : "USE1-BatchInferenceContentGen",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "HQMXE8FPDQCN8XX4" : {
+      "sku" : "HQMXE8FPDQCN8XX4",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Segments",
+        "usagetype" : "USE1-BatchSegment-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "1"
+      }
+    },
+    "BGZ3GX8SNCKV7QJT" : {
+      "sku" : "BGZ3GX8SNCKV7QJT",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Inference V2",
+        "usagetype" : "USE1-BatchInferenceV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize"
+      }
+    },
+    "HHUR6VX5MJZYBCFU" : {
+      "sku" : "HHUR6VX5MJZYBCFU",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Batch Segments",
+        "usagetype" : "USE1-BatchSegment-Tier4",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "4"
+      }
+    },
+    "NDG7WBC2GEUKKJNT" : {
+      "sku" : "NDG7WBC2GEUKKJNT",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize Recommender Hours",
+        "usagetype" : "USE1-RecommenderHours-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "1"
+      }
+    },
+    "YNZK7CE9T685PANM" : {
+      "sku" : "YNZK7CE9T685PANM",
+      "attributes" : {
+        "servicecode" : "AmazonPersonalize",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Pricing for Amazon Personalize additional recommendation requests",
+        "usagetype" : "USE1-Recommendations-Tier3",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Personalize",
+        "tier" : "3"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "M8D9XMV87492D7MG" : {
+        "M8D9XMV87492D7MG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M8D9XMV87492D7MG",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "M8D9XMV87492D7MG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M8D9XMV87492D7MG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per hour as additional metadata charge",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommender Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QH88XZEB6H2UPFE6" : {
+        "QH88XZEB6H2UPFE6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QH88XZEB6H2UPFE6",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QH88XZEB6H2UPFE6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QH88XZEB6H2UPFE6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.018 per recommender hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommender Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8J3VXURF64YXNCNZ" : {
+        "8J3VXURF64YXNCNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8J3VXURF64YXNCNZ",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8J3VXURF64YXNCNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8J3VXURF64YXNCNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0417 per 1000 recommendations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000417000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QTNNV3JF4Z4GJNTA" : {
+        "QTNNV3JF4Z4GJNTA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QTNNV3JF4Z4GJNTA",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QTNNV3JF4Z4GJNTA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QTNNV3JF4Z4GJNTA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0167 per 1,000 recommendations as additional metadata charge",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000167000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UMRRHR63ENYH37WH" : {
+        "UMRRHR63ENYH37WH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UMRRHR63ENYH37WH",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UMRRHR63ENYH37WH.JRTCKXETXF.2GQZD7548S" : {
+              "rateCode" : "UMRRHR63ENYH37WH.JRTCKXETXF.2GQZD7548S",
+              "description" : "$0.067 per 1,000 Recommendations",
+              "beginRange" : "0",
+              "endRange" : "20000000",
+              "unit" : "Batch Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000670000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UMRRHR63ENYH37WH.JRTCKXETXF.2P33XVUCWV" : {
+              "rateCode" : "UMRRHR63ENYH37WH.JRTCKXETXF.2P33XVUCWV",
+              "description" : "$0.058 per 1,000 Recommendations",
+              "beginRange" : "20000000",
+              "endRange" : "200000000",
+              "unit" : "Batch Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000580000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UMRRHR63ENYH37WH.JRTCKXETXF.27HXR6XEUN" : {
+              "rateCode" : "UMRRHR63ENYH37WH.JRTCKXETXF.27HXR6XEUN",
+              "description" : "$0.050 per 1,000 Recommendations",
+              "beginRange" : "200000000",
+              "endRange" : "Inf",
+              "unit" : "Batch Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "26UN2EJG56WK35DN" : {
+        "26UN2EJG56WK35DN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "26UN2EJG56WK35DN",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "26UN2EJG56WK35DN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "26UN2EJG56WK35DN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per recommender hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommender Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HHUR6VX5MJZYBCFU" : {
+        "HHUR6VX5MJZYBCFU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HHUR6VX5MJZYBCFU",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HHUR6VX5MJZYBCFU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HHUR6VX5MJZYBCFU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per 1k users in customer dataset for each segment generated",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Segment",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XR9PTFRZZ94H9ZTD" : {
+        "XR9PTFRZZ94H9ZTD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XR9PTFRZZ94H9ZTD",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XR9PTFRZZ94H9ZTD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XR9PTFRZZ94H9ZTD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VBKRK4MFPYH37QEP" : {
+        "VBKRK4MFPYH37QEP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VBKRK4MFPYH37QEP",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VBKRK4MFPYH37QEP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VBKRK4MFPYH37QEP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per theme from content generator",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Recommendations",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HQMXE8FPDQCN8XX4" : {
+        "HQMXE8FPDQCN8XX4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HQMXE8FPDQCN8XX4",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HQMXE8FPDQCN8XX4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HQMXE8FPDQCN8XX4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.016 per 1k users in customer dataset for each segment generated",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Segment",
+              "pricePerUnit" : {
+                "USD" : "0.0160000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YAWMM3BYN2Y63SYV" : {
+        "YAWMM3BYN2Y63SYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YAWMM3BYN2Y63SYV",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YAWMM3BYN2Y63SYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YAWMM3BYN2Y63SYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per 1k users in customer dataset for each segment generated",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Segment",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BJ27PMDBASQU8WP9" : {
+        "BJ27PMDBASQU8WP9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BJ27PMDBASQU8WP9",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BJ27PMDBASQU8WP9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BJ27PMDBASQU8WP9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per 1,000 Recommendation Requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Real Time Recommendation Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H8XHKNEQ7MJDQSQG" : {
+        "H8XHKNEQ7MJDQSQG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H8XHKNEQ7MJDQSQG",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "H8XHKNEQ7MJDQSQG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H8XHKNEQ7MJDQSQG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0167 per 1,000 recommendations as additional metadata charge",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Real Time Recommendation Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000167000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NDG7WBC2GEUKKJNT" : {
+        "NDG7WBC2GEUKKJNT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NDG7WBC2GEUKKJNT",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NDG7WBC2GEUKKJNT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NDG7WBC2GEUKKJNT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.375 per recommender hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommender Hours",
+              "pricePerUnit" : {
+                "USD" : "0.3750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BKCS5BCD9492E8NX" : {
+        "BKCS5BCD9492E8NX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BKCS5BCD9492E8NX",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BKCS5BCD9492E8NX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BKCS5BCD9492E8NX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.004 per 1k users in customer dataset for each segment generated",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Segment",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YNZK7CE9T685PANM" : {
+        "YNZK7CE9T685PANM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YNZK7CE9T685PANM",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YNZK7CE9T685PANM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YNZK7CE9T685PANM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0208 per 1000 recommendations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000208000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZXJHRBT3ECV7U262" : {
+        "ZXJHRBT3ECV7U262.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZXJHRBT3ECV7U262",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZXJHRBT3ECV7U262.JRTCKXETXF.WMRK7FXGNY" : {
+              "rateCode" : "ZXJHRBT3ECV7U262.JRTCKXETXF.WMRK7FXGNY",
+              "description" : "$0.0556 per 1,000 Recommendation Requests",
+              "beginRange" : "0",
+              "endRange" : "72000000",
+              "unit" : "Real Time Recommendation Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000555550"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZXJHRBT3ECV7U262.JRTCKXETXF.V6RRKPBZ8T" : {
+              "rateCode" : "ZXJHRBT3ECV7U262.JRTCKXETXF.V6RRKPBZ8T",
+              "description" : "$0.0278 per 1,000 Recommendation Requests",
+              "beginRange" : "72000000",
+              "endRange" : "720000000",
+              "unit" : "Real Time Recommendation Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000277770"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZXJHRBT3ECV7U262.JRTCKXETXF.P83RHXN74J" : {
+              "rateCode" : "ZXJHRBT3ECV7U262.JRTCKXETXF.P83RHXN74J",
+              "description" : "$0.0139 per 1,000 Recommendation Requests",
+              "beginRange" : "720000000",
+              "endRange" : "Inf",
+              "unit" : "Real Time Recommendation Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000138880"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BCX7PFMSAV9QXCUW" : {
+        "BCX7PFMSAV9QXCUW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BCX7PFMSAV9QXCUW",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BCX7PFMSAV9QXCUW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BCX7PFMSAV9QXCUW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.24 per Training Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "TrainingHour",
+              "pricePerUnit" : {
+                "USD" : "0.2400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XFBVFK2JNG5D8Z5U" : {
+        "XFBVFK2JNG5D8Z5U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XFBVFK2JNG5D8Z5U",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XFBVFK2JNG5D8Z5U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XFBVFK2JNG5D8Z5U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per 1,000 Interactions",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Interactions",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MDMBX96P5FT3F978" : {
+        "MDMBX96P5FT3F978.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MDMBX96P5FT3F978",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MDMBX96P5FT3F978.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MDMBX96P5FT3F978.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0833 per 1000 recommendations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0000833000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G479RC3EK652NZW7" : {
+        "G479RC3EK652NZW7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G479RC3EK652NZW7",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "G479RC3EK652NZW7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G479RC3EK652NZW7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per 1,000 Interactions",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Interactions",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BGZ3GX8SNCKV7QJT" : {
+        "BGZ3GX8SNCKV7QJT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BGZ3GX8SNCKV7QJT",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BGZ3GX8SNCKV7QJT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BGZ3GX8SNCKV7QJT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per 1,000 Recommendation Requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Batch Recommendations",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G2XHFDQZHAK58BAT" : {
+        "G2XHFDQZHAK58BAT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G2XHFDQZHAK58BAT",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "G2XHFDQZHAK58BAT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G2XHFDQZHAK58BAT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.045 per recommender hour ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Recommender Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

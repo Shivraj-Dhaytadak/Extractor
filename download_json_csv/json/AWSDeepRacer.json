@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSDeepRacer",
+  "version" : "20220630195354",
+  "publicationDate" : "2022-06-30T19:53:54Z",
+  "products" : {
+    "VCVETB63RUSNP2ZY" : {
+      "sku" : "VCVETB63RUSNP2ZY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AWSDeepRacer",
+        "description" : "Storage Service - TimedStorage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TimedStorage-GigabyteHrs",
+        "operation" : "StorageService-TimedStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS DeepRacer"
+      }
+    },
+    "C299PY32CPZJ976X" : {
+      "sku" : "C299PY32CPZJ976X",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AWSDeepRacer",
+        "description" : "RL Service Jobs - Standard",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ServiceUse-Train-Evaluate-Job",
+        "operation" : "RLServiceJobs-Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS DeepRacer"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "C299PY32CPZJ976X" : {
+        "C299PY32CPZJ976X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C299PY32CPZJ976X",
+          "effectiveDate" : "2021-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "C299PY32CPZJ976X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C299PY32CPZJ976X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.50 per hour for training or evaluation jobs",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VCVETB63RUSNP2ZY" : {
+        "VCVETB63RUSNP2ZY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VCVETB63RUSNP2ZY",
+          "effectiveDate" : "2021-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "VCVETB63RUSNP2ZY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VCVETB63RUSNP2ZY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB-month of storage used",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

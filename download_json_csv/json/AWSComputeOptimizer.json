@@ -1,0 +1,88 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSComputeOptimizer",
+  "version" : "20240826152358",
+  "publicationDate" : "2024-08-26T15:23:58Z",
+  "products" : {
+    "C673X4BJ3MMTEGBY" : {
+      "sku" : "C673X4BJ3MMTEGBY",
+      "productFamily" : "AWS Compute Optimizer",
+      "attributes" : {
+        "servicecode" : "AWSComputeOptimizer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EnhancedInfrastructureMetrics",
+        "operation" : "RDSDBInstance",
+        "enhancedInfrastructureMetrics" : "Active",
+        "pricingUnit" : "Hrs",
+        "regionCode" : "us-east-1",
+        "resourceType" : "RDS DB Instance",
+        "servicename" : "AWS Compute Optimizer"
+      }
+    },
+    "2F2U46A3CCA45R8Q" : {
+      "sku" : "2F2U46A3CCA45R8Q",
+      "productFamily" : "AWS Compute Optimizer",
+      "attributes" : {
+        "servicecode" : "AWSComputeOptimizer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EnhancedInfrastructureMetrics",
+        "operation" : "EC2Instance",
+        "enhancedInfrastructureMetrics" : "Active",
+        "pricingUnit" : "Hrs",
+        "regionCode" : "us-east-1",
+        "resourceType" : "EC2 Instance",
+        "servicename" : "AWS Compute Optimizer"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "C673X4BJ3MMTEGBY" : {
+        "C673X4BJ3MMTEGBY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C673X4BJ3MMTEGBY",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "C673X4BJ3MMTEGBY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C673X4BJ3MMTEGBY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0003360215 per Hrs for Enhanced Infrastructure Metrics usage for RDS DB instances in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0003360215"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2F2U46A3CCA45R8Q" : {
+        "2F2U46A3CCA45R8Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2F2U46A3CCA45R8Q",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2F2U46A3CCA45R8Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2F2U46A3CCA45R8Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0003360215 per Hrs for Enhanced Infrastructure Metrics usage for EC2 instances in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0003360215"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

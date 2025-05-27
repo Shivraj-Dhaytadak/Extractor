@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "repostspace",
+  "version" : "20240509184717",
+  "publicationDate" : "2024-05-09T18:47:17Z",
+  "products" : {
+    "5CVAWPFFH7VVBFNV" : {
+      "sku" : "5CVAWPFFH7VVBFNV",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "repostspace",
+        "description" : "Free Tier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SpaceInstance-Free",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS re:Post Private"
+      }
+    },
+    "MTXGBUVNAYFA8MPE" : {
+      "sku" : "MTXGBUVNAYFA8MPE",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "repostspace",
+        "description" : "Standard Tier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SpaceInstance-Standard",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS re:Post Private"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MTXGBUVNAYFA8MPE" : {
+        "MTXGBUVNAYFA8MPE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MTXGBUVNAYFA8MPE",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MTXGBUVNAYFA8MPE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MTXGBUVNAYFA8MPE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD12.0 per UsersPerMonth for SpaceInstance-Standard in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UsersPerMonth",
+              "pricePerUnit" : {
+                "USD" : "12.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5CVAWPFFH7VVBFNV" : {
+        "5CVAWPFFH7VVBFNV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5CVAWPFFH7VVBFNV",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5CVAWPFFH7VVBFNV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5CVAWPFFH7VVBFNV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0 per UsersPerMonth for SpaceInstance-Free in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UsersPerMonth",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

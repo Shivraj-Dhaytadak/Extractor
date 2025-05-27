@@ -1,0 +1,336 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSSupplyChain",
+  "version" : "20250403214945",
+  "publicationDate" : "2025-04-03T21:49:45Z",
+  "products" : {
+    "AZBSMGYBB8B4FAC7" : {
+      "sku" : "AZBSMGYBB8B4FAC7",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-InstanceHour",
+        "operation" : "USE1-InstanceHour-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "SCDL < 10GB Storage"
+      }
+    },
+    "J8H7E5YWTVX3FQK3" : {
+      "sku" : "J8H7E5YWTVX3FQK3",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StorageSize",
+        "operation" : "USE1-StorageSize-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "SCDL>10GBStorage"
+      }
+    },
+    "Z5APNDQTGYFA4NJC" : {
+      "sku" : "Z5APNDQTGYFA4NJC",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SPSiteProductCount",
+        "operation" : "USE1-SPSiteProductCount-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "Component SKU Location Combinations"
+      }
+    },
+    "PEXNJ3JXDHQKES4W" : {
+      "sku" : "PEXNJ3JXDHQKES4W",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-hours",
+        "operation" : "USE1-hours-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "SCDL hourly, <10 GB storage"
+      }
+    },
+    "FFFX9TJP6NFXDRN2" : {
+      "sku" : "FFFX9TJP6NFXDRN2",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SustainabilityDataRequest",
+        "operation" : "USE1-SustainabilityDataRequestOP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "Sustainability Data Requests"
+      }
+    },
+    "YGRHZQGEQ4EQMP6U" : {
+      "sku" : "YGRHZQGEQ4EQMP6U",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ADPSiteProductCount",
+        "operation" : "USE1-ADPSiteProductCount-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "ADP Product SKU Location Combinations"
+      }
+    },
+    "VHZ5NDUZJ5DSN8CT" : {
+      "sku" : "VHZ5NDUZJ5DSN8CT",
+      "productFamily" : "AWS Supply Chain",
+      "attributes" : {
+        "servicecode" : "AWSSupplyChain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SiteProductCount",
+        "operation" : "USE1-SiteProductCount-OP",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Supply Chain",
+        "type" : "SCI Product SKU Location Combinations"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "PEXNJ3JXDHQKES4W" : {
+        "PEXNJ3JXDHQKES4W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PEXNJ3JXDHQKES4W",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PEXNJ3JXDHQKES4W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PEXNJ3JXDHQKES4W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.28 per hours for hours:USE1-hours-OP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AZBSMGYBB8B4FAC7" : {
+        "AZBSMGYBB8B4FAC7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AZBSMGYBB8B4FAC7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AZBSMGYBB8B4FAC7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AZBSMGYBB8B4FAC7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Supply Chain Data Lake, USE1-hours-OP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J8H7E5YWTVX3FQK3" : {
+        "J8H7E5YWTVX3FQK3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J8H7E5YWTVX3FQK3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "J8H7E5YWTVX3FQK3.JRTCKXETXF.DGNP37V5JW" : {
+              "rateCode" : "J8H7E5YWTVX3FQK3.JRTCKXETXF.DGNP37V5JW",
+              "description" : "Supply Chain Datalake, $0.00 up to 10GB - storage",
+              "beginRange" : "0",
+              "endRange" : "10",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "J8H7E5YWTVX3FQK3.JRTCKXETXF.XCQWNNXBHR" : {
+              "rateCode" : "J8H7E5YWTVX3FQK3.JRTCKXETXF.XCQWNNXBHR",
+              "description" : "Supply Chain Data Lake, $0.25/GB - storage",
+              "beginRange" : "10",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YGRHZQGEQ4EQMP6U" : {
+        "YGRHZQGEQ4EQMP6U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YGRHZQGEQ4EQMP6U",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YGRHZQGEQ4EQMP6U.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "YGRHZQGEQ4EQMP6U.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "Demand Planning, Tier 1, 0-100K Product SKU Location Combinations - $0.30 ea",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YGRHZQGEQ4EQMP6U.JRTCKXETXF.9H3PSG253F" : {
+              "rateCode" : "YGRHZQGEQ4EQMP6U.JRTCKXETXF.9H3PSG253F",
+              "description" : "Demand Planning, Tier 2, Next 900K Product SKU Location Combinations - $0.10 ea",
+              "beginRange" : "100000",
+              "endRange" : "1000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YGRHZQGEQ4EQMP6U.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "YGRHZQGEQ4EQMP6U.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "Demand Planning, Tier 3, Over 1M Product SKU Location Combinations - $0.035 ea",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FFFX9TJP6NFXDRN2" : {
+        "FFFX9TJP6NFXDRN2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FFFX9TJP6NFXDRN2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FFFX9TJP6NFXDRN2.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "FFFX9TJP6NFXDRN2.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "Sustainability, Tier 1, 25-1000 Data Requests - $6.00 ea",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FFFX9TJP6NFXDRN2.JRTCKXETXF.MUBTP6UPGZ" : {
+              "rateCode" : "FFFX9TJP6NFXDRN2.JRTCKXETXF.MUBTP6UPGZ",
+              "description" : "Sustainability, Tier 2, Over 1000 Data Requests - $3.00 ea",
+              "beginRange" : "1000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z5APNDQTGYFA4NJC" : {
+        "Z5APNDQTGYFA4NJC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z5APNDQTGYFA4NJC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z5APNDQTGYFA4NJC.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "Z5APNDQTGYFA4NJC.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "Supply Planning, Tier 1, 0-100K Component SKU Location Combinations - $0.30 ea",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "Z5APNDQTGYFA4NJC.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "Z5APNDQTGYFA4NJC.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "Supply Planning, Tier 2, Over 100K Component SKU Location Combinations - $0.10 ea",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VHZ5NDUZJ5DSN8CT" : {
+        "VHZ5NDUZJ5DSN8CT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VHZ5NDUZJ5DSN8CT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "Supply Chain Insights, Tier 1, 0-100K Product SKU Location Combinations - $0.40 ea",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.9H3PSG253F" : {
+              "rateCode" : "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.9H3PSG253F",
+              "description" : "Supply Chain Insights, Tier 2, Next 900K Product SKU Location Combinations - $0.13 ea",
+              "beginRange" : "100000",
+              "endRange" : "1000000",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "VHZ5NDUZJ5DSN8CT.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "Supply Chain Insights, Tier 3, Over 1M Product SKU Location Combinations - $0.05 ea",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

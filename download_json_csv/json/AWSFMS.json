@@ -1,0 +1,482 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSFMS",
+  "version" : "20250307223415",
+  "publicationDate" : "2025-03-07T22:34:15Z",
+  "products" : {
+    "S8DG464NHK7XGENE" : {
+      "sku" : "S8DG464NHK7XGENE",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Security-Group",
+        "operation" : "Common",
+        "awsresource" : "FMS-SG-Common",
+        "platoprotectionpolicytype" : "Policy-Security-Group",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "JCYUV2M8B8K3GXNY" : {
+      "sku" : "JCYUV2M8B8K3GXNY",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy",
+        "operation" : "",
+        "awsresource" : "ElasticLoadBalancing",
+        "platoprotectionpolicytype" : "Policy",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "HXHJEDHXG8Z9QVW8" : {
+      "sku" : "HXHJEDHXG8Z9QVW8",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-WAF",
+        "operation" : "WAFv2",
+        "awsresource" : "FIrewallManagerPolicy",
+        "platoprotectionpolicytype" : "Policy-WAF",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "2PFKPEB2GEC756WD" : {
+      "sku" : "2PFKPEB2GEC756WD",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Security-Group",
+        "operation" : "Usage-Audit",
+        "awsresource" : "FMS-SG-UsageAudit",
+        "platoprotectionpolicytype" : "Policy-Security-Group",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "UDZ89B4TZKCV57E3" : {
+      "sku" : "UDZ89B4TZKCV57E3",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Shield",
+        "operation" : "Shield",
+        "awsresource" : "FMS",
+        "platoprotectionpolicytype" : "Policy-Shield",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "AJENM2ZYV73KQ23G" : {
+      "sku" : "AJENM2ZYV73KQ23G",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Network-Acl-Common",
+        "operation" : "Network-Acl-Common",
+        "awsresource" : "FMS-NACL-Common",
+        "platoprotectionpolicytype" : "Policy-NACL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "NA4XKS4BTAVRYFQW" : {
+      "sku" : "NA4XKS4BTAVRYFQW",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Import-Network-Firewall",
+        "operation" : "Import-Network-Firewall",
+        "awsresource" : "FMS-NFW-Import-Policy",
+        "platoprotectionpolicytype" : "Policy-Network-Firewall",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "J69HDZG8Y3SPAJC9" : {
+      "sku" : "J69HDZG8Y3SPAJC9",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Network-Firewall",
+        "operation" : "Network-Firewall",
+        "awsresource" : "FMS-Network-Firewall",
+        "platoprotectionpolicytype" : "Policy-Network-Firewall",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "WWJMPEB2FDP8ZKG5" : {
+      "sku" : "WWJMPEB2FDP8ZKG5",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-WAF",
+        "operation" : "WAF",
+        "awsresource" : "WAF",
+        "platoprotectionpolicytype" : "Policy-WAF",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "NAN9FR7JPMD8KZ2Q" : {
+      "sku" : "NAN9FR7JPMD8KZ2Q",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-PaloAlto",
+        "operation" : "PaloAlto",
+        "awsresource" : "FMS-PaloAlto",
+        "platoprotectionpolicytype" : "Policy-PaloAlto",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "4MNPJ64ADK3GSK5G" : {
+      "sku" : "4MNPJ64ADK3GSK5G",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Fortinet",
+        "operation" : "Fortinet",
+        "awsresource" : "FMS-Fortinet",
+        "platoprotectionpolicytype" : "Policy-Fortinet",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "7TBPAGCECABT44CZ" : {
+      "sku" : "7TBPAGCECABT44CZ",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-DNS-Firewall",
+        "operation" : "DNS-Firewall",
+        "awsresource" : "FMS-DNSFirewall",
+        "platoprotectionpolicytype" : "Policy-DNS-Firewall",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    },
+    "ZHV7J6YDDV8TPY5H" : {
+      "sku" : "ZHV7J6YDDV8TPY5H",
+      "productFamily" : "Firewall Manager Policy",
+      "attributes" : {
+        "servicecode" : "AWSFMS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Policy-Security-Group",
+        "operation" : "Content-Audit",
+        "awsresource" : "FMS-SG-ContentAudit",
+        "platoprotectionpolicytype" : "Policy-Security-Group",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Firewall Manager"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "2PFKPEB2GEC756WD" : {
+        "2PFKPEB2GEC756WD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2PFKPEB2GEC756WD",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2PFKPEB2GEC756WD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2PFKPEB2GEC756WD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Security-Group:Usage-Audit in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J69HDZG8Y3SPAJC9" : {
+        "J69HDZG8Y3SPAJC9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J69HDZG8Y3SPAJC9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "J69HDZG8Y3SPAJC9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J69HDZG8Y3SPAJC9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100 per Month for Policy-Network-Firewall:Network-Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WWJMPEB2FDP8ZKG5" : {
+        "WWJMPEB2FDP8ZKG5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WWJMPEB2FDP8ZKG5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WWJMPEB2FDP8ZKG5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WWJMPEB2FDP8ZKG5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-WAF:WAF in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AJENM2ZYV73KQ23G" : {
+        "AJENM2ZYV73KQ23G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJENM2ZYV73KQ23G",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJENM2ZYV73KQ23G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJENM2ZYV73KQ23G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Network-ACL:Common in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7TBPAGCECABT44CZ" : {
+        "7TBPAGCECABT44CZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7TBPAGCECABT44CZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7TBPAGCECABT44CZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7TBPAGCECABT44CZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100 per Months for Policy-DNS-Firewall:DNS-Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Months",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4MNPJ64ADK3GSK5G" : {
+        "4MNPJ64ADK3GSK5G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4MNPJ64ADK3GSK5G",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4MNPJ64ADK3GSK5G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4MNPJ64ADK3GSK5G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Fortinet:Fortinet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NA4XKS4BTAVRYFQW" : {
+        "NA4XKS4BTAVRYFQW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NA4XKS4BTAVRYFQW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NA4XKS4BTAVRYFQW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NA4XKS4BTAVRYFQW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Import-Network-Firewall:Import-Network-Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UDZ89B4TZKCV57E3" : {
+        "UDZ89B4TZKCV57E3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UDZ89B4TZKCV57E3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UDZ89B4TZKCV57E3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UDZ89B4TZKCV57E3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Shield:Shield in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NAN9FR7JPMD8KZ2Q" : {
+        "NAN9FR7JPMD8KZ2Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NAN9FR7JPMD8KZ2Q",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NAN9FR7JPMD8KZ2Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NAN9FR7JPMD8KZ2Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Months for Policy-PaloAlto:PaloAlto in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Months",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JCYUV2M8B8K3GXNY" : {
+        "JCYUV2M8B8K3GXNY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JCYUV2M8B8K3GXNY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JCYUV2M8B8K3GXNY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JCYUV2M8B8K3GXNY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Firewall Manager Policy in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HXHJEDHXG8Z9QVW8" : {
+        "HXHJEDHXG8Z9QVW8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HXHJEDHXG8Z9QVW8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HXHJEDHXG8Z9QVW8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HXHJEDHXG8Z9QVW8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-WAF:WAFv2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S8DG464NHK7XGENE" : {
+        "S8DG464NHK7XGENE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S8DG464NHK7XGENE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "S8DG464NHK7XGENE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S8DG464NHK7XGENE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Security-Group:Common in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZHV7J6YDDV8TPY5H" : {
+        "ZHV7J6YDDV8TPY5H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZHV7J6YDDV8TPY5H",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZHV7J6YDDV8TPY5H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZHV7J6YDDV8TPY5H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100.0 per Month for Policy-Security-Group:Content-Audit in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

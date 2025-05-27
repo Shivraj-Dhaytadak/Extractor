@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIAMAccessAnalyzer",
+  "version" : "20250515192929",
+  "publicationDate" : "2025-05-15T19:29:29Z",
+  "products" : {
+    "6SJJX6D7QDDZUWZH" : {
+      "sku" : "6SJJX6D7QDDZUWZH",
+      "productFamily" : "Checks",
+      "attributes" : {
+        "servicecode" : "AWSIAMAccessAnalyzer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CustomCheck-API-Requests",
+        "operation" : "AccessCheck",
+        "checkType" : "Automated Reasoning Checks",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Identity and Access Management Access Analyzer"
+      }
+    },
+    "E85EKK7SDEFQTSZF" : {
+      "sku" : "E85EKK7SDEFQTSZF",
+      "productFamily" : "Findings",
+      "attributes" : {
+        "servicecode" : "AWSIAMAccessAnalyzer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AccessFinding-Monitored-IAM-Resources",
+        "operation" : "UnusedAccessAnalysis",
+        "findingType" : "Unused Access Finding",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Identity and Access Management Access Analyzer"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "E85EKK7SDEFQTSZF" : {
+        "E85EKK7SDEFQTSZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E85EKK7SDEFQTSZF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2 per number of monitored resources in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Number of Monitored resources",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6SJJX6D7QDDZUWZH" : {
+        "6SJJX6D7QDDZUWZH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6SJJX6D7QDDZUWZH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per API Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0020000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

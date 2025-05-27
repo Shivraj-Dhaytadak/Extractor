@@ -1,0 +1,86 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSGlueElasticViews",
+  "version" : "20230110161627",
+  "publicationDate" : "2023-01-10T16:16:27Z",
+  "products" : {
+    "36QGN763Y6D5FB7M" : {
+      "sku" : "36QGN763Y6D5FB7M",
+      "productFamily" : "PayPerRequestProcessing",
+      "attributes" : {
+        "servicecode" : "AWSGlueElasticViews",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ViewProcessingUnit",
+        "groupDescription" : "Elastic Views Pay Per Request Processing",
+        "usagetype" : "USE1-ViewProcessing-VPUHrs",
+        "operation" : "PayPerRequestProcessing",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue Elastic Views"
+      }
+    },
+    "Y5WGTJAVFQWBYJX3" : {
+      "sku" : "Y5WGTJAVFQWBYJX3",
+      "attributes" : {
+        "servicecode" : "AWSGlueElasticViews",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "EV - Table Storage",
+        "group" : "TableStorage",
+        "groupDescription" : "TimedTableStorage",
+        "usagetype" : "USE1-TimedTableStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue Elastic Views"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "36QGN763Y6D5FB7M" : {
+        "36QGN763Y6D5FB7M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "36QGN763Y6D5FB7M",
+          "effectiveDate" : "2020-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "36QGN763Y6D5FB7M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "36QGN763Y6D5FB7M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16 per VPU-Hr for View Processing in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "VPU-Hr",
+              "pricePerUnit" : {
+                "USD" : "0.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y5WGTJAVFQWBYJX3" : {
+        "Y5WGTJAVFQWBYJX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y5WGTJAVFQWBYJX3",
+          "effectiveDate" : "2020-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y5WGTJAVFQWBYJX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y5WGTJAVFQWBYJX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB-Mo for Table Storage  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

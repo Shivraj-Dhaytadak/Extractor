@@ -1,0 +1,329 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonFraudDetector",
+  "version" : "20220706230021",
+  "publicationDate" : "2022-07-06T23:00:21Z",
+  "products" : {
+    "VYQDW67F9NR6KWFM" : {
+      "sku" : "VYQDW67F9NR6KWFM",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Training",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TrainingHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "2BWX8K6T3YT6DAND" : {
+      "sku" : "2BWX8K6T3YT6DAND",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Predictions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FraudPrediction-TransactionFraudInsights",
+        "operation" : "",
+        "predictionType" : "Transaction Fraud Insights",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "RRW2G2BYBXJB4DXD" : {
+      "sku" : "RRW2G2BYBXJB4DXD",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Predictions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FraudPrediction-AccountTakeoverInsights",
+        "operation" : "",
+        "predictionType" : "Account Takeover Insights",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "49PYVMDABYZJ2K5N" : {
+      "sku" : "49PYVMDABYZJ2K5N",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Stored Dataset",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StoredDataset",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "DJ8H3RTSNR5Q6S7J" : {
+      "sku" : "DJ8H3RTSNR5Q6S7J",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Predictions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FraudPrediction-RulesOnly",
+        "operation" : "",
+        "predictionType" : "Rules Only",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "9DMEBGNCA2ABB95Z" : {
+      "sku" : "9DMEBGNCA2ABB95Z",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Hosting",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-HostingHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    },
+    "QSV7JYN3DQF7MMHR" : {
+      "sku" : "QSV7JYN3DQF7MMHR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonFraudDetector",
+        "description" : "Pricing for Amazon Fraud Detector Predictions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FraudPrediction-OnlineFraudInsights",
+        "operation" : "",
+        "predictionType" : "Online Fraud Insights",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Fraud Detector"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "9DMEBGNCA2ABB95Z" : {
+        "9DMEBGNCA2ABB95Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9DMEBGNCA2ABB95Z",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "9DMEBGNCA2ABB95Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9DMEBGNCA2ABB95Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.06 per Hr for HostingHrs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VYQDW67F9NR6KWFM" : {
+        "VYQDW67F9NR6KWFM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VYQDW67F9NR6KWFM",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "VYQDW67F9NR6KWFM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VYQDW67F9NR6KWFM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.39 per Hr for TrainingHrs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2BWX8K6T3YT6DAND" : {
+        "2BWX8K6T3YT6DAND.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2BWX8K6T3YT6DAND",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "2BWX8K6T3YT6DAND.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "2BWX8K6T3YT6DAND.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "$0.0075 per Predictions for FraudPrediction-TransactionFraudInsights in US East (N. Virginia)",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0075000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2BWX8K6T3YT6DAND.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "2BWX8K6T3YT6DAND.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$0.03 per Predictions for FraudPrediction-TransactionFraudInsights in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DJ8H3RTSNR5Q6S7J" : {
+        "DJ8H3RTSNR5Q6S7J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJ8H3RTSNR5Q6S7J",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.KJYPJPDD2A" : {
+              "rateCode" : "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.KJYPJPDD2A",
+              "description" : "USD0.005 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "400000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.4N34XG2JX8" : {
+              "rateCode" : "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.4N34XG2JX8",
+              "description" : "USD0.00125 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+              "beginRange" : "1200000",
+              "endRange" : "Inf",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0012500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.K5UKHBBPBA" : {
+              "rateCode" : "DJ8H3RTSNR5Q6S7J.JRTCKXETXF.K5UKHBBPBA",
+              "description" : "USD0.0025 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+              "beginRange" : "400000",
+              "endRange" : "1200000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RRW2G2BYBXJB4DXD" : {
+        "RRW2G2BYBXJB4DXD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RRW2G2BYBXJB4DXD",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "RRW2G2BYBXJB4DXD.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "RRW2G2BYBXJB4DXD.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "USD0.001 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RRW2G2BYBXJB4DXD.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "RRW2G2BYBXJB4DXD.JRTCKXETXF.F83EQNDM5J",
+              "description" : "USD0.0003 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0003000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RRW2G2BYBXJB4DXD.JRTCKXETXF.RTKVR6ZK95" : {
+              "rateCode" : "RRW2G2BYBXJB4DXD.JRTCKXETXF.RTKVR6ZK95",
+              "description" : "USD0.0005 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+              "beginRange" : "10000000",
+              "endRange" : "100000000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "49PYVMDABYZJ2K5N" : {
+        "49PYVMDABYZJ2K5N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "49PYVMDABYZJ2K5N",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "49PYVMDABYZJ2K5N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "49PYVMDABYZJ2K5N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per GB-month for StoredDataset in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QSV7JYN3DQF7MMHR" : {
+        "QSV7JYN3DQF7MMHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QSV7JYN3DQF7MMHR",
+          "effectiveDate" : "2022-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "QSV7JYN3DQF7MMHR.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "QSV7JYN3DQF7MMHR.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "USD0.03 per Prediction for FraudPrediction-OnlineFraudInsights in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QSV7JYN3DQF7MMHR.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "QSV7JYN3DQF7MMHR.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "USD0.0075 per Prediction for FraudPrediction-OnlineFraudInsights in US East (N. Virginia)",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Predictions",
+              "pricePerUnit" : {
+                "USD" : "0.0075000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

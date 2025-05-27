@@ -1,0 +1,453 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCloudTrail",
+  "version" : "20250311092328",
+  "publicationDate" : "2025-03-11T09:23:28Z",
+  "products" : {
+    "K87PBWEA32Q4JPF8" : {
+      "sku" : "K87PBWEA32Q4JPF8",
+      "productFamily" : "Management Tools - AWS CloudTrail Insights Events",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-InsightsEvents",
+        "operation" : "",
+        "insightstype" : "APICallVolume",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "UY4HU6NABWFCPEQF" : {
+      "sku" : "UY4HU6NABWFCPEQF",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QueryScanned-Bytes",
+        "operation" : "",
+        "category" : "QueryScanned-Bytes",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "FBCW53575BCZD9YM" : {
+      "sku" : "FBCW53575BCZD9YM",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Ingestion-Bytes",
+        "operation" : "",
+        "category" : "Ingestion-Bytes",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "KU33EAKV7VJ59YNT" : {
+      "sku" : "KU33EAKV7VJ59YNT",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeTrialIngestion-Bytes",
+        "operation" : "",
+        "category" : "FreeTrialIngestion-Bytes",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "HSTGM6MX75VC7UUF" : {
+      "sku" : "HSTGM6MX75VC7UUF",
+      "productFamily" : "Management Tools - AWS CloudTrail Paid Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidEventsRecorded",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "9XUXB2BZ569EH33R" : {
+      "sku" : "9XUXB2BZ569EH33R",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Ingestion-Bytes-1yearstore-Other-data-sources",
+        "operation" : "",
+        "category" : "Ingestion-Bytes-1yearstore-other-data-sources",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "BDZBXKSFAZDV2PPV" : {
+      "sku" : "BDZBXKSFAZDV2PPV",
+      "productFamily" : "Management Tools - AWS CloudTrail Free Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeEventsRecorded",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "8QF7CPEM9ENRC6EA" : {
+      "sku" : "8QF7CPEM9ENRC6EA",
+      "productFamily" : "Management Tools - AWS CloudTrail Data Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataEventsRecorded",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "3PQB9P8PQKRYZHC9" : {
+      "sku" : "3PQB9P8PQKRYZHC9",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidStorage-ByteHrs",
+        "operation" : "",
+        "category" : "PaidStorage-ByteHrs",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "HD4YPMJKB4BHB7WS" : {
+      "sku" : "HD4YPMJKB4BHB7WS",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeTrialQueryScanned-Bytes",
+        "operation" : "",
+        "category" : "FreeTrialQueryScanned-Bytes",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "RVJF429KT9Z5NYA9" : {
+      "sku" : "RVJF429KT9Z5NYA9",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-NetworkEventsRecorded",
+        "operation" : "",
+        "eventType" : "Network events",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "KQN6M659XRZ4UYZX" : {
+      "sku" : "KQN6M659XRZ4UYZX",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Ingestion-Bytes-1yearstore-Live-CloudTrail-Logs",
+        "operation" : "",
+        "category" : "Ingestion-Bytes-1yearstore",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "HSTGM6MX75VC7UUF" : {
+        "HSTGM6MX75VC7UUF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HSTGM6MX75VC7UUF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HSTGM6MX75VC7UUF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HSTGM6MX75VC7UUF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.00002 per paid event recorded in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3PQB9P8PQKRYZHC9" : {
+        "3PQB9P8PQKRYZHC9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3PQB9P8PQKRYZHC9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3PQB9P8PQKRYZHC9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3PQB9P8PQKRYZHC9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023/GB/month for extended retention in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K87PBWEA32Q4JPF8" : {
+        "K87PBWEA32Q4JPF8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K87PBWEA32Q4JPF8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K87PBWEA32Q4JPF8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K87PBWEA32Q4JPF8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.0000035 per event analyzed in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000035000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HD4YPMJKB4BHB7WS" : {
+        "HD4YPMJKB4BHB7WS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HD4YPMJKB4BHB7WS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HD4YPMJKB4BHB7WS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HD4YPMJKB4BHB7WS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeTrialQueryScanned-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8QF7CPEM9ENRC6EA" : {
+        "8QF7CPEM9ENRC6EA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8QF7CPEM9ENRC6EA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8QF7CPEM9ENRC6EA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8QF7CPEM9ENRC6EA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.000001 per data event recorded in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FBCW53575BCZD9YM" : {
+        "FBCW53575BCZD9YM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FBCW53575BCZD9YM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FBCW53575BCZD9YM.JRTCKXETXF.WDPN22KHCH" : {
+              "rateCode" : "FBCW53575BCZD9YM.JRTCKXETXF.WDPN22KHCH",
+              "description" : "$2.5 per GB for Ingestion-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "5120",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FBCW53575BCZD9YM.JRTCKXETXF.JGJ82SVVQY" : {
+              "rateCode" : "FBCW53575BCZD9YM.JRTCKXETXF.JGJ82SVVQY",
+              "description" : "$1 per GB for Ingestion-Bytes in US East (N. Virginia)",
+              "beginRange" : "5120",
+              "endRange" : "25600",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FBCW53575BCZD9YM.JRTCKXETXF.BK48SQ6UVE" : {
+              "rateCode" : "FBCW53575BCZD9YM.JRTCKXETXF.BK48SQ6UVE",
+              "description" : "$0.5 per GB for Ingestion-Bytes in US East (N. Virginia)",
+              "beginRange" : "25600",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UY4HU6NABWFCPEQF" : {
+        "UY4HU6NABWFCPEQF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UY4HU6NABWFCPEQF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UY4HU6NABWFCPEQF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UY4HU6NABWFCPEQF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per GB for QueryScanned-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9XUXB2BZ569EH33R" : {
+        "9XUXB2BZ569EH33R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9XUXB2BZ569EH33R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9XUXB2BZ569EH33R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9XUXB2BZ569EH33R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.5/GB for Ingestion with 1 year retention for other data sources in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KQN6M659XRZ4UYZX" : {
+        "KQN6M659XRZ4UYZX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KQN6M659XRZ4UYZX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KQN6M659XRZ4UYZX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KQN6M659XRZ4UYZX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.75/GB for Ingestion with 1 year retention for live CloudTrail logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BDZBXKSFAZDV2PPV" : {
+        "BDZBXKSFAZDV2PPV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BDZBXKSFAZDV2PPV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BDZBXKSFAZDV2PPV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BDZBXKSFAZDV2PPV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.0 per free event recorded in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RVJF429KT9Z5NYA9" : {
+        "RVJF429KT9Z5NYA9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RVJF429KT9Z5NYA9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RVJF429KT9Z5NYA9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RVJF429KT9Z5NYA9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000001 per network activity events recorded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KU33EAKV7VJ59YNT" : {
+        "KU33EAKV7VJ59YNT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KU33EAKV7VJ59YNT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KU33EAKV7VJ59YNT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KU33EAKV7VJ59YNT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeTrialIngestion-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

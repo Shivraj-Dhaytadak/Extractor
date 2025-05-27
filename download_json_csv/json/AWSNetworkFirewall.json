@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSNetworkFirewall",
+  "version" : "20250326210920",
+  "publicationDate" : "2025-03-26T21:09:20Z",
+  "products" : {
+    "M2YB3S9RC6PQZW4H" : {
+      "sku" : "M2YB3S9RC6PQZW4H",
+      "productFamily" : "AWS Firewall",
+      "attributes" : {
+        "servicecode" : "AWSNetworkFirewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Advanced-Inspection-Endpoint-Hour",
+        "operation" : "Operation:Metering",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Network Firewall",
+        "subcategory" : "Endpoint-Advanced"
+      }
+    },
+    "2S7HKK9N3AYGCJKB" : {
+      "sku" : "2S7HKK9N3AYGCJKB",
+      "productFamily" : "AWS Firewall",
+      "attributes" : {
+        "servicecode" : "AWSNetworkFirewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Advanced-Inspection-Traffic-GB-Processed",
+        "operation" : "Operation:NormalUsage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Network Firewall",
+        "subcategory" : "Throughput-Advanced"
+      }
+    },
+    "XV96EJWPVQM4WXNF" : {
+      "sku" : "XV96EJWPVQM4WXNF",
+      "productFamily" : "AWS Firewall",
+      "attributes" : {
+        "servicecode" : "AWSNetworkFirewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Traffic-GB-Processed",
+        "operation" : "Operation:NormalUsage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Network Firewall",
+        "subcategory" : "Throughput"
+      }
+    },
+    "HANDG4QVMZC2NMJY" : {
+      "sku" : "HANDG4QVMZC2NMJY",
+      "productFamily" : "AWS Firewall",
+      "attributes" : {
+        "servicecode" : "AWSNetworkFirewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Endpoint-Hour",
+        "operation" : "Operation:Metering",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Network Firewall",
+        "subcategory" : "Endpoint"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "M2YB3S9RC6PQZW4H" : {
+        "M2YB3S9RC6PQZW4H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M2YB3S9RC6PQZW4H",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.380 per endpoint hour for Advanced Inspection Endpoint Hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HANDG4QVMZC2NMJY" : {
+        "HANDG4QVMZC2NMJY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HANDG4QVMZC2NMJY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.395 per endpoint hour for AWS Network Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3950000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XV96EJWPVQM4WXNF" : {
+        "XV96EJWPVQM4WXNF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XV96EJWPVQM4WXNF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.065 per GB processed by AWS Network Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2S7HKK9N3AYGCJKB" : {
+        "2S7HKK9N3AYGCJKB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2S7HKK9N3AYGCJKB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per GB processed for Advanced Inspection Traffic GB Processed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,295 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCertificateManager",
+  "version" : "20250226233413",
+  "publicationDate" : "2025-02-26T23:34:13Z",
+  "products" : {
+    "QUYN5D2YPSC8DM6E" : {
+      "sku" : "QUYN5D2YPSC8DM6E",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Certificate Authority Free",
+        "groupDescription" : "Operation of a Private Certificate Authority with no charge",
+        "usagetype" : "USE1-FreePrivateCA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "J4VBSHBVSEAX94YN" : {
+      "sku" : "J4VBSHBVSEAX94YN",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "OCSP Response",
+        "groupDescription" : "Creating and managing OCSP responses",
+        "usagetype" : "USE1-OCSPResponseHandling",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "KGCRS6DP6RA8WP9M" : {
+      "sku" : "KGCRS6DP6RA8WP9M",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Certificate Authority Paid",
+        "groupDescription" : "Operation of a Private Certificate Authority as a paid service",
+        "usagetype" : "USE1-PaidPrivateCA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "RZVVWTUK4ENB8RGS" : {
+      "sku" : "RZVVWTUK4ENB8RGS",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "OCSP Query",
+        "groupDescription" : "OCSP Query handled by Private CA",
+        "usagetype" : "USE1-OCSPPerQuery",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "WYNC7HK4PW8UKMKD" : {
+      "sku" : "WYNC7HK4PW8UKMKD",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Short-lived Certificate Authority",
+        "groupDescription" : "Operation of a Short-Lived Certificate Private CA",
+        "usagetype" : "USE1-ShortLivedCertificatePrivateCA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "QGGJVW4E43RA24J5" : {
+      "sku" : "QGGJVW4E43RA24J5",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Short-lived Certificate Issued",
+        "groupDescription" : "Short-lived certificate issued by Private CA",
+        "usagetype" : "USE1-ShortLivedCertificatesIssued",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    },
+    "H864D2YKEEXYV9XU" : {
+      "sku" : "H864D2YKEEXYV9XU",
+      "productFamily" : "AWS Certificate Manager",
+      "attributes" : {
+        "servicecode" : "AWSCertificateManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Certificate Issued",
+        "groupDescription" : "Certificate issued by ACM",
+        "usagetype" : "USE1-PrivateCertificatesIssued",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Certificate Manager",
+        "type" : "Private"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "J4VBSHBVSEAX94YN" : {
+        "J4VBSHBVSEAX94YN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J4VBSHBVSEAX94YN",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "J4VBSHBVSEAX94YN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J4VBSHBVSEAX94YN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per certificate queried, per month for OCSP response generation in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Certificates",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RZVVWTUK4ENB8RGS" : {
+        "RZVVWTUK4ENB8RGS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RZVVWTUK4ENB8RGS",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RZVVWTUK4ENB8RGS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RZVVWTUK4ENB8RGS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per 100,000 OCSP Queries in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KGCRS6DP6RA8WP9M" : {
+        "KGCRS6DP6RA8WP9M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KGCRS6DP6RA8WP9M",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "KGCRS6DP6RA8WP9M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KGCRS6DP6RA8WP9M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$400 monthly charge for AWS Private CA (General-purpose mode) operation in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CertificateAuthorities",
+              "pricePerUnit" : {
+                "USD" : "400.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QGGJVW4E43RA24J5" : {
+        "QGGJVW4E43RA24J5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QGGJVW4E43RA24J5",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QGGJVW4E43RA24J5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QGGJVW4E43RA24J5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.058 per certificate (Short-lived certificate mode CA) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Certificates",
+              "pricePerUnit" : {
+                "USD" : "0.0580000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WYNC7HK4PW8UKMKD" : {
+        "WYNC7HK4PW8UKMKD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WYNC7HK4PW8UKMKD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WYNC7HK4PW8UKMKD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WYNC7HK4PW8UKMKD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$50 monthly charge for AWS Private CA (Short-lived certificate mode) operation in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CertificateAuthorities",
+              "pricePerUnit" : {
+                "USD" : "50.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QUYN5D2YPSC8DM6E" : {
+        "QUYN5D2YPSC8DM6E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QUYN5D2YPSC8DM6E",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QUYN5D2YPSC8DM6E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QUYN5D2YPSC8DM6E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 monthly charge for AWS Private CA operation - 30 day trial in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CertificateAuthorities",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H864D2YKEEXYV9XU" : {
+        "H864D2YKEEXYV9XU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H864D2YKEEXYV9XU",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "H864D2YKEEXYV9XU.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "H864D2YKEEXYV9XU.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "$0.75 per certificate for the first 1,000 certs (General-purpose mode CA) in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Certificates",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "H864D2YKEEXYV9XU.JRTCKXETXF.FA59GSBSCH" : {
+              "rateCode" : "H864D2YKEEXYV9XU.JRTCKXETXF.FA59GSBSCH",
+              "description" : "$0.35 per certificate for the next 1,001 to 10,000 certs (General-purpose mode CA) in US East (N.Virginia)",
+              "beginRange" : "1000",
+              "endRange" : "10000",
+              "unit" : "Certificates",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "H864D2YKEEXYV9XU.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "H864D2YKEEXYV9XU.JRTCKXETXF.B536CJ4M58",
+              "description" : "$0.001 per certificate for 10,001 or more certs (General-purpose mode CA) in US East (N.Virginia)",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "Certificates",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

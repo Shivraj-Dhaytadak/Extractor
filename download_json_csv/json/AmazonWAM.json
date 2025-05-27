@@ -1,0 +1,158 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonWAM",
+  "version" : "20230131105553",
+  "publicationDate" : "2023-01-31T10:55:53Z",
+  "products" : {
+    "Q7WTZ7BTSEYN88NZ" : {
+      "sku" : "Q7WTZ7BTSEYN88NZ",
+      "productFamily" : "WorkSpaces Application Manager",
+      "attributes" : {
+        "servicecode" : "AmazonWAM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Amazon WAM Line of Business",
+        "usagetype" : "USE1-WAM-LOB",
+        "operation" : "",
+        "planType" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkSpaces Application Manager"
+      }
+    },
+    "3Q9FMAFJH9YJS9T4" : {
+      "sku" : "3Q9FMAFJH9YJS9T4",
+      "productFamily" : "WorkSpaces Application Manager",
+      "attributes" : {
+        "servicecode" : "AmazonWAM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Amazon WAM Service Entitlement",
+        "usagetype" : "USE1-WAM-SE",
+        "operation" : "",
+        "planType" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkSpaces Application Manager"
+      }
+    },
+    "BMZBHJNGKDXSDDQP" : {
+      "sku" : "BMZBHJNGKDXSDDQP",
+      "productFamily" : "WorkSpaces Application Manager",
+      "attributes" : {
+        "servicecode" : "AmazonWAM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Amazon WAM Lite",
+        "usagetype" : "USE1-WAM-LITE",
+        "operation" : "",
+        "planType" : "Lite",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkSpaces Application Manager"
+      }
+    },
+    "AKEVEUB9F8WY83R8" : {
+      "sku" : "AKEVEUB9F8WY83R8",
+      "productFamily" : "WorkSpaces Application Manager",
+      "attributes" : {
+        "servicecode" : "AmazonWAM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Amazon WAM Standard",
+        "usagetype" : "USE1-WAM-STD",
+        "operation" : "",
+        "planType" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkSpaces Application Manager"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "Q7WTZ7BTSEYN88NZ" : {
+        "Q7WTZ7BTSEYN88NZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q7WTZ7BTSEYN88NZ",
+          "effectiveDate" : "2016-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q7WTZ7BTSEYN88NZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q7WTZ7BTSEYN88NZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per user per app per month US-East-1 Region WAM app fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UserApp-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BMZBHJNGKDXSDDQP" : {
+        "BMZBHJNGKDXSDDQP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BMZBHJNGKDXSDDQP",
+          "effectiveDate" : "2016-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BMZBHJNGKDXSDDQP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BMZBHJNGKDXSDDQP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per user assignment per month US-East-1 Region WAM LITE subscription fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3Q9FMAFJH9YJS9T4" : {
+        "3Q9FMAFJH9YJS9T4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3Q9FMAFJH9YJS9T4",
+          "effectiveDate" : "2016-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "3Q9FMAFJH9YJS9T4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3Q9FMAFJH9YJS9T4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per user per month US-East-1 Region WAM subscription fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AKEVEUB9F8WY83R8" : {
+        "AKEVEUB9F8WY83R8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AKEVEUB9F8WY83R8",
+          "effectiveDate" : "2016-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "AKEVEUB9F8WY83R8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AKEVEUB9F8WY83R8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.00 per user assignment per month US-East-1 Region WAM STD subscription fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

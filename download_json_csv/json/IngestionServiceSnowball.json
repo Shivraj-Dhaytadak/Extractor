@@ -1,0 +1,869 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "IngestionServiceSnowball",
+  "version" : "20250106223116",
+  "publicationDate" : "2025-01-06T22:31:16Z",
+  "products" : {
+    "XNHC9UKSU3PRB3FC" : {
+      "sku" : "XNHC9UKSU3PRB3FC",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-SBE-compute-Service-Ship",
+        "operation" : "",
+        "1yearPrice" : "29200",
+        "3yearPrice" : "60225",
+        "deviceDescription" : "Snowball Edge Compute Optimized with EC2 Compute Instances",
+        "extraDayFee" : "125",
+        "freeDays" : "10",
+        "jobFee" : "1250",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    },
+    "M3NJSYZ75Z6QEPM3" : {
+      "sku" : "M3NJSYZ75Z6QEPM3",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowball-Edge-Service-Ship",
+        "operation" : "",
+        "deviceDescription" : "Snowball Edge Storage Optimized Data Transfer Only",
+        "extraDayFee" : "30",
+        "freeDays" : "10",
+        "jobFee" : "300",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowball Edge SO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge"
+      }
+    },
+    "JRHAYHFYEDG6HY4U" : {
+      "sku" : "JRHAYHFYEDG6HY4U",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-CO-104vCPU-MonthlyFee",
+        "operation" : "",
+        "jobnshipp" : "Monthly_104",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    },
+    "G5E9257WGVYGU424" : {
+      "sku" : "G5E9257WGVYGU424",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-Storage-ReplaceJobFee",
+        "operation" : "",
+        "jobFee" : "500",
+        "jobnshipp" : "Replacement",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge with EC2"
+      }
+    },
+    "QYJBBC2EMNJFQFZ4" : {
+      "sku" : "QYJBBC2EMNJFQFZ4",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-CO-52vCPU-1YearFee",
+        "operation" : "",
+        "jobnshipp" : "Yearly_52",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    },
+    "XBNTN4NJT47GT2Y2" : {
+      "sku" : "XBNTN4NJT47GT2Y2",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-SO-Service-Ship-100TB",
+        "operation" : "",
+        "deviceDescription" : "Snowball Edge Storage Optimized up to 100TB Data Transfer",
+        "extraDayFee" : "250",
+        "freeDays" : "15",
+        "jobFee" : "1800",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowball Edge SO - 210TB",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge_V3_5S"
+      }
+    },
+    "RTHUXBCQ3N4QCZPW" : {
+      "sku" : "RTHUXBCQ3N4QCZPW",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-SO-V35S-Service-Ship",
+        "operation" : "",
+        "deviceDescription" : "Snowball Edge Storage Optimized 210TB - Data Transfer Only",
+        "extraDayFee" : "250",
+        "freeDays" : "15",
+        "jobFee" : "3200",
+        "jobnshipp" : "Monthly",
+        "platosnowballtype" : "Snowball Edge SO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge_V3_5S"
+      }
+    },
+    "239NAAFD86VMMQPN" : {
+      "sku" : "239NAAFD86VMMQPN",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-S3SnowEdgeCompute-MonthlyFee",
+        "operation" : "",
+        "jobnshipp" : "Monthly",
+        "platosnowballtype" : "does not apply",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "does not apply"
+      }
+    },
+    "M5G5GVUYPMZG7ZN2" : {
+      "sku" : "M5G5GVUYPMZG7ZN2",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-SSD-Service-Ship",
+        "operation" : "",
+        "jobnshipp" : "Separate",
+        "platosnowballtype" : "Snowcone",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Snowcone SSD"
+      }
+    },
+    "2U55EJ4Y8CA7KRMR" : {
+      "sku" : "2U55EJ4Y8CA7KRMR",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-Monthly-Rental",
+        "operation" : "",
+        "jobnshipp" : "Monthly",
+        "platosnowballtype" : "Snowcone",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Snowcone"
+      }
+    },
+    "ZQSRBYK7MXAJGWHZ" : {
+      "sku" : "ZQSRBYK7MXAJGWHZ",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Snowball-Service-Fee-N-Shipping",
+        "operation" : "",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowball Edge SO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Standard"
+      }
+    },
+    "8AHNB5CFDYA3BUEK" : {
+      "sku" : "8AHNB5CFDYA3BUEK",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "group" : "Data Transfer",
+        "groupDescription" : "Snowball Data Transfer Charge",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "Snowball-Data-Transfer-Charge",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "platosnowballtype" : "Snowball Edge SO",
+        "servicename" : "AWS Import/Export Snowball",
+        "toRegionCode" : ""
+      }
+    },
+    "2Y8A57NM9GMH68GB" : {
+      "sku" : "2Y8A57NM9GMH68GB",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-SO-V35S-1YearFee",
+        "operation" : "",
+        "deviceDescription" : "Snowball Edge Storage Optimized 210TB-Yearly",
+        "extraDayFee" : "0",
+        "freeDays" : "0",
+        "jobFee" : "97268",
+        "jobnshipp" : "Annual",
+        "platosnowballtype" : "Snowball Edge SO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge_V3_5S"
+      }
+    },
+    "3KWBYCHMTTPKHY5K" : {
+      "sku" : "3KWBYCHMTTPKHY5K",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-Service-Ship",
+        "operation" : "",
+        "deviceDescription" : "Snowcone",
+        "extraDayFee" : "6",
+        "freeDays" : "5",
+        "jobFee" : "60",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowcone",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Snowcone"
+      }
+    },
+    "RW3P3C5YP8GA2Z6X" : {
+      "sku" : "RW3P3C5YP8GA2Z6X",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-SO-V35S-MonthlyFee",
+        "operation" : "",
+        "deviceDescription" : "Snowball Edge Storage Optimized 210TB-Monthly",
+        "extraDayFee" : "0",
+        "freeDays" : "0",
+        "jobFee" : "9885",
+        "jobnshipp" : "MonthlyE_104",
+        "platosnowballtype" : "Snowball Edge SO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge_V3_5S"
+      }
+    },
+    "XZ3WKPQ8XBSUVG2M" : {
+      "sku" : "XZ3WKPQ8XBSUVG2M",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-S3SnowEdgeCompute-1YearFee",
+        "operation" : "",
+        "jobnshipp" : "Annual",
+        "platosnowballtype" : "does not apply",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "does not apply"
+      }
+    },
+    "6PH29JP7F3TCGEC8" : {
+      "sku" : "6PH29JP7F3TCGEC8",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-SBE-EC2-Service-Ship",
+        "operation" : "",
+        "1yearPrice" : "15330",
+        "3yearPrice" : "38325",
+        "deviceDescription" : "Snowball Edge Storage Optimized with EC2 Compute Instances",
+        "extraDayFee" : "50",
+        "freeDays" : "10",
+        "jobFee" : "500",
+        "jobnshipp" : "Combined",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Edge with EC2"
+      }
+    },
+    "XSQVRGAX4CQBGCCJ" : {
+      "sku" : "XSQVRGAX4CQBGCCJ",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-CO-52vCPU-MonthlyFee",
+        "operation" : "",
+        "jobnshipp" : "Monthly_52",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    },
+    "XMGWYJPSY4UA5TXB" : {
+      "sku" : "XMGWYJPSY4UA5TXB",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-CO-104vCPU-1YearFee",
+        "operation" : "",
+        "jobnshipp" : "Yearly_104",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    },
+    "B3VM4Z5W3CZM4CEN" : {
+      "sku" : "B3VM4Z5W3CZM4CEN",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "IAD-Snowcone-SSD-Monthly-Rental",
+        "operation" : "",
+        "jobnshipp" : "Monthly",
+        "platosnowballtype" : "Snowcone",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "Snowcone SSD"
+      }
+    },
+    "Z95QBM4S64FB937W" : {
+      "sku" : "Z95QBM4S64FB937W",
+      "productFamily" : "Snowball Device",
+      "attributes" : {
+        "servicecode" : "IngestionServiceSnowball",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Service and Shipping",
+        "groupDescription" : "Snowball Service Fee per Job and Shipping",
+        "usagetype" : "IAD-SBE-Compute-ReplaceJobFee",
+        "operation" : "",
+        "jobFee" : "1250",
+        "jobnshipp" : "Replacement",
+        "platosnowballtype" : "Snowball Edge CO",
+        "regionCode" : "us-east-1",
+        "releaseType" : "Full Launch",
+        "servicename" : "AWS Import/Export Snowball",
+        "snowballType" : "SBE Compute Optimized"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "XNHC9UKSU3PRB3FC" : {
+        "XNHC9UKSU3PRB3FC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XNHC9UKSU3PRB3FC",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XNHC9UKSU3PRB3FC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XNHC9UKSU3PRB3FC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Compute Optimized Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Jobs",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M3NJSYZ75Z6QEPM3" : {
+        "M3NJSYZ75Z6QEPM3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M3NJSYZ75Z6QEPM3",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "M3NJSYZ75Z6QEPM3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M3NJSYZ75Z6QEPM3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RTHUXBCQ3N4QCZPW" : {
+        "RTHUXBCQ3N4QCZPW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RTHUXBCQ3N4QCZPW",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RTHUXBCQ3N4QCZPW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RTHUXBCQ3N4QCZPW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized 210TB Service and Ship Fee - Us-east-1 - N.Vriginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2U55EJ4Y8CA7KRMR" : {
+        "2U55EJ4Y8CA7KRMR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2U55EJ4Y8CA7KRMR",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2U55EJ4Y8CA7KRMR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2U55EJ4Y8CA7KRMR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$150 per Job per month for Snowcone",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "150.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3KWBYCHMTTPKHY5K" : {
+        "3KWBYCHMTTPKHY5K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3KWBYCHMTTPKHY5K",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "3KWBYCHMTTPKHY5K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3KWBYCHMTTPKHY5K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowcone Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JRHAYHFYEDG6HY4U" : {
+        "JRHAYHFYEDG6HY4U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JRHAYHFYEDG6HY4U",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "JRHAYHFYEDG6HY4U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JRHAYHFYEDG6HY4U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5,038 per Job per month for Snowball Edge Compute Optimized with 104 vCPU",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "5038.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XMGWYJPSY4UA5TXB" : {
+        "XMGWYJPSY4UA5TXB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XMGWYJPSY4UA5TXB",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XMGWYJPSY4UA5TXB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XMGWYJPSY4UA5TXB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$37,960 per Job per year for Snowball Edge Compute Optimized with 104 vCPU",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "37960.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2Y8A57NM9GMH68GB" : {
+        "2Y8A57NM9GMH68GB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2Y8A57NM9GMH68GB",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2Y8A57NM9GMH68GB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2Y8A57NM9GMH68GB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$97268 per job per year Snowball Edge Storage Optimized 210TB  - Us-east-1 - N.Vriginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "97268.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "239NAAFD86VMMQPN" : {
+        "239NAAFD86VMMQPN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "239NAAFD86VMMQPN",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "239NAAFD86VMMQPN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "239NAAFD86VMMQPN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB per month for S3 compatible storage on Snow",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M5G5GVUYPMZG7ZN2" : {
+        "M5G5GVUYPMZG7ZN2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M5G5GVUYPMZG7ZN2",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "M5G5GVUYPMZG7ZN2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M5G5GVUYPMZG7ZN2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowcone SSD Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6PH29JP7F3TCGEC8" : {
+        "6PH29JP7F3TCGEC8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6PH29JP7F3TCGEC8",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "6PH29JP7F3TCGEC8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6PH29JP7F3TCGEC8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized with EC2 Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8AHNB5CFDYA3BUEK" : {
+        "8AHNB5CFDYA3BUEK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8AHNB5CFDYA3BUEK",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "8AHNB5CFDYA3BUEK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8AHNB5CFDYA3BUEK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Service Data Export Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RW3P3C5YP8GA2Z6X" : {
+        "RW3P3C5YP8GA2Z6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RW3P3C5YP8GA2Z6X",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RW3P3C5YP8GA2Z6X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RW3P3C5YP8GA2Z6X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9885 per job per month for Snowball Edge Storage Optimized 210TB - Us-east-1 - N.Vriginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "9885.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZQSRBYK7MXAJGWHZ" : {
+        "ZQSRBYK7MXAJGWHZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZQSRBYK7MXAJGWHZ",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZQSRBYK7MXAJGWHZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZQSRBYK7MXAJGWHZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Service and Ship Fee - US-East-1 - N. Virginia",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XSQVRGAX4CQBGCCJ" : {
+        "XSQVRGAX4CQBGCCJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XSQVRGAX4CQBGCCJ",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XSQVRGAX4CQBGCCJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XSQVRGAX4CQBGCCJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3,875 per Job per month for Snowball Edge Compute Optimized with 52 vCPU",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "3875.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G5E9257WGVYGU424" : {
+        "G5E9257WGVYGU424.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G5E9257WGVYGU424",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "G5E9257WGVYGU424.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G5E9257WGVYGU424.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Replacement job fee for Snowball Edge Storage Optimized with EC2",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Jobs",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QYJBBC2EMNJFQFZ4" : {
+        "QYJBBC2EMNJFQFZ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QYJBBC2EMNJFQFZ4",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "QYJBBC2EMNJFQFZ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QYJBBC2EMNJFQFZ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$29,200 per Job per year for Snowball Edge Compute Optimized with 52 vCPU",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "29200.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B3VM4Z5W3CZM4CEN" : {
+        "B3VM4Z5W3CZM4CEN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B3VM4Z5W3CZM4CEN",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "B3VM4Z5W3CZM4CEN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B3VM4Z5W3CZM4CEN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$400 per Job per month for Snowcone SSD",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "400.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XBNTN4NJT47GT2Y2" : {
+        "XBNTN4NJT47GT2Y2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XBNTN4NJT47GT2Y2",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XBNTN4NJT47GT2Y2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XBNTN4NJT47GT2Y2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Snowball Edge Storage Optimized up to 100TB Service and Ship Fee-us-east-1-iAD",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "job",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XZ3WKPQ8XBSUVG2M" : {
+        "XZ3WKPQ8XBSUVG2M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XZ3WKPQ8XBSUVG2M",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XZ3WKPQ8XBSUVG2M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XZ3WKPQ8XBSUVG2M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.12 per GB per year for S3 compatible storage on Snow",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z95QBM4S64FB937W" : {
+        "Z95QBM4S64FB937W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z95QBM4S64FB937W",
+          "effectiveDate" : "2025-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z95QBM4S64FB937W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z95QBM4S64FB937W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Replacement job fee for Snowball Edge Compute Optimized",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Jobs",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

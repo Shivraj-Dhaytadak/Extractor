@@ -1,0 +1,121 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonAthena",
+  "version" : "20250415220432",
+  "publicationDate" : "2025-04-15T22:04:32Z",
+  "products" : {
+    "B6WHE3FUNCDQVVX4" : {
+      "sku" : "B6WHE3FUNCDQVVX4",
+      "productFamily" : "Athena Queries",
+      "attributes" : {
+        "servicecode" : "AmazonAthena",
+        "description" : "Charged for total data scanned per query with a minimum 10MB for each successful or cancelled queries",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataScannedInTB",
+        "operation" : "",
+        "freeQueryTypes" : "Data definition queries (DDL), Failed Queries and statements used to create or load partitions",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Athena"
+      }
+    },
+    "53ZU6HBD9YNUAYSE" : {
+      "sku" : "53ZU6HBD9YNUAYSE",
+      "productFamily" : "Athena Spark",
+      "attributes" : {
+        "servicecode" : "AmazonAthena",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CodeExecutionInDPUHours",
+        "operation" : "Spark_Execution",
+        "nodeSize" : "1",
+        "nodeType" : "NA",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Athena"
+      }
+    },
+    "B86URYJPE2VCMXMC" : {
+      "sku" : "B86URYJPE2VCMXMC",
+      "productFamily" : "Athena Queries",
+      "attributes" : {
+        "servicecode" : "AmazonAthena",
+        "description" : "Data Processing Units (DPU) in hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ReservedCapacityInDPUHours",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Athena"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "B6WHE3FUNCDQVVX4" : {
+        "B6WHE3FUNCDQVVX4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B6WHE3FUNCDQVVX4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "B6WHE3FUNCDQVVX4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B6WHE3FUNCDQVVX4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "5.00 USD per Terabytes for DataScannedInTB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Terabytes",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B86URYJPE2VCMXMC" : {
+        "B86URYJPE2VCMXMC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B86URYJPE2VCMXMC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "B86URYJPE2VCMXMC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B86URYJPE2VCMXMC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.30 USD per DPU-Hour for ReservedCapacityInDPUHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "53ZU6HBD9YNUAYSE" : {
+        "53ZU6HBD9YNUAYSE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "53ZU6HBD9YNUAYSE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "53ZU6HBD9YNUAYSE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "53ZU6HBD9YNUAYSE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.35 USD per DPU-Hour for CodeExecutionInDPUHours:Spark_Execution in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

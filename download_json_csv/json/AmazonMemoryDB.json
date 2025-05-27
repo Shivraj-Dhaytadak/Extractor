@@ -1,0 +1,5101 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMemoryDB",
+  "version" : "20250326233433",
+  "publicationDate" : "2025-03-26T23:34:33Z",
+  "products" : {
+    "VF8ATS53Z65TMQP9" : {
+      "sku" : "VF8ATS53Z65TMQP9",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.t4g.medium",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "General purpose",
+        "vcpu" : "2",
+        "memory" : "3.09",
+        "networkPerformance" : "Up to 5",
+        "usagetype" : "USE1-NodeUsage:db.t4g.medium",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "CE5GUDDVFYXSYWTA" : {
+      "sku" : "CE5GUDDVFYXSYWTA",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "Any",
+        "locationType" : "Other",
+        "usagetype" : "Global-DataWritten",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "regionCode" : "",
+        "servicename" : "Amazon MemoryDB",
+        "type" : "Data Written"
+      }
+    },
+    "8ZNRJ3KYV76TVDCT" : {
+      "sku" : "8ZNRJ3KYV76TVDCT",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.2xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "7WAV3WNFQSNV27R7" : {
+      "sku" : "7WAV3WNFQSNV27R7",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "usagetype" : "USE1-MemoryDB-Out-Bytes:Valkey",
+        "operation" : "MultiRegion",
+        "engine" : "Valkey",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "8QFAVHXK67UGQV5B" : {
+      "sku" : "8QFAVHXK67UGQV5B",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "ZMJS45J9W2Z3EWBR" : {
+      "sku" : "ZMJS45J9W2Z3EWBR",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.4xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "398.14"
+      }
+    },
+    "NT7JWJTK6Q2BP79S" : {
+      "sku" : "NT7JWJTK6Q2BP79S",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "Amazon S3",
+        "usagetype" : "USE1-SnapshotUsage",
+        "operation" : "CreateSnapshot",
+        "engine" : "Redis",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "S94KT7MSGMR8MSDU" : {
+      "sku" : "S94KT7MSGMR8MSDU",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.4xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "XYWNS7DTNUHCNATW" : {
+      "sku" : "XYWNS7DTNUHCNATW",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 12.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "W8TY9BGAFEDD8UVU" : {
+      "sku" : "W8TY9BGAFEDD8UVU",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "64",
+        "memory" : "419.09",
+        "networkPerformance" : "25",
+        "usagetype" : "USE1-NodeUsage:db.r6g.16xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "K2AXB272RRXFZYGC" : {
+      "sku" : "K2AXB272RRXFZYGC",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.2xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "199.07"
+      }
+    },
+    "P39UEXK4WCC6SSS3" : {
+      "sku" : "P39UEXK4WCC6SSS3",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "99.33"
+      }
+    },
+    "WCHG96QRRFVDV4ZG" : {
+      "sku" : "WCHG96QRRFVDV4ZG",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.4xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "DV98B3FSF4QPA28P" : {
+      "sku" : "DV98B3FSF4QPA28P",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.4xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "398.14"
+      }
+    },
+    "HPH2V2Q4CFFXM2Q2" : {
+      "sku" : "HPH2V2Q4CFFXM2Q2",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "48",
+        "memory" : "317.77",
+        "networkPerformance" : "22.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.12xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "77PCEVUVADC2DJDH" : {
+      "sku" : "77PCEVUVADC2DJDH",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "3TWAJHFHDN6G93TV" : {
+      "sku" : "3TWAJHFHDN6G93TV",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "2",
+        "memory" : "13.07",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.large",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "YWNGPWF9AJ9YS5UW" : {
+      "sku" : "YWNGPWF9AJ9YS5UW",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataWritten:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "type" : "Data Written"
+      }
+    },
+    "AZJEPYYW43EFKC67" : {
+      "sku" : "AZJEPYYW43EFKC67",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.4xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "3QBZ8RX848THYSUH" : {
+      "sku" : "3QBZ8RX848THYSUH",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "16",
+        "memory" : "105.81",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.4xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "2BFCDBVMCWFACUWC" : {
+      "sku" : "2BFCDBVMCWFACUWC",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "Amazon S3",
+        "usagetype" : "USE1-SnapshotUsage:Valkey",
+        "operation" : "CreateSnapshot",
+        "engine" : "Valkey",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "SZZBUS94R4ZMF2B8" : {
+      "sku" : "SZZBUS94R4ZMF2B8",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "12",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.8xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "796.28"
+      }
+    },
+    "F8S9RTY79Q4QXNV6" : {
+      "sku" : "F8S9RTY79Q4QXNV6",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "48",
+        "memory" : "317.77",
+        "networkPerformance" : "22.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.12xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "656T4GM4KVWYQ4M9" : {
+      "sku" : "656T4GM4KVWYQ4M9",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "12",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.8xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "796.28"
+      }
+    },
+    "JG3PZC97AZNFVVXM" : {
+      "sku" : "JG3PZC97AZNFVVXM",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.2xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "199.07"
+      }
+    },
+    "M33ZURWM7Z995JWS" : {
+      "sku" : "M33ZURWM7Z995JWS",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6gd.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6gd.xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "ssd" : "99.33"
+      }
+    },
+    "PJNN9FCB65WP5HGK" : {
+      "sku" : "PJNN9FCB65WP5HGK",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataWritten",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB",
+        "type" : "Data Written"
+      }
+    },
+    "MWEEP5PZHCZR2JQ9" : {
+      "sku" : "MWEEP5PZHCZR2JQ9",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.2xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "K7UE4EAX6QCU478P" : {
+      "sku" : "K7UE4EAX6QCU478P",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "4",
+        "memory" : "26.32",
+        "networkPerformance" : "Up to 12.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "9JARY365A6QBWZCH" : {
+      "sku" : "9JARY365A6QBWZCH",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.t4g.small",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "General purpose",
+        "vcpu" : "2",
+        "memory" : "1.37",
+        "networkPerformance" : "Up to 5",
+        "usagetype" : "USE1-NodeUsage:db.t4g.small",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "1",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "ZUTZF4HZPECAPEK8" : {
+      "sku" : "ZUTZF4HZPECAPEK8",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.2xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "JK7WA6BHKUR3WNWV" : {
+      "sku" : "JK7WA6BHKUR3WNWV",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "64",
+        "memory" : "419.09",
+        "networkPerformance" : "30",
+        "usagetype" : "USE1-NodeUsage:db.r7g.16xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "9UEWS9Q7EASJNYCS" : {
+      "sku" : "9UEWS9Q7EASJNYCS",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "12",
+        "usagetype" : "USE1-NodeUsage:db.r6g.8xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "GEASPVT7WWEJR8YG" : {
+      "sku" : "GEASPVT7WWEJR8YG",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "48",
+        "memory" : "317.77",
+        "networkPerformance" : "20",
+        "usagetype" : "USE1-NodeUsage:db.r6g.12xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "T8MQ5KT3PRUQW74Z" : {
+      "sku" : "T8MQ5KT3PRUQW74Z",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.8xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "5WM34A7VQWD4G2NK" : {
+      "sku" : "5WM34A7VQWD4G2NK",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "2",
+        "memory" : "13.07",
+        "networkPerformance" : "Up to 10",
+        "usagetype" : "USE1-NodeUsage:db.r6g.large:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "38QAM5PCMHW9GW4X" : {
+      "sku" : "38QAM5PCMHW9GW4X",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "8",
+        "memory" : "52.82",
+        "networkPerformance" : "Up to 15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.2xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "76BS3FPTDBD9JYQ4" : {
+      "sku" : "76BS3FPTDBD9JYQ4",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "2",
+        "memory" : "13.07",
+        "networkPerformance" : "Up to 12.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.large",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "EQDDW4X87JMPH34J" : {
+      "sku" : "EQDDW4X87JMPH34J",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.t4g.medium",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "General purpose",
+        "vcpu" : "2",
+        "memory" : "3.09",
+        "networkPerformance" : "Up to 5",
+        "usagetype" : "USE1-NodeUsage:db.t4g.medium:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "VGP8B2VECBDGTVKF" : {
+      "sku" : "VGP8B2VECBDGTVKF",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "64",
+        "memory" : "419.09",
+        "networkPerformance" : "30",
+        "usagetype" : "USE1-NodeUsage:db.r7g.16xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "TEZX8NZHCHNDERQ2" : {
+      "sku" : "TEZX8NZHCHNDERQ2",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.t4g.small",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "General purpose",
+        "vcpu" : "2",
+        "memory" : "1.37",
+        "networkPerformance" : "Up to 5",
+        "usagetype" : "USE1-NodeUsage:db.t4g.small:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "1",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "F6TU4DJAQHQD7GB8" : {
+      "sku" : "F6TU4DJAQHQD7GB8",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "64",
+        "memory" : "419.09",
+        "networkPerformance" : "25",
+        "usagetype" : "USE1-NodeUsage:db.r6g.16xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "FSX57RVPUDF7R56E" : {
+      "sku" : "FSX57RVPUDF7R56E",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "48",
+        "memory" : "317.77",
+        "networkPerformance" : "20",
+        "usagetype" : "USE1-NodeUsage:db.r6g.12xlarge:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "WWFY8KWSCSEEYDCB" : {
+      "sku" : "WWFY8KWSCSEEYDCB",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r6g.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "12",
+        "usagetype" : "USE1-NodeUsage:db.r6g.8xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "9Q62NPKVG3YBBX2R" : {
+      "sku" : "9Q62NPKVG3YBBX2R",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "32",
+        "memory" : "209.55",
+        "networkPerformance" : "15",
+        "usagetype" : "USE1-NodeUsage:db.r7g.8xlarge",
+        "operation" : "CreateCluster",
+        "engine" : "Redis",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    },
+    "FR8PTRK3KEFVGG6Y" : {
+      "sku" : "FR8PTRK3KEFVGG6Y",
+      "productFamily" : "Amazon MemoryDB",
+      "attributes" : {
+        "servicecode" : "AmazonMemoryDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.r7g.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "Memory optimized",
+        "vcpu" : "2",
+        "memory" : "13.07",
+        "networkPerformance" : "Up to 12.5",
+        "usagetype" : "USE1-NodeUsage:db.r7g.large:Valkey",
+        "operation" : "CreateCluster",
+        "engine" : "Valkey",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MemoryDB"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "PJNN9FCB65WP5HGK" : {
+        "PJNN9FCB65WP5HGK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PJNN9FCB65WP5HGK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PJNN9FCB65WP5HGK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PJNN9FCB65WP5HGK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.200 per GB for Data Written in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JG3PZC97AZNFVVXM" : {
+        "JG3PZC97AZNFVVXM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.848 per Memory optimized r6gd.2xlarge node hour with data tiering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.8480000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9JARY365A6QBWZCH" : {
+        "9JARY365A6QBWZCH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9JARY365A6QBWZCH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9JARY365A6QBWZCH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9JARY365A6QBWZCH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.048 per General purpose t4g.small node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0480000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2BFCDBVMCWFACUWC" : {
+        "2BFCDBVMCWFACUWC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2BFCDBVMCWFACUWC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2BFCDBVMCWFACUWC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2BFCDBVMCWFACUWC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.021 per additional GB-month of backup storage exceeding free allocation in US East (N. Virginia) for Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "77PCEVUVADC2DJDH" : {
+        "77PCEVUVADC2DJDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "77PCEVUVADC2DJDH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "77PCEVUVADC2DJDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "77PCEVUVADC2DJDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4319 per Memory optimized r6g.xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4319000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HPH2V2Q4CFFXM2Q2" : {
+        "HPH2V2Q4CFFXM2Q2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.388 per Memory optimized r7g.12xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.3880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XYWNS7DTNUHCNATW" : {
+        "XYWNS7DTNUHCNATW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XYWNS7DTNUHCNATW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XYWNS7DTNUHCNATW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XYWNS7DTNUHCNATW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4319 per Memory optimized r7g.xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4319000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WCHG96QRRFVDV4ZG" : {
+        "WCHG96QRRFVDV4ZG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WCHG96QRRFVDV4ZG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WCHG96QRRFVDV4ZG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WCHG96QRRFVDV4ZG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.7241 per Memory optimized r7g.4xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7241000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F8S9RTY79Q4QXNV6" : {
+        "F8S9RTY79Q4QXNV6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F8S9RTY79Q4QXNV6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "F8S9RTY79Q4QXNV6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F8S9RTY79Q4QXNV6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.1716 per Memory optimized r7g.12xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.1716000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5WM34A7VQWD4G2NK" : {
+        "5WM34A7VQWD4G2NK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5WM34A7VQWD4G2NK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5WM34A7VQWD4G2NK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5WM34A7VQWD4G2NK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2163 per Memory optimized r6g.large node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2163000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "656T4GM4KVWYQ4M9" : {
+        "656T4GM4KVWYQ4M9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "656T4GM4KVWYQ4M9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "656T4GM4KVWYQ4M9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "656T4GM4KVWYQ4M9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.1723 per Memory optimized r6gd.8xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.1723000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZUTZF4HZPECAPEK8" : {
+        "ZUTZF4HZPECAPEK8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.232 per Memory optimized r6g.2xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2320000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GEASPVT7WWEJR8YG" : {
+        "GEASPVT7WWEJR8YG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.388 per Memory optimized r6g.12xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.3880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9UEWS9Q7EASJNYCS" : {
+        "9UEWS9Q7EASJNYCS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9UEWS9Q7EASJNYCS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9UEWS9Q7EASJNYCS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9UEWS9Q7EASJNYCS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.4482 per Memory optimized r6g.8xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.4482000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3QBZ8RX848THYSUH" : {
+        "3QBZ8RX848THYSUH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.463 per Memory optimized r6g.4xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.4630000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MWEEP5PZHCZR2JQ9" : {
+        "MWEEP5PZHCZR2JQ9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MWEEP5PZHCZR2JQ9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MWEEP5PZHCZR2JQ9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MWEEP5PZHCZR2JQ9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.8624 per Memory optimized r7g.2xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8624000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3TWAJHFHDN6G93TV" : {
+        "3TWAJHFHDN6G93TV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.309 per Memory optimized r6g.large node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3090000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DV98B3FSF4QPA28P" : {
+        "DV98B3FSF4QPA28P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DV98B3FSF4QPA28P",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DV98B3FSF4QPA28P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DV98B3FSF4QPA28P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.5865 per Memory optimized r6gd.4xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5865000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7WAV3WNFQSNV27R7" : {
+        "7WAV3WNFQSNV27R7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7WAV3WNFQSNV27R7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7WAV3WNFQSNV27R7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7WAV3WNFQSNV27R7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for Multi-Region data transfer out from MemoryDB in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SZZBUS94R4ZMF2B8" : {
+        "SZZBUS94R4ZMF2B8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.389 per Memory optimized r6gd.8xlarge node hour with data tiering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.3890000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9Q62NPKVG3YBBX2R" : {
+        "9Q62NPKVG3YBBX2R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.926 per Memory optimized r7g.8xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.9260000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "38QAM5PCMHW9GW4X" : {
+        "38QAM5PCMHW9GW4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.232 per Memory optimized r7g.2xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2320000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JK7WA6BHKUR3WNWV" : {
+        "JK7WA6BHKUR3WNWV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JK7WA6BHKUR3WNWV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JK7WA6BHKUR3WNWV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JK7WA6BHKUR3WNWV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.8957 per Memory optimized r7g.16xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.8957000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZMJS45J9W2Z3EWBR" : {
+        "ZMJS45J9W2Z3EWBR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.695 per Memory optimized r6gd.4xlarge node hour with data tiering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.6950000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CE5GUDDVFYXSYWTA" : {
+        "CE5GUDDVFYXSYWTA.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "CE5GUDDVFYXSYWTA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CE5GUDDVFYXSYWTA.A429C66SYZ.HC9A29KZQM" : {
+              "rateCode" : "CE5GUDDVFYXSYWTA.A429C66SYZ.HC9A29KZQM",
+              "description" : "Global",
+              "beginRange" : "0",
+              "endRange" : "20",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "UMEXCXMVSAXBN8D8", "SJYHQAHPUNU7VGJ5", "UNSGVRK57UJ8WGEN", "Z5PMQS65N357RUCC", "PJNN9FCB65WP5HGK", "N4NR5PYV4H8HRK6G", "T74RWJR8PB7KYNAX", "27ESM67HWDBF6SZG", "CANBKTZ5KG5UYTJV", "XFZQKJK5UMT3H5R4", "F55YADQ6VQNKS6GA", "FWMRVWJ9RMTHDJAS", "MVNJMY5HEUP2AATP", "RXKKF8QJ4CRFZY9Z", "KWC4E3K7ZEG88883", "6DMWVKAK2F79THU5", "2XWA8HGJPJCM4QHK", "6E4948EGGAGNHD46", "9MAG8USVU53BTTKF", "HRPWB43DEGPUVQSF", "4HTR7M49CB4XP4XQ" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "76BS3FPTDBD9JYQ4" : {
+        "76BS3FPTDBD9JYQ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.309 per Memory optimized r7g.large node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3090000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S94KT7MSGMR8MSDU" : {
+        "S94KT7MSGMR8MSDU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S94KT7MSGMR8MSDU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "S94KT7MSGMR8MSDU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S94KT7MSGMR8MSDU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.7241 per Memory optimized r6g.4xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7241000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EQDDW4X87JMPH34J" : {
+        "EQDDW4X87JMPH34J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EQDDW4X87JMPH34J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EQDDW4X87JMPH34J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EQDDW4X87JMPH34J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0679 per General purpose t4g.medium node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0679000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NT7JWJTK6Q2BP79S" : {
+        "NT7JWJTK6Q2BP79S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NT7JWJTK6Q2BP79S",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NT7JWJTK6Q2BP79S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NT7JWJTK6Q2BP79S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.021 per additional GB-month of backup storage exceeding free allocation in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T8MQ5KT3PRUQW74Z" : {
+        "T8MQ5KT3PRUQW74Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T8MQ5KT3PRUQW74Z",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "T8MQ5KT3PRUQW74Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T8MQ5KT3PRUQW74Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.4482 per Memory optimized r7g.8xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.4482000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8ZNRJ3KYV76TVDCT" : {
+        "8ZNRJ3KYV76TVDCT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8ZNRJ3KYV76TVDCT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8ZNRJ3KYV76TVDCT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8ZNRJ3KYV76TVDCT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.8624 per Memory optimized r6g.2xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8624000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VGP8B2VECBDGTVKF" : {
+        "VGP8B2VECBDGTVKF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9.851 per Memory optimized r7g.16xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "9.8510000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8QFAVHXK67UGQV5B" : {
+        "8QFAVHXK67UGQV5B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.617 per Memory optimized r6g.xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TEZX8NZHCHNDERQ2" : {
+        "TEZX8NZHCHNDERQ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TEZX8NZHCHNDERQ2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TEZX8NZHCHNDERQ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TEZX8NZHCHNDERQ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0336 per General purpose t4g.small node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0336000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WWFY8KWSCSEEYDCB" : {
+        "WWFY8KWSCSEEYDCB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.926 per Memory optimized r6g.8xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.9260000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YWNGPWF9AJ9YS5UW" : {
+        "YWNGPWF9AJ9YS5UW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YWNGPWF9AJ9YS5UW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YWNGPWF9AJ9YS5UW.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "YWNGPWF9AJ9YS5UW.JRTCKXETXF.B536CJ4M58",
+              "description" : "$0.04 per GB for Data Written in US East (N. Virginia) for over 10 TB/month for Valkey",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YWNGPWF9AJ9YS5UW.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "YWNGPWF9AJ9YS5UW.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "$0 for Data Written in US East (N. Virginia) upto 10TB/month for Valkey",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VF8ATS53Z65TMQP9" : {
+        "VF8ATS53Z65TMQP9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VF8ATS53Z65TMQP9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VF8ATS53Z65TMQP9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VF8ATS53Z65TMQP9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.097 per General purpose t4g.medium node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0970000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K7UE4EAX6QCU478P" : {
+        "K7UE4EAX6QCU478P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.617 per Memory optimized r7g.xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F6TU4DJAQHQD7GB8" : {
+        "F6TU4DJAQHQD7GB8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9.851 per Memory optimized r6g.16xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "9.8510000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FSX57RVPUDF7R56E" : {
+        "FSX57RVPUDF7R56E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FSX57RVPUDF7R56E",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FSX57RVPUDF7R56E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FSX57RVPUDF7R56E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.1716 per Memory optimized r6g.12xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.1716000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W8TY9BGAFEDD8UVU" : {
+        "W8TY9BGAFEDD8UVU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W8TY9BGAFEDD8UVU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "W8TY9BGAFEDD8UVU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W8TY9BGAFEDD8UVU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.8957 per Memory optimized r6g.16xlarge node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.8957000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K2AXB272RRXFZYGC" : {
+        "K2AXB272RRXFZYGC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K2AXB272RRXFZYGC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K2AXB272RRXFZYGC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K2AXB272RRXFZYGC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.2936 per Memory optimized r6gd.2xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2936000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AZJEPYYW43EFKC67" : {
+        "AZJEPYYW43EFKC67.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.463 per Memory optimized r7g.4xlarge node hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.4630000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M33ZURWM7Z995JWS" : {
+        "M33ZURWM7Z995JWS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.926 per Memory optimized r6gd.xlarge node hour with data tiering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9260000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P39UEXK4WCC6SSS3" : {
+        "P39UEXK4WCC6SSS3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P39UEXK4WCC6SSS3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "P39UEXK4WCC6SSS3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P39UEXK4WCC6SSS3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.6482 per Memory optimized r6gd.xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6482000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FR8PTRK3KEFVGG6Y" : {
+        "FR8PTRK3KEFVGG6Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FR8PTRK3KEFVGG6Y",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FR8PTRK3KEFVGG6Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FR8PTRK3KEFVGG6Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2163 per Memory optimized r7g.large node hour in US East (N. Virginia) running Valkey",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2163000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    },
+    "Reserved" : {
+      "JG3PZC97AZNFVVXM" : {
+        "JG3PZC97AZNFVVXM.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2570000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "JG3PZC97AZNFVVXM.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9610000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "JG3PZC97AZNFVVXM.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JG3PZC97AZNFVVXM.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "5261.256"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "JG3PZC97AZNFVVXM.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JG3PZC97AZNFVVXM.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "10360.627"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "JG3PZC97AZNFVVXM.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JG3PZC97AZNFVVXM.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "21854.448"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "JG3PZC97AZNFVVXM.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "JG3PZC97AZNFVVXM",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "JG3PZC97AZNFVVXM.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4440000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JG3PZC97AZNFVVXM.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "JG3PZC97AZNFVVXM.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "11655.706"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "HPH2V2Q4CFFXM2Q2" : {
+        "HPH2V2Q4CFFXM2Q2.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HPH2V2Q4CFFXM2Q2.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HPH2V2Q4CFFXM2Q2.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "87370.488"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HPH2V2Q4CFFXM2Q2.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7730000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HPH2V2Q4CFFXM2Q2.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "46597.594"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HPH2V2Q4CFFXM2Q2.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HPH2V2Q4CFFXM2Q2.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "41420.083"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HPH2V2Q4CFFXM2Q2.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8420000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HPH2V2Q4CFFXM2Q2.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "HPH2V2Q4CFFXM2Q2",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "HPH2V2Q4CFFXM2Q2.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.4010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HPH2V2Q4CFFXM2Q2.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "HPH2V2Q4CFFXM2Q2.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "21033.636"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "ZUTZF4HZPECAPEK8" : {
+        "ZUTZF4HZPECAPEK8.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8380000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZUTZF4HZPECAPEK8.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2960000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZUTZF4HZPECAPEK8.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7770.47"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZUTZF4HZPECAPEK8.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZUTZF4HZPECAPEK8.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "14569.632"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZUTZF4HZPECAPEK8.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZUTZF4HZPECAPEK8.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3507.504"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZUTZF4HZPECAPEK8.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6410000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZUTZF4HZPECAPEK8.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "ZUTZF4HZPECAPEK8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZUTZF4HZPECAPEK8.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZUTZF4HZPECAPEK8.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "ZUTZF4HZPECAPEK8.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "6907.085"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "GEASPVT7WWEJR8YG" : {
+        "GEASPVT7WWEJR8YG.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.4010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GEASPVT7WWEJR8YG.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "21033.636"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "GEASPVT7WWEJR8YG.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GEASPVT7WWEJR8YG.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "41420.083"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "GEASPVT7WWEJR8YG.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8420000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "GEASPVT7WWEJR8YG.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7730000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GEASPVT7WWEJR8YG.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "46597.594"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "GEASPVT7WWEJR8YG.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "GEASPVT7WWEJR8YG.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "GEASPVT7WWEJR8YG",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "GEASPVT7WWEJR8YG.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.12xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GEASPVT7WWEJR8YG.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "GEASPVT7WWEJR8YG.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "87370.488"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "3QBZ8RX848THYSUH" : {
+        "3QBZ8RX848THYSUH.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5910000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3QBZ8RX848THYSUH.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "3QBZ8RX848THYSUH.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "15534.634"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3QBZ8RX848THYSUH.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3QBZ8RX848THYSUH.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3QBZ8RX848THYSUH.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "3QBZ8RX848THYSUH.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7012.161"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3QBZ8RX848THYSUH.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2810000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3QBZ8RX848THYSUH.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3QBZ8RX848THYSUH.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "3QBZ8RX848THYSUH.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "13808.563"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3QBZ8RX848THYSUH.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "3QBZ8RX848THYSUH",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3QBZ8RX848THYSUH.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "3QBZ8RX848THYSUH.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3QBZ8RX848THYSUH.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "3QBZ8RX848THYSUH.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "29127.438"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "3TWAJHFHDN6G93TV" : {
+        "3TWAJHFHDN6G93TV.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3TWAJHFHDN6G93TV.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1732.378"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3TWAJHFHDN6G93TV.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3TWAJHFHDN6G93TV.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "879.723"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3TWAJHFHDN6G93TV.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1610000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3TWAJHFHDN6G93TV.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3TWAJHFHDN6G93TV.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0740000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3TWAJHFHDN6G93TV.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1948.925"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "3TWAJHFHDN6G93TV.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "3TWAJHFHDN6G93TV",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "3TWAJHFHDN6G93TV.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3TWAJHFHDN6G93TV.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "3TWAJHFHDN6G93TV.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3654.234"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "SZZBUS94R4ZMF2B8" : {
+        "SZZBUS94R4ZMF2B8.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SZZBUS94R4ZMF2B8.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "41425.69"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "SZZBUS94R4ZMF2B8.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SZZBUS94R4ZMF2B8.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "87382.314"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "SZZBUS94R4ZMF2B8.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7730000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SZZBUS94R4ZMF2B8.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "46603.901"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "SZZBUS94R4ZMF2B8.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8420000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "SZZBUS94R4ZMF2B8.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "SZZBUS94R4ZMF2B8.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "SZZBUS94R4ZMF2B8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "SZZBUS94R4ZMF2B8.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.4010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SZZBUS94R4ZMF2B8.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "SZZBUS94R4ZMF2B8.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "21036.483"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "9Q62NPKVG3YBBX2R" : {
+        "9Q62NPKVG3YBBX2R.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9Q62NPKVG3YBBX2R.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "14024.322"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "9Q62NPKVG3YBBX2R.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5620000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "9Q62NPKVG3YBBX2R.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "9Q62NPKVG3YBBX2R.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1820000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9Q62NPKVG3YBBX2R.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "31069.267"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "9Q62NPKVG3YBBX2R.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9Q62NPKVG3YBBX2R.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "27617.126"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "9Q62NPKVG3YBBX2R.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "9Q62NPKVG3YBBX2R",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "9Q62NPKVG3YBBX2R.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9Q62NPKVG3YBBX2R.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "9Q62NPKVG3YBBX2R.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "58254.876"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "38QAM5PCMHW9GW4X" : {
+        "38QAM5PCMHW9GW4X.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "38QAM5PCMHW9GW4X.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3507.504"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "38QAM5PCMHW9GW4X.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "38QAM5PCMHW9GW4X.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "14569.632"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "38QAM5PCMHW9GW4X.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6410000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "38QAM5PCMHW9GW4X.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "38QAM5PCMHW9GW4X.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "6907.085"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "38QAM5PCMHW9GW4X.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2960000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "38QAM5PCMHW9GW4X.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7770.47"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "38QAM5PCMHW9GW4X.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "38QAM5PCMHW9GW4X",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "38QAM5PCMHW9GW4X.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "38QAM5PCMHW9GW4X.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.2xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8380000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "ZMJS45J9W2Z3EWBR" : {
+        "ZMJS45J9W2Z3EWBR.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZMJS45J9W2Z3EWBR.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "43697.07"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZMJS45J9W2Z3EWBR.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZMJS45J9W2Z3EWBR.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZMJS45J9W2Z3EWBR.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "20715.648"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZMJS45J9W2Z3EWBR.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8870000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZMJS45J9W2Z3EWBR.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "23305.104"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZMJS45J9W2Z3EWBR.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ZMJS45J9W2Z3EWBR.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "10519.665"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "ZMJS45J9W2Z3EWBR.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "ZMJS45J9W2Z3EWBR",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "ZMJS45J9W2Z3EWBR.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "ZMJS45J9W2Z3EWBR.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "76BS3FPTDBD9JYQ4" : {
+        "76BS3FPTDBD9JYQ4.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "76BS3FPTDBD9JYQ4.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "879.723"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "76BS3FPTDBD9JYQ4.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1610000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "76BS3FPTDBD9JYQ4.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "76BS3FPTDBD9JYQ4.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0740000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "76BS3FPTDBD9JYQ4.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1948.925"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "76BS3FPTDBD9JYQ4.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "76BS3FPTDBD9JYQ4.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1732.378"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "76BS3FPTDBD9JYQ4.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "76BS3FPTDBD9JYQ4",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "76BS3FPTDBD9JYQ4.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.large reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "76BS3FPTDBD9JYQ4.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "76BS3FPTDBD9JYQ4.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3654.234"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "VGP8B2VECBDGTVKF" : {
+        "VGP8B2VECBDGTVKF.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.6990000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "VGP8B2VECBDGTVKF.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.1230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "VGP8B2VECBDGTVKF.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VGP8B2VECBDGTVKF.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "116497.926"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "VGP8B2VECBDGTVKF.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.2020000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VGP8B2VECBDGTVKF.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "28045.797"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "VGP8B2VECBDGTVKF.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3640000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VGP8B2VECBDGTVKF.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "62132.227"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "VGP8B2VECBDGTVKF.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "VGP8B2VECBDGTVKF",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "VGP8B2VECBDGTVKF.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VGP8B2VECBDGTVKF.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "VGP8B2VECBDGTVKF.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "55228.646"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "8QFAVHXK67UGQV5B" : {
+        "8QFAVHXK67UGQV5B.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1480000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8QFAVHXK67UGQV5B.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3891.542"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "8QFAVHXK67UGQV5B.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "8QFAVHXK67UGQV5B.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "8QFAVHXK67UGQV5B.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8QFAVHXK67UGQV5B.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1756.599"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "8QFAVHXK67UGQV5B.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8QFAVHXK67UGQV5B.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7296.642"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "8QFAVHXK67UGQV5B.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "8QFAVHXK67UGQV5B",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "8QFAVHXK67UGQV5B.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8QFAVHXK67UGQV5B.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "8QFAVHXK67UGQV5B.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3459.149"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "WWFY8KWSCSEEYDCB" : {
+        "WWFY8KWSCSEEYDCB.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WWFY8KWSCSEEYDCB.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "27617.126"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "WWFY8KWSCSEEYDCB.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5620000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "WWFY8KWSCSEEYDCB.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WWFY8KWSCSEEYDCB.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "14024.322"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "WWFY8KWSCSEEYDCB.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "WWFY8KWSCSEEYDCB.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WWFY8KWSCSEEYDCB.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "58254.876"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "WWFY8KWSCSEEYDCB.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "WWFY8KWSCSEEYDCB",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "WWFY8KWSCSEEYDCB.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.8xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1820000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WWFY8KWSCSEEYDCB.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "WWFY8KWSCSEEYDCB.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "31069.267"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "K7UE4EAX6QCU478P" : {
+        "K7UE4EAX6QCU478P.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1480000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "K7UE4EAX6QCU478P.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "K7UE4EAX6QCU478P.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3891.542"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "K7UE4EAX6QCU478P.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "K7UE4EAX6QCU478P.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "K7UE4EAX6QCU478P.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7296.642"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "K7UE4EAX6QCU478P.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "K7UE4EAX6QCU478P.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "K7UE4EAX6QCU478P.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "K7UE4EAX6QCU478P.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1756.599"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "K7UE4EAX6QCU478P.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "K7UE4EAX6QCU478P.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "K7UE4EAX6QCU478P.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "3459.149"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "K7UE4EAX6QCU478P.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "K7UE4EAX6QCU478P",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "K7UE4EAX6QCU478P.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "K7UE4EAX6QCU478P.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "F6TU4DJAQHQD7GB8" : {
+        "F6TU4DJAQHQD7GB8.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.1230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "F6TU4DJAQHQD7GB8.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6TU4DJAQHQD7GB8.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "116497.926"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "F6TU4DJAQHQD7GB8.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3640000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6TU4DJAQHQD7GB8.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "62132.227"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "F6TU4DJAQHQD7GB8.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6TU4DJAQHQD7GB8.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "55228.646"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "F6TU4DJAQHQD7GB8.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.6990000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "F6TU4DJAQHQD7GB8.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "F6TU4DJAQHQD7GB8",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "F6TU4DJAQHQD7GB8.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6g.16xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.2020000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6TU4DJAQHQD7GB8.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "F6TU4DJAQHQD7GB8.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "28045.797"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "AZJEPYYW43EFKC67" : {
+        "AZJEPYYW43EFKC67.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2810000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "AZJEPYYW43EFKC67.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AZJEPYYW43EFKC67.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "AZJEPYYW43EFKC67.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "7012.161"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "AZJEPYYW43EFKC67.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "AZJEPYYW43EFKC67.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5910000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AZJEPYYW43EFKC67.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "AZJEPYYW43EFKC67.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "15534.634"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "AZJEPYYW43EFKC67.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AZJEPYYW43EFKC67.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "AZJEPYYW43EFKC67.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "29127.438"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "AZJEPYYW43EFKC67.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "AZJEPYYW43EFKC67",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "AZJEPYYW43EFKC67.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "AZJEPYYW43EFKC67.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r7g.4xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AZJEPYYW43EFKC67.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "AZJEPYYW43EFKC67.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "13808.563"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "M33ZURWM7Z995JWS" : {
+        "M33ZURWM7Z995JWS.4NA7Y494T4" : {
+          "offerTermCode" : "4NA7Y494T4",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.4NA7Y494T4.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.4NA7Y494T4.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "M33ZURWM7Z995JWS.38NPMPTW36" : {
+          "offerTermCode" : "38NPMPTW36",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.38NPMPTW36.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.38NPMPTW36.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2220000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "M33ZURWM7Z995JWS.38NPMPTW36.2TG2D8R56U" : {
+              "rateCode" : "M33ZURWM7Z995JWS.38NPMPTW36.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "5840.467"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "M33ZURWM7Z995JWS.6QCMYABX3D" : {
+          "offerTermCode" : "6QCMYABX3D",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.6QCMYABX3D.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.6QCMYABX3D.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "M33ZURWM7Z995JWS.6QCMYABX3D.2TG2D8R56U" : {
+              "rateCode" : "M33ZURWM7Z995JWS.6QCMYABX3D.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "5191.526"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "M33ZURWM7Z995JWS.NQ3QZPMQV9" : {
+          "offerTermCode" : "NQ3QZPMQV9",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.NQ3QZPMQV9.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.NQ3QZPMQV9.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "M33ZURWM7Z995JWS.NQ3QZPMQV9.2TG2D8R56U" : {
+              "rateCode" : "M33ZURWM7Z995JWS.NQ3QZPMQV9.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "10950.876"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "All Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "M33ZURWM7Z995JWS.BPH4J8HBKS" : {
+          "offerTermCode" : "BPH4J8HBKS",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.BPH4J8HBKS.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.BPH4J8HBKS.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4820000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "No Upfront",
+            "OfferingClass" : "standard"
+          }
+        },
+        "M33ZURWM7Z995JWS.HU7G6KETJZ" : {
+          "offerTermCode" : "HU7G6KETJZ",
+          "sku" : "M33ZURWM7Z995JWS",
+          "effectiveDate" : "2025-03-26T23:34:36Z",
+          "priceDimensions" : {
+            "M33ZURWM7Z995JWS.HU7G6KETJZ.6YS6EN2CT7" : {
+              "rateCode" : "M33ZURWM7Z995JWS.HU7G6KETJZ.6YS6EN2CT7",
+              "description" : "AmazonMemoryDB, db.r6gd.xlarge reserved instance applied",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "M33ZURWM7Z995JWS.HU7G6KETJZ.2TG2D8R56U" : {
+              "rateCode" : "M33ZURWM7Z995JWS.HU7G6KETJZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "2636.322"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Partial Upfront",
+            "OfferingClass" : "standard"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

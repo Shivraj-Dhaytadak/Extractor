@@ -1,0 +1,254 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonGameLiftStreams",
+  "version" : "20250519235356",
+  "publicationDate" : "2025-05-19T23:53:56Z",
+  "products" : {
+    "ZQNVDARBU5F6GYJA" : {
+      "sku" : "ZQNVDARBU5F6GYJA",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen4n_win2022",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA T4 Tensor GPU",
+        "ram" : "32",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen4n_win2022",
+        "vcpu" : "8",
+        "vram" : "16"
+      }
+    },
+    "QQX3SX8HNTZVHWX3" : {
+      "sku" : "QQX3SX8HNTZVHWX3",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen5n_win2022",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA A10G Tensor GPU",
+        "ram" : "32",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen5n_win2022",
+        "vcpu" : "8",
+        "vram" : "24"
+      }
+    },
+    "EB6W2KPR8FF4EPAR" : {
+      "sku" : "EB6W2KPR8FF4EPAR",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen5n_high",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA A10G Tensor GPU",
+        "ram" : "16",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen5n_high",
+        "vcpu" : "4",
+        "vram" : "12"
+      }
+    },
+    "6HKD53VM2Z6GFNYP" : {
+      "sku" : "6HKD53VM2Z6GFNYP",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen4n_high",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA T4 Tensor GPU",
+        "ram" : "16",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen4n_high",
+        "vcpu" : "4",
+        "vram" : "8"
+      }
+    },
+    "AH7H8GAHHUEJ2552" : {
+      "sku" : "AH7H8GAHHUEJ2552",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen4n_ultra",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA T4 Tensor GPU",
+        "ram" : "32",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen4n_ultra",
+        "vcpu" : "8",
+        "vram" : "16"
+      }
+    },
+    "XJ47FBJT2PF6TAYV" : {
+      "sku" : "XJ47FBJT2PF6TAYV",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AmazonGameLiftStreams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GameLiftStreamsUsage:gen5n_ultra",
+        "operation" : "OnDemandStreamHours",
+        "gpu" : "NVIDIA A10G Tensor GPU",
+        "ram" : "32",
+        "regionCode" : "us-east-1",
+        "reservationClass" : "OnDemand",
+        "servicename" : "Amazon GameLift Streams",
+        "streamClass" : "gen5n_ultra",
+        "vcpu" : "8",
+        "vram" : "24"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "ZQNVDARBU5F6GYJA" : {
+        "ZQNVDARBU5F6GYJA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZQNVDARBU5F6GYJA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.512 per Hrs for USE1-GameLiftStreamsUsage:gen4n_win2022 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.5120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EB6W2KPR8FF4EPAR" : {
+        "EB6W2KPR8FF4EPAR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EB6W2KPR8FF4EPAR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.7544 per Hrs for USE1-GameLiftStreamsUsage:gen5n_high in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7544000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6HKD53VM2Z6GFNYP" : {
+        "6HKD53VM2Z6GFNYP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6HKD53VM2Z6GFNYP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.5205 per Hrs for USE1-GameLiftStreamsUsage:gen4n_high in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5205000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XJ47FBJT2PF6TAYV" : {
+        "XJ47FBJT2PF6TAYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XJ47FBJT2PF6TAYV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.4544 per Hrs for USE1-GameLiftStreamsUsage:gen5n_ultra in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.4544000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AH7H8GAHHUEJ2552" : {
+        "AH7H8GAHHUEJ2552.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AH7H8GAHHUEJ2552",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9927 per Hrs for USE1-GameLiftStreamsUsage:gen4n_ultra in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9927000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QQX3SX8HNTZVHWX3" : {
+        "QQX3SX8HNTZVHWX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QQX3SX8HNTZVHWX3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.13 per Hrs for USE1-GameLiftStreamsUsage:gen5n_win2022 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

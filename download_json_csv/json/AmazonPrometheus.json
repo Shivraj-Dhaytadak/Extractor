@@ -1,0 +1,276 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonPrometheus",
+  "version" : "20250428164520",
+  "publicationDate" : "2025-04-28T16:45:20Z",
+  "products" : {
+    "X758FD8M7X4BMJUB" : {
+      "sku" : "X758FD8M7X4BMJUB",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Query",
+        "groupDescription" : "Metric samples processed to evaluate queries and rules",
+        "usagetype" : "USE1-AMP:QuerySamplesProcessed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    },
+    "HK3HTFXKS6PAXA6X" : {
+      "sku" : "HK3HTFXKS6PAXA6X",
+      "productFamily" : "Metric",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Ingest-SampleCount",
+        "groupDescription" : "Prometheus Metrics",
+        "usagetype" : "USE1-AMP:MetricSampleCount",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    },
+    "T27RFDH4MWVXD3U5" : {
+      "sku" : "T27RFDH4MWVXD3U5",
+      "productFamily" : "Metric",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Collected-SampleCount",
+        "groupDescription" : "Metric samples collected",
+        "usagetype" : "USE1-AMP:MetricSamplesCollected",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    },
+    "MHCBZTJ8ZF3PP3ZF" : {
+      "sku" : "MHCBZTJ8ZF3PP3ZF",
+      "productFamily" : "Metric",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Collector",
+        "groupDescription" : "Managed collector for Prometheus metrics",
+        "usagetype" : "USE1-AMP:CollectorHours",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    },
+    "6ATFFWG7N7GVWB4J" : {
+      "sku" : "6ATFFWG7N7GVWB4J",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Storage",
+        "groupDescription" : "Stored metric samples and metadata",
+        "usagetype" : "USE1-AMP:MetricStorageByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    },
+    "Z5CNPQ3HKW8FBB7E" : {
+      "sku" : "Z5CNPQ3HKW8FBB7E",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonPrometheus",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Query",
+        "groupDescription" : "Metric samples processed to evaluate queries and rules",
+        "usagetype" : "Global-AMP:QuerySamplesProcessed",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Managed Service for Prometheus"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "T27RFDH4MWVXD3U5" : {
+        "T27RFDH4MWVXD3U5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T27RFDH4MWVXD3U5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "T27RFDH4MWVXD3U5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T27RFDH4MWVXD3U5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 10M metric samples collected in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000030"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HK3HTFXKS6PAXA6X" : {
+        "HK3HTFXKS6PAXA6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HK3HTFXKS6PAXA6X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HK3HTFXKS6PAXA6X.JRTCKXETXF.MP7YJSV6WY" : {
+              "rateCode" : "HK3HTFXKS6PAXA6X.JRTCKXETXF.MP7YJSV6WY",
+              "description" : "$0.00 per metric samples for first 40M in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "40000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HK3HTFXKS6PAXA6X.JRTCKXETXF.VMDU8858A6" : {
+              "rateCode" : "HK3HTFXKS6PAXA6X.JRTCKXETXF.VMDU8858A6",
+              "description" : "$0.90 per 10M metric samples up to 2B metric samples in US East (N. Virginia)",
+              "beginRange" : "40000000",
+              "endRange" : "2000000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000900"
+              },
+              "appliesTo" : [ ]
+            },
+            "HK3HTFXKS6PAXA6X.JRTCKXETXF.UVPFGHJN3Y" : {
+              "rateCode" : "HK3HTFXKS6PAXA6X.JRTCKXETXF.UVPFGHJN3Y",
+              "description" : "$0.35 per 10M metric samples for the next 250B metric samples in US East (N. Virginia)",
+              "beginRange" : "2000000000",
+              "endRange" : "252000000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000350"
+              },
+              "appliesTo" : [ ]
+            },
+            "HK3HTFXKS6PAXA6X.JRTCKXETXF.2YSHVRRYZX" : {
+              "rateCode" : "HK3HTFXKS6PAXA6X.JRTCKXETXF.2YSHVRRYZX",
+              "description" : "$0.16 per 10M metric samples for over 252B metric samples in US East (N. Virginia)",
+              "beginRange" : "252000000000",
+              "endRange" : "Inf",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000160"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MHCBZTJ8ZF3PP3ZF" : {
+        "MHCBZTJ8ZF3PP3ZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MHCBZTJ8ZF3PP3ZF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MHCBZTJ8ZF3PP3ZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MHCBZTJ8ZF3PP3ZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per collector hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Collector Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X758FD8M7X4BMJUB" : {
+        "X758FD8M7X4BMJUB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X758FD8M7X4BMJUB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "X758FD8M7X4BMJUB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X758FD8M7X4BMJUB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per 1B query samples processed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000001"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6ATFFWG7N7GVWB4J" : {
+        "6ATFFWG7N7GVWB4J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6ATFFWG7N7GVWB4J",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6ATFFWG7N7GVWB4J.JRTCKXETXF.DGNP37V5JW" : {
+              "rateCode" : "6ATFFWG7N7GVWB4J.JRTCKXETXF.DGNP37V5JW",
+              "description" : "$0.00 per GB-Mo for the first 10GB per month of storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "10",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "6ATFFWG7N7GVWB4J.JRTCKXETXF.XCQWNNXBHR" : {
+              "rateCode" : "6ATFFWG7N7GVWB4J.JRTCKXETXF.XCQWNNXBHR",
+              "description" : "$0.03 per GB-Mo for storage above 10GB in US East (N. Virginia)",
+              "beginRange" : "10",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z5CNPQ3HKW8FBB7E" : {
+        "Z5CNPQ3HKW8FBB7E.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "Z5CNPQ3HKW8FBB7E",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z5CNPQ3HKW8FBB7E.A429C66SYZ.2BMC2B4R35" : {
+              "rateCode" : "Z5CNPQ3HKW8FBB7E.A429C66SYZ.2BMC2B4R35",
+              "description" : "$0.00 per query sample processed for first 200B",
+              "beginRange" : "0",
+              "endRange" : "200000000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "T2GRGHW32NV2A2XK", "P7BXE7DNPUJVY3HP", "JATPXZ7GKB9VFGXE", "Y386B5EH7S2AUDKM", "UCUGYQS498YRZJ5S", "7JTABDBN2AHX4AW2", "JEGTAATZ5QB8B8Y8", "BH8FXMMG6R95RNTW", "FJXQJ3354H47XCY7", "7PF3DZXHJMGUQRYU", "CN2GRW2XPKXCGWD2", "MCM2JB4WZZXWCQQK", "933SJASHAH44Z9Y4", "FKA4VFPDQPBEF6A3", "X758FD8M7X4BMJUB", "9XEV7PSFXVWU95HY", "V4C2FXCJD5QWRPHD", "ZC86M5RSDN5MKGPA", "63HWRDE5GQ3NA7DT", "8JG8PCWE6XFYABWA", "7PSQ5CUPXTB78JAC", "ACAHRJSMZBR6TFKG" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

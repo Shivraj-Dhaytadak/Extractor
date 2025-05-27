@@ -1,0 +1,95 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSTelcoNetworkBuilder",
+  "version" : "20250130200015",
+  "publicationDate" : "2025-01-30T20:00:15Z",
+  "products" : {
+    "FJ9MM25F8Z3C2S28" : {
+      "sku" : "FJ9MM25F8Z3C2S28",
+      "productFamily" : "Private Networks",
+      "attributes" : {
+        "servicecode" : "AWSTelcoNetworkBuilder",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TNB_API_Calls",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Telco Network Builder",
+        "tnbapicalls" : "API Calls"
+      }
+    },
+    "ANG2D5F53H9324WX" : {
+      "sku" : "ANG2D5F53H9324WX",
+      "productFamily" : "Private Networks",
+      "attributes" : {
+        "servicecode" : "AWSTelcoNetworkBuilder",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TNB_MNFI",
+        "operation" : "",
+        "mnfi" : "MNFI",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Telco Network Builder"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "FJ9MM25F8Z3C2S28" : {
+        "FJ9MM25F8Z3C2S28.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FJ9MM25F8Z3C2S28",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "FJ9MM25F8Z3C2S28.JRTCKXETXF.72VS6PJVMG" : {
+              "rateCode" : "FJ9MM25F8Z3C2S28.JRTCKXETXF.72VS6PJVMG",
+              "description" : "Charge per API request below 45K per month",
+              "beginRange" : "0",
+              "endRange" : "45000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FJ9MM25F8Z3C2S28.JRTCKXETXF.PB654346B3" : {
+              "rateCode" : "FJ9MM25F8Z3C2S28.JRTCKXETXF.PB654346B3",
+              "description" : "Charge per API request over 45K per month",
+              "beginRange" : "45000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ANG2D5F53H9324WX" : {
+        "ANG2D5F53H9324WX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ANG2D5F53H9324WX",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ANG2D5F53H9324WX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ANG2D5F53H9324WX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Hourly charge per managed network function item (MNFI)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

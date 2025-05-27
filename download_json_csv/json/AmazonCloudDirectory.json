@@ -1,0 +1,236 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonCloudDirectory",
+  "version" : "20241029171915",
+  "publicationDate" : "2024-10-29T17:19:15Z",
+  "products" : {
+    "VU5TZ3CMMJQP9QXK" : {
+      "sku" : "VU5TZ3CMMJQP9QXK",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "volumeType" : "Standard",
+        "usagetype" : "USE1-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    },
+    "R8UHB78MSZ2NTUTR" : {
+      "sku" : "R8UHB78MSZ2NTUTR",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "volumeType" : "Standard",
+        "usagetype" : "Global-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    },
+    "T97KMRPC6RTACWUS" : {
+      "sku" : "T97KMRPC6RTACWUS",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Tier1 Request",
+        "groupDescription" : "Write Request and Strongly Consistent Read Request",
+        "usagetype" : "USE1-Requests-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    },
+    "UH8XYHX54HY3CD35" : {
+      "sku" : "UH8XYHX54HY3CD35",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Tier2 Request",
+        "groupDescription" : "Eventually Consistent Read Request",
+        "usagetype" : "USE1-Requests-Tier2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    },
+    "ZEB2B4UPUJ6T5UGV" : {
+      "sku" : "ZEB2B4UPUJ6T5UGV",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Tier1 Request",
+        "groupDescription" : "Write Request and Strongly Consistent Read Request",
+        "usagetype" : "Global-Requests-Tier1",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    },
+    "EN4NVH4MTPQ5A82Q" : {
+      "sku" : "EN4NVH4MTPQ5A82Q",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonCloudDirectory",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Tier2 Request",
+        "groupDescription" : "Eventually Consistent Read Request",
+        "usagetype" : "Global-Requests-Tier2",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Cloud Directory"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "R8UHB78MSZ2NTUTR" : {
+        "R8UHB78MSZ2NTUTR.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "R8UHB78MSZ2NTUTR",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8UHB78MSZ2NTUTR.A429C66SYZ.8EEUB22XNJ" : {
+              "rateCode" : "R8UHB78MSZ2NTUTR.A429C66SYZ.8EEUB22XNJ",
+              "description" : "Amazon Cloud Directory Standard Storage (Global)",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "VJZAPY8QKJPTXCP8", "9UV3EE9SVQACUXNE", "9JDFFN55MR2WQDBD", "WBVXKCD5N2AQ5CXQ", "C7T9VB93GRG8XU78", "VU5TZ3CMMJQP9QXK", "ACDNP7JJ339NP42N", "9R9XSP9DY8NQNU5H", "B87YSBWETY3UAJCJ", "GPZTUSUYHV3MS3CV" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "VU5TZ3CMMJQP9QXK" : {
+        "VU5TZ3CMMJQP9QXK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VU5TZ3CMMJQP9QXK",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "VU5TZ3CMMJQP9QXK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VU5TZ3CMMJQP9QXK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Cloud Directory Standard Storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EN4NVH4MTPQ5A82Q" : {
+        "EN4NVH4MTPQ5A82Q.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "EN4NVH4MTPQ5A82Q",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "EN4NVH4MTPQ5A82Q.A429C66SYZ.NADQ2ZJX8V" : {
+              "rateCode" : "EN4NVH4MTPQ5A82Q.A429C66SYZ.NADQ2ZJX8V",
+              "description" : "Amazon Cloud Directory Eventually Consistent Read Request (Global)",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "5FF7E52FFSUZKZ9T", "BC47TG5Y8XM9QS6W", "B6UKNDX2KGMSSH9Q", "WR9DV68URMKBSTGY", "E2KNFX5CAWDTPZVZ", "98CEKYEVTFWWAUDQ", "UH8XYHX54HY3CD35", "M6XBSCVTJZ8QUKMM", "AY6PJW6DX5EQQNFA", "68NKPJZBA9HMFN5Z" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "UH8XYHX54HY3CD35" : {
+        "UH8XYHX54HY3CD35.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UH8XYHX54HY3CD35",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "UH8XYHX54HY3CD35.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UH8XYHX54HY3CD35.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Cloud Directory Eventually Consistent Read Request (USE-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T97KMRPC6RTACWUS" : {
+        "T97KMRPC6RTACWUS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T97KMRPC6RTACWUS",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "T97KMRPC6RTACWUS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T97KMRPC6RTACWUS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Cloud Directory Write Request and Strongly Consistent Read Request (USE-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000043000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZEB2B4UPUJ6T5UGV" : {
+        "ZEB2B4UPUJ6T5UGV.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "ZEB2B4UPUJ6T5UGV",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZEB2B4UPUJ6T5UGV.A429C66SYZ.A6VD9GXV7W" : {
+              "rateCode" : "ZEB2B4UPUJ6T5UGV.A429C66SYZ.A6VD9GXV7W",
+              "description" : "Amazon Cloud Directory Write Request and Strongly Consistent Read Request (Global)",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "6MQTWHTDEX7D3Q76", "VD9J9SB9MJEMYUCT", "V2NA52PPR8GCHUN2", "NY4PPHAE3CN8E3QN", "ZFFZ62PZG4KWXCBP", "2KHA36M4JQ692S65", "T97KMRPC6RTACWUS", "GVA8ANHC7RX29A7S", "C96BUA7P5XKN5PMU", "354PMPJU7KMCA28E" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

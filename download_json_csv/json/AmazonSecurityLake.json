@@ -1,0 +1,771 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonSecurityLake",
+  "version" : "20240517175829",
+  "publicationDate" : "2024-05-17T17:58:29Z",
+  "products" : {
+    "8FPU3MCHUG6KK2P5" : {
+      "sku" : "8FPU3MCHUG6KK2P5",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeOtherLogs-Bytes",
+        "operation" : "",
+        "logorigin" : "OtherLogs",
+        "logsource" : "Any",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "JYWSR47UJDFRVJU3" : {
+      "sku" : "JYWSR47UJDFRVJU3",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "SecurityHub",
+        "logsource" : "SecurityHub",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "U4KTUVNJYP26MAYA" : {
+      "sku" : "U4KTUVNJYP26MAYA",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "EKSAudit",
+        "logsource" : "EKSAudit",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "YVKMX7VMTDV2AKPN" : {
+      "sku" : "YVKMX7VMTDV2AKPN",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "WAFWebACL",
+        "logsource" : "WAFWebACL",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "Q6C4F7763YKMUTAZ" : {
+      "sku" : "Q6C4F7763YKMUTAZ",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "SecurityHub",
+        "logsource" : "SecurityHub",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "JY459B3JHP6MUT2Y" : {
+      "sku" : "JY459B3JHP6MUT2Y",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "LambdaDataEvents",
+        "logsource" : "LambdaDataEvents",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "BXEFVS7X5YMHPGZR" : {
+      "sku" : "BXEFVS7X5YMHPGZR",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "Route53Resolver",
+        "logsource" : "Route53Resolver",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "3N89QX7E87QFRZX3" : {
+      "sku" : "3N89QX7E87QFRZX3",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "LambdaDataEvents",
+        "logsource" : "LambdaDataEvents",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "WQUWPNY4Z8Z2WGFJ" : {
+      "sku" : "WQUWPNY4Z8Z2WGFJ",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "VPCFlow",
+        "logsource" : "VPCFlow",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "SWEM86EBW3R2WBSG" : {
+      "sku" : "SWEM86EBW3R2WBSG",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeCloudTrailEvents-Bytes",
+        "operation" : "",
+        "logorigin" : "CloudTrailEvents",
+        "logsource" : "Any",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "F6MJAK7MR5BSUH2M" : {
+      "sku" : "F6MJAK7MR5BSUH2M",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidOtherLogs-Bytes",
+        "operation" : "",
+        "logorigin" : "OtherLogs",
+        "logsource" : "Any",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "XE8SP6P5P6WZ6XFR" : {
+      "sku" : "XE8SP6P5P6WZ6XFR",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "S3DataEvents",
+        "logsource" : "S3DataEvents",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "THN5KH9VUXTACZ6U" : {
+      "sku" : "THN5KH9VUXTACZ6U",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "EKSAudit",
+        "logsource" : "EKSAudit",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "MXE9PADGQMQ6TRY8" : {
+      "sku" : "MXE9PADGQMQ6TRY8",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "VPCFlow",
+        "logsource" : "VPCFlow",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "5VZK7X87M7582M3R" : {
+      "sku" : "5VZK7X87M7582M3R",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeNormalization-Bytes",
+        "operation" : "ManagementEvents",
+        "logsource" : "ManagementEvents",
+        "paid" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "GGDKJJEF3VZWUF9V" : {
+      "sku" : "GGDKJJEF3VZWUF9V",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "S3DataEvents",
+        "logsource" : "S3DataEvents",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "VMS3QFMR7B44R7X8" : {
+      "sku" : "VMS3QFMR7B44R7X8",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "WAFWebACL",
+        "logsource" : "WAFWebACL",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "J86K4Z8MU6HCSJ2D" : {
+      "sku" : "J86K4Z8MU6HCSJ2D",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidCloudTrailEvents-Bytes",
+        "operation" : "",
+        "logorigin" : "CloudTrailEvents",
+        "logsource" : "Any",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "9CZDBYQBQE8D4ET3" : {
+      "sku" : "9CZDBYQBQE8D4ET3",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "ManagementEvents",
+        "logsource" : "ManagementEvents",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    },
+    "KYGV5NSXGJ4WW3W4" : {
+      "sku" : "KYGV5NSXGJ4WW3W4",
+      "productFamily" : "Security Lake",
+      "attributes" : {
+        "servicecode" : "AmazonSecurityLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidNormalization-Bytes",
+        "operation" : "Route53Resolver",
+        "logsource" : "Route53Resolver",
+        "paid" : "Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Security Lake"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BXEFVS7X5YMHPGZR" : {
+        "BXEFVS7X5YMHPGZR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BXEFVS7X5YMHPGZR",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BXEFVS7X5YMHPGZR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BXEFVS7X5YMHPGZR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of Route53 resolver query logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JY459B3JHP6MUT2Y" : {
+        "JY459B3JHP6MUT2Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JY459B3JHP6MUT2Y",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JY459B3JHP6MUT2Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JY459B3JHP6MUT2Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of Lambda execution activity logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3N89QX7E87QFRZX3" : {
+        "3N89QX7E87QFRZX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3N89QX7E87QFRZX3",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3N89QX7E87QFRZX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3N89QX7E87QFRZX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of Lambda execution activity logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GGDKJJEF3VZWUF9V" : {
+        "GGDKJJEF3VZWUF9V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GGDKJJEF3VZWUF9V",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GGDKJJEF3VZWUF9V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GGDKJJEF3VZWUF9V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of S3 data events in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F6MJAK7MR5BSUH2M" : {
+        "F6MJAK7MR5BSUH2M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F6MJAK7MR5BSUH2M",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "F6MJAK7MR5BSUH2M.JRTCKXETXF.Q3Z75P77EN" : {
+              "rateCode" : "F6MJAK7MR5BSUH2M.JRTCKXETXF.Q3Z75P77EN",
+              "description" : "$0.25 per GB of logs delivered for the first 10TB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "10240",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6MJAK7MR5BSUH2M.JRTCKXETXF.JM86AE7V7B" : {
+              "rateCode" : "F6MJAK7MR5BSUH2M.JRTCKXETXF.JM86AE7V7B",
+              "description" : "$0.15 per GB of logs delivered for the next 20TB in US East (N. Virginia)",
+              "beginRange" : "10240",
+              "endRange" : "30720",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6MJAK7MR5BSUH2M.JRTCKXETXF.AMET9K77J3" : {
+              "rateCode" : "F6MJAK7MR5BSUH2M.JRTCKXETXF.AMET9K77J3",
+              "description" : "$0.075 per GB of logs delivered for the next 20TB in US East (N. Virginia)",
+              "beginRange" : "30720",
+              "endRange" : "51200",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0750000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F6MJAK7MR5BSUH2M.JRTCKXETXF.AQTKZ3QBDA" : {
+              "rateCode" : "F6MJAK7MR5BSUH2M.JRTCKXETXF.AQTKZ3QBDA",
+              "description" : "$0.05 per GB of logs delivered over 50TB in US East (N. Virginia)",
+              "beginRange" : "51200",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U4KTUVNJYP26MAYA" : {
+        "U4KTUVNJYP26MAYA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4KTUVNJYP26MAYA",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4KTUVNJYP26MAYA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4KTUVNJYP26MAYA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of EKS audit logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MXE9PADGQMQ6TRY8" : {
+        "MXE9PADGQMQ6TRY8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MXE9PADGQMQ6TRY8",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MXE9PADGQMQ6TRY8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MXE9PADGQMQ6TRY8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of VPC flow logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KYGV5NSXGJ4WW3W4" : {
+        "KYGV5NSXGJ4WW3W4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KYGV5NSXGJ4WW3W4",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KYGV5NSXGJ4WW3W4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KYGV5NSXGJ4WW3W4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of Route 53 resolver query logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8FPU3MCHUG6KK2P5" : {
+        "8FPU3MCHUG6KK2P5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8FPU3MCHUG6KK2P5",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8FPU3MCHUG6KK2P5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8FPU3MCHUG6KK2P5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per GB of logs delivered under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VMS3QFMR7B44R7X8" : {
+        "VMS3QFMR7B44R7X8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VMS3QFMR7B44R7X8",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VMS3QFMR7B44R7X8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VMS3QFMR7B44R7X8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.035 per GB for normalization of WAF Web ACL logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q6C4F7763YKMUTAZ" : {
+        "Q6C4F7763YKMUTAZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q6C4F7763YKMUTAZ",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q6C4F7763YKMUTAZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q6C4F7763YKMUTAZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of Security Hub findings under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J86K4Z8MU6HCSJ2D" : {
+        "J86K4Z8MU6HCSJ2D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J86K4Z8MU6HCSJ2D",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "J86K4Z8MU6HCSJ2D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J86K4Z8MU6HCSJ2D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.75 per GB of CloudTrail events delivered in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YVKMX7VMTDV2AKPN" : {
+        "YVKMX7VMTDV2AKPN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YVKMX7VMTDV2AKPN",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YVKMX7VMTDV2AKPN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YVKMX7VMTDV2AKPN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0 per GB for normalization of WAF Web ACL logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SWEM86EBW3R2WBSG" : {
+        "SWEM86EBW3R2WBSG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SWEM86EBW3R2WBSG",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "SWEM86EBW3R2WBSG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SWEM86EBW3R2WBSG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per GB of CloudTrail events under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9CZDBYQBQE8D4ET3" : {
+        "9CZDBYQBQE8D4ET3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9CZDBYQBQE8D4ET3",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9CZDBYQBQE8D4ET3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9CZDBYQBQE8D4ET3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of CloudTrail management events in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JYWSR47UJDFRVJU3" : {
+        "JYWSR47UJDFRVJU3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JYWSR47UJDFRVJU3",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JYWSR47UJDFRVJU3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JYWSR47UJDFRVJU3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of Security Hub findings in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XE8SP6P5P6WZ6XFR" : {
+        "XE8SP6P5P6WZ6XFR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XE8SP6P5P6WZ6XFR",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XE8SP6P5P6WZ6XFR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XE8SP6P5P6WZ6XFR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of S3 data events under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5VZK7X87M7582M3R" : {
+        "5VZK7X87M7582M3R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5VZK7X87M7582M3R",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5VZK7X87M7582M3R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5VZK7X87M7582M3R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of CloudTrail management events query logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "THN5KH9VUXTACZ6U" : {
+        "THN5KH9VUXTACZ6U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "THN5KH9VUXTACZ6U",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "THN5KH9VUXTACZ6U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "THN5KH9VUXTACZ6U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for normalization of EKS audit logs under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WQUWPNY4Z8Z2WGFJ" : {
+        "WQUWPNY4Z8Z2WGFJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WQUWPNY4Z8Z2WGFJ",
+          "effectiveDate" : "2024-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WQUWPNY4Z8Z2WGFJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WQUWPNY4Z8Z2WGFJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB for normalization of VPC flow logs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

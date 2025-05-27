@@ -1,0 +1,224 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonKinesisAnalytics",
+  "version" : "20250409161801",
+  "publicationDate" : "2025-04-09T16:18:01Z",
+  "products" : {
+    "V6GPW77PCCJVB3HT" : {
+      "sku" : "V6GPW77PCCJVB3HT",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "Per GB-month of running application storage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RunningApplicationStorage",
+        "operation" : "StartApplication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    },
+    "KGUP6X6KTUB8VAEB" : {
+      "sku" : "KGUP6X6KTUB8VAEB",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "Per GB-month of running application storage for Kinesis Data Analytics Studio",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RunningApplicationStorage-Interactive",
+        "operation" : "StartApplication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    },
+    "MYGDVBS5C2CVHKNZ" : {
+      "sku" : "MYGDVBS5C2CVHKNZ",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "4 GB memory, 1 vCPU compute included in 1 Kinesis Processing Unit (KPU) for Kinesis Data Analytics Studio",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KPU-Hour-Interactive",
+        "operation" : "StartApplication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    },
+    "W4XJUPQGUU49C47X" : {
+      "sku" : "W4XJUPQGUU49C47X",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "Per GB-month of durable application backups",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DurableApplicationBackups",
+        "operation" : "CreateSnapshot",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    },
+    "NDRBVXVYF9UVEKFB" : {
+      "sku" : "NDRBVXVYF9UVEKFB",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "4 GB memory, 1 vCPU compute included in 1 Kinesis Processing Unit (KPU)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KPU-Hour",
+        "operation" : "StartApplication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    },
+    "APZTX99SRBTV9ACQ" : {
+      "sku" : "APZTX99SRBTV9ACQ",
+      "productFamily" : "Kinesis Analytics",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisAnalytics",
+        "description" : "4 GB memory, 1 vCPU compute included in 1 Kinesis Processing Unit (KPU) for Java applications",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KPU-Hour-Java",
+        "operation" : "StartApplication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Analytics"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NDRBVXVYF9UVEKFB" : {
+        "NDRBVXVYF9UVEKFB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NDRBVXVYF9UVEKFB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "NDRBVXVYF9UVEKFB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NDRBVXVYF9UVEKFB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11 per Kinesis Processing Unit-hour for SQL applications",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "KPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MYGDVBS5C2CVHKNZ" : {
+        "MYGDVBS5C2CVHKNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MYGDVBS5C2CVHKNZ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MYGDVBS5C2CVHKNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MYGDVBS5C2CVHKNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11 per Kinesis Processing Unit-hour for Studio notebooks",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "KPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KGUP6X6KTUB8VAEB" : {
+        "KGUP6X6KTUB8VAEB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KGUP6X6KTUB8VAEB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KGUP6X6KTUB8VAEB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KGUP6X6KTUB8VAEB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-month of running application storage for Studio notebooks",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W4XJUPQGUU49C47X" : {
+        "W4XJUPQGUU49C47X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W4XJUPQGUU49C47X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "W4XJUPQGUU49C47X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W4XJUPQGUU49C47X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB-month of durable application backups",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "APZTX99SRBTV9ACQ" : {
+        "APZTX99SRBTV9ACQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "APZTX99SRBTV9ACQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "APZTX99SRBTV9ACQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "APZTX99SRBTV9ACQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11 per Kinesis Processing Unit-hour for Apache Flink applications",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "KPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6GPW77PCCJVB3HT" : {
+        "V6GPW77PCCJVB3HT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6GPW77PCCJVB3HT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6GPW77PCCJVB3HT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6GPW77PCCJVB3HT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-month of running application storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

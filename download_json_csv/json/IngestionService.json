@@ -1,0 +1,162 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "IngestionService",
+  "version" : "20230110163633",
+  "publicationDate" : "2023-01-10T16:36:33Z",
+  "products" : {
+    "NCUBE5683ASYFJE9" : {
+      "sku" : "NCUBE5683ASYFJE9",
+      "productFamily" : "Storage Device",
+      "attributes" : {
+        "servicecode" : "IngestionService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Device",
+        "groupDescription" : "Device Handling",
+        "usagetype" : "DeviceUsage",
+        "operation" : "DeviceHandling",
+        "dataAction" : "N/A",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Import/Export"
+      }
+    },
+    "E8X7Z49A7H3K2BU7" : {
+      "sku" : "E8X7Z49A7H3K2BU7",
+      "productFamily" : "Storage Device",
+      "attributes" : {
+        "servicecode" : "IngestionService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Station",
+        "groupDescription" : "Station usage like Data loading,Data Wiping",
+        "usagetype" : "StationUsage",
+        "operation" : "DataLoading",
+        "dataAction" : "Loading",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Import/Export"
+      }
+    },
+    "VSVS59TG4229EFS7" : {
+      "sku" : "VSVS59TG4229EFS7",
+      "productFamily" : "Storage Device",
+      "attributes" : {
+        "servicecode" : "IngestionService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Return Shipping",
+        "groupDescription" : "Return shipping charges",
+        "usagetype" : "ReturnShippingFee",
+        "operation" : "PackageShipping",
+        "dataAction" : "N/A",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Import/Export"
+      }
+    },
+    "7NFAVVXKJWNYKM7U" : {
+      "sku" : "7NFAVVXKJWNYKM7U",
+      "productFamily" : "Storage Device",
+      "attributes" : {
+        "servicecode" : "IngestionService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Station",
+        "groupDescription" : "Station usage like Data loading,Data Wiping",
+        "usagetype" : "StationUsage",
+        "operation" : "DataErasing",
+        "dataAction" : "Erasing",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Import/Export"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7NFAVVXKJWNYKM7U" : {
+        "7NFAVVXKJWNYKM7U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7NFAVVXKJWNYKM7U",
+          "effectiveDate" : "2010-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "7NFAVVXKJWNYKM7U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7NFAVVXKJWNYKM7U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.49 per data-wiping-hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "2.4900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NCUBE5683ASYFJE9" : {
+        "NCUBE5683ASYFJE9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NCUBE5683ASYFJE9",
+          "effectiveDate" : "2010-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NCUBE5683ASYFJE9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NCUBE5683ASYFJE9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$80 per storage device handled",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "80.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E8X7Z49A7H3K2BU7" : {
+        "E8X7Z49A7H3K2BU7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E8X7Z49A7H3K2BU7",
+          "effectiveDate" : "2010-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "E8X7Z49A7H3K2BU7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E8X7Z49A7H3K2BU7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.49 per data-loading-hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "2.4900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VSVS59TG4229EFS7" : {
+        "VSVS59TG4229EFS7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VSVS59TG4229EFS7",
+          "effectiveDate" : "2010-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VSVS59TG4229EFS7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VSVS59TG4229EFS7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Return Shipping Fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "USD",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

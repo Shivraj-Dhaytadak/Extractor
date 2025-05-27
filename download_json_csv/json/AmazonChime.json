@@ -1,0 +1,325 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonChime",
+  "version" : "20240620184002",
+  "publicationDate" : "2024-06-20T18:40:02Z",
+  "products" : {
+    "E56QABG4Y4FQJ866" : {
+      "sku" : "E56QABG4Y4FQJ866",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SMA-VoiceFocus-Minutes",
+        "operation" : "",
+        "licenseType" : "VoiceFocus",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "92GFQ6SK5UXU5R5A" : {
+      "sku" : "92GFQ6SK5UXU5R5A",
+      "productFamily" : "AmazonChime",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ChimeMeetings-Free",
+        "operation" : "",
+        "licenseType" : "ActiveHostsFree",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "GWXXTHXEH66CQBUT" : {
+      "sku" : "GWXXTHXEH66CQBUT",
+      "productFamily" : "AmazonChime",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-HD-attendee-minutes",
+        "operation" : "",
+        "licenseType" : "FHD SDK",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "Z26AXQRFRU6WHG4U" : {
+      "sku" : "Z26AXQRFRU6WHG4U",
+      "productFamily" : "AmazonChime",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-amazonchime-meetings",
+        "operation" : "",
+        "licenseType" : "Meetings",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "N8KUR64UWZ5ADD47" : {
+      "sku" : "N8KUR64UWZ5ADD47",
+      "productFamily" : "AmazonChime",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-attendee-minutes",
+        "operation" : "",
+        "licenseType" : "sdk",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "8AJMA8V53RR7FPAQ" : {
+      "sku" : "8AJMA8V53RR7FPAQ",
+      "productFamily" : "AmazonChime",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-HD-capacity-minutes",
+        "operation" : "",
+        "licenseType" : "SDK Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "WVT3F7BCQQSSDPPC" : {
+      "sku" : "WVT3F7BCQQSSDPPC",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-VC-kinesis-audio-streaming",
+        "operation" : "",
+        "licenseType" : "audio_stream",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "GTHU83UD2CAPCSYV" : {
+      "sku" : "GTHU83UD2CAPCSYV",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SMA-CallRecording-Minutes",
+        "operation" : "",
+        "licenseType" : "CallRecording",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    },
+    "RB3WZVYYJTY8EAKS" : {
+      "sku" : "RB3WZVYYJTY8EAKS",
+      "attributes" : {
+        "servicecode" : "AmazonChime",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SIP-Media-App-Minutes",
+        "operation" : "",
+        "licenseType" : "Sip_Media",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "8AJMA8V53RR7FPAQ" : {
+        "8AJMA8V53RR7FPAQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8AJMA8V53RR7FPAQ",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "8AJMA8V53RR7FPAQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8AJMA8V53RR7FPAQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001 per minutes for Chime-SDK-FHD-capacity-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z26AXQRFRU6WHG4U" : {
+        "Z26AXQRFRU6WHG4U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z26AXQRFRU6WHG4U",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z26AXQRFRU6WHG4U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z26AXQRFRU6WHG4U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Chime Meetings Active Host Days",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "AmazonChime_Meetings_Active_Host_Days",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WVT3F7BCQQSSDPPC" : {
+        "WVT3F7BCQQSSDPPC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WVT3F7BCQQSSDPPC",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "WVT3F7BCQQSSDPPC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WVT3F7BCQQSSDPPC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0028 per minutes for VC-kinesis-audio-streaming in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0028000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "92GFQ6SK5UXU5R5A" : {
+        "92GFQ6SK5UXU5R5A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "92GFQ6SK5UXU5R5A",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "92GFQ6SK5UXU5R5A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "92GFQ6SK5UXU5R5A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Chime Meetings Active Host Days billed at $0",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Sessions",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E56QABG4Y4FQJ866" : {
+        "E56QABG4Y4FQJ866.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E56QABG4Y4FQJ866",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "E56QABG4Y4FQJ866.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E56QABG4Y4FQJ866.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0045 per minutes for SMA-VoiceFocus minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0045000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N8KUR64UWZ5ADD47" : {
+        "N8KUR64UWZ5ADD47.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N8KUR64UWZ5ADD47",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "N8KUR64UWZ5ADD47.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N8KUR64UWZ5ADD47.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0017 per minutes for Chime-SDK-attendee-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0017000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWXXTHXEH66CQBUT" : {
+        "GWXXTHXEH66CQBUT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWXXTHXEH66CQBUT",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWXXTHXEH66CQBUT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWXXTHXEH66CQBUT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0034 per minutes for Chime-SDK-FHD-attendee-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GTHU83UD2CAPCSYV" : {
+        "GTHU83UD2CAPCSYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GTHU83UD2CAPCSYV",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "GTHU83UD2CAPCSYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GTHU83UD2CAPCSYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0028 per minutes for SIP Media App Call Recording  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0028000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RB3WZVYYJTY8EAKS" : {
+        "RB3WZVYYJTY8EAKS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RB3WZVYYJTY8EAKS",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "RB3WZVYYJTY8EAKS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RB3WZVYYJTY8EAKS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per minutes for SIP-Media-App-Minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0020000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

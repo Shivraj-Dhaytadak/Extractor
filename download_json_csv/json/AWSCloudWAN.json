@@ -1,0 +1,266 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCloudWAN",
+  "version" : "20250513232629",
+  "publicationDate" : "2025-05-13T23:26:29Z",
+  "products" : {
+    "XYSGJCKW8NPN9Y9A" : {
+      "sku" : "XYSGJCKW8NPN9Y9A",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Hourly charge for Cloud WAN Core Network Edge TGW Peering",
+        "usagetype" : "USE1-CloudWAN-Peering-Hours",
+        "operation" : "CloudWANTGWPeering",
+        "attachmentType" : "Transit Gateway",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "UT47743MRWYGMPDE" : {
+      "sku" : "UT47743MRWYGMPDE",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Charge for per GB data processed by AWS Cloud WAN  for Site-to-Site VPN attachments",
+        "usagetype" : "USE1-CloudWAN-Bytes",
+        "operation" : "CloudWANS2SVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "NAEH28JGTGAWBQUQ" : {
+      "sku" : "NAEH28JGTGAWBQUQ",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Hourly charge for Cloud WAN Core Network Edge",
+        "usagetype" : "USE1-CloudWAN-CoreNetworkEdge-Hours",
+        "operation" : "CloudWANCoreNetworkEdge",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "8AHZHK5XF5NSANXH" : {
+      "sku" : "8AHZHK5XF5NSANXH",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Hourly charge for Cloud WAN Connect attachments",
+        "usagetype" : "USE1-CloudWAN-Attachment-Hours",
+        "operation" : "CloudWANConnect",
+        "attachmentType" : "Connect",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "33A2695XZ3M23D4U" : {
+      "sku" : "33A2695XZ3M23D4U",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Hourly charge for Cloud WAN Site-to-Site VPN attachments",
+        "usagetype" : "USE1-CloudWAN-Attachment-Hours",
+        "operation" : "CloudWANS2SVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "QFJVDX7EFFPT45HX" : {
+      "sku" : "QFJVDX7EFFPT45HX",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Charge for per GB data processed by AWS Cloud WAN for VPC attachments",
+        "usagetype" : "USE1-CloudWAN-Bytes",
+        "operation" : "CloudWANVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    },
+    "F6ACVPAUY8BP99CT" : {
+      "sku" : "F6ACVPAUY8BP99CT",
+      "attributes" : {
+        "servicecode" : "AWSCloudWAN",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "CloudWAN",
+        "groupDescription" : "Hourly charge for Cloud WAN VPC Attachments",
+        "usagetype" : "USE1-CloudWAN-Attachment-Hours",
+        "operation" : "CloudWANVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud WAN"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "33A2695XZ3M23D4U" : {
+        "33A2695XZ3M23D4U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "33A2695XZ3M23D4U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "33A2695XZ3M23D4U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "33A2695XZ3M23D4U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANS2SVPN in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XYSGJCKW8NPN9Y9A" : {
+        "XYSGJCKW8NPN9Y9A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XYSGJCKW8NPN9Y9A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XYSGJCKW8NPN9Y9A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XYSGJCKW8NPN9Y9A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.065 per hour for CloudWAN-Peering-Hours:CloudWANTGWPeering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F6ACVPAUY8BP99CT" : {
+        "F6ACVPAUY8BP99CT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F6ACVPAUY8BP99CT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "F6ACVPAUY8BP99CT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F6ACVPAUY8BP99CT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANVPC in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8AHZHK5XF5NSANXH" : {
+        "8AHZHK5XF5NSANXH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8AHZHK5XF5NSANXH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8AHZHK5XF5NSANXH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8AHZHK5XF5NSANXH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANConnect in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QFJVDX7EFFPT45HX" : {
+        "QFJVDX7EFFPT45HX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QFJVDX7EFFPT45HX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QFJVDX7EFFPT45HX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QFJVDX7EFFPT45HX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GigaBytes for CloudWAN-Bytes:CloudWANVPC in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UT47743MRWYGMPDE" : {
+        "UT47743MRWYGMPDE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UT47743MRWYGMPDE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UT47743MRWYGMPDE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UT47743MRWYGMPDE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GigaBytes for CloudWAN-Bytes:CloudWANS2SVPN in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NAEH28JGTGAWBQUQ" : {
+        "NAEH28JGTGAWBQUQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NAEH28JGTGAWBQUQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NAEH28JGTGAWBQUQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NAEH28JGTGAWBQUQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per hour for CloudWAN-CoreNetworkEdge-Hours:CloudWANCoreNetworkEdge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

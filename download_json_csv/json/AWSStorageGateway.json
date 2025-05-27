@@ -1,0 +1,282 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSStorageGateway",
+  "version" : "20250314181515",
+  "publicationDate" : "2025-03-14T18:15:15Z",
+  "products" : {
+    "CTUM9FD2WQDVM3UV" : {
+      "sku" : "CTUM9FD2WQDVM3UV",
+      "productFamily" : "StorageGateway-Storage",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Standard",
+        "usagetype" : "Gateway:VolumeUsage",
+        "operation" : "",
+        "maximumCapacity" : "32 TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "storageDescription" : "Volume - Cached"
+      }
+    },
+    "QFVVU8TNCM9NXYUN" : {
+      "sku" : "QFVVU8TNCM9NXYUN",
+      "productFamily" : "StorageGateway-Storage",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Glacier",
+        "usagetype" : "Gateway:VTS-Storage",
+        "operation" : "",
+        "maximumCapacity" : "2.5 TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "storageDescription" : "Virtual Tape in Library"
+      }
+    },
+    "RFQBQTF65H6JFQV7" : {
+      "sku" : "RFQBQTF65H6JFQV7",
+      "productFamily" : "StorageGateway-Storage",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Standard",
+        "usagetype" : "Gateway:VTL-Storage",
+        "operation" : "",
+        "maximumCapacity" : "2.5 TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "storageDescription" : "Virtual Tape in Library"
+      }
+    },
+    "QHFTTH3P27TBE5CG" : {
+      "sku" : "QHFTTH3P27TBE5CG",
+      "productFamily" : "StorageGateway-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-TapeGlacierRetrieval",
+        "feeDescription" : "Fee for retrieving virtual tape from Glacier",
+        "usagetype" : "USE1-Retrieval-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "version" : "Current"
+      }
+    },
+    "TUDWUXFG4JF399QA" : {
+      "sku" : "TUDWUXFG4JF399QA",
+      "productFamily" : "StorageGateway-Instance",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeDescription" : "Fixed fee for every hour or partial hour that your accelerator runs",
+        "usagetype" : "USE1-Gateway-Hrs",
+        "operation" : "FileFSxWindowsGatewaySoftware",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway"
+      }
+    },
+    "JS6JWWFH27QRN8G6" : {
+      "sku" : "JS6JWWFH27QRN8G6",
+      "productFamily" : "StorageGateway-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-UploadedBytes",
+        "feeDescription" : "Fee for uploaded bytes into Storage Gateway",
+        "usagetype" : "USE1-Uploaded-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "version" : "Current"
+      }
+    },
+    "VBAWMZY7SH9UK9U6" : {
+      "sku" : "VBAWMZY7SH9UK9U6",
+      "productFamily" : "StorageGateway-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-TapeEarlyDeleteFee",
+        "feeDescription" : "Pro-rated fee for deleting an archived virtual tape prior to 90 days",
+        "usagetype" : "Gateway:VTS-EarlyDelete",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway",
+        "version" : "Current"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "QHFTTH3P27TBE5CG" : {
+        "QHFTTH3P27TBE5CG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QHFTTH3P27TBE5CG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QHFTTH3P27TBE5CG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QHFTTH3P27TBE5CG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB virtual tape retrieval fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TUDWUXFG4JF399QA" : {
+        "TUDWUXFG4JF399QA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TUDWUXFG4JF399QA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TUDWUXFG4JF399QA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TUDWUXFG4JF399QA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.69 per hours for Gateway-Hrs:FileFSxWindowsGatewaySoftware in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.6900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VBAWMZY7SH9UK9U6" : {
+        "VBAWMZY7SH9UK9U6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VBAWMZY7SH9UK9U6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VBAWMZY7SH9UK9U6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VBAWMZY7SH9UK9U6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0036 per GB-month virtual tape early deletion fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0036000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QFVVU8TNCM9NXYUN" : {
+        "QFVVU8TNCM9NXYUN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QFVVU8TNCM9NXYUN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QFVVU8TNCM9NXYUN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QFVVU8TNCM9NXYUN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0036 per GB-month of archived virtual tape storage used",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0036000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RFQBQTF65H6JFQV7" : {
+        "RFQBQTF65H6JFQV7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RFQBQTF65H6JFQV7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RFQBQTF65H6JFQV7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RFQBQTF65H6JFQV7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB-month of virtual tape storage used",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JS6JWWFH27QRN8G6" : {
+        "JS6JWWFH27QRN8G6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JS6JWWFH27QRN8G6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JS6JWWFH27QRN8G6.JRTCKXETXF.SRERGXVDDH" : {
+              "rateCode" : "JS6JWWFH27QRN8G6.JRTCKXETXF.SRERGXVDDH",
+              "description" : "$0.01 per GB - first 12.2 TB / month data written by your gateway to AWS storage",
+              "beginRange" : "0",
+              "endRange" : "12500",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JS6JWWFH27QRN8G6.JRTCKXETXF.GFG7H5FKAU" : {
+              "rateCode" : "JS6JWWFH27QRN8G6.JRTCKXETXF.GFG7H5FKAU",
+              "description" : "$0.00 per GB - data written by your gateway to AWS storage / month over 12.2 TB",
+              "beginRange" : "12500",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CTUM9FD2WQDVM3UV" : {
+        "CTUM9FD2WQDVM3UV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CTUM9FD2WQDVM3UV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CTUM9FD2WQDVM3UV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CTUM9FD2WQDVM3UV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB-month of volume storage used",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

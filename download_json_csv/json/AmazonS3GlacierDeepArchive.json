@@ -1,0 +1,644 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonS3GlacierDeepArchive",
+  "version" : "20250408215607",
+  "publicationDate" : "2025-04-08T21:56:07Z",
+  "products" : {
+    "ETJRQA9TVAKMKT3G" : {
+      "sku" : "ETJRQA9TVAKMKT3G",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "PUT for replication to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "PutObjectForRepl",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "PAQWRT888JMZE37W" : {
+      "sku" : "PAQWRT888JMZE37W",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Complete Multipart Upload for repl to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "CompleteMultipartUploadForRepl",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "JKJJ28K7NEVPDS24" : {
+      "sku" : "JKJJ28K7NEVPDS24",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-Tier5",
+        "groupDescription" : "Glacier Deep Archive Bulk Restore Requests",
+        "usagetype" : "Requests-GDA-Tier5",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "CUNH95PFHJJCKVR5" : {
+      "sku" : "CUNH95PFHJJCKVR5",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "COPY Object to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "CopyObject",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "SBYTEPUF7PY2UDK2" : {
+      "sku" : "SBYTEPUF7PY2UDK2",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier3",
+        "groupDescription" : "GDA Standard Restore Requests",
+        "usagetype" : "Requests-GDA-Tier3",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "2CWWFYV96GBD6VUJ" : {
+      "sku" : "2CWWFYV96GBD6VUJ",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Upload part to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "UploadPart",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "SKAKWE8C8SPXCVHA" : {
+      "sku" : "SKAKWE8C8SPXCVHA",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Archive",
+        "volumeType" : "Glacier Deep Archive",
+        "usagetype" : "TimedStorage-GDA-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "X3ZPM3MNWP6594U3" : {
+      "sku" : "X3ZPM3MNWP6594U3",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "S3-Standard-Retrieval",
+        "feeDescription" : "Fee for Standard Retrieval of data stored from Glacier Deep Archive",
+        "usagetype" : "Standard-Retrieval-Bytes",
+        "operation" : "DeepArchiveRestoreObject",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "VTKUMHFP3SKXS37Y" : {
+      "sku" : "VTKUMHFP3SKXS37Y",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Initiate Multipart Upload for replication to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "InitiateMultipartUploadForRepl",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "9VTAQQJS2T8RJC73" : {
+      "sku" : "9VTAQQJS2T8RJC73",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "POST to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "PostObject",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "CGUXUEMDW5A4R5CC" : {
+      "sku" : "CGUXUEMDW5A4R5CC",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Complete Multipart Upload to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "CompleteMultipartUpload",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "EQ2HJHQR2HBHM5U8" : {
+      "sku" : "EQ2HJHQR2HBHM5U8",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Initiate Multipart Upload to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "InitiateMultipartUpload",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "XCCX33UM7XVT7XUE" : {
+      "sku" : "XCCX33UM7XVT7XUE",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-Tier3",
+        "groupDescription" : "Lifecycle to Glacier Deep Archive",
+        "usagetype" : "Requests-Tier3",
+        "operation" : "S3-GDATransition",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "7BP282GS3BVPCTGS" : {
+      "sku" : "7BP282GS3BVPCTGS",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Copy part to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "CopyPart",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "2B8ZACNN7SPBKWVF" : {
+      "sku" : "2B8ZACNN7SPBKWVF",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "S3-Bulk-Retrieval",
+        "feeDescription" : "Fee for Bulk Retrieval of data stored from Glacier Deep Archive",
+        "usagetype" : "Bulk-Retrieval-Bytes",
+        "operation" : "DeepArchiveRestoreObject",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "8ZYWU9F4Z22T53BY" : {
+      "sku" : "8ZYWU9F4Z22T53BY",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "S3:EarlyDelete-GDA",
+        "feeDescription" : "Pro-rated fee for objects deleted before 180 days in Glacier Deep Archive volume",
+        "usagetype" : "EarlyDelete-GDA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "4F9PAAFX7KA47MVJ" : {
+      "sku" : "4F9PAAFX7KA47MVJ",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "PUT to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "PutObject",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    },
+    "EU3ENN5PWJU7GGBU" : {
+      "sku" : "EU3ENN5PWJU7GGBU",
+      "attributes" : {
+        "servicecode" : "AmazonS3GlacierDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "S3-API-GDA-Tier1",
+        "groupDescription" : "Upload part for replication to Glacier Deep Archive",
+        "usagetype" : "Requests-GDA-Tier1",
+        "operation" : "UploadPartForRepl",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon S3 Glacier Deep Archive"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "2CWWFYV96GBD6VUJ" : {
+        "2CWWFYV96GBD6VUJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2CWWFYV96GBD6VUJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2CWWFYV96GBD6VUJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2CWWFYV96GBD6VUJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 UploadPart requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PAQWRT888JMZE37W" : {
+        "PAQWRT888JMZE37W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PAQWRT888JMZE37W",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PAQWRT888JMZE37W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PAQWRT888JMZE37W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 CompleteMultipartUploadForRepl requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JKJJ28K7NEVPDS24" : {
+        "JKJJ28K7NEVPDS24.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JKJJ28K7NEVPDS24",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "JKJJ28K7NEVPDS24.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JKJJ28K7NEVPDS24.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per 1,000 Bulk requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VTKUMHFP3SKXS37Y" : {
+        "VTKUMHFP3SKXS37Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VTKUMHFP3SKXS37Y",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VTKUMHFP3SKXS37Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VTKUMHFP3SKXS37Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 InitiateMultipartUploadForRepl requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2B8ZACNN7SPBKWVF" : {
+        "2B8ZACNN7SPBKWVF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2B8ZACNN7SPBKWVF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2B8ZACNN7SPBKWVF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2B8ZACNN7SPBKWVF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0025 per GB Bulk retrieval fee from Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X3ZPM3MNWP6594U3" : {
+        "X3ZPM3MNWP6594U3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X3ZPM3MNWP6594U3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "X3ZPM3MNWP6594U3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X3ZPM3MNWP6594U3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Standard retrieval fee from Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SKAKWE8C8SPXCVHA" : {
+        "SKAKWE8C8SPXCVHA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SKAKWE8C8SPXCVHA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SKAKWE8C8SPXCVHA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SKAKWE8C8SPXCVHA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00099 per GB-Month for storage used in Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0009900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4F9PAAFX7KA47MVJ" : {
+        "4F9PAAFX7KA47MVJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4F9PAAFX7KA47MVJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4F9PAAFX7KA47MVJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4F9PAAFX7KA47MVJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 PutObject requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EU3ENN5PWJU7GGBU" : {
+        "EU3ENN5PWJU7GGBU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EU3ENN5PWJU7GGBU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EU3ENN5PWJU7GGBU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EU3ENN5PWJU7GGBU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 UploadPartForRepl requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7BP282GS3BVPCTGS" : {
+        "7BP282GS3BVPCTGS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7BP282GS3BVPCTGS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7BP282GS3BVPCTGS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7BP282GS3BVPCTGS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 CopyPart requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CGUXUEMDW5A4R5CC" : {
+        "CGUXUEMDW5A4R5CC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CGUXUEMDW5A4R5CC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CGUXUEMDW5A4R5CC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CGUXUEMDW5A4R5CC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 CompleteMultipartUpload requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SBYTEPUF7PY2UDK2" : {
+        "SBYTEPUF7PY2UDK2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SBYTEPUF7PY2UDK2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SBYTEPUF7PY2UDK2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SBYTEPUF7PY2UDK2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per 1,000 Standard requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8ZYWU9F4Z22T53BY" : {
+        "8ZYWU9F4Z22T53BY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8ZYWU9F4Z22T53BY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8ZYWU9F4Z22T53BY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8ZYWU9F4Z22T53BY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00099 per GB-Month prorated for objects deleted before 180 days in Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0009900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EQ2HJHQR2HBHM5U8" : {
+        "EQ2HJHQR2HBHM5U8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EQ2HJHQR2HBHM5U8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EQ2HJHQR2HBHM5U8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EQ2HJHQR2HBHM5U8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 InitiateMultipartUpload requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XCCX33UM7XVT7XUE" : {
+        "XCCX33UM7XVT7XUE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XCCX33UM7XVT7XUE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XCCX33UM7XVT7XUE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XCCX33UM7XVT7XUE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 Lifecycle requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9VTAQQJS2T8RJC73" : {
+        "9VTAQQJS2T8RJC73.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9VTAQQJS2T8RJC73",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9VTAQQJS2T8RJC73.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9VTAQQJS2T8RJC73.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 PostObject requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CUNH95PFHJJCKVR5" : {
+        "CUNH95PFHJJCKVR5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CUNH95PFHJJCKVR5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CUNH95PFHJJCKVR5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CUNH95PFHJJCKVR5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 CopyObject requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ETJRQA9TVAKMKT3G" : {
+        "ETJRQA9TVAKMKT3G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ETJRQA9TVAKMKT3G",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ETJRQA9TVAKMKT3G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ETJRQA9TVAKMKT3G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 1,000 PutObjectForRepl requests to Glacier Deep Archive in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

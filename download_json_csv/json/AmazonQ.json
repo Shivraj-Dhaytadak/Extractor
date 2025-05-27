@@ -1,0 +1,518 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonQ",
+  "version" : "20250329004349",
+  "publicationDate" : "2025-03-29T00:43:49Z",
+  "products" : {
+    "37FTDA6BEJ48XTYK" : {
+      "sku" : "37FTDA6BEJ48XTYK",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Pro Subscription",
+        "groupDescription" : "Number of Amazon Q Business Pro subscriptions in the service",
+        "usagetype" : "USE1-Amazon-Q-Business-Pro-Month",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "NB8Z53BDSCSKJB85" : {
+      "sku" : "NB8Z53BDSCSKJB85",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lite Subscription",
+        "groupDescription" : "Number of Amazon Q Business Lite subscriptions in the service",
+        "usagetype" : "USE1-Amazon-Q-Business-Lite-Month",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "TEJQC2Z28YXECAFH" : {
+      "sku" : "TEJQC2Z28YXECAFH",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Video",
+        "groupDescription" : "Video Analysis",
+        "usagetype" : "USE1-GenerateVideoDescription",
+        "operation" : "BatchPutDocument",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "QG6HF8SHGQE7STX3" : {
+      "sku" : "QG6HF8SHGQE7STX3",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Index",
+        "groupDescription" : "Index",
+        "usagetype" : "USE1-AmazonQ-Index",
+        "operation" : "AmazonQ-Index",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "HCV2KCAG2KMKWRJK" : {
+      "sku" : "HCV2KCAG2KMKWRJK",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Index-Enterprise",
+        "groupDescription" : "Enterprise Index",
+        "usagetype" : "USE1-AmazonQ-Index-Enterprise",
+        "operation" : "AmazonQ-Index-Enterprise",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "RN5GYNM4A9HDWUQR" : {
+      "sku" : "RN5GYNM4A9HDWUQR",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Pro Subscription",
+        "groupDescription" : "Number of Amazon Q Business Pro subscriptions in the service (free trial)",
+        "usagetype" : "USE1-Amazon-Q-Business-Pro-Free-Trial",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "XGHD5RQWWXZBZZQJ" : {
+      "sku" : "XGHD5RQWWXZBZZQJ",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Q Business Starter Index",
+        "groupDescription" : "Q Business Starter Index hours(free)",
+        "usagetype" : "USE1-Q-Business-Starter-Index-free",
+        "operation" : "Q-Business-Starter-Index",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "HNF7A6F4ZJ2DT97R" : {
+      "sku" : "HNF7A6F4ZJ2DT97R",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Image",
+        "groupDescription" : "Image Analysis",
+        "usagetype" : "USE1-GenerateImageDescription",
+        "operation" : "BatchPutDocument",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "QV8AA52VQBRZKYGW" : {
+      "sku" : "QV8AA52VQBRZKYGW",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Q Business Enterprise Index",
+        "groupDescription" : "Q Business Enterprise Index hours(free)",
+        "usagetype" : "USE1-Q-Business-Enterprise-Index-free",
+        "operation" : "Q-Business-Enterprise-Index",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "6YF98MEZSZRZVGG3" : {
+      "sku" : "6YF98MEZSZRZVGG3",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Q Business Enterprise Index",
+        "groupDescription" : "Q Business Enterprise Index hours",
+        "usagetype" : "USE1-Q-Business-Enterprise-Index",
+        "operation" : "Q-Business-Enterprise-Index",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "GZQBP6KJ4TD6J25B" : {
+      "sku" : "GZQBP6KJ4TD6J25B",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Q Developer Pro",
+        "groupDescription" : "Number Amazon Q Developer monthly subscriptions",
+        "usagetype" : "USE1-Amazon-Q-Developer-Pro-subscription-monthly",
+        "operation" : "number-q-dev-subscriptions",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "YW27YTHUT34DG8TZ" : {
+      "sku" : "YW27YTHUT34DG8TZ",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lite Subscription",
+        "groupDescription" : "Number of Amazon Q Business Lite subscriptions in the service (free trial)",
+        "usagetype" : "USE1-Amazon-Q-Business-Lite-Free-Trial",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "QDBT38592VQ6X8EM" : {
+      "sku" : "QDBT38592VQ6X8EM",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Q Business Starter Index",
+        "groupDescription" : "Q Business Starter Index hours",
+        "usagetype" : "USE1-Q-Business-Starter-Index",
+        "operation" : "Q-Business-Starter-Index",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    },
+    "P7F5T9PZVU9B7CY5" : {
+      "sku" : "P7F5T9PZVU9B7CY5",
+      "productFamily" : "Amazon Q",
+      "attributes" : {
+        "servicecode" : "AmazonQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Audio",
+        "groupDescription" : "Audio Analysis",
+        "usagetype" : "USE1-GenerateAudioDescription",
+        "operation" : "BatchPutDocument",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Q"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "37FTDA6BEJ48XTYK" : {
+        "37FTDA6BEJ48XTYK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "37FTDA6BEJ48XTYK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "37FTDA6BEJ48XTYK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "37FTDA6BEJ48XTYK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD20.0 per month per user for Amazon Q Business Pro - US East (N. Virginia) (us-east-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RN5GYNM4A9HDWUQR" : {
+        "RN5GYNM4A9HDWUQR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RN5GYNM4A9HDWUQR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RN5GYNM4A9HDWUQR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RN5GYNM4A9HDWUQR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0 per month per user for Amazon Q Business Pro (free trial) - US East (N. Virginia) (us-east-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YW27YTHUT34DG8TZ" : {
+        "YW27YTHUT34DG8TZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YW27YTHUT34DG8TZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YW27YTHUT34DG8TZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YW27YTHUT34DG8TZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0 per month per user for Amazon Q Business Lite (free trial) - US East (N. Virginia) (us-east-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HNF7A6F4ZJ2DT97R" : {
+        "HNF7A6F4ZJ2DT97R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HNF7A6F4ZJ2DT97R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HNF7A6F4ZJ2DT97R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HNF7A6F4ZJ2DT97R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.003 per Count for Amazon Q Business Image Index in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QDBT38592VQ6X8EM" : {
+        "QDBT38592VQ6X8EM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QDBT38592VQ6X8EM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QDBT38592VQ6X8EM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QDBT38592VQ6X8EM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per hour per Amazon Q Business starter Index unit for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NB8Z53BDSCSKJB85" : {
+        "NB8Z53BDSCSKJB85.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NB8Z53BDSCSKJB85",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NB8Z53BDSCSKJB85.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NB8Z53BDSCSKJB85.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD3.0 per month per user for Amazon Q Business Lite - US East (N. Virginia) (us-east-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QG6HF8SHGQE7STX3" : {
+        "QG6HF8SHGQE7STX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QG6HF8SHGQE7STX3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QG6HF8SHGQE7STX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QG6HF8SHGQE7STX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per hour per Amazon Q Business starter Index unit for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QV8AA52VQBRZKYGW" : {
+        "QV8AA52VQBRZKYGW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QV8AA52VQBRZKYGW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QV8AA52VQBRZKYGW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QV8AA52VQBRZKYGW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Amazon Q Business enterprise Index free trial for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P7F5T9PZVU9B7CY5" : {
+        "P7F5T9PZVU9B7CY5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P7F5T9PZVU9B7CY5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "P7F5T9PZVU9B7CY5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P7F5T9PZVU9B7CY5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per minute for Amazon Q Business Audio Index in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TEJQC2Z28YXECAFH" : {
+        "TEJQC2Z28YXECAFH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TEJQC2Z28YXECAFH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TEJQC2Z28YXECAFH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TEJQC2Z28YXECAFH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per minute for Amazon Q Business Video Index in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XGHD5RQWWXZBZZQJ" : {
+        "XGHD5RQWWXZBZZQJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XGHD5RQWWXZBZZQJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XGHD5RQWWXZBZZQJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XGHD5RQWWXZBZZQJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Amazon Q Business starter Index free trial for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6YF98MEZSZRZVGG3" : {
+        "6YF98MEZSZRZVGG3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6YF98MEZSZRZVGG3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6YF98MEZSZRZVGG3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6YF98MEZSZRZVGG3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.264 per hour per Amazon Q Business enterprise Index unit for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GZQBP6KJ4TD6J25B" : {
+        "GZQBP6KJ4TD6J25B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GZQBP6KJ4TD6J25B",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GZQBP6KJ4TD6J25B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GZQBP6KJ4TD6J25B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD19.00 per month per user for Amazon Q Developer Pro - US East (N. Virginia) (us-east-1)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User",
+              "pricePerUnit" : {
+                "USD" : "19.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HCV2KCAG2KMKWRJK" : {
+        "HCV2KCAG2KMKWRJK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HCV2KCAG2KMKWRJK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HCV2KCAG2KMKWRJK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HCV2KCAG2KMKWRJK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.264 per hour per Amazon Q Business enterprise Index unit for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

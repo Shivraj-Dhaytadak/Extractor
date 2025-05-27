@@ -1,0 +1,198 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonCloudFront",
+  "version" : "20250425205606",
+  "publicationDate" : "2025-04-25T20:56:06Z",
+  "products" : {
+    "VN4VYBAF9PPSN7NQ" : {
+      "sku" : "VN4VYBAF9PPSN7NQ",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AmazonCloudFront",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests-OriginShield",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "requestDescription" : "Origin Shield Requests",
+        "requestType" : "CloudFront-Request-Origin-Shield",
+        "servicename" : "Amazon CloudFront"
+      }
+    },
+    "87PASMD9R493XPC4" : {
+      "sku" : "87PASMD9R493XPC4",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AmazonCloudFront",
+        "transferType" : "Origin Shield to origin",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Data Origin",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-OBytes-OriginShield",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "Amazon CloudFront",
+        "toRegionCode" : ""
+      }
+    },
+    "PN592W3XFEHYAJER" : {
+      "sku" : "PN592W3XFEHYAJER",
+      "productFamily" : "Serverless",
+      "attributes" : {
+        "servicecode" : "AmazonCloudFront",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWS-Lambda-Edge-Duration",
+        "groupDescription" : "Invocation duration weighted by memory assigned to function, measured in GB-s",
+        "usagetype" : "Lambda-Edge-GB-Second",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon CloudFront"
+      }
+    },
+    "ZY63YD3XZXMPXRD8" : {
+      "sku" : "ZY63YD3XZXMPXRD8",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AmazonCloudFront",
+        "transferType" : "Origin to Origin Shield",
+        "fromLocation" : "External",
+        "fromLocationType" : "Other",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-Bytes-OriginShield",
+        "operation" : "",
+        "fromRegionCode" : "",
+        "servicename" : "Amazon CloudFront",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "UH5MRG7QT9XX6YBP" : {
+      "sku" : "UH5MRG7QT9XX6YBP",
+      "productFamily" : "Serverless",
+      "attributes" : {
+        "servicecode" : "AmazonCloudFront",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWS-Lambda-Edge-Requests",
+        "groupDescription" : "Invocation call for a Lambda function",
+        "usagetype" : "Lambda-Edge-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon CloudFront"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "UH5MRG7QT9XX6YBP" : {
+        "UH5MRG7QT9XX6YBP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UH5MRG7QT9XX6YBP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UH5MRG7QT9XX6YBP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UH5MRG7QT9XX6YBP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.0E-7  per Request for  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZY63YD3XZXMPXRD8" : {
+        "ZY63YD3XZXMPXRD8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZY63YD3XZXMPXRD8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZY63YD3XZXMPXRD8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZY63YD3XZXMPXRD8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per GB - All data transfer into Origin Shield from Origin",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "87PASMD9R493XPC4" : {
+        "87PASMD9R493XPC4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "87PASMD9R493XPC4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "87PASMD9R493XPC4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "87PASMD9R493XPC4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per GB - All data transfer out to Origin from Origin Shield",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PN592W3XFEHYAJER" : {
+        "PN592W3XFEHYAJER.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PN592W3XFEHYAJER",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PN592W3XFEHYAJER.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PN592W3XFEHYAJER.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00005001 per Lambda-GB-Second for  in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Lambda-GB-Second",
+              "pricePerUnit" : {
+                "USD" : "0.0000500100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VN4VYBAF9PPSN7NQ" : {
+        "VN4VYBAF9PPSN7NQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VN4VYBAF9PPSN7NQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VN4VYBAF9PPSN7NQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VN4VYBAF9PPSN7NQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0075 per 10,000 Origin Shield Requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000007500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,344 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonETS",
+  "version" : "20230110161844",
+  "publicationDate" : "2023-01-10T16:18:44Z",
+  "products" : {
+    "CBGFG8NH4X7QF9RZ" : {
+      "sku" : "CBGFG8NH4X7QF9RZ",
+      "productFamily" : "High Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-hd-success",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "720p and above"
+      }
+    },
+    "G8X9SEMT6JWR5F5Z" : {
+      "sku" : "G8X9SEMT6JWR5F5Z",
+      "productFamily" : "Audio",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-audio-success",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "Audio only"
+      }
+    },
+    "A4R97WC2EFV3B72Q" : {
+      "sku" : "A4R97WC2EFV3B72Q",
+      "productFamily" : "Standard Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-sd-success",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "Less than 720p"
+      }
+    },
+    "F2XQ94QWHWJ9MQTC" : {
+      "sku" : "F2XQ94QWHWJ9MQTC",
+      "productFamily" : "Audio",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-audio-error",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Error",
+        "videoResolution" : "Audio only"
+      }
+    },
+    "WDSV22AHS3FNCC2T" : {
+      "sku" : "WDSV22AHS3FNCC2T",
+      "productFamily" : "Audio",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "global-ets-audio-success",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "Audio only"
+      }
+    },
+    "42TGA2CPGV274QR2" : {
+      "sku" : "42TGA2CPGV274QR2",
+      "productFamily" : "Standard Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-sd-error",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Error",
+        "videoResolution" : "Less than 720p"
+      }
+    },
+    "2WCD8HSZSBUVUN4K" : {
+      "sku" : "2WCD8HSZSBUVUN4K",
+      "productFamily" : "High Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ets-hd-error",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Error",
+        "videoResolution" : "720p and above"
+      }
+    },
+    "5FYNDTBJGFNQ8E2F" : {
+      "sku" : "5FYNDTBJGFNQ8E2F",
+      "productFamily" : "Standard Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-ets-sd-success",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "Less than 720p"
+      }
+    },
+    "M4P5XCFENNGRF7ZG" : {
+      "sku" : "M4P5XCFENNGRF7ZG",
+      "productFamily" : "High Definition",
+      "attributes" : {
+        "servicecode" : "AmazonETS",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-ets-hd-success",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Elastic Transcoder",
+        "transcodingResult" : "Success",
+        "videoResolution" : "720p and above"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "CBGFG8NH4X7QF9RZ" : {
+        "CBGFG8NH4X7QF9RZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CBGFG8NH4X7QF9RZ",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "CBGFG8NH4X7QF9RZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CBGFG8NH4X7QF9RZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) $0.030 per minute for HD content transcoded using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2WCD8HSZSBUVUN4K" : {
+        "2WCD8HSZSBUVUN4K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2WCD8HSZSBUVUN4K",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "2WCD8HSZSBUVUN4K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2WCD8HSZSBUVUN4K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) $0.000 for HD content that failed to transcode using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G8X9SEMT6JWR5F5Z" : {
+        "G8X9SEMT6JWR5F5Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G8X9SEMT6JWR5F5Z",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "G8X9SEMT6JWR5F5Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G8X9SEMT6JWR5F5Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) $0.0045 per minute for audio-only transcoding using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0045000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M4P5XCFENNGRF7ZG" : {
+        "M4P5XCFENNGRF7ZG.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "M4P5XCFENNGRF7ZG",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "M4P5XCFENNGRF7ZG.A429C66SYZ.DGNP37V5JW" : {
+              "rateCode" : "M4P5XCFENNGRF7ZG.A429C66SYZ.DGNP37V5JW",
+              "description" : "Global Free Tier for HD",
+              "beginRange" : "0",
+              "endRange" : "10",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "CBGFG8NH4X7QF9RZ", "5GHU6594JCWR72VZ", "VVXJCQFFCNHDQSR4", "MQZ2STE75H44RXFY", "VJTHP8HDT5UYN9CA", "YF8PPTSR7UM7CZG9", "ACM5HUHV5MTBSQ32", "U5KDAK4CQ2VWEG49" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "A4R97WC2EFV3B72Q" : {
+        "A4R97WC2EFV3B72Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A4R97WC2EFV3B72Q",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "A4R97WC2EFV3B72Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A4R97WC2EFV3B72Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) $0.015 per minute for SD content transcoded using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WDSV22AHS3FNCC2T" : {
+        "WDSV22AHS3FNCC2T.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "WDSV22AHS3FNCC2T",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "WDSV22AHS3FNCC2T.A429C66SYZ.HC9A29KZQM" : {
+              "rateCode" : "WDSV22AHS3FNCC2T.A429C66SYZ.HC9A29KZQM",
+              "description" : "Global Free Tier for audio",
+              "beginRange" : "0",
+              "endRange" : "20",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "6QXAV5C23X3N6D84", "A2DWF9B3GF7UCPPR", "2PS5CWVUXYHZC42Q", "G8X9SEMT6JWR5F5Z", "XJ3HVNKEQ8QHZYQQ", "TBRWHTQQ68FUJ23W", "2N4MPTUXKPSSU7VJ", "2M7EQWCEEZSJ69U7" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "F2XQ94QWHWJ9MQTC" : {
+        "F2XQ94QWHWJ9MQTC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F2XQ94QWHWJ9MQTC",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "F2XQ94QWHWJ9MQTC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F2XQ94QWHWJ9MQTC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) audio that failed to transcode using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FYNDTBJGFNQ8E2F" : {
+        "5FYNDTBJGFNQ8E2F.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "5FYNDTBJGFNQ8E2F",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FYNDTBJGFNQ8E2F.A429C66SYZ.HC9A29KZQM" : {
+              "rateCode" : "5FYNDTBJGFNQ8E2F.A429C66SYZ.HC9A29KZQM",
+              "description" : "Global Free Tier for SD",
+              "beginRange" : "0",
+              "endRange" : "20",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "6KNNYA363QH2R346", "C2JR2Y4SZXFYKW7B", "A4R97WC2EFV3B72Q", "VW6FJWRWVMBC5TBY", "PBJ28CAUYT3C3APY", "7H54P7A8XSKKDVGF", "V35CETBNGB4SQT2W", "4JD3VGHAHQ6QWPVT" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "42TGA2CPGV274QR2" : {
+        "42TGA2CPGV274QR2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "42TGA2CPGV274QR2",
+          "effectiveDate" : "2016-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "42TGA2CPGV274QR2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "42TGA2CPGV274QR2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "US East (N. Virginia) $0.000 for SD content that failed to transcode using Amazon Elastic Transcoder",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

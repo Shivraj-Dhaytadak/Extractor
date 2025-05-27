@@ -1,0 +1,158 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonGrafana",
+  "version" : "20240307211050",
+  "publicationDate" : "2024-03-07T21:10:50Z",
+  "products" : {
+    "BBECR46C7J59T4EY" : {
+      "sku" : "BBECR46C7J59T4EY",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "AmazonGrafana",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "User",
+        "groupDescription" : "User Type",
+        "usagetype" : "USE1-Grafana:FreeTrialUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Grafana"
+      }
+    },
+    "96TSPKZF5TMADE3F" : {
+      "sku" : "96TSPKZF5TMADE3F",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "AmazonGrafana",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Viewer",
+        "groupDescription" : "User Type",
+        "usagetype" : "USE1-Grafana:ViewerUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Grafana"
+      }
+    },
+    "FWCSHJYECP2B58CC" : {
+      "sku" : "FWCSHJYECP2B58CC",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "AmazonGrafana",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Editor",
+        "groupDescription" : "User Type",
+        "usagetype" : "USE1-Grafana:EditorUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Grafana"
+      }
+    },
+    "UDGX5793RMXY67VF" : {
+      "sku" : "UDGX5793RMXY67VF",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "AmazonGrafana",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Enterprise Plugins User",
+        "groupDescription" : "User Type",
+        "usagetype" : "USE1-Grafana:EnterprisePluginsUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Grafana"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "96TSPKZF5TMADE3F" : {
+        "96TSPKZF5TMADE3F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "96TSPKZF5TMADE3F",
+          "effectiveDate" : "2024-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "96TSPKZF5TMADE3F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "96TSPKZF5TMADE3F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5 per Viewer per month for US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FWCSHJYECP2B58CC" : {
+        "FWCSHJYECP2B58CC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FWCSHJYECP2B58CC",
+          "effectiveDate" : "2024-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FWCSHJYECP2B58CC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FWCSHJYECP2B58CC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9 per Editor per month for US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "9.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UDGX5793RMXY67VF" : {
+        "UDGX5793RMXY67VF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UDGX5793RMXY67VF",
+          "effectiveDate" : "2024-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UDGX5793RMXY67VF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UDGX5793RMXY67VF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$45 per Enterprise Plugins user per month for US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "45.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BBECR46C7J59T4EY" : {
+        "BBECR46C7J59T4EY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BBECR46C7J59T4EY",
+          "effectiveDate" : "2024-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BBECR46C7J59T4EY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BBECR46C7J59T4EY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per free trial user per month for US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

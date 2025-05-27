@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCodeDeploy",
+  "version" : "20240821174641",
+  "publicationDate" : "2024-08-21T17:46:41Z",
+  "products" : {
+    "KHP8JA9UDYNY2JEZ" : {
+      "sku" : "KHP8JA9UDYNY2JEZ",
+      "productFamily" : "CodeDeploy",
+      "attributes" : {
+        "servicecode" : "AWSCodeDeploy",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "On-Premises-Instance",
+        "operation" : "UpdateDeploymentStatus",
+        "deploymentLocation" : "On Premises",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodeDeploy"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "KHP8JA9UDYNY2JEZ" : {
+        "KHP8JA9UDYNY2JEZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KHP8JA9UDYNY2JEZ",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "KHP8JA9UDYNY2JEZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KHP8JA9UDYNY2JEZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per on-premises instance update",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "OnPremUpdates",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

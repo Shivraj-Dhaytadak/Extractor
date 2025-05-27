@@ -1,0 +1,353 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "datapipeline",
+  "version" : "20230110165411",
+  "publicationDate" : "2023-01-10T16:54:11Z",
+  "products" : {
+    "3YJSDTDQ8E26Z4CC" : {
+      "sku" : "3YJSDTDQ8E26Z4CC",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Activities",
+        "usagetype" : "AWS-Activities-freq",
+        "operation" : "",
+        "executionFrequency" : "More than once a day",
+        "executionLocation" : "AWS",
+        "frequencyMode" : "High",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "UAC62KVH9C99QEK4" : {
+      "sku" : "UAC62KVH9C99QEK4",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Preconditions",
+        "usagetype" : "AWS-Preconditions-freq",
+        "operation" : "",
+        "executionFrequency" : "More than once a day",
+        "executionLocation" : "AWS",
+        "frequencyMode" : "High",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "KUZFA86NMJ9FUTJT" : {
+      "sku" : "KUZFA86NMJ9FUTJT",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Activities",
+        "usagetype" : "local-Activities-freq",
+        "operation" : "",
+        "executionFrequency" : "More than once a day",
+        "executionLocation" : "On-Premise",
+        "frequencyMode" : "High",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "VNBZSY49F82PAQPE" : {
+      "sku" : "VNBZSY49F82PAQPE",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Preconditions",
+        "usagetype" : "AWS-Preconditions-infreq",
+        "operation" : "",
+        "executionFrequency" : "One time a day or less",
+        "executionLocation" : "AWS",
+        "frequencyMode" : "Low",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "A2NE8VCPZPQHM486" : {
+      "sku" : "A2NE8VCPZPQHM486",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Preconditions",
+        "usagetype" : "local-Preconditions-freq",
+        "operation" : "",
+        "executionFrequency" : "More than once a day",
+        "executionLocation" : "On-Premise",
+        "frequencyMode" : "High",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "K2QRH8EB6M3HFX53" : {
+      "sku" : "K2QRH8EB6M3HFX53",
+      "productFamily" : "Inactive Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "description" : "Inactive pipelines per month",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "InactivePipelines",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "9CEP6EWQ9ASXRA4R" : {
+      "sku" : "9CEP6EWQ9ASXRA4R",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Activities",
+        "usagetype" : "AWS-Activities-infreq",
+        "operation" : "",
+        "executionFrequency" : "One time a day or less",
+        "executionLocation" : "AWS",
+        "frequencyMode" : "Low",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "HCS957JRDNM7VZSN" : {
+      "sku" : "HCS957JRDNM7VZSN",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Preconditions",
+        "usagetype" : "local-Preconditions-infreq",
+        "operation" : "",
+        "executionFrequency" : "One time a day or less",
+        "executionLocation" : "On-Premise",
+        "frequencyMode" : "Low",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    },
+    "654NUBFY9DA3T43G" : {
+      "sku" : "654NUBFY9DA3T43G",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "datapipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Activities",
+        "usagetype" : "local-Activities-infreq",
+        "operation" : "",
+        "executionFrequency" : "One time a day or less",
+        "executionLocation" : "On-Premise",
+        "frequencyMode" : "Low",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Data Pipeline"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "UAC62KVH9C99QEK4" : {
+        "UAC62KVH9C99QEK4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UAC62KVH9C99QEK4",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UAC62KVH9C99QEK4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UAC62KVH9C99QEK4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "1 per month per high frequency precondition on AWS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Preconditions",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HCS957JRDNM7VZSN" : {
+        "HCS957JRDNM7VZSN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HCS957JRDNM7VZSN",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HCS957JRDNM7VZSN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HCS957JRDNM7VZSN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "1.50 per month per low frequency precondition on premise",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Preconditions",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A2NE8VCPZPQHM486" : {
+        "A2NE8VCPZPQHM486.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A2NE8VCPZPQHM486",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "A2NE8VCPZPQHM486.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A2NE8VCPZPQHM486.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "2.50 per month per high frequency precondition on-premise",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Preconditions",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KUZFA86NMJ9FUTJT" : {
+        "KUZFA86NMJ9FUTJT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KUZFA86NMJ9FUTJT",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KUZFA86NMJ9FUTJT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KUZFA86NMJ9FUTJT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "2.50 per month per high frequency activity on-premise",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Activities",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9CEP6EWQ9ASXRA4R" : {
+        "9CEP6EWQ9ASXRA4R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9CEP6EWQ9ASXRA4R",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9CEP6EWQ9ASXRA4R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9CEP6EWQ9ASXRA4R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : ".60 per month per low frequency activity on AWS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Activities",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K2QRH8EB6M3HFX53" : {
+        "K2QRH8EB6M3HFX53.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K2QRH8EB6M3HFX53",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K2QRH8EB6M3HFX53.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K2QRH8EB6M3HFX53.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "1 per month per inactive pipeline",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VNBZSY49F82PAQPE" : {
+        "VNBZSY49F82PAQPE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VNBZSY49F82PAQPE",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VNBZSY49F82PAQPE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VNBZSY49F82PAQPE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : ".60 per month per low frequency precondition on AWS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Preconditions",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "654NUBFY9DA3T43G" : {
+        "654NUBFY9DA3T43G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "654NUBFY9DA3T43G",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "654NUBFY9DA3T43G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "654NUBFY9DA3T43G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "1.50 per month per low frequency activity on-premise",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Activities",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3YJSDTDQ8E26Z4CC" : {
+        "3YJSDTDQ8E26Z4CC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3YJSDTDQ8E26Z4CC",
+          "effectiveDate" : "2015-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3YJSDTDQ8E26Z4CC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3YJSDTDQ8E26Z4CC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "1 per month per high frequency activity on AWS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Activities",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

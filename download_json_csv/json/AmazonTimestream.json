@@ -1,0 +1,1616 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonTimestream",
+  "version" : "20250408175750",
+  "publicationDate" : "2025-04-08T17:57:50Z",
+  "products" : {
+    "VCNQ6Q2A3VA4ZF6C" : {
+      "sku" : "VCNQ6Q2A3VA4ZF6C",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.xlarge",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "5G9CG4FEH5GC6R52" : {
+      "sku" : "5G9CG4FEH5GC6R52",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "SingleAZ Influx IOPS Included (3K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 3K IOPS",
+        "minVolumeSize" : "20 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-SingleAZ-InfluxDBStorage-InfluxIOIncludedT1",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "ZXQNH69MUXTTEUCD" : {
+      "sku" : "ZXQNH69MUXTTEUCD",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "SingleAZ Influx IOPS Included (16K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 16K IOPS",
+        "minVolumeSize" : "400 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-SingleAZ-InfluxDBStorage-InfluxIOIncludedT3",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "6M5PJ97ZSV47MN3B" : {
+      "sku" : "6M5PJ97ZSV47MN3B",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.xlarge",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "6V7YAVZJ7UGMB3EN" : {
+      "sku" : "6V7YAVZJ7UGMB3EN",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.medium",
+        "vcpu" : "1",
+        "memory" : "8 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.medium",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "CUA586CMZQ6H2AYP" : {
+      "sku" : "CUA586CMZQ6H2AYP",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.12xlarge",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 20 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.12xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "192",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "PB2FDF7BV4D5ASH4" : {
+      "sku" : "PB2FDF7BV4D5ASH4",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.xlarge",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "PEQ6JWY683KN7GM9" : {
+      "sku" : "PEQ6JWY683KN7GM9",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.medium",
+        "vcpu" : "1",
+        "memory" : "8 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.medium",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "47DFUF95XAJCF9M3" : {
+      "sku" : "47DFUF95XAJCF9M3",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.8xlarge",
+        "vcpu" : "32",
+        "memory" : "256 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 12 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.8xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "4MKCKDEE2DEHG8NS" : {
+      "sku" : "4MKCKDEE2DEHG8NS",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 16K IOPS",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNode-InfluxDBStorage-InfluxIOIncludedT3",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "N727JNPAKUVXF22U" : {
+      "sku" : "N727JNPAKUVXF22U",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.16xlarge",
+        "vcpu" : "64",
+        "memory" : "512 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 25 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.16xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "RPMRH8X34YZFEEX7" : {
+      "sku" : "RPMRH8X34YZFEEX7",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.16xlarge",
+        "vcpu" : "64",
+        "memory" : "512 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 25 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.16xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "256",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "P7EQNU9PP898WPW2" : {
+      "sku" : "P7EQNU9PP898WPW2",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.4xlarge",
+        "vcpu" : "16",
+        "memory" : "128 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.4xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "GP384XH3PTATMV3A" : {
+      "sku" : "GP384XH3PTATMV3A",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "Timestream Memory Store",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MemoryStore-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "PR7XTNWEMBZ35A3R" : {
+      "sku" : "PR7XTNWEMBZ35A3R",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.large",
+        "vcpu" : "2",
+        "memory" : "16 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.large",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "PTCMHBU5ZTGWDJXV" : {
+      "sku" : "PTCMHBU5ZTGWDJXV",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.large",
+        "vcpu" : "2",
+        "memory" : "16 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.large",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "YFYS9ZHWCW26R3DN" : {
+      "sku" : "YFYS9ZHWCW26R3DN",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "MultiAZ Influx IOPS Included (16K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 16K IOPS",
+        "minVolumeSize" : "400 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZ-InfluxDBStorage-InfluxIOIncludedT3",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "7TXZ4RADTY5VWB9Z" : {
+      "sku" : "7TXZ4RADTY5VWB9Z",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.12xlarge",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 20 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.12xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "G83RQTFJ477Y6R3S" : {
+      "sku" : "G83RQTFJ477Y6R3S",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.12xlarge",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 20 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.12xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "MNE2BB3US763H93K" : {
+      "sku" : "MNE2BB3US763H93K",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.4xlarge",
+        "vcpu" : "16",
+        "memory" : "128 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.4xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "EZ8NGN4PPZYUZSJQ" : {
+      "sku" : "EZ8NGN4PPZYUZSJQ",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "SingleAZ Influx IOPS Included (12K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 12k IOPS",
+        "minVolumeSize" : "400 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-SingleAZ-InfluxDBStorage-InfluxIOIncludedT2",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "DXXXKU6WD7MSR5A9" : {
+      "sku" : "DXXXKU6WD7MSR5A9",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "MultiAZ Influx IOPS Included (3K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 3K IOPS",
+        "minVolumeSize" : "20 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZ-InfluxDBStorage-InfluxIOIncludedT1",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "RPXQFF4UTZ4GAUK6" : {
+      "sku" : "RPXQFF4UTZ4GAUK6",
+      "productFamily" : "Database Utilization",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "Timestream Query",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataScanned-Bytes",
+        "operation" : "",
+        "disableactivationconfirmationemail" : "true",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "87RHKMACE7GABWPG" : {
+      "sku" : "87RHKMACE7GABWPG",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.16xlarge",
+        "vcpu" : "64",
+        "memory" : "512 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 25 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.16xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "453Z5GQ9R6WWJSYS" : {
+      "sku" : "453Z5GQ9R6WWJSYS",
+      "productFamily" : "Data Payload",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "Timestream Ingestion",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataIngestion-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "8GXDNQEVE9VP5BRK" : {
+      "sku" : "8GXDNQEVE9VP5BRK",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "Timestream Magnetic Store",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MagneticStore-ByteHrs",
+        "operation" : "",
+        "disableactivationconfirmationemail" : "true",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "6JFKV23Y9N6B67JQ" : {
+      "sku" : "6JFKV23Y9N6B67JQ",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.medium",
+        "vcpu" : "1",
+        "memory" : "8 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.medium",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "US7XK8A8JDJMX5MB" : {
+      "sku" : "US7XK8A8JDJMX5MB",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.8xlarge",
+        "vcpu" : "32",
+        "memory" : "256 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 12 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.8xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "K275HESDMGSMUG5Y" : {
+      "sku" : "K275HESDMGSMUG5Y",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.2xlarge",
+        "vcpu" : "8",
+        "memory" : "64 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-InstanceUsage-Db.influx.2xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "5DBVYAYDAJDC562A" : {
+      "sku" : "5DBVYAYDAJDC562A",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.2xlarge",
+        "vcpu" : "8",
+        "memory" : "64 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNodeUsage-Db.influx.2xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "2XWGUG8BGDNSP3BF" : {
+      "sku" : "2XWGUG8BGDNSP3BF",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.2xlarge",
+        "vcpu" : "8",
+        "memory" : "64 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.2xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "8ESKWVBZM35GNFEE" : {
+      "sku" : "8ESKWVBZM35GNFEE",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "MultiAZ Influx IOPS Included (12K IOPS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 12k IOPS",
+        "minVolumeSize" : "400 GB",
+        "maxVolumeSize" : "16 TB",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZ-InfluxDBStorage-InfluxIOIncludedT2",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "8KXB3JHSM5UB6MGH" : {
+      "sku" : "8KXB3JHSM5UB6MGH",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.8xlarge",
+        "vcpu" : "32",
+        "memory" : "256 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 12 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.8xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "WXSSC8XZ424DWBQ4" : {
+      "sku" : "WXSSC8XZ424DWBQ4",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 12k IOPS",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNode-InfluxDBStorage-InfluxIOIncludedT2",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "AKZRRMU6H3M9QNZG" : {
+      "sku" : "AKZRRMU6H3M9QNZG",
+      "productFamily" : "Influx Optimized Storage",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageMedia" : "SSD",
+        "volumeType" : "Influx IOPS Included with 3K IOPS",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "deploymentOption" : "Cluster",
+        "usagetype" : "USE1-ClusterNode-InfluxDBStorage-InfluxIOIncludedT1",
+        "operation" : "Storage:001",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "7GC65EHDNA7F29AM" : {
+      "sku" : "7GC65EHDNA7F29AM",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "description" : "Query TCU-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QueryTCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "54VHKHUCXG7RT8QS" : {
+      "sku" : "54VHKHUCXG7RT8QS",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.4xlarge",
+        "vcpu" : "16",
+        "memory" : "128 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.4xlarge",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    },
+    "MBGJQKW6D9NN3JDH" : {
+      "sku" : "MBGJQKW6D9NN3JDH",
+      "productFamily" : "Database Instance",
+      "attributes" : {
+        "servicecode" : "AmazonTimestream",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "db.influx.large",
+        "vcpu" : "2",
+        "memory" : "16 GiB",
+        "storage" : "InfluxDb Compatible",
+        "networkPerformance" : "Up to 10 Gigabit",
+        "engineCode" : "1",
+        "databaseEngine" : "InfluxDB",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-MultiAZUsage-Db.influx.large",
+        "operation" : "Compute:001",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Timestream"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "87RHKMACE7GABWPG" : {
+        "87RHKMACE7GABWPG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "87RHKMACE7GABWPG",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "87RHKMACE7GABWPG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "87RHKMACE7GABWPG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 7.65 per Instance-Hour for SIngleAZ db.Influx.16xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.6500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8GXDNQEVE9VP5BRK" : {
+        "8GXDNQEVE9VP5BRK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8GXDNQEVE9VP5BRK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8GXDNQEVE9VP5BRK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8GXDNQEVE9VP5BRK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "price per GB-Month of magnetic storage in Timestream - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VCNQ6Q2A3VA4ZF6C" : {
+        "VCNQ6Q2A3VA4ZF6C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VCNQ6Q2A3VA4ZF6C",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VCNQ6Q2A3VA4ZF6C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VCNQ6Q2A3VA4ZF6C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.478 per Instance-Hour for ClusterNode db.Influx.xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4780000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4MKCKDEE2DEHG8NS" : {
+        "4MKCKDEE2DEHG8NS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4MKCKDEE2DEHG8NS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4MKCKDEE2DEHG8NS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4MKCKDEE2DEHG8NS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.50 per GB-Month for ClusterNode InfluxIOIncludedT3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2XWGUG8BGDNSP3BF" : {
+        "2XWGUG8BGDNSP3BF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2XWGUG8BGDNSP3BF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2XWGUG8BGDNSP3BF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2XWGUG8BGDNSP3BF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.913 per Instance-Hour for MultiAZ db.Influx.2xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6V7YAVZJ7UGMB3EN" : {
+        "6V7YAVZJ7UGMB3EN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6V7YAVZJ7UGMB3EN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6V7YAVZJ7UGMB3EN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6V7YAVZJ7UGMB3EN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.120 per Instance-Hour for ClusterNode db.Influx.medium Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YFYS9ZHWCW26R3DN" : {
+        "YFYS9ZHWCW26R3DN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YFYS9ZHWCW26R3DN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YFYS9ZHWCW26R3DN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YFYS9ZHWCW26R3DN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1 per GB-Month for MultiAZ InfluxIOIncludedT3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "453Z5GQ9R6WWJSYS" : {
+        "453Z5GQ9R6WWJSYS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "453Z5GQ9R6WWJSYS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "453Z5GQ9R6WWJSYS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "453Z5GQ9R6WWJSYS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "price per GB ingested in Timestream - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N727JNPAKUVXF22U" : {
+        "N727JNPAKUVXF22U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N727JNPAKUVXF22U",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "N727JNPAKUVXF22U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N727JNPAKUVXF22U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 7.65 per Instance-Hour for ClusterNode db.Influx.16xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.6500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MBGJQKW6D9NN3JDH" : {
+        "MBGJQKW6D9NN3JDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MBGJQKW6D9NN3JDH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MBGJQKW6D9NN3JDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MBGJQKW6D9NN3JDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.478 per Instance-Hour for MultiAZ db.Influx.large Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4780000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8ESKWVBZM35GNFEE" : {
+        "8ESKWVBZM35GNFEE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8ESKWVBZM35GNFEE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8ESKWVBZM35GNFEE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8ESKWVBZM35GNFEE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.7 per GB-Month for MultiAZ InfluxIOIncludedT2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.7000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7TXZ4RADTY5VWB9Z" : {
+        "7TXZ4RADTY5VWB9Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7TXZ4RADTY5VWB9Z",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7TXZ4RADTY5VWB9Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7TXZ4RADTY5VWB9Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 5.738 per Instance-Hour for ClusterNode db.Influx.12xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.7380000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZXQNH69MUXTTEUCD" : {
+        "ZXQNH69MUXTTEUCD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZXQNH69MUXTTEUCD",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZXQNH69MUXTTEUCD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZXQNH69MUXTTEUCD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.50 per GB-Month for SingleAZ InfluxIOIncludedT3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AKZRRMU6H3M9QNZG" : {
+        "AKZRRMU6H3M9QNZG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AKZRRMU6H3M9QNZG",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AKZRRMU6H3M9QNZG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AKZRRMU6H3M9QNZG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.10 per GB-Month for ClusterNode InfluxIOIncludedT1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RPMRH8X34YZFEEX7" : {
+        "RPMRH8X34YZFEEX7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RPMRH8X34YZFEEX7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RPMRH8X34YZFEEX7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RPMRH8X34YZFEEX7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 15.3 per Instance-Hour for MultiAZ db.Influx.16xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "15.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DXXXKU6WD7MSR5A9" : {
+        "DXXXKU6WD7MSR5A9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DXXXKU6WD7MSR5A9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DXXXKU6WD7MSR5A9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DXXXKU6WD7MSR5A9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.20 per GB-Month for MultiAZ InfluxIOIncludedT1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WXSSC8XZ424DWBQ4" : {
+        "WXSSC8XZ424DWBQ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WXSSC8XZ424DWBQ4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WXSSC8XZ424DWBQ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WXSSC8XZ424DWBQ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.35 per GB-Month for ClusterNode InfluxIOIncludedT2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6JFKV23Y9N6B67JQ" : {
+        "6JFKV23Y9N6B67JQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6JFKV23Y9N6B67JQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6JFKV23Y9N6B67JQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6JFKV23Y9N6B67JQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.120 per Instance-Hour for SIngleAZ db.Influx.medium Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "54VHKHUCXG7RT8QS" : {
+        "54VHKHUCXG7RT8QS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "54VHKHUCXG7RT8QS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "54VHKHUCXG7RT8QS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "54VHKHUCXG7RT8QS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.825 per Instance-Hour for MultiAZ db.Influx.4xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PB2FDF7BV4D5ASH4" : {
+        "PB2FDF7BV4D5ASH4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PB2FDF7BV4D5ASH4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PB2FDF7BV4D5ASH4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PB2FDF7BV4D5ASH4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.478 per Instance-Hour for SIngleAZ db.Influx.xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4780000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PEQ6JWY683KN7GM9" : {
+        "PEQ6JWY683KN7GM9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PEQ6JWY683KN7GM9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PEQ6JWY683KN7GM9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PEQ6JWY683KN7GM9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.239 per Instance-Hour for MultiAZ db.Influx.medium Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2390000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EZ8NGN4PPZYUZSJQ" : {
+        "EZ8NGN4PPZYUZSJQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EZ8NGN4PPZYUZSJQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EZ8NGN4PPZYUZSJQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EZ8NGN4PPZYUZSJQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.35 per GB-Month for SingleAZ InfluxIOIncludedT2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P7EQNU9PP898WPW2" : {
+        "P7EQNU9PP898WPW2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P7EQNU9PP898WPW2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "P7EQNU9PP898WPW2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P7EQNU9PP898WPW2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.913 per Instance-Hour for SIngleAZ db.Influx.4xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G83RQTFJ477Y6R3S" : {
+        "G83RQTFJ477Y6R3S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G83RQTFJ477Y6R3S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "G83RQTFJ477Y6R3S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G83RQTFJ477Y6R3S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 5.738 per Instance-Hour for SIngleAZ db.Influx.12xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "5.7380000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PR7XTNWEMBZ35A3R" : {
+        "PR7XTNWEMBZ35A3R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PR7XTNWEMBZ35A3R",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PR7XTNWEMBZ35A3R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PR7XTNWEMBZ35A3R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.239 per Instance-Hour for SIngleAZ db.Influx.large Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2390000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PTCMHBU5ZTGWDJXV" : {
+        "PTCMHBU5ZTGWDJXV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PTCMHBU5ZTGWDJXV",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PTCMHBU5ZTGWDJXV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PTCMHBU5ZTGWDJXV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.239 per Instance-Hour for ClusterNode db.Influx.large Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2390000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8KXB3JHSM5UB6MGH" : {
+        "8KXB3JHSM5UB6MGH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8KXB3JHSM5UB6MGH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8KXB3JHSM5UB6MGH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8KXB3JHSM5UB6MGH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 7.65 per Instance-Hour for MultiAZ db.Influx.8xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "7.6500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7GC65EHDNA7F29AM" : {
+        "7GC65EHDNA7F29AM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7GC65EHDNA7F29AM",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7GC65EHDNA7F29AM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7GC65EHDNA7F29AM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.518 per TCU-hour in - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "TCU-hour",
+              "pricePerUnit" : {
+                "USD" : "0.5180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "US7XK8A8JDJMX5MB" : {
+        "US7XK8A8JDJMX5MB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "US7XK8A8JDJMX5MB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "US7XK8A8JDJMX5MB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "US7XK8A8JDJMX5MB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.825 per Instance-Hour for ClusterNode db.Influx.8xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNE2BB3US763H93K" : {
+        "MNE2BB3US763H93K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNE2BB3US763H93K",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNE2BB3US763H93K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNE2BB3US763H93K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.913 per Instance-Hour for ClusterNode db.Influx.4xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5G9CG4FEH5GC6R52" : {
+        "5G9CG4FEH5GC6R52.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5G9CG4FEH5GC6R52",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5G9CG4FEH5GC6R52.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5G9CG4FEH5GC6R52.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.10 per GB-Month for SingleAZ InfluxIOIncludedT1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K275HESDMGSMUG5Y" : {
+        "K275HESDMGSMUG5Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K275HESDMGSMUG5Y",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K275HESDMGSMUG5Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K275HESDMGSMUG5Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.956 per Instance-Hour for SIngleAZ db.Influx.2xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9560000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GP384XH3PTATMV3A" : {
+        "GP384XH3PTATMV3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GP384XH3PTATMV3A",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GP384XH3PTATMV3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GP384XH3PTATMV3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "price per GB-Hour of memory storage in Timestream - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0360000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CUA586CMZQ6H2AYP" : {
+        "CUA586CMZQ6H2AYP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CUA586CMZQ6H2AYP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CUA586CMZQ6H2AYP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CUA586CMZQ6H2AYP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 11.475 per Instance-Hour for MultiAZ db.Influx.12xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "11.4750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RPXQFF4UTZ4GAUK6" : {
+        "RPXQFF4UTZ4GAUK6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RPXQFF4UTZ4GAUK6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RPXQFF4UTZ4GAUK6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RPXQFF4UTZ4GAUK6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "price per GB scanned by Timestream queries - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6M5PJ97ZSV47MN3B" : {
+        "6M5PJ97ZSV47MN3B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6M5PJ97ZSV47MN3B",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6M5PJ97ZSV47MN3B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6M5PJ97ZSV47MN3B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.956 per Instance-Hour for MultiAZ db.Influx.xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9560000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "47DFUF95XAJCF9M3" : {
+        "47DFUF95XAJCF9M3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "47DFUF95XAJCF9M3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "47DFUF95XAJCF9M3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "47DFUF95XAJCF9M3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.825 per Instance-Hour for SIngleAZ db.Influx.8xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5DBVYAYDAJDC562A" : {
+        "5DBVYAYDAJDC562A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5DBVYAYDAJDC562A",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5DBVYAYDAJDC562A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5DBVYAYDAJDC562A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.956 per Instance-Hour for ClusterNode db.Influx.2xlarge Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9560000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

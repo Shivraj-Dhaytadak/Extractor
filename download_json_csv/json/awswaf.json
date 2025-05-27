@@ -1,0 +1,1896 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "awswaf",
+  "version" : "20250514174614",
+  "publicationDate" : "2025-05-14T17:46:14Z",
+  "products" : {
+    "FCE22QDDCQXKH82Z" : {
+      "sku" : "FCE22QDDCQXKH82Z",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier0 (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier0",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "QEJ2VYS48PZTY5ZC" : {
+      "sku" : "QEJ2VYS48PZTY5ZC",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Captcha Attempts (Shield Protected)",
+        "groupDescription" : "Captcha Attempts processed (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-CaptchaAttempted",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "PJQM8PKU9GAJ6WKY" : {
+      "sku" : "PJQM8PKU9GAJ6WKY",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL",
+        "groupDescription" : "Number of Web Access Control Lists",
+        "usagetype" : "USE1-WebACL",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "EYAKTKHF85XAV7AK" : {
+      "sku" : "EYAKTKHF85XAV7AK",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier6 4000WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier6-4000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "TQ8V7VHGQNZ3RFED" : {
+      "sku" : "TQ8V7VHGQNZ3RFED",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Targeted Request",
+        "groupDescription" : "AMR Bot Control Targeted Request Processed",
+        "usagetype" : "USE1-AMR-BotControl-Targeted-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "7NYZR4J2BFYVUSND" : {
+      "sku" : "7NYZR4J2BFYVUSND",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Entity",
+        "groupDescription" : "AMR Bot Control Activated",
+        "usagetype" : "USE1-AMR-BotControl",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "REX22PAMPBGCEQTP" : {
+      "sku" : "REX22PAMPBGCEQTP",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 48KB",
+        "usagetype" : "USE1-RequestV2-48KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "WKC7RWKPJ9FDKTEG" : {
+      "sku" : "WKC7RWKPJ9FDKTEG",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Captcha Attempts",
+        "groupDescription" : "Captcha Attempts processed",
+        "usagetype" : "USE1-CaptchaAttempted",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "EHBX288VZQW9B69X" : {
+      "sku" : "EHBX288VZQW9B69X",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Fraud Control Request (Shield Protected)",
+        "groupDescription" : "AMR Fraud Control request processed (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-AMR-FraudControl-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "MVMTRWTQU95KQ5Z6" : {
+      "sku" : "MVMTRWTQU95KQ5Z6",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 48KB (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-48KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "S5XMTUMKMGEU465R" : {
+      "sku" : "S5XMTUMKMGEU465R",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Challenge Served",
+        "groupDescription" : "Challenge Served processed",
+        "usagetype" : "USE1-ChallengeServed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "MNHJBKE8Q4PYM587" : {
+      "sku" : "MNHJBKE8Q4PYM587",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier7 4500WCU",
+        "usagetype" : "USE1-RequestV2-Tier7-4500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "369ZWCEHA572ASKF" : {
+      "sku" : "369ZWCEHA572ASKF",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier4 3000WCU",
+        "usagetype" : "USE1-RequestV2-Tier4-3000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "DCB7VHMWTQDWT3KK" : {
+      "sku" : "DCB7VHMWTQDWT3KK",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier2 2000WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier2-2000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "48M234KNTCYVG72Z" : {
+      "sku" : "48M234KNTCYVG72Z",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier4 3000WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier4-3000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "C342DJPGVP5ZXQCT" : {
+      "sku" : "C342DJPGVP5ZXQCT",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Number of Web Requests received",
+        "usagetype" : "USE1-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "9VJ4TY8GR3DDPAGS" : {
+      "sku" : "9VJ4TY8GR3DDPAGS",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR ATP Entity",
+        "groupDescription" : "AMR ATP Activated",
+        "usagetype" : "USE1-AMR-ATP",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "M2JHJ7Q6KSNPVF5P" : {
+      "sku" : "M2JHJ7Q6KSNPVF5P",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier5 3500WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier5-3500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "TSY6D32RU75YGYCB" : {
+      "sku" : "TSY6D32RU75YGYCB",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier3 2500WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier3-2500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "KRH6UG8KC9PXQBCT" : {
+      "sku" : "KRH6UG8KC9PXQBCT",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 32KB (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-32KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "4BDGZ2HHMYWZZ35M" : {
+      "sku" : "4BDGZ2HHMYWZZ35M",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier5 3500WCU",
+        "usagetype" : "USE1-RequestV2-Tier5-3500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "E6VDBNGHVCSV4N5D" : {
+      "sku" : "E6VDBNGHVCSV4N5D",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Request",
+        "groupDescription" : "AMR Bot Control Request Processed",
+        "usagetype" : "USE1-AMR-BotControl-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "38A6FCC4NPRCDETY" : {
+      "sku" : "38A6FCC4NPRCDETY",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL (Shield Protected)",
+        "groupDescription" : "Number of Web Access Control Lists (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-WebACL",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ANMHSNQ3DA3Z29W4" : {
+      "sku" : "ANMHSNQ3DA3Z29W4",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 32KB",
+        "usagetype" : "USE1-RequestV2-32KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "E8BH6HFBUKF3DW3A" : {
+      "sku" : "E8BH6HFBUKF3DW3A",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rule (Shield Protected)",
+        "groupDescription" : "Number of Rules added per Web Access Control Lists (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-Rule",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "BPNC6M7HWHDA3ZBR" : {
+      "sku" : "BPNC6M7HWHDA3ZBR",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Number of Web Requests received (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "GDKVWUESJPVRH3QE" : {
+      "sku" : "GDKVWUESJPVRH3QE",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Entity (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Activated (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-AMR-BotControl",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "NJU3EFP2T59YT7QG" : {
+      "sku" : "NJU3EFP2T59YT7QG",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier2 2000WCU",
+        "usagetype" : "USE1-RequestV2-Tier2-2000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "YVUS282JV26AY2K3" : {
+      "sku" : "YVUS282JV26AY2K3",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier3 2500WCU",
+        "usagetype" : "USE1-RequestV2-Tier3-2500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "59NND22ZNZSN4NJS" : {
+      "sku" : "59NND22ZNZSN4NJS",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier6 4000WCU",
+        "usagetype" : "USE1-RequestV2-Tier6-4000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "KYZJHNBS4PCEH8A3" : {
+      "sku" : "KYZJHNBS4PCEH8A3",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 64KB (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-64KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ZWET5ZDZCMPPM845" : {
+      "sku" : "ZWET5ZDZCMPPM845",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier8 5000WCU",
+        "usagetype" : "USE1-RequestV2-Tier8-5000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "3T4KMURJGZDP3439" : {
+      "sku" : "3T4KMURJGZDP3439",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier0",
+        "usagetype" : "USE1-RequestV2-Tier0",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "JMUWMBR8YZ64C5EM" : {
+      "sku" : "JMUWMBR8YZ64C5EM",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL (Shield Protected)",
+        "groupDescription" : "Web ACL Activated (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-WebACLV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "EPAUCVUWWA2KKASV" : {
+      "sku" : "EPAUCVUWWA2KKASV",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier8 5000WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier8-5000WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "65DQAPFGHZ8MHAES" : {
+      "sku" : "65DQAPFGHZ8MHAES",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Fraud Control Request",
+        "groupDescription" : "AMR Fraud Control request processed",
+        "usagetype" : "USE1-AMR-FraudControl-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "3CE9BTW4H5XGU6U7" : {
+      "sku" : "3CE9BTW4H5XGU6U7",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier1 (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "BMU3RH27WZ5UW9G3" : {
+      "sku" : "BMU3RH27WZ5UW9G3",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rule (Shield Protected)",
+        "groupDescription" : "Rule Activated (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RuleV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "MMK6882R53ZPMBQG" : {
+      "sku" : "MMK6882R53ZPMBQG",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rule",
+        "groupDescription" : "Number of Rules added per Web Access Control Lists",
+        "usagetype" : "USE1-Rule",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "43AATNFKVH246YWC" : {
+      "sku" : "43AATNFKVH246YWC",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Targeted Request (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Request Processed (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-AMR-BotControl-Targeted-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "AUECWW9NB9VQAX5W" : {
+      "sku" : "AUECWW9NB9VQAX5W",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Challenge Served (Shield Protected)",
+        "groupDescription" : "Challenge Served processed (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-ChallengeServed",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "JKAZVZAW552H6TPW" : {
+      "sku" : "JKAZVZAW552H6TPW",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 64KB",
+        "usagetype" : "USE1-RequestV2-64KB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "KF2QAJUBXF7XNYSM" : {
+      "sku" : "KF2QAJUBXF7XNYSM",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL",
+        "groupDescription" : "Web ACL Activated",
+        "usagetype" : "USE1-WebACLV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "94S3KGQ8C7XGQFSJ" : {
+      "sku" : "94S3KGQ8C7XGQFSJ",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier1",
+        "usagetype" : "USE1-RequestV2-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "4CZHP79UXTS8BJB4" : {
+      "sku" : "4CZHP79UXTS8BJB4",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier7 4500WCU (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-RequestV2-Tier7-4500WCU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "JGH3VFMTQFNJUV5W" : {
+      "sku" : "JGH3VFMTQFNJUV5W",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Rule",
+        "groupDescription" : "Rule Activated",
+        "usagetype" : "USE1-RuleV2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "NZAQVH7GCSUXQG83" : {
+      "sku" : "NZAQVH7GCSUXQG83",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR ATP Entity (Shield Protected)",
+        "groupDescription" : "AMR ATP Activated (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-AMR-ATP",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "224D9SD2E36FJ6NX" : {
+      "sku" : "224D9SD2E36FJ6NX",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Request (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Request Processed (Shield Protected)",
+        "usagetype" : "USE1-ShieldProtected-AMR-BotControl-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS WAF"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MVMTRWTQU95KQ5Z6" : {
+        "MVMTRWTQU95KQ5Z6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVMTRWTQU95KQ5Z6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVMTRWTQU95KQ5Z6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVMTRWTQU95KQ5Z6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (48KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NZAQVH7GCSUXQG83" : {
+        "NZAQVH7GCSUXQG83.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NZAQVH7GCSUXQG83",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NZAQVH7GCSUXQG83.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NZAQVH7GCSUXQG83.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GDKVWUESJPVRH3QE" : {
+        "GDKVWUESJPVRH3QE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GDKVWUESJPVRH3QE",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GDKVWUESJPVRH3QE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GDKVWUESJPVRH3QE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "REX22PAMPBGCEQTP" : {
+        "REX22PAMPBGCEQTP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "REX22PAMPBGCEQTP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "REX22PAMPBGCEQTP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "REX22PAMPBGCEQTP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (48KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9VJ4TY8GR3DDPAGS" : {
+        "9VJ4TY8GR3DDPAGS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9VJ4TY8GR3DDPAGS",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9VJ4TY8GR3DDPAGS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9VJ4TY8GR3DDPAGS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KRH6UG8KC9PXQBCT" : {
+        "KRH6UG8KC9PXQBCT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KRH6UG8KC9PXQBCT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KRH6UG8KC9PXQBCT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KRH6UG8KC9PXQBCT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per million requests processed (32KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E6VDBNGHVCSV4N5D" : {
+        "E6VDBNGHVCSV4N5D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E6VDBNGHVCSV4N5D",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E6VDBNGHVCSV4N5D.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "E6VDBNGHVCSV4N5D.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "$0 per million requests processed by Bot Control",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "E6VDBNGHVCSV4N5D.JRTCKXETXF.EFRCQPS26J" : {
+              "rateCode" : "E6VDBNGHVCSV4N5D.JRTCKXETXF.EFRCQPS26J",
+              "description" : "$1.00 per million requests processed by Bot Control",
+              "beginRange" : "10000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JMUWMBR8YZ64C5EM" : {
+        "JMUWMBR8YZ64C5EM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JMUWMBR8YZ64C5EM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JMUWMBR8YZ64C5EM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JMUWMBR8YZ64C5EM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per web ACL created (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "224D9SD2E36FJ6NX" : {
+        "224D9SD2E36FJ6NX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "224D9SD2E36FJ6NX",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "224D9SD2E36FJ6NX.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "224D9SD2E36FJ6NX.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "$0 per million requests processed by Bot Control",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "224D9SD2E36FJ6NX.JRTCKXETXF.EFRCQPS26J" : {
+              "rateCode" : "224D9SD2E36FJ6NX.JRTCKXETXF.EFRCQPS26J",
+              "description" : "$1.00 per million requests processed by Bot Control",
+              "beginRange" : "10000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E8BH6HFBUKF3DW3A" : {
+        "E8BH6HFBUKF3DW3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E8BH6HFBUKF3DW3A",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E8BH6HFBUKF3DW3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E8BH6HFBUKF3DW3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per Rule (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NJU3EFP2T59YT7QG" : {
+        "NJU3EFP2T59YT7QG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NJU3EFP2T59YT7QG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NJU3EFP2T59YT7QG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NJU3EFP2T59YT7QG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.80 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4BDGZ2HHMYWZZ35M" : {
+        "4BDGZ2HHMYWZZ35M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4BDGZ2HHMYWZZ35M",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4BDGZ2HHMYWZZ35M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4BDGZ2HHMYWZZ35M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.40 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000014000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C342DJPGVP5ZXQCT" : {
+        "C342DJPGVP5ZXQCT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C342DJPGVP5ZXQCT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "C342DJPGVP5ZXQCT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C342DJPGVP5ZXQCT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per HTTP request",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "43AATNFKVH246YWC" : {
+        "43AATNFKVH246YWC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "43AATNFKVH246YWC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "43AATNFKVH246YWC.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "43AATNFKVH246YWC.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.0 per Request for ShieldProtected-AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "43AATNFKVH246YWC.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "43AATNFKVH246YWC.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$10.0 per Million Request for ShieldProtected-AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YVUS282JV26AY2K3" : {
+        "YVUS282JV26AY2K3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YVUS282JV26AY2K3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YVUS282JV26AY2K3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YVUS282JV26AY2K3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4CZHP79UXTS8BJB4" : {
+        "4CZHP79UXTS8BJB4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4CZHP79UXTS8BJB4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4CZHP79UXTS8BJB4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4CZHP79UXTS8BJB4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.20 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3CE9BTW4H5XGU6U7" : {
+        "3CE9BTW4H5XGU6U7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3CE9BTW4H5XGU6U7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3CE9BTW4H5XGU6U7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3CE9BTW4H5XGU6U7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AUECWW9NB9VQAX5W" : {
+        "AUECWW9NB9VQAX5W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AUECWW9NB9VQAX5W",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AUECWW9NB9VQAX5W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AUECWW9NB9VQAX5W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4 per Million Request  for ShieldProtected-ChallengeServed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JKAZVZAW552H6TPW" : {
+        "JKAZVZAW552H6TPW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JKAZVZAW552H6TPW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JKAZVZAW552H6TPW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JKAZVZAW552H6TPW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.90 per million requests processed (64KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000009000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KF2QAJUBXF7XNYSM" : {
+        "KF2QAJUBXF7XNYSM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KF2QAJUBXF7XNYSM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KF2QAJUBXF7XNYSM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KF2QAJUBXF7XNYSM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.00 per web ACL created (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MMK6882R53ZPMBQG" : {
+        "MMK6882R53ZPMBQG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MMK6882R53ZPMBQG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MMK6882R53ZPMBQG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MMK6882R53ZPMBQG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per Rule",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "month",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BPNC6M7HWHDA3ZBR" : {
+        "BPNC6M7HWHDA3ZBR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BPNC6M7HWHDA3ZBR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BPNC6M7HWHDA3ZBR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BPNC6M7HWHDA3ZBR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per HTTP request (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "59NND22ZNZSN4NJS" : {
+        "59NND22ZNZSN4NJS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "59NND22ZNZSN4NJS",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "59NND22ZNZSN4NJS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "59NND22ZNZSN4NJS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.60 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000016000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KYZJHNBS4PCEH8A3" : {
+        "KYZJHNBS4PCEH8A3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KYZJHNBS4PCEH8A3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KYZJHNBS4PCEH8A3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KYZJHNBS4PCEH8A3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.90 per million requests processed (64KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000009000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "48M234KNTCYVG72Z" : {
+        "48M234KNTCYVG72Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "48M234KNTCYVG72Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "48M234KNTCYVG72Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "48M234KNTCYVG72Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TSY6D32RU75YGYCB" : {
+        "TSY6D32RU75YGYCB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TSY6D32RU75YGYCB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TSY6D32RU75YGYCB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TSY6D32RU75YGYCB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "94S3KGQ8C7XGQFSJ" : {
+        "94S3KGQ8C7XGQFSJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "94S3KGQ8C7XGQFSJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "94S3KGQ8C7XGQFSJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "94S3KGQ8C7XGQFSJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BMU3RH27WZ5UW9G3" : {
+        "BMU3RH27WZ5UW9G3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BMU3RH27WZ5UW9G3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BMU3RH27WZ5UW9G3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BMU3RH27WZ5UW9G3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per rule created (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCB7VHMWTQDWT3KK" : {
+        "DCB7VHMWTQDWT3KK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCB7VHMWTQDWT3KK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCB7VHMWTQDWT3KK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCB7VHMWTQDWT3KK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EPAUCVUWWA2KKASV" : {
+        "EPAUCVUWWA2KKASV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EPAUCVUWWA2KKASV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EPAUCVUWWA2KKASV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EPAUCVUWWA2KKASV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.40 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000014000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EHBX288VZQW9B69X" : {
+        "EHBX288VZQW9B69X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EHBX288VZQW9B69X",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EHBX288VZQW9B69X.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EHBX288VZQW9B69X.JRTCKXETXF.Q8U7ERQMFZ" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.Q8U7ERQMFZ",
+              "description" : "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+              "beginRange" : "10000",
+              "endRange" : "2000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EHBX288VZQW9B69X.JRTCKXETXF.4KF9HH2TZ4" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.4KF9HH2TZ4",
+              "description" : "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+              "beginRange" : "2000000",
+              "endRange" : "5000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0007000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EHBX288VZQW9B69X.JRTCKXETXF.7UCCNN4NE8" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.7UCCNN4NE8",
+              "description" : "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+              "beginRange" : "5000000",
+              "endRange" : "15000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EHBX288VZQW9B69X.JRTCKXETXF.KCDPB7BUTC" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.KCDPB7BUTC",
+              "description" : "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+              "beginRange" : "15000000",
+              "endRange" : "30000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EHBX288VZQW9B69X.JRTCKXETXF.FNBKGN7CAD" : {
+              "rateCode" : "EHBX288VZQW9B69X.JRTCKXETXF.FNBKGN7CAD",
+              "description" : "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+              "beginRange" : "30000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "38A6FCC4NPRCDETY" : {
+        "38A6FCC4NPRCDETY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "38A6FCC4NPRCDETY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "38A6FCC4NPRCDETY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "38A6FCC4NPRCDETY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per WebACL (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FCE22QDDCQXKH82Z" : {
+        "FCE22QDDCQXKH82Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FCE22QDDCQXKH82Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FCE22QDDCQXKH82Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FCE22QDDCQXKH82Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Request for Request Processed Tier0 (Shield Protected) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PJQM8PKU9GAJ6WKY" : {
+        "PJQM8PKU9GAJ6WKY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PJQM8PKU9GAJ6WKY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PJQM8PKU9GAJ6WKY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PJQM8PKU9GAJ6WKY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per WebACL",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "month",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "369ZWCEHA572ASKF" : {
+        "369ZWCEHA572ASKF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "369ZWCEHA572ASKF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "369ZWCEHA572ASKF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "369ZWCEHA572ASKF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.20 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S5XMTUMKMGEU465R" : {
+        "S5XMTUMKMGEU465R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S5XMTUMKMGEU465R",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "S5XMTUMKMGEU465R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S5XMTUMKMGEU465R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4 per Million Request  for ChallengeServed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JGH3VFMTQFNJUV5W" : {
+        "JGH3VFMTQFNJUV5W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JGH3VFMTQFNJUV5W",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JGH3VFMTQFNJUV5W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JGH3VFMTQFNJUV5W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per rule created (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "65DQAPFGHZ8MHAES" : {
+        "65DQAPFGHZ8MHAES.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "65DQAPFGHZ8MHAES",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.Q8U7ERQMFZ" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.Q8U7ERQMFZ",
+              "description" : "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+              "beginRange" : "10000",
+              "endRange" : "2000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.4KF9HH2TZ4" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.4KF9HH2TZ4",
+              "description" : "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+              "beginRange" : "2000000",
+              "endRange" : "5000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0007000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.7UCCNN4NE8" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.7UCCNN4NE8",
+              "description" : "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+              "beginRange" : "5000000",
+              "endRange" : "15000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.KCDPB7BUTC" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.KCDPB7BUTC",
+              "description" : "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+              "beginRange" : "15000000",
+              "endRange" : "30000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65DQAPFGHZ8MHAES.JRTCKXETXF.FNBKGN7CAD" : {
+              "rateCode" : "65DQAPFGHZ8MHAES.JRTCKXETXF.FNBKGN7CAD",
+              "description" : "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+              "beginRange" : "30000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ANMHSNQ3DA3Z29W4" : {
+        "ANMHSNQ3DA3Z29W4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ANMHSNQ3DA3Z29W4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ANMHSNQ3DA3Z29W4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ANMHSNQ3DA3Z29W4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per million requests processed (32KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EYAKTKHF85XAV7AK" : {
+        "EYAKTKHF85XAV7AK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EYAKTKHF85XAV7AK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EYAKTKHF85XAV7AK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EYAKTKHF85XAV7AK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNHJBKE8Q4PYM587" : {
+        "MNHJBKE8Q4PYM587.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNHJBKE8Q4PYM587",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNHJBKE8Q4PYM587.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNHJBKE8Q4PYM587.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.80 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000018000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WKC7RWKPJ9FDKTEG" : {
+        "WKC7RWKPJ9FDKTEG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WKC7RWKPJ9FDKTEG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WKC7RWKPJ9FDKTEG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WKC7RWKPJ9FDKTEG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per thousand captcha attempts analyzed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3T4KMURJGZDP3439" : {
+        "3T4KMURJGZDP3439.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3T4KMURJGZDP3439",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3T4KMURJGZDP3439.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3T4KMURJGZDP3439.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million Request for Request Processed Tier0 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQ8V7VHGQNZ3RFED" : {
+        "TQ8V7VHGQNZ3RFED.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQ8V7VHGQNZ3RFED",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQ8V7VHGQNZ3RFED.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "TQ8V7VHGQNZ3RFED.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.0 per Request for AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQ8V7VHGQNZ3RFED.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "TQ8V7VHGQNZ3RFED.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$10.0 per Million Request for AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZWET5ZDZCMPPM845" : {
+        "ZWET5ZDZCMPPM845.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZWET5ZDZCMPPM845",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZWET5ZDZCMPPM845.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZWET5ZDZCMPPM845.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.00 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M2JHJ7Q6KSNPVF5P" : {
+        "M2JHJ7Q6KSNPVF5P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M2JHJ7Q6KSNPVF5P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "M2JHJ7Q6KSNPVF5P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M2JHJ7Q6KSNPVF5P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.80 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QEJ2VYS48PZTY5ZC" : {
+        "QEJ2VYS48PZTY5ZC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QEJ2VYS48PZTY5ZC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QEJ2VYS48PZTY5ZC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QEJ2VYS48PZTY5ZC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per thousand captcha attempts analyzed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7NYZR4J2BFYVUSND" : {
+        "7NYZR4J2BFYVUSND.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7NYZR4J2BFYVUSND",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7NYZR4J2BFYVUSND.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7NYZR4J2BFYVUSND.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

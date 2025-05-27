@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSRoboMaker",
+  "version" : "20230209152205",
+  "publicationDate" : "2023-02-09T15:22:05Z",
+  "products" : {
+    "N7R7R7H3RKG23MNA" : {
+      "sku" : "N7R7R7H3RKG23MNA",
+      "productFamily" : "RoboMaker Simulation",
+      "attributes" : {
+        "servicecode" : "AWSRoboMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "availability" : "worldforge-export",
+        "usagetype" : "USE1-ExportedWorld",
+        "operation" : "createWorldExportJob",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS RoboMaker"
+      }
+    },
+    "SWUNQ3CWXHZTRRFR" : {
+      "sku" : "SWUNQ3CWXHZTRRFR",
+      "productFamily" : "RoboMaker Simulation",
+      "attributes" : {
+        "servicecode" : "AWSRoboMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "availability" : "n/a",
+        "usagetype" : "USE1-SimulationUnitHour",
+        "operation" : "createSimulationJob",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS RoboMaker"
+      }
+    },
+    "9U5JAJQ8HZERGRVC" : {
+      "sku" : "9U5JAJQ8HZERGRVC",
+      "productFamily" : "RoboMaker Simulation",
+      "attributes" : {
+        "servicecode" : "AWSRoboMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "availability" : "worldforge-generate",
+        "usagetype" : "USE1-GeneratedWorld",
+        "operation" : "createWorldGenerationJob",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS RoboMaker"
+      }
+    },
+    "5AYZDVXT4K6KMY28" : {
+      "sku" : "5AYZDVXT4K6KMY28",
+      "productFamily" : "RoboMaker Simulation",
+      "attributes" : {
+        "servicecode" : "AWSRoboMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "availability" : "n/a",
+        "usagetype" : "USE1-GPUUnitHour",
+        "operation" : "createSimulationJob",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS RoboMaker"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "5AYZDVXT4K6KMY28" : {
+        "5AYZDVXT4K6KMY28.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5AYZDVXT4K6KMY28",
+          "effectiveDate" : "2022-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5AYZDVXT4K6KMY28.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5AYZDVXT4K6KMY28.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Per GPU Unit-Hour. Each GPU Unit provides 1 GPU device.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GU-Hour",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9U5JAJQ8HZERGRVC" : {
+        "9U5JAJQ8HZERGRVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9U5JAJQ8HZERGRVC",
+          "effectiveDate" : "2022-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9U5JAJQ8HZERGRVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9U5JAJQ8HZERGRVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Per generated simulation world.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "world",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7R7R7H3RKG23MNA" : {
+        "N7R7R7H3RKG23MNA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7R7R7H3RKG23MNA",
+          "effectiveDate" : "2022-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7R7R7H3RKG23MNA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7R7R7H3RKG23MNA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Per exported simulation world.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "world",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SWUNQ3CWXHZTRRFR" : {
+        "SWUNQ3CWXHZTRRFR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SWUNQ3CWXHZTRRFR",
+          "effectiveDate" : "2022-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SWUNQ3CWXHZTRRFR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SWUNQ3CWXHZTRRFR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Per Simulation Unit-Hour. Each Simulation Unit provides 1 vCPU and 2 GB of memory.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "SU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

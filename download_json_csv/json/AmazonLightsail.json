@@ -1,0 +1,3221 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonLightsail",
+  "version" : "20250415171803",
+  "publicationDate" : "2025-04-15T17:18:03Z",
+  "products" : {
+    "NVP4UWJAHXNRHY7H" : {
+      "sku" : "NVP4UWJAHXNRHY7H",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:5GB-TotalStorage-Bytes",
+        "operation" : "Storage5GB-Storage-Capacity",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "overageType" : "Storage:5GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "4JE6DJUD3JCPKEX6" : {
+      "sku" : "4JE6DJUD3JCPKEX6",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:250GB-TotalStorage-Bytes",
+        "operation" : "Storage250GB-Storage-Capacity",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "overageType" : "Storage:250GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "TQGBMHHFTYH64T5X" : {
+      "sku" : "TQGBMHHFTYH64T5X",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail object storage",
+        "groupDescription" : "Lightsail object storage bundle subscription fee",
+        "usagetype" : "USE1-Storage-BundleUsage:250GB",
+        "operation" : "Storage-Bundle:250GB",
+        "dataTransferQuota" : "500GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail",
+        "storageCapacityQuota" : "250GB"
+      }
+    },
+    "BVZXMH7F4UF2SP8B" : {
+      "sku" : "BVZXMH7F4UF2SP8B",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "0.25",
+        "memory" : "1GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Micro-0.25CPU-1GB",
+        "operation" : "ContainerSvc:Micro-0.25CPU-1GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "Micro",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "V6CKUUZ9N8JQ663M" : {
+      "sku" : "V6CKUUZ9N8JQ663M",
+      "productFamily" : "Lightsail Snapshot",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Snapshot",
+        "groupDescription" : "Amount of Lightsail Snapshots in GB-Month",
+        "usagetype" : "USE1-SnapshotUsage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "4SAJ6WVRUBHFC47T" : {
+      "sku" : "4SAJ6WVRUBHFC47T",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:100GB-StorageOverage-Bytes",
+        "operation" : "Storage100GB-Storage-Overage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "overageType" : "Storage:100GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "Y8S55Q9C7QEMHEF5" : {
+      "sku" : "Y8S55Q9C7QEMHEF5",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64GB",
+        "storage" : "1280GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:64GB_IPv6",
+        "operation" : "Bundle:64GB_IPv6",
+        "dataTransferQuota" : "8TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "Z979Z6X5TVF227ZE" : {
+      "sku" : "Z979Z6X5TVF227ZE",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "80GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:4GB_win_IPv6",
+        "operation" : "Bundle:4GB_IPv6",
+        "dataTransferQuota" : "4TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "SABDBQQU9BJWZ2NX" : {
+      "sku" : "SABDBQQU9BJWZ2NX",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "0.5GB",
+        "storage" : "30GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:0.5GB_win_IPv6",
+        "operation" : "Bundle:0.5GB_IPv6",
+        "dataTransferQuota" : "1TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "YKTGSRR6SPX5MT2T" : {
+      "sku" : "YKTGSRR6SPX5MT2T",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail object storage",
+        "groupDescription" : "Lightsail object storage bundle subscription fee",
+        "usagetype" : "USE1-Storage-BundleUsage:100GB",
+        "operation" : "Storage-Bundle:100GB",
+        "dataTransferQuota" : "250GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail",
+        "storageCapacityQuota" : "100GB"
+      }
+    },
+    "29UZTPASJG8682GC" : {
+      "sku" : "29UZTPASJG8682GC",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail CDN",
+        "groupDescription" : "Lightsail CDN bundle subscription fee",
+        "usagetype" : "CDN-BundleUsage:50GB",
+        "operation" : "CDN-Bundle:50GB",
+        "dataTransferQuota" : "50GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "2URYYRKY4RXKN5E7" : {
+      "sku" : "2URYYRKY4RXKN5E7",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "DNS-Queries",
+        "operation" : "",
+        "overageType" : "DNS Queries",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "TVRJUC9D5VVSWH8Q" : {
+      "sku" : "TVRJUC9D5VVSWH8Q",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "0.25",
+        "memory" : "0.5GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Nano-0.25CPU-0.5GB",
+        "operation" : "ContainerSvc:Nano-0.25CPU-0.5GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "Nano",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "3W369V5X7BZYSC8R" : {
+      "sku" : "3W369V5X7BZYSC8R",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail CDN",
+        "groupDescription" : "Lightsail CDN bundle subscription fee",
+        "usagetype" : "CDN-BundleUsage:500GB",
+        "operation" : "CDN-Bundle:500GB",
+        "dataTransferQuota" : "500GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "S6FKPZTUVCQHNQVF" : {
+      "sku" : "S6FKPZTUVCQHNQVF",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "2GB",
+        "storage" : "60GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:2GB_win_IPv6",
+        "operation" : "Bundle:2GB_IPv6",
+        "dataTransferQuota" : "3TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "KMU9ESNZYKM9Q6RB" : {
+      "sku" : "KMU9ESNZYKM9Q6RB",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:1GB",
+        "operation" : "Bundle:1GB",
+        "dataTransferQuota" : "2TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "ZPKAQ29QSV8FZMYW" : {
+      "sku" : "ZPKAQ29QSV8FZMYW",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "160GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:8GB_IPv6",
+        "operation" : "Bundle:8GB_IPv6",
+        "dataTransferQuota" : "5TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "97SWRN2CVQK5JEY3" : {
+      "sku" : "97SWRN2CVQK5JEY3",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storage" : "1GB",
+        "group" : "Lightsail Block Storage",
+        "groupDescription" : "Amount of Lightsail block storage disk usage in GB-Month",
+        "usagetype" : "USE1-DiskUsage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "RVCUETSDPK639XPH" : {
+      "sku" : "RVCUETSDPK639XPH",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16GB",
+        "storage" : "320GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:16GB_win_IPv6",
+        "operation" : "Bundle:16GB_IPv6",
+        "dataTransferQuota" : "6TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "655SBVDQXJJY4HNS" : {
+      "sku" : "655SBVDQXJJY4HNS",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "240GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:8GB",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.2TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "5EPB2V8S2JCDVZF9" : {
+      "sku" : "5EPB2V8S2JCDVZF9",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "80GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:4GB",
+        "operation" : "Bundle:4GB",
+        "dataTransferQuota" : "4TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "XR8HG4C7FKHUFM3U" : {
+      "sku" : "XR8HG4C7FKHUFM3U",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "2GB",
+        "storage" : "60GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:2GB_IPv6",
+        "operation" : "Bundle:2GB_IPv6",
+        "dataTransferQuota" : "3TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "FGD6JZKDW23KD7KR" : {
+      "sku" : "FGD6JZKDW23KD7KR",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16GB",
+        "storage" : "320GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:16GB",
+        "operation" : "Bundle:16GB",
+        "dataTransferQuota" : "6TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "64ZSEA597RH57QZY" : {
+      "sku" : "64ZSEA597RH57QZY",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "0.5",
+        "memory" : "1GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Small-0.5CPU-1GB",
+        "operation" : "ContainerSvc:Small-0.5CPU-1GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "Small",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "AN2XXQRRVQ6EEWZX" : {
+      "sku" : "AN2XXQRRVQ6EEWZX",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail unused static IP",
+        "groupDescription" : "Number of unused Lightsail static IP hours",
+        "usagetype" : "USE1-UnusedStaticIP",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "D34PEEARKYFU56RB" : {
+      "sku" : "D34PEEARKYFU56RB",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:250GB-TotalDataXfer-Out-Bytes",
+        "operation" : "Storage250GB-DataXferOut",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "NA",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:250GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "8MKXMM5AY7PABCR3" : {
+      "sku" : "8MKXMM5AY7PABCR3",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32GB",
+        "storage" : "640GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:32GB",
+        "operation" : "Bundle:32GB",
+        "dataTransferQuota" : "7TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "DBTECGU9CKTY5GMR" : {
+      "sku" : "DBTECGU9CKTY5GMR",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail CDN",
+        "groupDescription" : "Lightsail CDN bundle subscription fee",
+        "usagetype" : "CDN-BundleUsage:50GB_FreeTrial",
+        "operation" : "CDN-Bundle:50GB_FreeTrial",
+        "dataTransferQuota" : "50GB (Free Trial)",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "DN522PS4B8M4APHK" : {
+      "sku" : "DN522PS4B8M4APHK",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail CDN",
+        "groupDescription" : "Lightsail CDN bundle subscription fee",
+        "usagetype" : "CDN-BundleUsage:200GB",
+        "operation" : "CDN-Bundle:200GB",
+        "dataTransferQuota" : "200GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "AY3XG56WNUTRZ9XT" : {
+      "sku" : "AY3XG56WNUTRZ9XT",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32GB",
+        "storage" : "640GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:32GB_IPv6",
+        "operation" : "Bundle:32GB_IPv6",
+        "dataTransferQuota" : "7TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "5MAQD3SYN4V88Q7R" : {
+      "sku" : "5MAQD3SYN4V88Q7R",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail object storage",
+        "groupDescription" : "Lightsail object storage bundle subscription fee",
+        "usagetype" : "USE1-Storage-BundleUsage:5GB",
+        "operation" : "Storage-Bundle:5GB",
+        "dataTransferQuota" : "25GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail",
+        "storageCapacityQuota" : "5GB"
+      }
+    },
+    "92NYY8D7XE2WMZ63" : {
+      "sku" : "92NYY8D7XE2WMZ63",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:250GB-DataXfer-Out-Overage-Bytes",
+        "operation" : "Storage250GB-DataXferOutOverage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:250GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "YS7SUSJT8STVWAJ8" : {
+      "sku" : "YS7SUSJT8STVWAJ8",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32GB",
+        "storage" : "640GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:32GB_win",
+        "operation" : "Bundle:32GB",
+        "dataTransferQuota" : "7TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "5FU39CCWRMEQ9ZYF" : {
+      "sku" : "5FU39CCWRMEQ9ZYF",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:1GB_win",
+        "operation" : "Bundle:1GB",
+        "dataTransferQuota" : "2TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "SXK3RNCY7A9RBGUN" : {
+      "sku" : "SXK3RNCY7A9RBGUN",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "0.5GB",
+        "storage" : "30GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:0.5GB_win",
+        "operation" : "Bundle:0.5GB",
+        "dataTransferQuota" : "1TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "QMDKXAB77FV8G3QU" : {
+      "sku" : "QMDKXAB77FV8G3QU",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-DataXfer-Out-Free-Bytes",
+        "operation" : "",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "T7MQ998NVHH4A5SP" : {
+      "sku" : "T7MQ998NVHH4A5SP",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "8GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:XLarge-4CPU-8GB",
+        "operation" : "ContainerSvc:XLarge-4CPU-8GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "XLarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "4G4M8ZBRKVF22GR5" : {
+      "sku" : "4G4M8ZBRKVF22GR5",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "80GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:4GB_win",
+        "operation" : "Bundle:4GB",
+        "dataTransferQuota" : "4TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "WP3MATNNP22DA5KD" : {
+      "sku" : "WP3MATNNP22DA5KD",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:1GB_IPv6",
+        "operation" : "Bundle:1GB_IPv6",
+        "dataTransferQuota" : "2TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "HN9EZG8DJEXXDVPK" : {
+      "sku" : "HN9EZG8DJEXXDVPK",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "0.5GB",
+        "storage" : "20GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:0.5GB_IPv6",
+        "operation" : "Bundle:0.5GB_IPv6",
+        "dataTransferQuota" : "1TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "TQJ5MK8JDSQV9C2W" : {
+      "sku" : "TQJ5MK8JDSQV9C2W",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "2GB",
+        "storage" : "60GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:2GB",
+        "operation" : "Bundle:2GB",
+        "dataTransferQuota" : "3TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "5GS6DKUNXFKADSD7" : {
+      "sku" : "5GS6DKUNXFKADSD7",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-DataXfer-Out-Overage-Bytes",
+        "operation" : "",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "DRJSEK3R67SHGCRW" : {
+      "sku" : "DRJSEK3R67SHGCRW",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32GB",
+        "storage" : "640GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:32GB_win_IPv6",
+        "operation" : "Bundle:32GB_IPv6",
+        "dataTransferQuota" : "7TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "D6RY8Q3T2RREEHFK" : {
+      "sku" : "D6RY8Q3T2RREEHFK",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "120GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:4GB_ha",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "GMJNB4RY4WC6XHGN" : {
+      "sku" : "GMJNB4RY4WC6XHGN",
+      "productFamily" : "Lightsail Load Balancing",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Load Balancer",
+        "groupDescription" : "Number of Lightsail Load Balancer hours",
+        "usagetype" : "USE1-LoadBalancerUsage",
+        "operation" : "LoadBalancer",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "SH428PJK6ZQ2J5K2" : {
+      "sku" : "SH428PJK6ZQ2J5K2",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "memory" : "2GB",
+        "storage" : "80GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:2GB",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "WW9NA54FQNHDQSRY" : {
+      "sku" : "WW9NA54FQNHDQSRY",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:500GB-DataXfer-Out-Overage-Bytes",
+        "operation" : "Storage500GB-DataXferOutOverage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:500GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "E879UPK2DS9QFPPA" : {
+      "sku" : "E879UPK2DS9QFPPA",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-TotalDataXfer-Out-Bytes",
+        "operation" : "",
+        "countsAgainstQuota" : "NA",
+        "freeOverage" : "NA",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "GAUXVS6NEKG2HFEG" : {
+      "sku" : "GAUXVS6NEKG2HFEG",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16GB",
+        "storage" : "320GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:16GB_IPv6",
+        "operation" : "Bundle:16GB_IPv6",
+        "dataTransferQuota" : "6TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "WDECMQRCEZSEFYZJ" : {
+      "sku" : "WDECMQRCEZSEFYZJ",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "160GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:8GB_win_IPv6",
+        "operation" : "Bundle:8GB_IPv6",
+        "dataTransferQuota" : "5TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "GFWU6DQ7MD3BW34C" : {
+      "sku" : "GFWU6DQ7MD3BW34C",
+      "productFamily" : "Lightsail Snapshot",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Instance Snapshot",
+        "groupDescription" : "Number of Lightsail Instance snapshot in GB-Month",
+        "usagetype" : "USE1-InstanceSnapshot",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "XUWT4YKVA2BPM4VX" : {
+      "sku" : "XUWT4YKVA2BPM4VX",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:25GB-TotalDataXfer-Out-Bytes",
+        "operation" : "Storage25GB-DataXferOut",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "NA",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:25GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "D27UT4RVGWXEGAG4" : {
+      "sku" : "D27UT4RVGWXEGAG4",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Large-2CPU-4GB",
+        "operation" : "ContainerSvc:Large-2CPU-4GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "Large",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "8VNEVTS68WM6JZDX" : {
+      "sku" : "8VNEVTS68WM6JZDX",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Inbound",
+        "fromLocation" : "Global",
+        "fromLocationType" : "Other",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-TotalDataXfer-In-Bytes",
+        "operation" : "",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "fromRegionCode" : "",
+        "overageType" : "Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "BR87FKR963FJ9A6K" : {
+      "sku" : "BR87FKR963FJ9A6K",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "memory" : "2GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Medium-1CPU-2GB",
+        "operation" : "ContainerSvc:Medium-1CPU-2GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "No",
+        "power" : "Medium",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "QWZ7HE7UNR3FNAT8" : {
+      "sku" : "QWZ7HE7UNR3FNAT8",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64GB",
+        "storage" : "1280GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:64GB_win",
+        "operation" : "Bundle:64GB",
+        "dataTransferQuota" : "8TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "8MCANU6KDPJKRGGY" : {
+      "sku" : "8MCANU6KDPJKRGGY",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:100GB-TotalStorage-Bytes",
+        "operation" : "Storage100GB-Storage-Capacity",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "overageType" : "Storage:100GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "R897JTFMHPZBX7GZ" : {
+      "sku" : "R897JTFMHPZBX7GZ",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "160GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:8GB_win",
+        "operation" : "Bundle:8GB",
+        "dataTransferQuota" : "5TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "S7X4VXZCEMM6XMF8" : {
+      "sku" : "S7X4VXZCEMM6XMF8",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "120GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:4GB",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "U889FW8J4XS8752T" : {
+      "sku" : "U889FW8J4XS8752T",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "0.5GB",
+        "storage" : "20GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:0.5GB",
+        "operation" : "Bundle:0.5GB",
+        "dataTransferQuota" : "1TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "2SJ62RNSVC3VSCJ4" : {
+      "sku" : "2SJ62RNSVC3VSCJ4",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "memory" : "2GB",
+        "storage" : "80GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:2GB_ha",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "Z6NERQDE765SRMU7" : {
+      "sku" : "Z6NERQDE765SRMU7",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "240GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:8GB_ha",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.2TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "F9SGT3WUS6CVDXGD" : {
+      "sku" : "F9SGT3WUS6CVDXGD",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-DataXfer-Out-Other-Bytes",
+        "operation" : "",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "Yes",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "5BTGUEBZ6G89S887" : {
+      "sku" : "5BTGUEBZ6G89S887",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:500GB-TotalDataXfer-Out-Bytes",
+        "operation" : "Storage500GB-DataXferOut",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "NA",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:500GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "QNVV3XB2BZK88RFH" : {
+      "sku" : "QNVV3XB2BZK88RFH",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail object storage",
+        "groupDescription" : "Lightsail object storage bundle subscription fee",
+        "usagetype" : "USE1-Storage-BundleUsage:5GB_FreeTrial",
+        "operation" : "Storage-Bundle:5GB_FreeTrial",
+        "dataTransferQuota" : "25GB (Free Trial)",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail",
+        "storageCapacityQuota" : "5GB (Free Trial)"
+      }
+    },
+    "6PRZ7N7CQC2MUJKA" : {
+      "sku" : "6PRZ7N7CQC2MUJKA",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64GB",
+        "storage" : "1280GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:64GB_win_IPv6",
+        "operation" : "Bundle:64GB_IPv6",
+        "dataTransferQuota" : "8TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "QUKMCPWKHG9B3AUS" : {
+      "sku" : "QUKMCPWKHG9B3AUS",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "2GB",
+        "storage" : "60GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:2GB_win",
+        "operation" : "Bundle:2GB",
+        "dataTransferQuota" : "3TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "29Z36NQUQNYU9UDZ" : {
+      "sku" : "29Z36NQUQNYU9UDZ",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:1GB_win_IPv6",
+        "operation" : "Bundle:1GB_IPv6",
+        "dataTransferQuota" : "2TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "6Y3KHJ48EQV4P7TX" : {
+      "sku" : "6Y3KHJ48EQV4P7TX",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:250GB-StorageOverage-Bytes",
+        "operation" : "Storage250GB-Storage-Overage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "overageType" : "Storage:250GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "U8MHZFACH23PGJ6S" : {
+      "sku" : "U8MHZFACH23PGJ6S",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:1GB_ha",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "Yes",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "DMZY72E2CJ9H9369" : {
+      "sku" : "DMZY72E2CJ9H9369",
+      "productFamily" : "Lightsail Networking",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Global",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-Storage:25GB-DataXfer-Out-Overage-Bytes",
+        "operation" : "Storage25GB-DataXferOutOverage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "fromRegionCode" : "us-east-1",
+        "overageType" : "Storage:25GB Data Transfer",
+        "servicename" : "Amazon Lightsail",
+        "toRegionCode" : ""
+      }
+    },
+    "5VYBQX3EQXU6HMNJ" : {
+      "sku" : "5VYBQX3EQXU6HMNJ",
+      "productFamily" : "Lightsail Storage",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Lightsail Overages",
+        "groupDescription" : "Lightsail overages - usage above allocated free quota",
+        "usagetype" : "USE1-Storage:5GB-StorageOverage-Bytes",
+        "operation" : "Storage5GB-Storage-Overage",
+        "countsAgainstQuota" : "Yes",
+        "freeOverage" : "No",
+        "overageType" : "Storage:5GB Storage Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "FUZFBMNEZVN47WEC" : {
+      "sku" : "FUZFBMNEZVN47WEC",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8GB",
+        "storage" : "160GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:8GB",
+        "operation" : "Bundle:8GB",
+        "dataTransferQuota" : "5TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "SQU8NCXXE2JXX6HE" : {
+      "sku" : "SQU8NCXXE2JXX6HE",
+      "productFamily" : "Lightsail Database",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "memory" : "1GB",
+        "storage" : "40GB",
+        "group" : "Lightsail Database",
+        "groupDescription" : "Number of Lightsail Database hours",
+        "usagetype" : "USE1-DatabaseUsage:1GB",
+        "operation" : "RelationalDatabase",
+        "dataTransferQuota" : "0.1TB",
+        "engine" : "MySQL/PostgreSQL",
+        "highAvailability" : "No",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "UC8NN6NKEK4U6KT3" : {
+      "sku" : "UC8NN6NKEK4U6KT3",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16GB",
+        "storage" : "320GB",
+        "operatingSystem" : "Windows",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:16GB_win",
+        "operation" : "Bundle:16GB",
+        "dataTransferQuota" : "6TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "XT9FU4CN74CB7HXB" : {
+      "sku" : "XT9FU4CN74CB7HXB",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4GB",
+        "storage" : "80GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of IPv6-only Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:4GB_IPv6",
+        "operation" : "Bundle:4GB_IPv6",
+        "dataTransferQuota" : "4TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "K6VEWRR5HVAWHMJY" : {
+      "sku" : "K6VEWRR5HVAWHMJY",
+      "productFamily" : "Lightsail Instance",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64GB",
+        "storage" : "1280GB",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Instance",
+        "groupDescription" : "Number of Lightsail Instance hours",
+        "usagetype" : "USE1-BundleUsage:64GB",
+        "operation" : "Bundle:64GB",
+        "dataTransferQuota" : "8TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    },
+    "D5MZDUQZCJE8NHT7" : {
+      "sku" : "D5MZDUQZCJE8NHT7",
+      "productFamily" : "Lightsail Containers",
+      "attributes" : {
+        "servicecode" : "AmazonLightsail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "0.25",
+        "memory" : "1GB",
+        "storage" : "NA",
+        "operatingSystem" : "Linux",
+        "group" : "Lightsail Container",
+        "groupDescription" : "Number of Lightsail Container Service hours",
+        "usagetype" : "USE1-ContainerSvcUsage:Micro-0.25CPU-1GB-Free",
+        "operation" : "ContainerSvc:Micro-0.25CPU-1GB",
+        "dataTransferQuota" : "500GB",
+        "isfree" : "Yes",
+        "power" : "Micro (Free)",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lightsail"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "E879UPK2DS9QFPPA" : {
+        "E879UPK2DS9QFPPA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E879UPK2DS9QFPPA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "E879UPK2DS9QFPPA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E879UPK2DS9QFPPA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / GB - data transfer out for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DRJSEK3R67SHGCRW" : {
+        "DRJSEK3R67SHGCRW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DRJSEK3R67SHGCRW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DRJSEK3R67SHGCRW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DRJSEK3R67SHGCRW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.32258 / Hour of 32GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3225800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KMU9ESNZYKM9Q6RB" : {
+        "KMU9ESNZYKM9Q6RB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KMU9ESNZYKM9Q6RB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KMU9ESNZYKM9Q6RB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KMU9ESNZYKM9Q6RB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00940 / Hour of 1GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0094000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K6VEWRR5HVAWHMJY" : {
+        "K6VEWRR5HVAWHMJY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K6VEWRR5HVAWHMJY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K6VEWRR5HVAWHMJY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K6VEWRR5HVAWHMJY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.51612 / Hour of 64GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5161200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TVRJUC9D5VVSWH8Q" : {
+        "TVRJUC9D5VVSWH8Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TVRJUC9D5VVSWH8Q",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TVRJUC9D5VVSWH8Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TVRJUC9D5VVSWH8Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0094 / Hour for Container Service Node of Power-Nano(0.25CPU-0.5GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0094086020"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GFWU6DQ7MD3BW34C" : {
+        "GFWU6DQ7MD3BW34C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GFWU6DQ7MD3BW34C",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GFWU6DQ7MD3BW34C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GFWU6DQ7MD3BW34C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 / GB-Month of snapshot data stored - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8MKXMM5AY7PABCR3" : {
+        "8MKXMM5AY7PABCR3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8MKXMM5AY7PABCR3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8MKXMM5AY7PABCR3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8MKXMM5AY7PABCR3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.22043 / Hour of 32GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2204300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FGD6JZKDW23KD7KR" : {
+        "FGD6JZKDW23KD7KR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FGD6JZKDW23KD7KR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FGD6JZKDW23KD7KR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FGD6JZKDW23KD7KR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11290 / Hour of 16GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1129000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F9SGT3WUS6CVDXGD" : {
+        "F9SGT3WUS6CVDXGD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F9SGT3WUS6CVDXGD",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "F9SGT3WUS6CVDXGD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F9SGT3WUS6CVDXGD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / GB data transfer out to free destinations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HN9EZG8DJEXXDVPK" : {
+        "HN9EZG8DJEXXDVPK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HN9EZG8DJEXXDVPK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HN9EZG8DJEXXDVPK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HN9EZG8DJEXXDVPK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00470 / Hour of 0.5GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0047000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QWZ7HE7UNR3FNAT8" : {
+        "QWZ7HE7UNR3FNAT8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QWZ7HE7UNR3FNAT8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QWZ7HE7UNR3FNAT8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QWZ7HE7UNR3FNAT8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.77150 / Hour of 64GB bundle Instance including public IPv4 address (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7715000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DBTECGU9CKTY5GMR" : {
+        "DBTECGU9CKTY5GMR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DBTECGU9CKTY5GMR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DBTECGU9CKTY5GMR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DBTECGU9CKTY5GMR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / CDN Bundle: 50GB Free Trial",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2URYYRKY4RXKN5E7" : {
+        "2URYYRKY4RXKN5E7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2URYYRKY4RXKN5E7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2URYYRKY4RXKN5E7.JRTCKXETXF.TS6XV2ENSN" : {
+              "rateCode" : "2URYYRKY4RXKN5E7.JRTCKXETXF.TS6XV2ENSN",
+              "description" : "$0.00 / Million queries for the first 3 Million queries",
+              "beginRange" : "0",
+              "endRange" : "3000000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2URYYRKY4RXKN5E7.JRTCKXETXF.WTA2GPDJU3" : {
+              "rateCode" : "2URYYRKY4RXKN5E7.JRTCKXETXF.WTA2GPDJU3",
+              "description" : "$0.40 / Million queries over 3 Million queries",
+              "beginRange" : "3000000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XUWT4YKVA2BPM4VX" : {
+        "XUWT4YKVA2BPM4VX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XUWT4YKVA2BPM4VX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XUWT4YKVA2BPM4VX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XUWT4YKVA2BPM4VX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZPKAQ29QSV8FZMYW" : {
+        "ZPKAQ29QSV8FZMYW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZPKAQ29QSV8FZMYW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZPKAQ29QSV8FZMYW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZPKAQ29QSV8FZMYW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05376 / Hour of 8GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0537600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R897JTFMHPZBX7GZ" : {
+        "R897JTFMHPZBX7GZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R897JTFMHPZBX7GZ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "R897JTFMHPZBX7GZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R897JTFMHPZBX7GZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09946 / Hour of 8GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0994600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RVCUETSDPK639XPH" : {
+        "RVCUETSDPK639XPH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RVCUETSDPK639XPH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RVCUETSDPK639XPH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RVCUETSDPK639XPH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16129 / Hour of 16GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1612900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NVP4UWJAHXNRHY7H" : {
+        "NVP4UWJAHXNRHY7H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NVP4UWJAHXNRHY7H",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "NVP4UWJAHXNRHY7H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NVP4UWJAHXNRHY7H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (5GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UC8NN6NKEK4U6KT3" : {
+        "UC8NN6NKEK4U6KT3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UC8NN6NKEK4U6KT3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UC8NN6NKEK4U6KT3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UC8NN6NKEK4U6KT3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16666 / Hour of 16GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1666600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WW9NA54FQNHDQSRY" : {
+        "WW9NA54FQNHDQSRY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WW9NA54FQNHDQSRY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WW9NA54FQNHDQSRY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WW9NA54FQNHDQSRY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QUKMCPWKHG9B3AUS" : {
+        "QUKMCPWKHG9B3AUS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QUKMCPWKHG9B3AUS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QUKMCPWKHG9B3AUS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QUKMCPWKHG9B3AUS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02956 / Hour of 2GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0295600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BR87FKR963FJ9A6K" : {
+        "BR87FKR963FJ9A6K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BR87FKR963FJ9A6K",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "BR87FKR963FJ9A6K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BR87FKR963FJ9A6K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0538 / Hour for Container Service Node of Power-Medium(1CPU-2GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0537634410"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D27UT4RVGWXEGAG4" : {
+        "D27UT4RVGWXEGAG4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D27UT4RVGWXEGAG4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D27UT4RVGWXEGAG4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D27UT4RVGWXEGAG4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1075 / Hour for Container Service Node of Power-Large(2CPU-4GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1075268820"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SQU8NCXXE2JXX6HE" : {
+        "SQU8NCXXE2JXX6HE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SQU8NCXXE2JXX6HE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SQU8NCXXE2JXX6HE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SQU8NCXXE2JXX6HE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0202 / Hour of 1GB Standard Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0201600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5BTGUEBZ6G89S887" : {
+        "5BTGUEBZ6G89S887.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5BTGUEBZ6G89S887",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5BTGUEBZ6G89S887.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5BTGUEBZ6G89S887.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XR8HG4C7FKHUFM3U" : {
+        "XR8HG4C7FKHUFM3U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XR8HG4C7FKHUFM3U",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XR8HG4C7FKHUFM3U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XR8HG4C7FKHUFM3U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01344 / Hour of 2GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0134400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BVZXMH7F4UF2SP8B" : {
+        "BVZXMH7F4UF2SP8B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BVZXMH7F4UF2SP8B",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "BVZXMH7F4UF2SP8B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BVZXMH7F4UF2SP8B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0134 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0134408600"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5EPB2V8S2JCDVZF9" : {
+        "5EPB2V8S2JCDVZF9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5EPB2V8S2JCDVZF9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5EPB2V8S2JCDVZF9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5EPB2V8S2JCDVZF9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03225 / Hour of 4GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0322500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4JE6DJUD3JCPKEX6" : {
+        "4JE6DJUD3JCPKEX6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4JE6DJUD3JCPKEX6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4JE6DJUD3JCPKEX6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4JE6DJUD3JCPKEX6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (250GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z979Z6X5TVF227ZE" : {
+        "Z979Z6X5TVF227ZE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z979Z6X5TVF227ZE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z979Z6X5TVF227ZE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z979Z6X5TVF227ZE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05376 / Hour of 4GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0537600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8MCANU6KDPJKRGGY" : {
+        "8MCANU6KDPJKRGGY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8MCANU6KDPJKRGGY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8MCANU6KDPJKRGGY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8MCANU6KDPJKRGGY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (100GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AY3XG56WNUTRZ9XT" : {
+        "AY3XG56WNUTRZ9XT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AY3XG56WNUTRZ9XT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AY3XG56WNUTRZ9XT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AY3XG56WNUTRZ9XT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.21505 / Hour of 32GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2150500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D6RY8Q3T2RREEHFK" : {
+        "D6RY8Q3T2RREEHFK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D6RY8Q3T2RREEHFK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D6RY8Q3T2RREEHFK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D6RY8Q3T2RREEHFK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1613 / Hour of 4GB High Availability Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1612900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5MAQD3SYN4V88Q7R" : {
+        "5MAQD3SYN4V88Q7R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5MAQD3SYN4V88Q7R",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5MAQD3SYN4V88Q7R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5MAQD3SYN4V88Q7R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 / Storage Bundle:5GB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D5MZDUQZCJE8NHT7" : {
+        "D5MZDUQZCJE8NHT7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D5MZDUQZCJE8NHT7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D5MZDUQZCJE8NHT7.JRTCKXETXF.TKQXKGP374" : {
+              "rateCode" : "D5MZDUQZCJE8NHT7.JRTCKXETXF.TKQXKGP374",
+              "description" : "$0.0 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB)-Free - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "750",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "D5MZDUQZCJE8NHT7.JRTCKXETXF.9GF73R9NUV" : {
+              "rateCode" : "D5MZDUQZCJE8NHT7.JRTCKXETXF.9GF73R9NUV",
+              "description" : "$0.0134 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB) - US East (N. Virginia)",
+              "beginRange" : "750",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0134408600"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QMDKXAB77FV8G3QU" : {
+        "QMDKXAB77FV8G3QU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QMDKXAB77FV8G3QU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QMDKXAB77FV8G3QU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QMDKXAB77FV8G3QU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / GB data transfer out below the plan quota is free",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WDECMQRCEZSEFYZJ" : {
+        "WDECMQRCEZSEFYZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WDECMQRCEZSEFYZJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WDECMQRCEZSEFYZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WDECMQRCEZSEFYZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09408 / Hour of 8GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0940800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6CKUUZ9N8JQ663M" : {
+        "V6CKUUZ9N8JQ663M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6CKUUZ9N8JQ663M",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6CKUUZ9N8JQ663M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6CKUUZ9N8JQ663M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 / GB-Month of stored snapshot data - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SABDBQQU9BJWZ2NX" : {
+        "SABDBQQU9BJWZ2NX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SABDBQQU9BJWZ2NX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SABDBQQU9BJWZ2NX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SABDBQQU9BJWZ2NX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01075 / Hour of 0.5GB IPv6 bundle Instance (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0107500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5GS6DKUNXFKADSD7" : {
+        "5GS6DKUNXFKADSD7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5GS6DKUNXFKADSD7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5GS6DKUNXFKADSD7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5GS6DKUNXFKADSD7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 / GB data transfer out above the plan quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "92NYY8D7XE2WMZ63" : {
+        "92NYY8D7XE2WMZ63.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "92NYY8D7XE2WMZ63",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "92NYY8D7XE2WMZ63.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "92NYY8D7XE2WMZ63.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4G4M8ZBRKVF22GR5" : {
+        "4G4M8ZBRKVF22GR5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4G4M8ZBRKVF22GR5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4G4M8ZBRKVF22GR5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4G4M8ZBRKVF22GR5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05913 / Hour of 4GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0591300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6PRZ7N7CQC2MUJKA" : {
+        "6PRZ7N7CQC2MUJKA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6PRZ7N7CQC2MUJKA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6PRZ7N7CQC2MUJKA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6PRZ7N7CQC2MUJKA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.76612 / Hour of 64GB IPv6 bundle Instance  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7661200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GMJNB4RY4WC6XHGN" : {
+        "GMJNB4RY4WC6XHGN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GMJNB4RY4WC6XHGN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GMJNB4RY4WC6XHGN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GMJNB4RY4WC6XHGN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0242 / Hour of Load Balancer usage - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0241935480"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DN522PS4B8M4APHK" : {
+        "DN522PS4B8M4APHK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DN522PS4B8M4APHK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DN522PS4B8M4APHK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DN522PS4B8M4APHK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 / CDN Bundle: 200GB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2SJ62RNSVC3VSCJ4" : {
+        "2SJ62RNSVC3VSCJ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2SJ62RNSVC3VSCJ4",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2SJ62RNSVC3VSCJ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2SJ62RNSVC3VSCJ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0806 / Hour of 2GB High Availability Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0806500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D34PEEARKYFU56RB" : {
+        "D34PEEARKYFU56RB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D34PEEARKYFU56RB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D34PEEARKYFU56RB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D34PEEARKYFU56RB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T7MQ998NVHH4A5SP" : {
+        "T7MQ998NVHH4A5SP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T7MQ998NVHH4A5SP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "T7MQ998NVHH4A5SP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T7MQ998NVHH4A5SP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2151 / Hour for Container Service Node of Power-XLarge(4CPU-8GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2150537630"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YS7SUSJT8STVWAJ8" : {
+        "YS7SUSJT8STVWAJ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YS7SUSJT8STVWAJ8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YS7SUSJT8STVWAJ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YS7SUSJT8STVWAJ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.32795 / Hour of 32GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3279500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YKTGSRR6SPX5MT2T" : {
+        "YKTGSRR6SPX5MT2T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YKTGSRR6SPX5MT2T",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YKTGSRR6SPX5MT2T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YKTGSRR6SPX5MT2T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.00 / Storage Bundle:100GB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6Y3KHJ48EQV4P7TX" : {
+        "6Y3KHJ48EQV4P7TX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6Y3KHJ48EQV4P7TX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6Y3KHJ48EQV4P7TX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6Y3KHJ48EQV4P7TX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (250GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "29Z36NQUQNYU9UDZ" : {
+        "29Z36NQUQNYU9UDZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "29Z36NQUQNYU9UDZ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "29Z36NQUQNYU9UDZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "29Z36NQUQNYU9UDZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01612 / Hour of 1GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0161200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FU39CCWRMEQ9ZYF" : {
+        "5FU39CCWRMEQ9ZYF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5FU39CCWRMEQ9ZYF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FU39CCWRMEQ9ZYF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5FU39CCWRMEQ9ZYF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01881 / Hour of 1GB bundle Instance including public IPv4 address  (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0188100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4SAJ6WVRUBHFC47T" : {
+        "4SAJ6WVRUBHFC47T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4SAJ6WVRUBHFC47T",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4SAJ6WVRUBHFC47T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4SAJ6WVRUBHFC47T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (100GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3W369V5X7BZYSC8R" : {
+        "3W369V5X7BZYSC8R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3W369V5X7BZYSC8R",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3W369V5X7BZYSC8R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3W369V5X7BZYSC8R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$35.00 / CDN Bundle: 500GB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "35.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y8S55Q9C7QEMHEF5" : {
+        "Y8S55Q9C7QEMHEF5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y8S55Q9C7QEMHEF5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y8S55Q9C7QEMHEF5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y8S55Q9C7QEMHEF5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.51075 / Hour of 64GB IPv6 bundle Instance",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5107500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WP3MATNNP22DA5KD" : {
+        "WP3MATNNP22DA5KD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WP3MATNNP22DA5KD",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WP3MATNNP22DA5KD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WP3MATNNP22DA5KD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00672 / Hour of 1GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0067200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8VNEVTS68WM6JZDX" : {
+        "8VNEVTS68WM6JZDX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8VNEVTS68WM6JZDX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8VNEVTS68WM6JZDX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8VNEVTS68WM6JZDX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / GB - data transfer in",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U889FW8J4XS8752T" : {
+        "U889FW8J4XS8752T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U889FW8J4XS8752T",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "U889FW8J4XS8752T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U889FW8J4XS8752T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00672 / Hour of 0.5GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0067200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DMZY72E2CJ9H9369" : {
+        "DMZY72E2CJ9H9369.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DMZY72E2CJ9H9369",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DMZY72E2CJ9H9369.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DMZY72E2CJ9H9369.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQJ5MK8JDSQV9C2W" : {
+        "TQJ5MK8JDSQV9C2W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQJ5MK8JDSQV9C2W",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQJ5MK8JDSQV9C2W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TQJ5MK8JDSQV9C2W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01612 / Hour of 2GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0161200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z6NERQDE765SRMU7" : {
+        "Z6NERQDE765SRMU7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z6NERQDE765SRMU7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z6NERQDE765SRMU7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z6NERQDE765SRMU7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3091 / Hour of 8GB High Availability Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3091400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "655SBVDQXJJY4HNS" : {
+        "655SBVDQXJJY4HNS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "655SBVDQXJJY4HNS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "655SBVDQXJJY4HNS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "655SBVDQXJJY4HNS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1546 / Hour of 8GB Standard Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1545700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S6FKPZTUVCQHNQVF" : {
+        "S6FKPZTUVCQHNQVF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S6FKPZTUVCQHNQVF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "S6FKPZTUVCQHNQVF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S6FKPZTUVCQHNQVF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02688 / Hour of 2GB IPv6 bundle Instance  (Windows) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0268800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AN2XXQRRVQ6EEWZX" : {
+        "AN2XXQRRVQ6EEWZX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AN2XXQRRVQ6EEWZX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AN2XXQRRVQ6EEWZX.JRTCKXETXF.8EEUB22XNJ" : {
+              "rateCode" : "AN2XXQRRVQ6EEWZX.JRTCKXETXF.8EEUB22XNJ",
+              "description" : "$0.00 / hour of Static IP address not attached to an instance (first hour free)",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AN2XXQRRVQ6EEWZX.JRTCKXETXF.JTU8TKNAMW" : {
+              "rateCode" : "AN2XXQRRVQ6EEWZX.JRTCKXETXF.JTU8TKNAMW",
+              "description" : "$0.005 / hour of Static IP address not attached to an instance",
+              "beginRange" : "1",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SXK3RNCY7A9RBGUN" : {
+        "SXK3RNCY7A9RBGUN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SXK3RNCY7A9RBGUN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SXK3RNCY7A9RBGUN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SXK3RNCY7A9RBGUN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01276 / Hour of 0.5GB bundle Instance including public IPv4 address (Windows)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0127600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U8MHZFACH23PGJ6S" : {
+        "U8MHZFACH23PGJ6S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U8MHZFACH23PGJ6S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "U8MHZFACH23PGJ6S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U8MHZFACH23PGJ6S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0403 / Hour of 1GB High Availability Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0403200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S7X4VXZCEMM6XMF8" : {
+        "S7X4VXZCEMM6XMF8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S7X4VXZCEMM6XMF8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "S7X4VXZCEMM6XMF8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S7X4VXZCEMM6XMF8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0806 / Hour of 4GB Standard Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0806500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "97SWRN2CVQK5JEY3" : {
+        "97SWRN2CVQK5JEY3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "97SWRN2CVQK5JEY3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "97SWRN2CVQK5JEY3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "97SWRN2CVQK5JEY3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 / GB-Month of attached block storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQGBMHHFTYH64T5X" : {
+        "TQGBMHHFTYH64T5X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQGBMHHFTYH64T5X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQGBMHHFTYH64T5X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TQGBMHHFTYH64T5X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.00 / Storage Bundle:250GB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QNVV3XB2BZK88RFH" : {
+        "QNVV3XB2BZK88RFH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QNVV3XB2BZK88RFH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QNVV3XB2BZK88RFH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QNVV3XB2BZK88RFH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 / Storage Bundle:5GBFreeTrial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FUZFBMNEZVN47WEC" : {
+        "FUZFBMNEZVN47WEC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FUZFBMNEZVN47WEC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FUZFBMNEZVN47WEC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FUZFBMNEZVN47WEC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05913 / Hour of 8GB bundle Instance including public IPv4 address",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0591300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "64ZSEA597RH57QZY" : {
+        "64ZSEA597RH57QZY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "64ZSEA597RH57QZY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "64ZSEA597RH57QZY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "64ZSEA597RH57QZY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0202 / Hour for Container Service Node of Power-Small(0.5CPU-1GB) - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0201612900"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XT9FU4CN74CB7HXB" : {
+        "XT9FU4CN74CB7HXB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XT9FU4CN74CB7HXB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XT9FU4CN74CB7HXB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XT9FU4CN74CB7HXB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02688 / Hour of 4GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0268800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5VYBQX3EQXU6HMNJ" : {
+        "5VYBQX3EQXU6HMNJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5VYBQX3EQXU6HMNJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5VYBQX3EQXU6HMNJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5VYBQX3EQXU6HMNJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (5GB Bundle)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SH428PJK6ZQ2J5K2" : {
+        "SH428PJK6ZQ2J5K2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SH428PJK6ZQ2J5K2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SH428PJK6ZQ2J5K2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SH428PJK6ZQ2J5K2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0403 / Hour of 2GB Standard Database bundle",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0403200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GAUXVS6NEKG2HFEG" : {
+        "GAUXVS6NEKG2HFEG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GAUXVS6NEKG2HFEG",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GAUXVS6NEKG2HFEG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GAUXVS6NEKG2HFEG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10752 / Hour of 16GB IPv6 bundle Instance ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1075200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "29UZTPASJG8682GC" : {
+        "29UZTPASJG8682GC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "29UZTPASJG8682GC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "29UZTPASJG8682GC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "29UZTPASJG8682GC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.50 / CDN Bundle: 50GB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Bundles",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

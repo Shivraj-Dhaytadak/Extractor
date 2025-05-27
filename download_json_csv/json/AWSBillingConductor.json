@@ -1,0 +1,189 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSBillingConductor",
+  "version" : "20230401010721",
+  "publicationDate" : "2023-04-01T01:07:21Z",
+  "products" : {
+    "2AU69PTYPG76C9CZ" : {
+      "sku" : "2AU69PTYPG76C9CZ",
+      "productFamily" : "AWS Billing Conductor",
+      "attributes" : {
+        "servicecode" : "AWSBillingConductor",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ABC-Custom Line Items",
+        "groupDescription" : "ABC- Custom Line Items",
+        "usagetype" : "USE1-CustomLineItems",
+        "operation" : "line-item-created",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Billing Conductor"
+      }
+    },
+    "CDKP8JYJ33UJM8H5" : {
+      "sku" : "CDKP8JYJ33UJM8H5",
+      "productFamily" : "AWS Billing Conductor",
+      "attributes" : {
+        "servicecode" : "AWSBillingConductor",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Free-Proforma-Accounts",
+        "operation" : "accounts-computed",
+        "accounts" : "free-proforma-accounts",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Billing Conductor"
+      }
+    },
+    "4S8HR5DY6SVXB73D" : {
+      "sku" : "4S8HR5DY6SVXB73D",
+      "productFamily" : "AWS Billing Conductor",
+      "attributes" : {
+        "servicecode" : "AWSBillingConductor",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Proforma-Accounts",
+        "operation" : "accounts-computed",
+        "accounts" : "proforma-accounts",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Billing Conductor"
+      }
+    },
+    "D2Y9PM5VHE6Q94HM" : {
+      "sku" : "D2Y9PM5VHE6Q94HM",
+      "productFamily" : "AWS Billing Conductor",
+      "attributes" : {
+        "servicecode" : "AWSBillingConductor",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ABC- Pro Forma Billing Records",
+        "groupDescription" : "ABC- Pro forma Billing Records",
+        "usagetype" : "USE1-ProFormaBillingRecords",
+        "operation" : "records-computed",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Billing Conductor"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "CDKP8JYJ33UJM8H5" : {
+        "CDKP8JYJ33UJM8H5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CDKP8JYJ33UJM8H5",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CDKP8JYJ33UJM8H5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CDKP8JYJ33UJM8H5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 for accounts within a proforma billing group during free trial",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Accounts",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D2Y9PM5VHE6Q94HM" : {
+        "D2Y9PM5VHE6Q94HM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D2Y9PM5VHE6Q94HM",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "D2Y9PM5VHE6Q94HM.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "D2Y9PM5VHE6Q94HM.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.00 per Pro forma billing record generated",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Records",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "D2Y9PM5VHE6Q94HM.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "D2Y9PM5VHE6Q94HM.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.15 per 1,000 Pro forma billing records generated",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Records",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2AU69PTYPG76C9CZ" : {
+        "2AU69PTYPG76C9CZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2AU69PTYPG76C9CZ",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2AU69PTYPG76C9CZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2AU69PTYPG76C9CZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per custom line item generated",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Records",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4S8HR5DY6SVXB73D" : {
+        "4S8HR5DY6SVXB73D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4S8HR5DY6SVXB73D",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4S8HR5DY6SVXB73D.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "4S8HR5DY6SVXB73D.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$8.25 per month for each account within a proforma billing group for the first 500 accounts",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "Accounts",
+              "pricePerUnit" : {
+                "USD" : "8.2500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4S8HR5DY6SVXB73D.JRTCKXETXF.NQTM64EBAU" : {
+              "rateCode" : "4S8HR5DY6SVXB73D.JRTCKXETXF.NQTM64EBAU",
+              "description" : "$6.75 per month for each account within a proforma billing group for the next 1500 accounts",
+              "beginRange" : "500",
+              "endRange" : "2000",
+              "unit" : "Accounts",
+              "pricePerUnit" : {
+                "USD" : "6.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4S8HR5DY6SVXB73D.JRTCKXETXF.HHP47ND9UE" : {
+              "rateCode" : "4S8HR5DY6SVXB73D.JRTCKXETXF.HHP47ND9UE",
+              "description" : "$5.25 per month for each account within a proforma billing group beyond 2000 accounts",
+              "beginRange" : "2000",
+              "endRange" : "Inf",
+              "unit" : "Accounts",
+              "pricePerUnit" : {
+                "USD" : "5.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

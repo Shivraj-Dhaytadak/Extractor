@@ -1,0 +1,309 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonChimeServices",
+  "version" : "20241219235601",
+  "publicationDate" : "2024-12-19T23:56:01Z",
+  "products" : {
+    "2HW8T6D5ZZEFY2DX" : {
+      "sku" : "2HW8T6D5ZZEFY2DX",
+      "productFamily" : "AmazonChimeVoiceConnector",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SMA-DialIn-KR-tollfree-mins",
+        "operation" : "",
+        "calltype" : "SMA Toll-Free",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "tocountry" : "South Korea",
+        "transactionType" : "AWS"
+      }
+    },
+    "SPM3S8J8K4YDFNVR" : {
+      "sku" : "SPM3S8J8K4YDFNVR",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-attendee-minutes",
+        "operation" : "",
+        "licenseType" : "sdk",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    },
+    "GSSXMDBCZ86W3QWE" : {
+      "sku" : "GSSXMDBCZ86W3QWE",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-HD-capacity-minutes",
+        "operation" : "",
+        "licenseType" : "SDK Capacity",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    },
+    "YZ2XSZHMK3XEMFP8" : {
+      "sku" : "YZ2XSZHMK3XEMFP8",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-amazonchime-meetings",
+        "operation" : "",
+        "licenseType" : "Meetings",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    },
+    "K4A6DGCFTC4E6XHQ" : {
+      "sku" : "K4A6DGCFTC4E6XHQ",
+      "productFamily" : "AmazonChimeVoiceConnector",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SMA-DialOut-KR-minutes",
+        "operation" : "",
+        "calltype" : "SMA Outbound",
+        "fromcountry" : "Worldwide",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "tocountry" : "South Korea",
+        "transactionType" : "AWS"
+      }
+    },
+    "B4NZUF7TUR67D3SF" : {
+      "sku" : "B4NZUF7TUR67D3SF",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ChimeMeetings-Free",
+        "operation" : "",
+        "licenseType" : "ActiveHostsFree",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    },
+    "7UZMGAXPSTD76SZT" : {
+      "sku" : "7UZMGAXPSTD76SZT",
+      "productFamily" : "AmazonChimeVoiceConnector",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SMA-DialIn-KR-tollfree-numberscharge",
+        "operation" : "",
+        "fromcountry" : "South Korea",
+        "numbertype" : "DDI",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    },
+    "NQ7K6R9EPXKWSV6S" : {
+      "sku" : "NQ7K6R9EPXKWSV6S",
+      "attributes" : {
+        "servicecode" : "AmazonChimeServices",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Chime-SDK-HD-attendee-minutes",
+        "operation" : "",
+        "licenseType" : "FHD SDK",
+        "primaryplaceofuse" : "Customer Billing Address",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Chime Services",
+        "transactionType" : "AWS"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "GSSXMDBCZ86W3QWE" : {
+        "GSSXMDBCZ86W3QWE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GSSXMDBCZ86W3QWE",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "GSSXMDBCZ86W3QWE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GSSXMDBCZ86W3QWE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001 per minutes for Chime-SDK-FHD-capacity-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YZ2XSZHMK3XEMFP8" : {
+        "YZ2XSZHMK3XEMFP8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YZ2XSZHMK3XEMFP8",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "YZ2XSZHMK3XEMFP8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YZ2XSZHMK3XEMFP8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3 per AmazonChime_Meetings_Active_Host_Days for amazonchime-meetings in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "AmazonChime_Meetings_Active_Host_Days",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2HW8T6D5ZZEFY2DX" : {
+        "2HW8T6D5ZZEFY2DX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2HW8T6D5ZZEFY2DX",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "2HW8T6D5ZZEFY2DX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2HW8T6D5ZZEFY2DX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.063195 per minutes for SMA-DialIn-KR-tollfree-mins in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0631950000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SPM3S8J8K4YDFNVR" : {
+        "SPM3S8J8K4YDFNVR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SPM3S8J8K4YDFNVR",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "SPM3S8J8K4YDFNVR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SPM3S8J8K4YDFNVR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0017 per minutes for Chime-SDK-attendee-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0017000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7UZMGAXPSTD76SZT" : {
+        "7UZMGAXPSTD76SZT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7UZMGAXPSTD76SZT",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "7UZMGAXPSTD76SZT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7UZMGAXPSTD76SZT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$19.5 per NumberMonths for SMA-DialIn-KR-tollfree-numberscharge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "NumberMonths",
+              "pricePerUnit" : {
+                "USD" : "19.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B4NZUF7TUR67D3SF" : {
+        "B4NZUF7TUR67D3SF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B4NZUF7TUR67D3SF",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "B4NZUF7TUR67D3SF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B4NZUF7TUR67D3SF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Sessions for ChimeMeetings-Free in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Sessions",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K4A6DGCFTC4E6XHQ" : {
+        "K4A6DGCFTC4E6XHQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K4A6DGCFTC4E6XHQ",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "K4A6DGCFTC4E6XHQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K4A6DGCFTC4E6XHQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.033150 per minutes for SMA-DialOut-KR-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0331500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NQ7K6R9EPXKWSV6S" : {
+        "NQ7K6R9EPXKWSV6S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NQ7K6R9EPXKWSV6S",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "NQ7K6R9EPXKWSV6S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NQ7K6R9EPXKWSV6S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0034 per minutes for Chime-SDK-FHD-attendee-minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

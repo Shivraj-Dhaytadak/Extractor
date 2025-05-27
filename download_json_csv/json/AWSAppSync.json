@@ -1,0 +1,487 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSAppSync",
+  "version" : "20241029173413",
+  "publicationDate" : "2024-10-29T17:34:13Z",
+  "products" : {
+    "4W4ZEPRV8BB6CYA7" : {
+      "sku" : "4W4ZEPRV8BB6CYA7",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:203.26GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "203.26",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "XCTQWPXYKXSDPWQV" : {
+      "sku" : "XCTQWPXYKXSDPWQV",
+      "productFamily" : "RealTime",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConnectionDuration",
+        "operation" : "",
+        "protocol" : "MQTT_WSS",
+        "realtimeoperation" : "Duration",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "RQGUAEUAMTAUPEY6" : {
+      "sku" : "RQGUAEUAMTAUPEY6",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:3.22GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "3.22",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "MNWY4NZ3VKNEN9HB" : {
+      "sku" : "MNWY4NZ3VKNEN9HB",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:25.05GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "25.05",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "P5UNPE5Z26VEXEU4" : {
+      "sku" : "P5UNPE5Z26VEXEU4",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:1.55GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "1.55",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "JUPW5NR5HR7AB7CY" : {
+      "sku" : "JUPW5NR5HR7AB7CY",
+      "productFamily" : "RealTime",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GraphQLNotification",
+        "operation" : "",
+        "protocol" : "MQTT_WSS",
+        "realtimeoperation" : "Notification",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "XUUHFUTAHPH4HT3P" : {
+      "sku" : "XUUHFUTAHPH4HT3P",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:101.38GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "101.38",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "UBSU65BVQT5Q7BUJ" : {
+      "sku" : "UBSU65BVQT5Q7BUJ",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:12.3GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "12.3",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "SJQRZS9326KSN2CC" : {
+      "sku" : "SJQRZS9326KSN2CC",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GraphQLInvocation",
+        "operation" : "",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "DTWDRFYGTZWX43GP" : {
+      "sku" : "DTWDRFYGTZWX43GP",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:317.77GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "317.77",
+        "graphqloperation" : "Invocation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "PCHS8TJVT6S49KKA" : {
+      "sku" : "PCHS8TJVT6S49KKA",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppSyncCacheUsage:50.47GB",
+        "operation" : "RunInstances",
+        "cachememorysize" : "50.47",
+        "graphqloperation" : "Invocation",
+        "protocol" : "HTTPS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "CEM6653GX3MWYEUN" : {
+      "sku" : "CEM6653GX3MWYEUN",
+      "productFamily" : "RealTime",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EventAPI-Operation",
+        "operation" : "",
+        "eventapioperation" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    },
+    "73YBXMJS92PHR2Y6" : {
+      "sku" : "73YBXMJS92PHR2Y6",
+      "productFamily" : "RealTime",
+      "attributes" : {
+        "servicecode" : "AWSAppSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EventAPI-ConnectionDuration",
+        "operation" : "",
+        "eventapioperation" : "Connection duration",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppSync"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "RQGUAEUAMTAUPEY6" : {
+        "RQGUAEUAMTAUPEY6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RQGUAEUAMTAUPEY6",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "RQGUAEUAMTAUPEY6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RQGUAEUAMTAUPEY6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 3.22Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0890000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4W4ZEPRV8BB6CYA7" : {
+        "4W4ZEPRV8BB6CYA7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4W4ZEPRV8BB6CYA7",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "4W4ZEPRV8BB6CYA7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4W4ZEPRV8BB6CYA7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 203.26Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.7580000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNWY4NZ3VKNEN9HB" : {
+        "MNWY4NZ3VKNEN9HB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNWY4NZ3VKNEN9HB",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNWY4NZ3VKNEN9HB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNWY4NZ3VKNEN9HB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 25.05Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5950000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "73YBXMJS92PHR2Y6" : {
+        "73YBXMJS92PHR2Y6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "73YBXMJS92PHR2Y6",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "73YBXMJS92PHR2Y6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "73YBXMJS92PHR2Y6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million Event API connection minutes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JUPW5NR5HR7AB7CY" : {
+        "JUPW5NR5HR7AB7CY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JUPW5NR5HR7AB7CY",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "JUPW5NR5HR7AB7CY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JUPW5NR5HR7AB7CY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2 per million real-time updates in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DTWDRFYGTZWX43GP" : {
+        "DTWDRFYGTZWX43GP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DTWDRFYGTZWX43GP",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "DTWDRFYGTZWX43GP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DTWDRFYGTZWX43GP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 317.77Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.7750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P5UNPE5Z26VEXEU4" : {
+        "P5UNPE5Z26VEXEU4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P5UNPE5Z26VEXEU4",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "P5UNPE5Z26VEXEU4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P5UNPE5Z26VEXEU4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 1.55Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PCHS8TJVT6S49KKA" : {
+        "PCHS8TJVT6S49KKA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PCHS8TJVT6S49KKA",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "PCHS8TJVT6S49KKA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PCHS8TJVT6S49KKA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 50.47Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1890000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SJQRZS9326KSN2CC" : {
+        "SJQRZS9326KSN2CC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SJQRZS9326KSN2CC",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "SJQRZS9326KSN2CC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SJQRZS9326KSN2CC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4 per million query and data modification operations in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000040000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XCTQWPXYKXSDPWQV" : {
+        "XCTQWPXYKXSDPWQV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XCTQWPXYKXSDPWQV",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "XCTQWPXYKXSDPWQV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XCTQWPXYKXSDPWQV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CEM6653GX3MWYEUN" : {
+        "CEM6653GX3MWYEUN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CEM6653GX3MWYEUN",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "CEM6653GX3MWYEUN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CEM6653GX3MWYEUN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per million Event API operations in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operation",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UBSU65BVQT5Q7BUJ" : {
+        "UBSU65BVQT5Q7BUJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UBSU65BVQT5Q7BUJ",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "UBSU65BVQT5Q7BUJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UBSU65BVQT5Q7BUJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 12.3Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2980000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XUUHFUTAHPH4HT3P" : {
+        "XUUHFUTAHPH4HT3P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XUUHFUTAHPH4HT3P",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "XUUHFUTAHPH4HT3P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XUUHFUTAHPH4HT3P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AppSync Dedicated Cache 101.38Gb - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3790000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

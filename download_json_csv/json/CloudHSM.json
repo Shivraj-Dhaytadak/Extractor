@@ -1,0 +1,242 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "CloudHSM",
+  "version" : "20250224212539",
+  "publicationDate" : "2025-02-24T21:25:39Z",
+  "products" : {
+    "39UNYSPNVBYDWBCK" : {
+      "sku" : "39UNYSPNVBYDWBCK",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v1",
+        "usagetype" : "USE1-CloudHSMUsage",
+        "operation" : "Hourly",
+        "hsmGeneration" : "hsm.classic-deprecated",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "N",
+        "upfrontCommitment" : "N"
+      }
+    },
+    "F48DST268WZ8JH7X" : {
+      "sku" : "F48DST268WZ8JH7X",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v2",
+        "usagetype" : "USE1-CloudHSMv2Usage",
+        "operation" : "Hourly",
+        "hsmGeneration" : "hsm1.medium",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "N",
+        "upfrontCommitment" : "N"
+      }
+    },
+    "PGWETF94H34YKAYT" : {
+      "sku" : "PGWETF94H34YKAYT",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v1",
+        "usagetype" : "USE1-CloudHSMUpfront",
+        "operation" : "upfront",
+        "hsmGeneration" : "hsm.classic-deprecated",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "N",
+        "upfrontCommitment" : "Y"
+      }
+    },
+    "4YQC7A7JYFXU53SW" : {
+      "sku" : "4YQC7A7JYFXU53SW",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v1",
+        "usagetype" : "USE1-CloudHSMTrialUsage",
+        "operation" : "Hourly",
+        "hsmGeneration" : "hsm.classic-deprecated",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "Y",
+        "upfrontCommitment" : "N"
+      }
+    },
+    "AXAM2VZDXGKWAM8Q" : {
+      "sku" : "AXAM2VZDXGKWAM8Q",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v1",
+        "usagetype" : "USE1-CloudHSMTrialUpfront",
+        "operation" : "upfront",
+        "hsmGeneration" : "hsm.classic-deprecated",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "Y",
+        "upfrontCommitment" : "Y"
+      }
+    },
+    "3RASDUS8W2QQNCG6" : {
+      "sku" : "3RASDUS8W2QQNCG6",
+      "productFamily" : "Dedicated-Host",
+      "attributes" : {
+        "servicecode" : "CloudHSM",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceFamily" : "CloudHSM-v2",
+        "usagetype" : "USE1-CloudHSMv2Usage-hsm2m.m",
+        "operation" : "Hourly",
+        "hsmGeneration" : "hsm2.medium",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudHSM",
+        "trialProduct" : "N",
+        "upfrontCommitment" : "N"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "4YQC7A7JYFXU53SW" : {
+        "4YQC7A7JYFXU53SW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4YQC7A7JYFXU53SW",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "4YQC7A7JYFXU53SW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4YQC7A7JYFXU53SW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 hourly charge for CloudHSM trial usage in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AXAM2VZDXGKWAM8Q" : {
+        "AXAM2VZDXGKWAM8Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AXAM2VZDXGKWAM8Q",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "AXAM2VZDXGKWAM8Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AXAM2VZDXGKWAM8Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 up-front charge for CloudHSM trial service in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "HSM",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "39UNYSPNVBYDWBCK" : {
+        "39UNYSPNVBYDWBCK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "39UNYSPNVBYDWBCK",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "39UNYSPNVBYDWBCK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "39UNYSPNVBYDWBCK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.88 hourly charge for CloudHSM usage in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.8800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F48DST268WZ8JH7X" : {
+        "F48DST268WZ8JH7X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F48DST268WZ8JH7X",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "F48DST268WZ8JH7X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F48DST268WZ8JH7X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.60 hourly charge for new CloudHSM usage in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3RASDUS8W2QQNCG6" : {
+        "3RASDUS8W2QQNCG6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3RASDUS8W2QQNCG6",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "3RASDUS8W2QQNCG6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3RASDUS8W2QQNCG6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.60 hourly charge for new CloudHSM hsm2m usage in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PGWETF94H34YKAYT" : {
+        "PGWETF94H34YKAYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGWETF94H34YKAYT",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGWETF94H34YKAYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGWETF94H34YKAYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5000 up-front charge for CloudHSM service in US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "HSM",
+              "pricePerUnit" : {
+                "USD" : "5000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

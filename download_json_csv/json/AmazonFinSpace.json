@@ -1,0 +1,1429 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonFinSpace",
+  "version" : "20240829172011",
+  "publicationDate" : "2024-08-29T17:20:11Z",
+  "products" : {
+    "DBRXWQVS427EN5M7" : {
+      "sku" : "DBRXWQVS427EN5M7",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "864",
+        "usagetype" : "USE1-KdbNode:kx.s.32xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.32xlarge",
+        "node" : "kx.s.32xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "TRZXRBF6PEJ9A5SY" : {
+      "sku" : "TRZXRBF6PEJ9A5SY",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbNode:savedownstorage",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "SaveDownStorage"
+      }
+    },
+    "DD9WVEXRN7V8TX3X" : {
+      "sku" : "DD9WVEXRN7V8TX3X",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "54",
+        "usagetype" : "USE1-KdbNode:kx.s.2xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.2xlarge",
+        "node" : "kx.s.2xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "HRFJMWMSQ7CRRW2U" : {
+      "sku" : "HRFJMWMSQ7CRRW2U",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "216",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.8xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.8xlarge",
+        "node" : "kx.sg.8xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "85SQK7CZ6GE5WC4B" : {
+      "sku" : "85SQK7CZ6GE5WC4B",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "54",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.2xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.2xlarge",
+        "node" : "kx.sg.2xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "7U7TBKD4ABKK5X57" : {
+      "sku" : "7U7TBKD4ABKK5X57",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "12",
+        "usagetype" : "USE1-KdbNode:kx.s.large",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.large",
+        "node" : "kx.s.large",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "8UN3CZSMNRATNC4K" : {
+      "sku" : "8UN3CZSMNRATNC4K",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Clusters:Large",
+        "operation" : "RunCluster",
+        "computesize" : "Large",
+        "computetype" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "N2YKZ46KRN9VAPR5" : {
+      "sku" : "N2YKZ46KRN9VAPR5",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbVolume:kdbfilefs250",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "SSD 250 MB/s/TiB"
+      }
+    },
+    "S8WHF8SKH7TV8MJK" : {
+      "sku" : "S8WHF8SKH7TV8MJK",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbDatabase:changeset",
+        "operation" : "DataStored",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "Changeset"
+      }
+    },
+    "VAWC3R2G37CUYESF" : {
+      "sku" : "VAWC3R2G37CUYESF",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "54",
+        "usagetype" : "USE1-KdbNode:kx.s.2xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.2xlarge",
+        "node" : "kx.s.2xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "CHJUHCKDYJ7DYRAR" : {
+      "sku" : "CHJUHCKDYJ7DYRAR",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "216",
+        "usagetype" : "USE1-KdbNode:kx.s.8xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.8xlarge",
+        "node" : "kx.s.8xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "2VGSGBXTFKHPAUZB" : {
+      "sku" : "2VGSGBXTFKHPAUZB",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "12",
+        "usagetype" : "USE1-KdbNode:kx.s.large",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.large",
+        "node" : "kx.s.large",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "TWDG8N2U5SB8TDK9" : {
+      "sku" : "TWDG8N2U5SB8TDK9",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbVolume:kdbfilefs1000",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "SSD 1000 MB/s/TiB"
+      }
+    },
+    "NVT9XZESZQKYKTUW" : {
+      "sku" : "NVT9XZESZQKYKTUW",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Clusters:XXLarge",
+        "operation" : "RunCluster",
+        "computesize" : "XXLarge",
+        "computetype" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "QYSURS4Y2V577W36" : {
+      "sku" : "QYSURS4Y2V577W36",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "432",
+        "usagetype" : "USE1-KdbNode:kx.s.16xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.16xlarge",
+        "node" : "kx.s.16xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "9BT782F9RZVAC2UF" : {
+      "sku" : "9BT782F9RZVAC2UF",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "108",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.4xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.4xlarge",
+        "node" : "kx.sg.4xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "BG84DVD73NVM6ZDY" : {
+      "sku" : "BG84DVD73NVM6ZDY",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "108",
+        "usagetype" : "USE1-KdbNode:kx.s.4xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.4xlarge",
+        "node" : "kx.s.4xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "47QPYERMWZ3643ZZ" : {
+      "sku" : "47QPYERMWZ3643ZZ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "864",
+        "usagetype" : "USE1-KdbNode:kx.s.32xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.32xlarge",
+        "node" : "kx.s.32xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "VEJDQ5XHKUN2FAVS" : {
+      "sku" : "VEJDQ5XHKUN2FAVS",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "12",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.large",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.large",
+        "node" : "kx.sg.large",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "MA777B5T8GDUHNRJ" : {
+      "sku" : "MA777B5T8GDUHNRJ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Clusters:Medium",
+        "operation" : "RunCluster",
+        "computesize" : "Medium",
+        "computetype" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "UTP3YWDUKWUF7MXQ" : {
+      "sku" : "UTP3YWDUKWUF7MXQ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "108",
+        "usagetype" : "USE1-KdbNode:kx.s.4xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.4xlarge",
+        "node" : "kx.s.4xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "CCE2GK6K4S8B9EAN" : {
+      "sku" : "CCE2GK6K4S8B9EAN",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbCluster:dbcache250",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "DBCache250"
+      }
+    },
+    "7JKYRVU2BSKHHJU5" : {
+      "sku" : "7JKYRVU2BSKHHJU5",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbCluster:dbcache",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "DBCache"
+      }
+    },
+    "U5T74C67CNGUNUS9" : {
+      "sku" : "U5T74C67CNGUNUS9",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "864",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.32xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.32xlarge",
+        "node" : "kx.sg.32xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "SWQMQ9HSHV6G32FQ" : {
+      "sku" : "SWQMQ9HSHV6G32FQ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StandardUser",
+        "operation" : "UserEnabled",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "usertype" : "Standard"
+      }
+    },
+    "4NJW9JZ2A3BRRNV7" : {
+      "sku" : "4NJW9JZ2A3BRRNV7",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Clusters:Small",
+        "operation" : "RunCluster",
+        "computesize" : "Small",
+        "computetype" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "22B8GZF54BDGQ3Q5" : {
+      "sku" : "22B8GZF54BDGQ3Q5",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "2948",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg1.24xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg1.24xlarge",
+        "node" : "kx.sg1.24xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "6NP7929H4AABRKNK" : {
+      "sku" : "6NP7929H4AABRKNK",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "432",
+        "usagetype" : "USE1-KdbNode:kx.s.16xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.16xlarge",
+        "node" : "kx.s.16xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "4AFXQAW7RRPVWEBY" : {
+      "sku" : "4AFXQAW7RRPVWEBY",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataStorage:changeset",
+        "operation" : "DataStored",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "Changeset"
+      }
+    },
+    "U4G4QU2J5PS2Q4YJ" : {
+      "sku" : "U4G4QU2J5PS2Q4YJ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "27",
+        "usagetype" : "USE1-KdbNode:kx.s.xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.xlarge",
+        "node" : "kx.s.xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "T2WE83ZFDRS7GMWJ" : {
+      "sku" : "T2WE83ZFDRS7GMWJ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbVolume:kdbfilefs12",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "HDD 12 MB/s/TiB"
+      }
+    },
+    "TH7DMCMS74SSYUDE" : {
+      "sku" : "TH7DMCMS74SSYUDE",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "432",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.16xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.16xlarge",
+        "node" : "kx.sg.16xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "3Y28N85UD7MVBP3Q" : {
+      "sku" : "3Y28N85UD7MVBP3Q",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "216",
+        "usagetype" : "USE1-KdbNode:kx.s.8xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "1AZ-kx.s.8xlarge",
+        "node" : "kx.s.8xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "T7BR5J64YJW6MDDZ" : {
+      "sku" : "T7BR5J64YJW6MDDZ",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-KdbCluster:dbcache12",
+        "operation" : "StorageProvisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace",
+        "storagetype" : "DBCache12"
+      }
+    },
+    "ETU7TAP9QJXJ3JND" : {
+      "sku" : "ETU7TAP9QJXJ3JND",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "27",
+        "usagetype" : "USE1-KdbNode:kx.s.xlarge",
+        "operation" : "RunClusterMultiAz",
+        "details" : "MAZ-kx.s.xlarge",
+        "node" : "kx.s.xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "7RZ7V6SFNN2ACWXW" : {
+      "sku" : "7RZ7V6SFNN2ACWXW",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Clusters:XLarge",
+        "operation" : "RunCluster",
+        "computesize" : "XLarge",
+        "computetype" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "BPMXC3FC8XJHJ5NA" : {
+      "sku" : "BPMXC3FC8XJHJ5NA",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "1949",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg1.16xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg1.16xlarge",
+        "node" : "kx.sg1.16xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    },
+    "TCV3ME39MXK82N3U" : {
+      "sku" : "TCV3ME39MXK82N3U",
+      "productFamily" : "FinSpace",
+      "attributes" : {
+        "servicecode" : "AmazonFinSpace",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "27",
+        "usagetype" : "USE1-KdbScalingGroupHost:kx.sg.xlarge",
+        "operation" : "RunClusterSingleAz",
+        "details" : "kx.sg.xlarge",
+        "node" : "kx.sg.xlarge",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FinSpace"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NVT9XZESZQKYKTUW" : {
+        "NVT9XZESZQKYKTUW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NVT9XZESZQKYKTUW",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "NVT9XZESZQKYKTUW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NVT9XZESZQKYKTUW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.00 per minutes for Clusters:XXLarge:RunCluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TH7DMCMS74SSYUDE" : {
+        "TH7DMCMS74SSYUDE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TH7DMCMS74SSYUDE",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TH7DMCMS74SSYUDE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TH7DMCMS74SSYUDE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.08 USD per hour for kx.sg.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "10.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SWQMQ9HSHV6G32FQ" : {
+        "SWQMQ9HSHV6G32FQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SWQMQ9HSHV6G32FQ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "SWQMQ9HSHV6G32FQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SWQMQ9HSHV6G32FQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$150 per Month for StandardUser:UserEnabled in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "150.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QYSURS4Y2V577W36" : {
+        "QYSURS4Y2V577W36.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QYSURS4Y2V577W36",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "QYSURS4Y2V577W36.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QYSURS4Y2V577W36.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.08 per Node-hour for KdbNode:kx.s.16xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "10.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3Y28N85UD7MVBP3Q" : {
+        "3Y28N85UD7MVBP3Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3Y28N85UD7MVBP3Q",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "3Y28N85UD7MVBP3Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3Y28N85UD7MVBP3Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.04 per Node-hour for KdbNode:kx.s.8xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "5.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9BT782F9RZVAC2UF" : {
+        "9BT782F9RZVAC2UF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9BT782F9RZVAC2UF",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "9BT782F9RZVAC2UF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9BT782F9RZVAC2UF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.52 USD per hour for kx.sg.4xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "2.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U4G4QU2J5PS2Q4YJ" : {
+        "U4G4QU2J5PS2Q4YJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4G4QU2J5PS2Q4YJ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4G4QU2J5PS2Q4YJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4G4QU2J5PS2Q4YJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.63 per Node-hour for KdbNode:kx.s.xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.6300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UTP3YWDUKWUF7MXQ" : {
+        "UTP3YWDUKWUF7MXQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UTP3YWDUKWUF7MXQ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "UTP3YWDUKWUF7MXQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UTP3YWDUKWUF7MXQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.52 per Node-hour for KdbNode:kx.s.4xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "2.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7U7TBKD4ABKK5X57" : {
+        "7U7TBKD4ABKK5X57.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7U7TBKD4ABKK5X57",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7U7TBKD4ABKK5X57.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7U7TBKD4ABKK5X57.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.318 per Node-hour for KdbNode:kx.s.large:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.3180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7RZ7V6SFNN2ACWXW" : {
+        "7RZ7V6SFNN2ACWXW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7RZ7V6SFNN2ACWXW",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7RZ7V6SFNN2ACWXW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7RZ7V6SFNN2ACWXW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per minutes for Clusters:XLarge:RunCluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2VGSGBXTFKHPAUZB" : {
+        "2VGSGBXTFKHPAUZB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2VGSGBXTFKHPAUZB",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2VGSGBXTFKHPAUZB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2VGSGBXTFKHPAUZB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.318 per Node-hour for KdbNode:kx.s.large:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.3180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TRZXRBF6PEJ9A5SY" : {
+        "TRZXRBF6PEJ9A5SY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TRZXRBF6PEJ9A5SY",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TRZXRBF6PEJ9A5SY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TRZXRBF6PEJ9A5SY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3328 per GB-month for KdbNode:savedownstorage:StorageProvisioned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.3328000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DBRXWQVS427EN5M7" : {
+        "DBRXWQVS427EN5M7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DBRXWQVS427EN5M7",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DBRXWQVS427EN5M7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DBRXWQVS427EN5M7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20.16 per Node-hour for KdbNode:kx.s.32xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "20.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HRFJMWMSQ7CRRW2U" : {
+        "HRFJMWMSQ7CRRW2U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HRFJMWMSQ7CRRW2U",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "HRFJMWMSQ7CRRW2U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HRFJMWMSQ7CRRW2U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.04 USD per hour for kx.sg.8xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "5.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8UN3CZSMNRATNC4K" : {
+        "8UN3CZSMNRATNC4K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8UN3CZSMNRATNC4K",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "8UN3CZSMNRATNC4K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8UN3CZSMNRATNC4K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per minutes for Clusters:Large:RunCluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TCV3ME39MXK82N3U" : {
+        "TCV3ME39MXK82N3U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TCV3ME39MXK82N3U",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TCV3ME39MXK82N3U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TCV3ME39MXK82N3U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.63 USD per hour for kx.sg.xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.6300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VAWC3R2G37CUYESF" : {
+        "VAWC3R2G37CUYESF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VAWC3R2G37CUYESF",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "VAWC3R2G37CUYESF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VAWC3R2G37CUYESF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.26 per Node-hour for KdbNode:kx.s.2xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "1.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DD9WVEXRN7V8TX3X" : {
+        "DD9WVEXRN7V8TX3X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DD9WVEXRN7V8TX3X",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DD9WVEXRN7V8TX3X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DD9WVEXRN7V8TX3X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.26 per Node-hour for KdbNode:kx.s.2xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "1.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CCE2GK6K4S8B9EAN" : {
+        "CCE2GK6K4S8B9EAN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CCE2GK6K4S8B9EAN",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "CCE2GK6K4S8B9EAN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CCE2GK6K4S8B9EAN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.21 per GB-month for KdbCluster:dbcache250:StorageProvisioned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TWDG8N2U5SB8TDK9" : {
+        "TWDG8N2U5SB8TDK9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TWDG8N2U5SB8TDK9",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TWDG8N2U5SB8TDK9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TWDG8N2U5SB8TDK9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.72 per GB-month for 1000 MB/s/TiB Volume SSD Volume in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.7200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MA777B5T8GDUHNRJ" : {
+        "MA777B5T8GDUHNRJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MA777B5T8GDUHNRJ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "MA777B5T8GDUHNRJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MA777B5T8GDUHNRJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per minutes for Clusters:Medium:RunCluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "85SQK7CZ6GE5WC4B" : {
+        "85SQK7CZ6GE5WC4B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "85SQK7CZ6GE5WC4B",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "85SQK7CZ6GE5WC4B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "85SQK7CZ6GE5WC4B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.26 USD per hour for kx.sg.2xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "1.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S8WHF8SKH7TV8MJK" : {
+        "S8WHF8SKH7TV8MJK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S8WHF8SKH7TV8MJK",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "S8WHF8SKH7TV8MJK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S8WHF8SKH7TV8MJK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0264 per GB-month for KdbDatabase:changeset:DataStored in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0264000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4NJW9JZ2A3BRRNV7" : {
+        "4NJW9JZ2A3BRRNV7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4NJW9JZ2A3BRRNV7",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4NJW9JZ2A3BRRNV7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4NJW9JZ2A3BRRNV7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per minutes for Clusters:Small:RunCluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VEJDQ5XHKUN2FAVS" : {
+        "VEJDQ5XHKUN2FAVS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VEJDQ5XHKUN2FAVS",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "VEJDQ5XHKUN2FAVS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VEJDQ5XHKUN2FAVS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.318 USD per hour for kx.sg.large in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.3180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T7BR5J64YJW6MDDZ" : {
+        "T7BR5J64YJW6MDDZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T7BR5J64YJW6MDDZ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "T7BR5J64YJW6MDDZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T7BR5J64YJW6MDDZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.041 per GB-month for KdbCluster:dbcache12:StorageProvisioned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0410000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6NP7929H4AABRKNK" : {
+        "6NP7929H4AABRKNK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6NP7929H4AABRKNK",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "6NP7929H4AABRKNK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6NP7929H4AABRKNK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.08 per Node-hour for KdbNode:kx.s.16xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "10.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BPMXC3FC8XJHJ5NA" : {
+        "BPMXC3FC8XJHJ5NA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BPMXC3FC8XJHJ5NA",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "BPMXC3FC8XJHJ5NA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BPMXC3FC8XJHJ5NA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$33.345 USD per hour for kx.sg1.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "33.3450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U5T74C67CNGUNUS9" : {
+        "U5T74C67CNGUNUS9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U5T74C67CNGUNUS9",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "U5T74C67CNGUNUS9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U5T74C67CNGUNUS9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20.16 USD per hour for kx.sg.32xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "20.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BG84DVD73NVM6ZDY" : {
+        "BG84DVD73NVM6ZDY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BG84DVD73NVM6ZDY",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "BG84DVD73NVM6ZDY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BG84DVD73NVM6ZDY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.52 per Node-hour for KdbNode:kx.s.4xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "2.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ETU7TAP9QJXJ3JND" : {
+        "ETU7TAP9QJXJ3JND.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ETU7TAP9QJXJ3JND",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "ETU7TAP9QJXJ3JND.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ETU7TAP9QJXJ3JND.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.63 per Node-hour for KdbNode:kx.s.xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.6300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N2YKZ46KRN9VAPR5" : {
+        "N2YKZ46KRN9VAPR5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N2YKZ46KRN9VAPR5",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "N2YKZ46KRN9VAPR5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N2YKZ46KRN9VAPR5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.21 per GB-month for 250 MB/s/TiB Volume SSD Volume in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "47QPYERMWZ3643ZZ" : {
+        "47QPYERMWZ3643ZZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "47QPYERMWZ3643ZZ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "47QPYERMWZ3643ZZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "47QPYERMWZ3643ZZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20.16 per Node-hour for KdbNode:kx.s.32xlarge:RunClusterSingleAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "20.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7JKYRVU2BSKHHJU5" : {
+        "7JKYRVU2BSKHHJU5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7JKYRVU2BSKHHJU5",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7JKYRVU2BSKHHJU5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7JKYRVU2BSKHHJU5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.72 per GB-month for KdbCluster:dbcache:StorageProvisioned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.7200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CHJUHCKDYJ7DYRAR" : {
+        "CHJUHCKDYJ7DYRAR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CHJUHCKDYJ7DYRAR",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "CHJUHCKDYJ7DYRAR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CHJUHCKDYJ7DYRAR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.04 per Node-hour for KdbNode:kx.s.8xlarge:RunClusterMultiAz in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "5.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T2WE83ZFDRS7GMWJ" : {
+        "T2WE83ZFDRS7GMWJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T2WE83ZFDRS7GMWJ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "T2WE83ZFDRS7GMWJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T2WE83ZFDRS7GMWJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.041 per GB-month for 12 MB/s/TiB Volume HDD Volume in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0410000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "22B8GZF54BDGQ3Q5" : {
+        "22B8GZF54BDGQ3Q5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "22B8GZF54BDGQ3Q5",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "22B8GZF54BDGQ3Q5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "22B8GZF54BDGQ3Q5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$50.018 USD per hour for kx.sg1.24xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "50.0180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4AFXQAW7RRPVWEBY" : {
+        "4AFXQAW7RRPVWEBY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4AFXQAW7RRPVWEBY",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4AFXQAW7RRPVWEBY.JRTCKXETXF.F99HVS8ZAF" : {
+              "rateCode" : "4AFXQAW7RRPVWEBY.JRTCKXETXF.F99HVS8ZAF",
+              "description" : "$0.0 per GB-month for DataStorage:changeset:DataStored in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "150",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4AFXQAW7RRPVWEBY.JRTCKXETXF.6PUHHKWFF5" : {
+              "rateCode" : "4AFXQAW7RRPVWEBY.JRTCKXETXF.6PUHHKWFF5",
+              "description" : "$0.14 per GB-month for DataStorage:changeset:DataStored in US East (N. Virginia)",
+              "beginRange" : "150",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

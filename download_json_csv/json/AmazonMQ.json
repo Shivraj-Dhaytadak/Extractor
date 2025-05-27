@@ -1,0 +1,1325 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMQ",
+  "version" : "20250407204031",
+  "publicationDate" : "2025-04-07T20:40:31Z",
+  "products" : {
+    "AKC8YRGMHXEHZ83Y" : {
+      "sku" : "AKC8YRGMHXEHZ83Y",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "clockSpeed" : "NA",
+        "memory" : "1 GiB",
+        "networkPerformance" : "Moderate",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.t2.micro",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "No",
+        "normalizationSizeFactor" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "KHWECZGM9556B64K" : {
+      "sku" : "KHWECZGM9556B64K",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "32 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.2xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "SMTW8Q7EA2PWW2H2" : {
+      "sku" : "SMTW8Q7EA2PWW2H2",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "32 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.2xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "ETTAP754AMF3HGZC" : {
+      "sku" : "ETTAP754AMF3HGZC",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-RabbitMQ-3-InstanceUsage:mq.m5.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "12",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "ZK6M6QHF5KEZCXC2" : {
+      "sku" : "ZK6M6QHF5KEZCXC2",
+      "productFamily" : "Broker Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "provisioned" : "Yes",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-TimedStorage-RabbitMQ-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "S7DZRB9YQVHDFFPX" : {
+      "sku" : "S7DZRB9YQVHDFFPX",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "NA",
+        "memory" : "1 GiB",
+        "networkPerformance" : "up to 5 Gigabit",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.t3.micro",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "Y4ECKE6SV97UTBWY" : {
+      "sku" : "Y4ECKE6SV97UTBWY",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "16 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-RabbitMQ-3-InstanceUsage:mq.m5.xlarge",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "24",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "TDGX6TCFZUTNNJU6" : {
+      "sku" : "TDGX6TCFZUTNNJU6",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "32 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.2xl",
+        "operation" : "ActiveMQ-CRDR",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "3WNKCESJDDFNJZKS" : {
+      "sku" : "3WNKCESJDDFNJZKS",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "16 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.xlarge",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "PBKPSD29AMDTPYPJ" : {
+      "sku" : "PBKPSD29AMDTPYPJ",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "QD5RWQPY9J5K3CQW" : {
+      "sku" : "QD5RWQPY9J5K3CQW",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "1",
+        "clockSpeed" : "NA",
+        "memory" : "1 GiB",
+        "networkPerformance" : "Moderate",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.t2.micro",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "No",
+        "normalizationSizeFactor" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "RDGQY5RMTVZ998SF" : {
+      "sku" : "RDGQY5RMTVZ998SF",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "64 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.m5.4xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "ME7QKN5DXTTWDZVR" : {
+      "sku" : "ME7QKN5DXTTWDZVR",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "32 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.m5.2xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "UDSBRUZZZ8X6RRBW" : {
+      "sku" : "UDSBRUZZZ8X6RRBW",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "NA",
+        "memory" : "1 GiB",
+        "networkPerformance" : "up to 5 Gigabit",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-RabbitMQ-Single-InstanceUsage:mq.t3.micro",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "5CPKVNDENM6Q6SYN" : {
+      "sku" : "5CPKVNDENM6Q6SYN",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "16 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.m5.xlarge",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "VYSM2Q25P883GTN7" : {
+      "sku" : "VYSM2Q25P883GTN7",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "16 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.xlarge",
+        "operation" : "ActiveMQ-CRDR",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "6XF7Q6MG9JHKJRMK" : {
+      "sku" : "6XF7Q6MG9JHKJRMK",
+      "productFamily" : "Broker Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "provisioned" : "No",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "Global-MQ:StorageUsage",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "DCRMEFEB7V29BET8" : {
+      "sku" : "DCRMEFEB7V29BET8",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "64 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.4xl",
+        "operation" : "ActiveMQ-CRDR",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "2K5GNB8FJPYHHRA7" : {
+      "sku" : "2K5GNB8FJPYHHRA7",
+      "productFamily" : "Broker Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "provisioned" : "No",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "RXB9RXU55DCN4BFT" : {
+      "sku" : "RXB9RXU55DCN4BFT",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "32 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-RabbitMQ-3-InstanceUsage:mq.m5.2xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "48",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "38NG9A2WG67YRFK2" : {
+      "sku" : "38NG9A2WG67YRFK2",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "16 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.xlarge",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "DAMG5K3AU2AQCJZ5" : {
+      "sku" : "DAMG5K3AU2AQCJZ5",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "64 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-RabbitMQ-3-InstanceUsage:mq.m5.4xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "96",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "39RWQTAQQ5JE9M9Z" : {
+      "sku" : "39RWQTAQQ5JE9M9Z",
+      "productFamily" : "Broker Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "General Purpose",
+        "provisioned" : "No",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-TimedStorage-EBS-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "PR8PE5ENBBB69FH8" : {
+      "sku" : "PR8PE5ENBBB69FH8",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "64 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.4xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "4PT2KSU5E8ZZAF73" : {
+      "sku" : "4PT2KSU5E8ZZAF73",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.large",
+        "operation" : "ActiveMQ-CRDR",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "7H7TFJRUGF97HEQF" : {
+      "sku" : "7H7TFJRUGF97HEQF",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "NA",
+        "memory" : "1 GiB",
+        "networkPerformance" : "up to 5 Gigabit",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.t3.micro",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "KX9X6UGQCQQK32N5" : {
+      "sku" : "KX9X6UGQCQQK32N5",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "64 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.4xl",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "RabbitMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "K5RPZZDRCVNNZ98K" : {
+      "sku" : "K5RPZZDRCVNNZ98K",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.4 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "Moderate",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.m4.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "8XW5JNQ5H8PYKWVJ" : {
+      "sku" : "8XW5JNQ5H8PYKWVJ",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.4 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "Moderate",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m4.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "Y56QQ54RZZ8F3QZ3" : {
+      "sku" : "Y56QQ54RZZ8F3QZ3",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Multi-AZ",
+        "usagetype" : "USE1-Multi-AZUsage:mq.m5.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    },
+    "8UMAND748UFQ36NA" : {
+      "sku" : "8UMAND748UFQ36NA",
+      "productFamily" : "Broker Instances",
+      "attributes" : {
+        "servicecode" : "AmazonMQ",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "clockSpeed" : "2.5 GHz",
+        "memory" : "8 GiB",
+        "networkPerformance" : "High",
+        "licenseModel" : "No license required",
+        "deploymentOption" : "Single-AZ",
+        "usagetype" : "USE1-Single-AZUsage:mq.m5.large",
+        "operation" : "CreateBroker:0001",
+        "brokerEngine" : "ActiveMQ",
+        "enhancedNetworkingSupport" : "Yes",
+        "normalizationSizeFactor" : "4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon MQ"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7H7TFJRUGF97HEQF" : {
+        "7H7TFJRUGF97HEQF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7H7TFJRUGF97HEQF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7H7TFJRUGF97HEQF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7H7TFJRUGF97HEQF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.t3.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0270400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8XW5JNQ5H8PYKWVJ" : {
+        "8XW5JNQ5H8PYKWVJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8XW5JNQ5H8PYKWVJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8XW5JNQ5H8PYKWVJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8XW5JNQ5H8PYKWVJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.m4.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KX9X6UGQCQQK32N5" : {
+        "KX9X6UGQCQQK32N5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KX9X6UGQCQQK32N5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KX9X6UGQCQQK32N5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KX9X6UGQCQQK32N5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.4xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PBKPSD29AMDTPYPJ" : {
+        "PBKPSD29AMDTPYPJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PBKPSD29AMDTPYPJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PBKPSD29AMDTPYPJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PBKPSD29AMDTPYPJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.large hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "38NG9A2WG67YRFK2" : {
+        "38NG9A2WG67YRFK2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "38NG9A2WG67YRFK2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "38NG9A2WG67YRFK2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "38NG9A2WG67YRFK2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5760000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RDGQY5RMTVZ998SF" : {
+        "RDGQY5RMTVZ998SF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RDGQY5RMTVZ998SF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RDGQY5RMTVZ998SF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RDGQY5RMTVZ998SF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.4xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VYSM2Q25P883GTN7" : {
+        "VYSM2Q25P883GTN7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VYSM2Q25P883GTN7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "VYSM2Q25P883GTN7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VYSM2Q25P883GTN7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cross-region data replication for ActiveMQ broker mq.m5.xlarge hour (or partial hour) in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TDGX6TCFZUTNNJU6" : {
+        "TDGX6TCFZUTNNJU6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TDGX6TCFZUTNNJU6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TDGX6TCFZUTNNJU6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TDGX6TCFZUTNNJU6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cross-region data replication for ActiveMQ broker mq.m5.2xl hour (or partial hour) in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "39RWQTAQQ5JE9M9Z" : {
+        "39RWQTAQQ5JE9M9Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "39RWQTAQQ5JE9M9Z",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "39RWQTAQQ5JE9M9Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "39RWQTAQQ5JE9M9Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Throughput optimized storage (Amazon EBS) used by ActiveMQ brokers (GB-months) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UDSBRUZZZ8X6RRBW" : {
+        "UDSBRUZZZ8X6RRBW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UDSBRUZZZ8X6RRBW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UDSBRUZZZ8X6RRBW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UDSBRUZZZ8X6RRBW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.t3.micro hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0270400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S7DZRB9YQVHDFFPX" : {
+        "S7DZRB9YQVHDFFPX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S7DZRB9YQVHDFFPX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "S7DZRB9YQVHDFFPX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S7DZRB9YQVHDFFPX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.t3.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0540800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QD5RWQPY9J5K3CQW" : {
+        "QD5RWQPY9J5K3CQW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QD5RWQPY9J5K3CQW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QD5RWQPY9J5K3CQW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QD5RWQPY9J5K3CQW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.t2.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AKC8YRGMHXEHZ83Y" : {
+        "AKC8YRGMHXEHZ83Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AKC8YRGMHXEHZ83Y",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AKC8YRGMHXEHZ83Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AKC8YRGMHXEHZ83Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.t2.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCRMEFEB7V29BET8" : {
+        "DCRMEFEB7V29BET8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCRMEFEB7V29BET8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCRMEFEB7V29BET8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCRMEFEB7V29BET8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cross-region data replication for ActiveMQ broker mq.m5.4xl hour (or partial hour) in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3WNKCESJDDFNJZKS" : {
+        "3WNKCESJDDFNJZKS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3WNKCESJDDFNJZKS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3WNKCESJDDFNJZKS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3WNKCESJDDFNJZKS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.m5.xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1520000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K5RPZZDRCVNNZ98K" : {
+        "K5RPZZDRCVNNZ98K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K5RPZZDRCVNNZ98K",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K5RPZZDRCVNNZ98K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K5RPZZDRCVNNZ98K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m4.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4PT2KSU5E8ZZAF73" : {
+        "4PT2KSU5E8ZZAF73.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4PT2KSU5E8ZZAF73",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4PT2KSU5E8ZZAF73.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4PT2KSU5E8ZZAF73.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cross-region data replication for ActiveMQ broker mq.m5.large hour (or partial hour) in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6XF7Q6MG9JHKJRMK" : {
+        "6XF7Q6MG9JHKJRMK.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "6XF7Q6MG9JHKJRMK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6XF7Q6MG9JHKJRMK.A429C66SYZ.V7GB4D473V" : {
+              "rateCode" : "6XF7Q6MG9JHKJRMK.A429C66SYZ.V7GB4D473V",
+              "description" : "5GB of included durability-optimized storage (Amazon EFS) per month",
+              "beginRange" : "0",
+              "endRange" : "5",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "X9MPVYJN9Q5DBSDM", "EEDWX57FPGRUBJCN", "AVATYS4SE4EJ6MMJ", "PFRSBU6AMXEX2686", "PW48T8A9ST4NB82W", "SKGYPUQSPN6SH77Q", "QBVFE3MXAYA2EWD8", "GWFBVHKCTJ6PN7N7", "HBZ4RJWX4XZYGK3W", "YCX9TB9H5RUX5K8Q", "8B8JBMQKE5QQUPZ5", "34WFKARMYZAR2YZK", "SB3U5QYME8YWXYN3", "4BHKNRN8Q28VRR95", "SH5TR8TJ6WTVR32P", "PM8KDS8MQYJSF8NT", "N8G7BZNKZMSFMFHT", "3VRDHZZSYE89UBKK", "EYMHMZQ7TN9F49SF", "D3MBZNDTY8Z2JFV5", "35PYW2Q6G8KK9VEK", "2K5GNB8FJPYHHRA7", "7W36AHF645R8444T", "P53WFG6YXBVT47FF", "T2MDFAUVK7C6VHXV", "FHT6SXPG4MG747PC" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "Y4ECKE6SV97UTBWY" : {
+        "Y4ECKE6SV97UTBWY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y4ECKE6SV97UTBWY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y4ECKE6SV97UTBWY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y4ECKE6SV97UTBWY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "3-node cluster mq.m5.xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y56QQ54RZZ8F3QZ3" : {
+        "Y56QQ54RZZ8F3QZ3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y56QQ54RZZ8F3QZ3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y56QQ54RZZ8F3QZ3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y56QQ54RZZ8F3QZ3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.m5.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5760000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2K5GNB8FJPYHHRA7" : {
+        "2K5GNB8FJPYHHRA7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2K5GNB8FJPYHHRA7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2K5GNB8FJPYHHRA7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2K5GNB8FJPYHHRA7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Durability optimized storage (Amazon EFS) used by ActiveMQ brokers (GB-months) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RXB9RXU55DCN4BFT" : {
+        "RXB9RXU55DCN4BFT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RXB9RXU55DCN4BFT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RXB9RXU55DCN4BFT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RXB9RXU55DCN4BFT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "3-node cluster mq.m5.2xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.4560000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5CPKVNDENM6Q6SYN" : {
+        "5CPKVNDENM6Q6SYN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5CPKVNDENM6Q6SYN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5CPKVNDENM6Q6SYN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5CPKVNDENM6Q6SYN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5760000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PR8PE5ENBBB69FH8" : {
+        "PR8PE5ENBBB69FH8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PR8PE5ENBBB69FH8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PR8PE5ENBBB69FH8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PR8PE5ENBBB69FH8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.m5.4xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.6080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZK6M6QHF5KEZCXC2" : {
+        "ZK6M6QHF5KEZCXC2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZK6M6QHF5KEZCXC2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZK6M6QHF5KEZCXC2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZK6M6QHF5KEZCXC2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Storage (Amazon EBS) used by RabbitMQ brokers (GB-months) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ETTAP754AMF3HGZC" : {
+        "ETTAP754AMF3HGZC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ETTAP754AMF3HGZC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ETTAP754AMF3HGZC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ETTAP754AMF3HGZC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "3-node cluster mq.m5.large hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SMTW8Q7EA2PWW2H2" : {
+        "SMTW8Q7EA2PWW2H2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SMTW8Q7EA2PWW2H2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SMTW8Q7EA2PWW2H2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SMTW8Q7EA2PWW2H2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "active-standby mq.m5.2xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.3040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8UMAND748UFQ36NA" : {
+        "8UMAND748UFQ36NA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8UMAND748UFQ36NA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8UMAND748UFQ36NA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8UMAND748UFQ36NA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KHWECZGM9556B64K" : {
+        "KHWECZGM9556B64K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KHWECZGM9556B64K",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KHWECZGM9556B64K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KHWECZGM9556B64K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.2xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1520000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DAMG5K3AU2AQCJZ5" : {
+        "DAMG5K3AU2AQCJZ5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DAMG5K3AU2AQCJZ5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DAMG5K3AU2AQCJZ5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DAMG5K3AU2AQCJZ5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "3-node cluster mq.m5.4xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.9120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ME7QKN5DXTTWDZVR" : {
+        "ME7QKN5DXTTWDZVR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ME7QKN5DXTTWDZVR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ME7QKN5DXTTWDZVR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ME7QKN5DXTTWDZVR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "single-instance mq.m5.2xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1520000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

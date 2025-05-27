@@ -1,0 +1,554 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonKendra",
+  "version" : "20250328204553",
+  "publicationDate" : "2025-03-28T20:45:53Z",
+  "products" : {
+    "H77HS2AKERCZAQMF" : {
+      "sku" : "H77HS2AKERCZAQMF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Additional-Capacity",
+        "groupDescription" : "Kendra Pay Per Query/Storage Capacity Units",
+        "usagetype" : "USE1-KendraQueryCapacityUnit",
+        "operation" : "KendraQueryCapacityUnit",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "B8Q8MAYNCJWTDMVH" : {
+      "sku" : "B8Q8MAYNCJWTDMVH",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Additional-Capacity",
+        "groupDescription" : "Kendra Enterprise Additional Query/Storage Capacity",
+        "usagetype" : "USE1-KendraStorageCapacityUnit",
+        "operation" : "KendraStorageCapacityUnit",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "NSTMQK2AFGH9HENZ" : {
+      "sku" : "NSTMQK2AFGH9HENZ",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Developer-Capacity",
+        "groupDescription" : "Kendra Developer Base Query/Storage Capacity",
+        "usagetype" : "USE1-KendraDeveloperEdition",
+        "operation" : "KendraDeveloperEdition",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "AE2HZ4E859YYCANQ" : {
+      "sku" : "AE2HZ4E859YYCANQ",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Intelligent-Ranking",
+        "groupDescription" : "Kendra Intelligent Ranking Base Capacity",
+        "usagetype" : "USE1-KendraIntelligentRanking-BaseCapacity",
+        "operation" : "BaseCapacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "K5653V4WT7N6EYUR" : {
+      "sku" : "K5653V4WT7N6EYUR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Capacity",
+        "groupDescription" : "Kendra Enterprise Additional Query/Storage Capacity",
+        "usagetype" : "USE1-Kendra-Query-Capacity-Unit",
+        "operation" : "Kendra-Query-Capacity-Unit",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "ABJG8M3NN4Y57WYH" : {
+      "sku" : "ABJG8M3NN4Y57WYH",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Connector-Monthly",
+        "groupDescription" : "Kendra connector monthly fee",
+        "usagetype" : "USE1-Kendra-Connector-MonthlyFee",
+        "operation" : "Kendra-Connector-MonthlyFee",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "A6MZ7RU5XYQ7UTUY" : {
+      "sku" : "A6MZ7RU5XYQ7UTUY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Connector-Documents-Scanned",
+        "groupDescription" : "Kendra Pay Per Document Scanned Unit",
+        "usagetype" : "USE1-DocumentsScanned",
+        "operation" : "DocumentsScanned",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "RW4R43K6VWQVDB98" : {
+      "sku" : "RW4R43K6VWQVDB98",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Capacity",
+        "groupDescription" : "Kendra Enterprise Additional Storage Capacity",
+        "usagetype" : "USE1-Kendra-Storage-Capacity-Unit",
+        "operation" : "Kendra-Storage-Capacity-Unit",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "GP4AS824V32A3HRZ" : {
+      "sku" : "GP4AS824V32A3HRZ",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Capacity",
+        "groupDescription" : "Kendra Pay Per Query/Storage Capacity Units",
+        "usagetype" : "USE1-KendraEnterpriseEdition",
+        "operation" : "KendraEnterpriseEdition",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "6ENMMB4KRPAZVYZ2" : {
+      "sku" : "6ENMMB4KRPAZVYZ2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Enterprise-Capacity",
+        "groupDescription" : "Kendra Enterprise Base Query/Storage Capacity",
+        "usagetype" : "USE1-Kendra-Enterprise-Edition",
+        "operation" : "Kendra-Enterprise-Edition",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "SU544C8PK7E2CV6F" : {
+      "sku" : "SU544C8PK7E2CV6F",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Intelligent-Ranking",
+        "groupDescription" : "Kendra Intelligent Ranking Capacity Units",
+        "usagetype" : "USE1-KendraIntelligentRanking-CapacityUnits",
+        "operation" : "CapacityUnits",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "5YPU67CVH27EYQ4J" : {
+      "sku" : "5YPU67CVH27EYQ4J",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-GenAI-Enterprise-Capacity",
+        "groupDescription" : "Kendra GenAI Enterprise Base Capacity",
+        "usagetype" : "USE1-Kendra-GenAI-Ent-Base-Capacity",
+        "operation" : "Kendra-GenAI-Ent-Base-Capacity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "AH5FUDDJK3WM7KU3" : {
+      "sku" : "AH5FUDDJK3WM7KU3",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-Connector-Compute",
+        "groupDescription" : "Kendra Pay Per Hour Connector Compute",
+        "usagetype" : "USE1-ConnectorSync",
+        "operation" : "ConnectorSync",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "CS27MNND38D9M3MA" : {
+      "sku" : "CS27MNND38D9M3MA",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-GenAI-Enterprise-Capacity",
+        "groupDescription" : "Kendra GenAI Enterprise Additional Query Capacity",
+        "usagetype" : "USE1-Kendra-GenAI-Ent-Addl-QueryCap",
+        "operation" : "Kendra-GenAI-Ent-Addl-QueryCap",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    },
+    "9FQP6WJVBSMH9TCY" : {
+      "sku" : "9FQP6WJVBSMH9TCY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonKendra",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Kendra-GenAI-Enterprise-Capacity",
+        "groupDescription" : "Kendra GenAI Enterprise Additional Storage Capacity",
+        "usagetype" : "USE1-Kendra-GenAI-Ent-Addl-StorageCap",
+        "operation" : "Kendra-GenAI-Ent-Addl-StorageCap",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kendra"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "A6MZ7RU5XYQ7UTUY" : {
+        "A6MZ7RU5XYQ7UTUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A6MZ7RU5XYQ7UTUY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "A6MZ7RU5XYQ7UTUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A6MZ7RU5XYQ7UTUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra documents scanned - $0.000001 per document in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CS27MNND38D9M3MA" : {
+        "CS27MNND38D9M3MA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CS27MNND38D9M3MA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CS27MNND38D9M3MA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CS27MNND38D9M3MA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Kendra GenAI Enterprise Additional Query Capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K5653V4WT7N6EYUR" : {
+        "K5653V4WT7N6EYUR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K5653V4WT7N6EYUR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K5653V4WT7N6EYUR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K5653V4WT7N6EYUR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Additional Query Capacity Unit - $0.70 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.7000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RW4R43K6VWQVDB98" : {
+        "RW4R43K6VWQVDB98.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RW4R43K6VWQVDB98",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RW4R43K6VWQVDB98.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RW4R43K6VWQVDB98.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Additional Storage Capacity Unit - $0.7 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.7000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5YPU67CVH27EYQ4J" : {
+        "5YPU67CVH27EYQ4J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5YPU67CVH27EYQ4J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5YPU67CVH27EYQ4J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5YPU67CVH27EYQ4J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Kendra GenAI Enterprise BaseCapacity paid tier usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.3200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ABJG8M3NN4Y57WYH" : {
+        "ABJG8M3NN4Y57WYH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ABJG8M3NN4Y57WYH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ABJG8M3NN4Y57WYH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ABJG8M3NN4Y57WYH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Kendra connector monthly fee in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "30.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H77HS2AKERCZAQMF" : {
+        "H77HS2AKERCZAQMF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H77HS2AKERCZAQMF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "H77HS2AKERCZAQMF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H77HS2AKERCZAQMF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Additional Query Capacity Unit - $3.50 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SU544C8PK7E2CV6F" : {
+        "SU544C8PK7E2CV6F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SU544C8PK7E2CV6F",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SU544C8PK7E2CV6F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SU544C8PK7E2CV6F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "KendraIntelligentRanking Additional CapacityUnits - $0.0035 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0035000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NSTMQK2AFGH9HENZ" : {
+        "NSTMQK2AFGH9HENZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NSTMQK2AFGH9HENZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NSTMQK2AFGH9HENZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NSTMQK2AFGH9HENZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Developer Edition - $1.125 per hour in  US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GP4AS824V32A3HRZ" : {
+        "GP4AS824V32A3HRZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GP4AS824V32A3HRZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GP4AS824V32A3HRZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GP4AS824V32A3HRZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Enterprise Edition - $7 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "7.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B8Q8MAYNCJWTDMVH" : {
+        "B8Q8MAYNCJWTDMVH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B8Q8MAYNCJWTDMVH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B8Q8MAYNCJWTDMVH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B8Q8MAYNCJWTDMVH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Additional Storage Capacity Unit - $3.50 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9FQP6WJVBSMH9TCY" : {
+        "9FQP6WJVBSMH9TCY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9FQP6WJVBSMH9TCY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9FQP6WJVBSMH9TCY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9FQP6WJVBSMH9TCY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Kendra GenAI Enterprise Additional Storage Capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AH5FUDDJK3WM7KU3" : {
+        "AH5FUDDJK3WM7KU3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AH5FUDDJK3WM7KU3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AH5FUDDJK3WM7KU3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AH5FUDDJK3WM7KU3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra connector run time - $0.35 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6ENMMB4KRPAZVYZ2" : {
+        "6ENMMB4KRPAZVYZ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6ENMMB4KRPAZVYZ2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6ENMMB4KRPAZVYZ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6ENMMB4KRPAZVYZ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Kendra Enterprise Edition - $1.4 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.4000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AE2HZ4E859YYCANQ" : {
+        "AE2HZ4E859YYCANQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AE2HZ4E859YYCANQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AE2HZ4E859YYCANQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AE2HZ4E859YYCANQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "KendraIntelligentRanking Additional BaseCapacity - $0.14 per hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,186 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCloudFormation",
+  "version" : "20250311085132",
+  "publicationDate" : "2025-03-11T08:51:32Z",
+  "products" : {
+    "N22RS3SQ22JCVS65" : {
+      "sku" : "N22RS3SQ22JCVS65",
+      "attributes" : {
+        "servicecode" : "AWSCloudFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Hook-Invocation-Count",
+        "operation" : "ProcessResourceHandlers",
+        "cloudformationresourceProvider" : "CloudFormation-Hook-Invocation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudFormation"
+      }
+    },
+    "J9DR9W6PSK2GD4N4" : {
+      "sku" : "J9DR9W6PSK2GD4N4",
+      "attributes" : {
+        "servicecode" : "AWSCloudFormation",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Resource-Invocation-Count-FreeTier",
+        "operation" : "",
+        "cloudformationresourceProvider" : "CloudFormation-ResourceProvider-Invocation",
+        "regionCode" : "",
+        "servicename" : "AWS CloudFormation"
+      }
+    },
+    "C52MJ9EFVEM4GKS3" : {
+      "sku" : "C52MJ9EFVEM4GKS3",
+      "attributes" : {
+        "servicecode" : "AWSCloudFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Resource-Processing-Time",
+        "operation" : "ProcessResourceHandlers",
+        "cloudformationresourceProvider" : "CloudFormation-ResourceProvider-Duration",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudFormation"
+      }
+    },
+    "HPEUP542Y4GR3HNF" : {
+      "sku" : "HPEUP542Y4GR3HNF",
+      "attributes" : {
+        "servicecode" : "AWSCloudFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Hook-Invocation-Duration",
+        "operation" : "ProcessHookHandlers",
+        "cloudformationresourceProvider" : "CloudFormation-Hook-Duration",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudFormation"
+      }
+    },
+    "7PSQT2PVM774H5WC" : {
+      "sku" : "7PSQT2PVM774H5WC",
+      "attributes" : {
+        "servicecode" : "AWSCloudFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Resource-Invocation-Count",
+        "operation" : "ProcessResourceHandlers",
+        "cloudformationresourceProvider" : "CloudFormation-ResourceProvider-Invocation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CloudFormation"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7PSQT2PVM774H5WC" : {
+        "7PSQT2PVM774H5WC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7PSQT2PVM774H5WC",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "7PSQT2PVM774H5WC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7PSQT2PVM774H5WC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0009 per CloudFormation resource handler operation.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0009000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J9DR9W6PSK2GD4N4" : {
+        "J9DR9W6PSK2GD4N4.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "J9DR9W6PSK2GD4N4",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "J9DR9W6PSK2GD4N4.A429C66SYZ.JXGPBPHWFF" : {
+              "rateCode" : "J9DR9W6PSK2GD4N4.A429C66SYZ.JXGPBPHWFF",
+              "description" : "Global",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "TMU3CRVTU436M2NR", "VEYPUFGSVR5W7GE7", "Y275PP8RS3QCNHSZ", "XWN86GKDQBA8RB3A", "3YNQHBVABTJ6CE42", "VY8N2AJ2B8F67AFW", "APS6BAW88BDB9X65", "2G9TB35MHK69A6RC", "EXHXPCHZHVXC7DHU", "NTREFCHA74VV9RHR", "7PSQT2PVM774H5WC", "CQV49PGZDMSUZUER", "Y8GS2XMPP3RZBVK5", "9HYY7SEJKU5Y944Q", "PSN92FBW5F3AKFH6", "WQ2Y9HUP9JUT9ZHH", "S2PZTDAXZRSUHF48", "S6WA9UFA7QQNX7D4", "K8ZW99HVY2BMWEM6", "GQPC7YX5HZ355Q5J", "G5SDE5HPCJ5TSVZB", "6B4PARWV2XSCNYSG", "F4DHV4Q7NRHB55WQ", "Z4RJRFJNQ52EKGD2", "X6GSW2QP5WNVDGFG", "HMKQXS8DSG49RM6N", "8BBURTWGVXFCG8TA", "V54R9MKETSH3VYT3", "QQQ98YCKUVHTBD96", "YCE662YK4CXC5NDH", "9TEY8USURCEENF5V", "CG8MWBB9A2NVVPCM", "KKCVF8BV6NCJGDCS", "Q4WRJ3DA8KFSA89W", "U3MZYAANVXAZX2Z3", "FNQJE2NF6RFXYN4D", "E7BQ6UHKFBBPDEAT", "UAWT2Q77WXTN55JR", "7VX3D4KE3X2SCQXH", "WYJUYGDKZP3D6JEW", "VQGE2S8MUJ4T433X", "8T9942CPEXRZQXJ2", "XEEMNFQJMFB78ZY8", "T6B75S6ZHGZ8PJ4F", "RWSNMGHKPSJYSYAA", "JSD8N5BZYP4UTRQU", "N22RS3SQ22JCVS65", "W96MFE8CTWG2T8UV", "B8PYAN7UXNJNTU3X", "U6MY8KZGG8AP8BNS", "V8MZG8GQRTCCXHJS", "KN7BVDGAWKYHEK58", "N87TN44KVYKCUUC8", "V7EKC3MKGJ5KCEW7", "BWR9KSZ3EFMSZHEJ", "VARKFG2QDU6H9YX2", "2P4NRAHB9J9TH4VV", "JFHK9FPB4ZD63JCE", "MAW89X73H4EPD4PT", "TBW27EVWDFJUM34U", "GRZVWP32VPJTPP38", "JNZVKD4X4PCXYU6Q", "W2P8VUPA4YUMZSSD", "93ZZXEG9JRPCPRDQ", "AJNN76D5D7VXXH5X", "V9PU4QZA79AJYC3G", "RHSXRYFD6Z44643H", "EGM2BVYU87YQZ4EK", "9D2WWUVQY5ZUTFPE", "4Y4RWJC95WVN7J4N", "7G3JUN5MBVZGCXQR", "EEMGBB5BXVHGJ52C" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "HPEUP542Y4GR3HNF" : {
+        "HPEUP542Y4GR3HNF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HPEUP542Y4GR3HNF",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "HPEUP542Y4GR3HNF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HPEUP542Y4GR3HNF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00008 per seconds for Hook-Invocation-Duration:ProcessHookHandlers in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N22RS3SQ22JCVS65" : {
+        "N22RS3SQ22JCVS65.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N22RS3SQ22JCVS65",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "N22RS3SQ22JCVS65.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N22RS3SQ22JCVS65.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0009 per Operations for Hook-Invocation-Count:ProcessResourceHandlers in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Unit",
+              "pricePerUnit" : {
+                "USD" : "0.0009000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C52MJ9EFVEM4GKS3" : {
+        "C52MJ9EFVEM4GKS3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C52MJ9EFVEM4GKS3",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "C52MJ9EFVEM4GKS3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C52MJ9EFVEM4GKS3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00008 per second of CloudFormation resource handler duration overage.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Second",
+              "pricePerUnit" : {
+                "USD" : "0.0000800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

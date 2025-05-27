@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonConnectVoiceID",
+  "version" : "20230202020116",
+  "publicationDate" : "2023-02-02T02:01:16Z",
+  "products" : {
+    "GRRE75ZESNZ2E77K" : {
+      "sku" : "GRRE75ZESNZ2E77K",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonConnectVoiceID",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Authentication",
+        "operation" : "Authentication",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Voice ID",
+        "type" : "Authentication"
+      }
+    },
+    "8G5DNVC2KKQDZ6VA" : {
+      "sku" : "8G5DNVC2KKQDZ6VA",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonConnectVoiceID",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Enrollment",
+        "operation" : "Enrollment",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Voice ID",
+        "type" : "Enrollment"
+      }
+    },
+    "N85VSWTR869NEA52" : {
+      "sku" : "N85VSWTR869NEA52",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonConnectVoiceID",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FraudDetection",
+        "operation" : "FraudDetection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Voice ID",
+        "type" : "Fraud Detection"
+      }
+    },
+    "3ABMKER7MWK6Y29V" : {
+      "sku" : "3ABMKER7MWK6Y29V",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonConnectVoiceID",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Registration",
+        "operation" : "Registration",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Voice ID",
+        "type" : "Registration"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "8G5DNVC2KKQDZ6VA" : {
+        "8G5DNVC2KKQDZ6VA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8G5DNVC2KKQDZ6VA",
+          "effectiveDate" : "2022-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "8G5DNVC2KKQDZ6VA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8G5DNVC2KKQDZ6VA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per transaction for Enrollment in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "1",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GRRE75ZESNZ2E77K" : {
+        "GRRE75ZESNZ2E77K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GRRE75ZESNZ2E77K",
+          "effectiveDate" : "2022-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "GRRE75ZESNZ2E77K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GRRE75ZESNZ2E77K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per transaction for Authentication in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "1",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N85VSWTR869NEA52" : {
+        "N85VSWTR869NEA52.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N85VSWTR869NEA52",
+          "effectiveDate" : "2022-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "N85VSWTR869NEA52.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N85VSWTR869NEA52.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per transaction for FraudDetection in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "1",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3ABMKER7MWK6Y29V" : {
+        "3ABMKER7MWK6Y29V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3ABMKER7MWK6Y29V",
+          "effectiveDate" : "2022-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "3ABMKER7MWK6Y29V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3ABMKER7MWK6Y29V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per transaction for Registration in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "1",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

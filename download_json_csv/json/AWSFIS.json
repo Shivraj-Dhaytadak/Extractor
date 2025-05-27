@@ -1,0 +1,119 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSFIS",
+  "version" : "20241112203339",
+  "publicationDate" : "2024-11-12T20:33:39Z",
+  "products" : {
+    "3GBATKSWGM9RXAZS" : {
+      "sku" : "3GBATKSWGM9RXAZS",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSFIS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActionMinute",
+        "operation" : "ActionMinute",
+        "action" : "Action",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Fault Injection Simulator"
+      }
+    },
+    "9Z2DSQMTB3W5HQ9X" : {
+      "sku" : "9Z2DSQMTB3W5HQ9X",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSFIS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActionMinuteAccount",
+        "operation" : "ActionMinuteAccount",
+        "action" : "Multi-Account Action",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Fault Injection Simulator"
+      }
+    },
+    "WHSNQ43U5DRENM5F" : {
+      "sku" : "WHSNQ43U5DRENM5F",
+      "productFamily" : "Developer Tools",
+      "attributes" : {
+        "servicecode" : "AWSFIS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ExperimentReport",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "reportType" : "Experiment Report",
+        "servicename" : "AWS Fault Injection Simulator"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "WHSNQ43U5DRENM5F" : {
+        "WHSNQ43U5DRENM5F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WHSNQ43U5DRENM5F",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "WHSNQ43U5DRENM5F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WHSNQ43U5DRENM5F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5 per experiment report in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Report",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9Z2DSQMTB3W5HQ9X" : {
+        "9Z2DSQMTB3W5HQ9X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9Z2DSQMTB3W5HQ9X",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per minutes for ActionMinuteAccount in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3GBATKSWGM9RXAZS" : {
+        "3GBATKSWGM9RXAZS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3GBATKSWGM9RXAZS",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per minutes for ActionMinute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

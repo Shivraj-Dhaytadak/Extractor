@@ -1,0 +1,351 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonRoute53",
+  "version" : "20250430151129",
+  "publicationDate" : "2025-04-30T15:11:29Z",
+  "products" : {
+    "9DYPVERWUDGFFGQG" : {
+      "sku" : "9DYPVERWUDGFFGQG",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "Profiles-Base Price",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DNS-ProfileBasePackage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "Q5DQ7VD4Z2YNNA5C" : {
+      "sku" : "Q5DQ7VD4Z2YNNA5C",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "DNS Firewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DNS-FirewallQueries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "GH25VS37S7J79CXX" : {
+      "sku" : "GH25VS37S7J79CXX",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "Endpoint",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Outposts",
+        "usagetype" : "USE1-OutpostRNI",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "4D59R9RT8CVD4N54" : {
+      "sku" : "4D59R9RT8CVD4N54",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "DNS Firewall Advanced",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AdvancedDNS-ThreatProtectionsVPCAssociationHours",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "GZT83HBHCE5EGFNH" : {
+      "sku" : "GZT83HBHCE5EGFNH",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "Endpoint",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResolverNetworkInterface",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "98Y35YBR3J64B5FX" : {
+      "sku" : "98Y35YBR3J64B5FX",
+      "productFamily" : "DNS Domain Names",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "DNS Firewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DNS-FirewallDomainName",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "YHS3962AE82BQTS9" : {
+      "sku" : "YHS3962AE82BQTS9",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "DoH Endpoint",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResolverNetworkInterface-SecurityEnabled",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "UA2M4EHGFQSJQV5S" : {
+      "sku" : "UA2M4EHGFQSJQV5S",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "Queries",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DNS-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    },
+    "SHQXNZZBQ4TEXJQ6" : {
+      "sku" : "SHQXNZZBQ4TEXJQ6",
+      "productFamily" : "DNS Query",
+      "attributes" : {
+        "servicecode" : "AmazonRoute53",
+        "description" : "Profiles",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DNS-ProfileAssociationCount",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Route 53"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "4D59R9RT8CVD4N54" : {
+        "4D59R9RT8CVD4N54.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4D59R9RT8CVD4N54",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4D59R9RT8CVD4N54.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4D59R9RT8CVD4N54.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16 per hour per Firewall Rule Group-VPC association for DNS Firewall Advanced",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q5DQ7VD4Z2YNNA5C" : {
+        "Q5DQ7VD4Z2YNNA5C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q5DQ7VD4Z2YNNA5C",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q5DQ7VD4Z2YNNA5C.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "Q5DQ7VD4Z2YNNA5C.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$0.60 per 1,000,000 queries inspected by the firewall for the first 1 Billion queries",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            },
+            "Q5DQ7VD4Z2YNNA5C.JRTCKXETXF.AGD8ADSNTG" : {
+              "rateCode" : "Q5DQ7VD4Z2YNNA5C.JRTCKXETXF.AGD8ADSNTG",
+              "description" : "$0.40 per 1,000,000 queries inspected by the firewall over 1 Billion queries",
+              "beginRange" : "1000000000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YHS3962AE82BQTS9" : {
+        "YHS3962AE82BQTS9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YHS3962AE82BQTS9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YHS3962AE82BQTS9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YHS3962AE82BQTS9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per hour per DoH Resolver Network Interface in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GZT83HBHCE5EGFNH" : {
+        "GZT83HBHCE5EGFNH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GZT83HBHCE5EGFNH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GZT83HBHCE5EGFNH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GZT83HBHCE5EGFNH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per hour per Resolver Network Interface",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "98Y35YBR3J64B5FX" : {
+        "98Y35YBR3J64B5FX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "98Y35YBR3J64B5FX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "98Y35YBR3J64B5FX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "98Y35YBR3J64B5FX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0005 per DomainName stored within domain lists.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9DYPVERWUDGFFGQG" : {
+        "9DYPVERWUDGFFGQG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9DYPVERWUDGFFGQG",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9DYPVERWUDGFFGQG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9DYPVERWUDGFFGQG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.75 per hour for up to 100 Profile-VPC associations in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GH25VS37S7J79CXX" : {
+        "GH25VS37S7J79CXX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GH25VS37S7J79CXX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GH25VS37S7J79CXX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GH25VS37S7J79CXX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per hour per Resolver Network Interface on AWS Outpost in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UA2M4EHGFQSJQV5S" : {
+        "UA2M4EHGFQSJQV5S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UA2M4EHGFQSJQV5S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UA2M4EHGFQSJQV5S.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "UA2M4EHGFQSJQV5S.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$0.40 per 1,000,000 resolver queries for the first 1 Billion queries",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UA2M4EHGFQSJQV5S.JRTCKXETXF.AGD8ADSNTG" : {
+              "rateCode" : "UA2M4EHGFQSJQV5S.JRTCKXETXF.AGD8ADSNTG",
+              "description" : "$0.20 per 1,000,000 resolver queries over 1 Billion queries",
+              "beginRange" : "1000000000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SHQXNZZBQ4TEXJQ6" : {
+        "SHQXNZZBQ4TEXJQ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SHQXNZZBQ4TEXJQ6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SHQXNZZBQ4TEXJQ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SHQXNZZBQ4TEXJQ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0014 per hour per association beyond the first 100 Profile-VPC associations in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

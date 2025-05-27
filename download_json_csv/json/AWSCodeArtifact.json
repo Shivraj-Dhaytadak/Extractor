@@ -1,0 +1,158 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCodeArtifact",
+  "version" : "20220623083041",
+  "publicationDate" : "2022-06-23T08:30:41Z",
+  "products" : {
+    "Y4Y3FG3KD3BK7PQC" : {
+      "sku" : "Y4Y3FG3KD3BK7PQC",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AWSCodeArtifact",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-TimedStorage-ByteHrs",
+        "operation" : "",
+        "pricingUnit" : "GB-Mo",
+        "regionCode" : "",
+        "servicename" : "AWS CodeArtifact"
+      }
+    },
+    "DKM4549F4EXWYB8N" : {
+      "sku" : "DKM4549F4EXWYB8N",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AWSCodeArtifact",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests",
+        "operation" : "",
+        "pricingUnit" : "Requests",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodeArtifact"
+      }
+    },
+    "283JRHWAJ8SUFDSQ" : {
+      "sku" : "283JRHWAJ8SUFDSQ",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AWSCodeArtifact",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Requests",
+        "operation" : "",
+        "pricingUnit" : "Requests",
+        "regionCode" : "",
+        "servicename" : "AWS CodeArtifact"
+      }
+    },
+    "287MBUJK424BYZMW" : {
+      "sku" : "287MBUJK424BYZMW",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AWSCodeArtifact",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TimedStorage-ByteHrs",
+        "operation" : "",
+        "pricingUnit" : "GB-Mo",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodeArtifact"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "Y4Y3FG3KD3BK7PQC" : {
+        "Y4Y3FG3KD3BK7PQC.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "Y4Y3FG3KD3BK7PQC",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y4Y3FG3KD3BK7PQC.A429C66SYZ.643ZNWA3FY" : {
+              "rateCode" : "Y4Y3FG3KD3BK7PQC.A429C66SYZ.643ZNWA3FY",
+              "description" : "$0.0 per GB - storage under the monthly free tier",
+              "beginRange" : "0",
+              "endRange" : "2",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "JUQ3PPHDPB2YHRT9", "6G2B9G6ZHS2Z36AS", "VT2SN4HF2G94P7NM", "Y29ZVK5E8N3GTMC6", "936SPEMEFZQ9KMN9", "HXNXZJREVS977NDW", "K2VNDAGWZFVZ94UV", "287MBUJK424BYZMW", "YCCXTM8BB9BWYZ8T", "DY3AANYYMXCE4DYH", "5Y885B5Y87YJM53K", "YBARGKHDC6S6FNQU", "5H63VRRZCMQEME8F" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "DKM4549F4EXWYB8N" : {
+        "DKM4549F4EXWYB8N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DKM4549F4EXWYB8N",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DKM4549F4EXWYB8N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DKM4549F4EXWYB8N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 10,000 Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "287MBUJK424BYZMW" : {
+        "287MBUJK424BYZMW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "287MBUJK424BYZMW",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "287MBUJK424BYZMW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "287MBUJK424BYZMW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB of storage used in a month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "283JRHWAJ8SUFDSQ" : {
+        "283JRHWAJ8SUFDSQ.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "283JRHWAJ8SUFDSQ",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "283JRHWAJ8SUFDSQ.A429C66SYZ.NADQ2ZJX8V" : {
+              "rateCode" : "283JRHWAJ8SUFDSQ.A429C66SYZ.NADQ2ZJX8V",
+              "description" : "$0.0 per Request - request under the monthly free tier",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "Y8SAZ29FRRGVD2AG", "H9D45P6ZGR6K4VRV", "DN8SW4VK2FNHSGEZ", "UD9FSDXZF2VVWH6Q", "DKM4549F4EXWYB8N", "3J5CVU2JEUGNR6KV", "E9CM5DY6XQZSEQS9", "TV6HB2AK6TJZFATK", "Z4NPCCGZCB3XESRP", "J736AKMH3X7TRJCW", "WU9WU637JSVNWK9J", "RDP6TX3853ZG5ZS4", "X4A45H4HKHU2PQZ5" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

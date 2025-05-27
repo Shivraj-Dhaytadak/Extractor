@@ -1,0 +1,3033 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonBraket",
+  "version" : "20250317225316",
+  "publicationDate" : "2025-03-17T22:53:16Z",
+  "products" : {
+    "ZQAAY5DGXKZPZD5R" : {
+      "sku" : "ZQAAY5DGXKZPZD5R",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-QuEra-Aquila",
+        "operation" : "CompleteTask",
+        "devicename" : "Aquila",
+        "provider" : "QuEra",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "5FVPZYWTFF6V2K9Y" : {
+      "sku" : "5FVPZYWTFF6V2K9Y",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.8xlarge-Training",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.8xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "32"
+      }
+    },
+    "WGREWEJZ93539RR7" : {
+      "sku" : "WGREWEJZ93539RR7",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-IonQ-Harmony",
+        "operation" : "Task",
+        "devicename" : "Harmony",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "CWQB385Q7FYCYESV" : {
+      "sku" : "CWQB385Q7FYCYESV",
+      "productFamily" : "Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Simulators-Task",
+        "operation" : "",
+        "operationOutcome" : "Completed",
+        "productType" : "Managed-Simulators",
+        "producttype" : "Managed-Simulators",
+        "regionCode" : "",
+        "servicename" : "Amazon Braket",
+        "version" : "MS1"
+      }
+    },
+    "H3HJF7J8JTTNC698" : {
+      "sku" : "H3HJF7J8JTTNC698",
+      "productFamily" : "Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Completed-Task-ExecutionDuration-TN1",
+        "operation" : "CompleteTask",
+        "operationOutcome" : "Completed",
+        "productType" : "TensorNetwork",
+        "producttype" : "TensorNetwork",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "version" : "TN1"
+      }
+    },
+    "E6UVYF7VTXQHNESF" : {
+      "sku" : "E6UVYF7VTXQHNESF",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-Harmony",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Harmony",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "GSUMGADRBNMH3C73" : {
+      "sku" : "GSUMGADRBNMH3C73",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.12xlarge-Training",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.12xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "48"
+      }
+    },
+    "YQHUFFXMK2UPHCW6" : {
+      "sku" : "YQHUFFXMK2UPHCW6",
+      "productFamily" : "Braket Managed Jobs Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-Simulator-Task-ExecutionDuration-SV1",
+        "operation" : "Managed-Jobs",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "simulatorName" : "State Vector",
+        "version" : "SV1"
+      }
+    },
+    "VJW9DZQDBMGASNQ7" : {
+      "sku" : "VJW9DZQDBMGASNQ7",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p3.8xlarge-Training",
+        "memory" : "244 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p3.8xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "32"
+      }
+    },
+    "7DHKMH8G2WYM8WWT" : {
+      "sku" : "7DHKMH8G2WYM8WWT",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m4.xlarge-Training",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m4.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "429GQEGVS8NECEYK" : {
+      "sku" : "429GQEGVS8NECEYK",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-IonQ-Harmony",
+        "operation" : "CompleteTask",
+        "devicename" : "Harmony",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "ZPBZ9VZCNYFMDUX9" : {
+      "sku" : "ZPBZ9VZCNYFMDUX9",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.12xlarge-Training",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.12xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "48"
+      }
+    },
+    "FJ7KZJFNH5ZZUR8S" : {
+      "sku" : "FJ7KZJFNH5ZZUR8S",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-IonQdevice",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "IonQdevice",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "QZH9B4T5ME2FENEN" : {
+      "sku" : "QZH9B4T5ME2FENEN",
+      "productFamily" : "Quantum Reservation",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Reservation-IonQ-Forte-1",
+        "operation" : "ReservationEnd",
+        "devicename" : "Forte-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "BYMEDTX7VVU4TF7B" : {
+      "sku" : "BYMEDTX7VVU4TF7B",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m4.4xlarge-Training",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m4.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    },
+    "63QY7X72CZDZHXQN" : {
+      "sku" : "63QY7X72CZDZHXQN",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5.4xlarge-Training",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    },
+    "WW7TYCR7SAFU3Z38" : {
+      "sku" : "WW7TYCR7SAFU3Z38",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5.9xlarge-Training",
+        "memory" : "72 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5.9xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "36"
+      }
+    },
+    "RJ4FR3NDCNT7VGX2" : {
+      "sku" : "RJ4FR3NDCNT7VGX2",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c4.8xlarge-Training",
+        "memory" : "60 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c4.8xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "36"
+      }
+    },
+    "7QQBCNV7FDHE88WA" : {
+      "sku" : "7QQBCNV7FDHE88WA",
+      "productFamily" : "Quantum Reservation",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Reservation-QuEra-Aquila",
+        "operation" : "ReservationEnd",
+        "devicename" : "Aquila",
+        "provider" : "QuEra",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "F7T7NNY43UGEAP5C" : {
+      "sku" : "F7T7NNY43UGEAP5C",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m4.16xlarge-Training",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m4.16xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "64"
+      }
+    },
+    "JXBS69MW2NZTQ2ZN" : {
+      "sku" : "JXBS69MW2NZTQ2ZN",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-IonQdevice",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "IonQdevice",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "XBEEN9C66Y9QRV39" : {
+      "sku" : "XBEEN9C66Y9QRV39",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p2.16xlarge-Training",
+        "memory" : "732 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p2.16xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "64"
+      }
+    },
+    "5F9MZ3558KJH2MXY" : {
+      "sku" : "5F9MZ3558KJH2MXY",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.16xlarge-Training",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.16xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "64"
+      }
+    },
+    "DY2X6TZWMBTAAE3P" : {
+      "sku" : "DY2X6TZWMBTAAE3P",
+      "productFamily" : "Braket Managed Jobs Volume",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "General Purpose (SSD) Storage",
+        "usagetype" : "USE1-Job-VolumeUsage",
+        "operation" : "Managed-Jobs",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "P8ZYSU4REGYP76BG" : {
+      "sku" : "P8ZYSU4REGYP76BG",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-QuEra-Aquila",
+        "operation" : "Task",
+        "devicename" : "Aquila",
+        "provider" : "QuEra",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "XSX3EXT8CTSPHHXT" : {
+      "sku" : "XSX3EXT8CTSPHHXT",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-Aria-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aria-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "5HJT732EUT7P2SES" : {
+      "sku" : "5HJT732EUT7P2SES",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.large-Training",
+        "memory" : "8 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.large",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "2"
+      }
+    },
+    "GZAMUGRM2SSGDHGE" : {
+      "sku" : "GZAMUGRM2SSGDHGE",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-Harmony",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Harmony",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "QU3JAYTW2K2RNKYA" : {
+      "sku" : "QU3JAYTW2K2RNKYA",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m4.10xlarge-Training",
+        "memory" : "160 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m4.10xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "40"
+      }
+    },
+    "2AT253KGFHGJCNY7" : {
+      "sku" : "2AT253KGFHGJCNY7",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p2.xlarge-Training",
+        "memory" : "61 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p2.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "7724BVYNXRFGRHVV" : {
+      "sku" : "7724BVYNXRFGRHVV",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot",
+        "operation" : "CompleteTask",
+        "devicename" : "IonQdevice",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "9AFGTKUUCBBPG35K" : {
+      "sku" : "9AFGTKUUCBBPG35K",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-IonQ-Forte-1",
+        "operation" : "CompleteTask",
+        "devicename" : "Forte-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "CXVVTVTYZPPB9UGZ" : {
+      "sku" : "CXVVTVTYZPPB9UGZ",
+      "productFamily" : "Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Completed-Task-ExecutionDuration-SV1",
+        "operation" : "CompleteTask",
+        "operationOutcome" : "Completed",
+        "productType" : "StateVector",
+        "producttype" : "StateVector",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "version" : "SV1"
+      }
+    },
+    "V6XMRUT4HA4Q84ZG" : {
+      "sku" : "V6XMRUT4HA4Q84ZG",
+      "productFamily" : "Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Completed-Task-ExecutionDuration-DM1",
+        "operation" : "CompleteTask",
+        "operationOutcome" : "Completed",
+        "productType" : "DensityMatrix",
+        "producttype" : "DensityMatrix",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "version" : "DM1"
+      }
+    },
+    "67Z628QH2GY4QF6X" : {
+      "sku" : "67Z628QH2GY4QF6X",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-IonQ-Aria-1",
+        "operation" : "CompleteTask",
+        "devicename" : "Aria-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "4RMV84Q4ZF6GTNYT" : {
+      "sku" : "4RMV84Q4ZF6GTNYT",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-IonQ-Forte-1",
+        "operation" : "Task",
+        "devicename" : "Forte-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "AMJT6SRVNMQQFBJ4" : {
+      "sku" : "AMJT6SRVNMQQFBJ4",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p4d.24xlarge-Training",
+        "memory" : "1152 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p4d.24xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "96"
+      }
+    },
+    "7YARXGJ6Q7CPGNH7" : {
+      "sku" : "7YARXGJ6Q7CPGNH7",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-QuEra-Aquila",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aquila",
+        "deviceProvider" : "QuEra",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "SH9NZG24Z9CDQHYJ" : {
+      "sku" : "SH9NZG24Z9CDQHYJ",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-Forte-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Forte-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "NEXP56ZJXBVFTK8F" : {
+      "sku" : "NEXP56ZJXBVFTK8F",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5.2xlarge-Training",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "HSPS8MNHUFYHMFW4" : {
+      "sku" : "HSPS8MNHUFYHMFW4",
+      "productFamily" : "Braket Managed Jobs Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-Simulator-Task-ExecutionDuration-TN1",
+        "operation" : "Managed-Jobs",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "simulatorName" : "Tensor Network",
+        "version" : "TN1"
+      }
+    },
+    "2XMARPRHEXPUMFNZ" : {
+      "sku" : "2XMARPRHEXPUMFNZ",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.xlarge-Training",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "BVN8NF97ZSJE8SZ5" : {
+      "sku" : "BVN8NF97ZSJE8SZ5",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5n.9xlarge-Training",
+        "memory" : "96 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5n.9xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "36"
+      }
+    },
+    "CDH3HBYMB6KRUNTF" : {
+      "sku" : "CDH3HBYMB6KRUNTF",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c4.4xlarge-Training",
+        "memory" : "30 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c4.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    },
+    "NNUZVRD6CY9D9TM5" : {
+      "sku" : "NNUZVRD6CY9D9TM5",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-Aria-2",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aria-2",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "EHPPHMFD8CQ7PPW6" : {
+      "sku" : "EHPPHMFD8CQ7PPW6",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5n.18xlarge-Training",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5n.18xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "72"
+      }
+    },
+    "HPG37EE74BMKFHFH" : {
+      "sku" : "HPG37EE74BMKFHFH",
+      "productFamily" : "Quantum Reservation",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Reservation-IonQ-Aria-1",
+        "operation" : "ReservationEnd",
+        "devicename" : "Aria-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "VYJFUFNGRDKHHUA8" : {
+      "sku" : "VYJFUFNGRDKHHUA8",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.24xlarge-Training",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.24xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "96"
+      }
+    },
+    "Z7EVHG4BF8Y5CA2U" : {
+      "sku" : "Z7EVHG4BF8Y5CA2U",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-Forte-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Forte-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "5B922AVWQMF3QBF5" : {
+      "sku" : "5B922AVWQMF3QBF5",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-IonQ-Aria-2",
+        "operation" : "CompleteTask",
+        "devicename" : "Aria-2",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "2MVMJZ2DM5YMAB8G" : {
+      "sku" : "2MVMJZ2DM5YMAB8G",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.2xlarge-Training",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "KKVBF52D4Y3KQXQ8" : {
+      "sku" : "KKVBF52D4Y3KQXQ8",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-IonQ-Aria-1",
+        "operation" : "Task",
+        "devicename" : "Aria-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "7Z227RB3X7FWB53U" : {
+      "sku" : "7Z227RB3X7FWB53U",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5n.4xlarge-Training",
+        "memory" : "42 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5n.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    },
+    "NBMNGHHR6YC7TDR7" : {
+      "sku" : "NBMNGHHR6YC7TDR7",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p3.2xlarge-Training",
+        "memory" : "61 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p3.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "EPZ2XZ7GVP25VDKD" : {
+      "sku" : "EPZ2XZ7GVP25VDKD",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-Forte-Enterprise-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Forte-Enterprise-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "8QVZRTUHPRCS6XTR" : {
+      "sku" : "8QVZRTUHPRCS6XTR",
+      "productFamily" : "Braket Managed Jobs Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-Simulator-Task-ExecutionDuration-DM1",
+        "operation" : "Managed-Jobs",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "simulatorName" : "Density Matrix",
+        "version" : "DM1"
+      }
+    },
+    "6G3363XUAQPXMD9X" : {
+      "sku" : "6G3363XUAQPXMD9X",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5n.2xlarge-Training",
+        "memory" : "21 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5n.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "R8A3R2KAMYZ4A83C" : {
+      "sku" : "R8A3R2KAMYZ4A83C",
+      "productFamily" : "Quantum Reservation",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Reservation-IonQ-Forte-Enterprise-1",
+        "operation" : "ReservationEnd",
+        "devicename" : "Forte-Enterprise-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "8X77C7667SM5G9TZ" : {
+      "sku" : "8X77C7667SM5G9TZ",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5n.xlarge-Training",
+        "memory" : "10.5 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5n.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "TXHQMRY8UK9ASE6T" : {
+      "sku" : "TXHQMRY8UK9ASE6T",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-IonQ-Aria-2",
+        "operation" : "Task",
+        "devicename" : "Aria-2",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "A7HQMN88BCK2HEYA" : {
+      "sku" : "A7HQMN88BCK2HEYA",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task",
+        "operation" : "Task",
+        "devicename" : "IonQdevice",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "RAKCYRZ6Q7T5KK27" : {
+      "sku" : "RAKCYRZ6Q7T5KK27",
+      "productFamily" : "Quantum Task-Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Shot-IonQ-Forte-Enterprise-1",
+        "operation" : "CompleteTask",
+        "devicename" : "Forte-Enterprise-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "GS4G8586TK8CY4XR" : {
+      "sku" : "GS4G8586TK8CY4XR",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m4.2xlarge-Training",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m4.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "ZH9S7GFY33ZK2Y58" : {
+      "sku" : "ZH9S7GFY33ZK2Y58",
+      "productFamily" : "Quantum Reservation",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Reservation-IonQ-Aria-2",
+        "operation" : "ReservationEnd",
+        "devicename" : "Aria-2",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "RNWSP353U5YYNE33" : {
+      "sku" : "RNWSP353U5YYNE33",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-Aria-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aria-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "DBW4F9ZXD7X2PAKZ" : {
+      "sku" : "DBW4F9ZXD7X2PAKZ",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5.18xlarge-Training",
+        "memory" : "144 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5.18xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "72"
+      }
+    },
+    "5QMAPBUTK6RUHGGK" : {
+      "sku" : "5QMAPBUTK6RUHGGK",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.2xlarge-Training",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "B4SWAU2A2FKEGDH9" : {
+      "sku" : "B4SWAU2A2FKEGDH9",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c5.xlarge-Training",
+        "memory" : "8 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c5.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "YGN8WPYGWZ5C32P3" : {
+      "sku" : "YGN8WPYGWZ5C32P3",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-IonQ-Forte-Enterprise-1",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Forte-Enterprise-1",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "VWGQ84DHF6GPQA3U" : {
+      "sku" : "VWGQ84DHF6GPQA3U",
+      "productFamily" : "Braket Managed Jobs QPU Task Shot",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-Shot-IonQ-Aria-2",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aria-2",
+        "deviceProvider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task Shot"
+      }
+    },
+    "EGTMR82QVQUR4XVE" : {
+      "sku" : "EGTMR82QVQUR4XVE",
+      "productFamily" : "Quantum Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-IonQ-Forte-Enterprise-1",
+        "operation" : "Task",
+        "devicename" : "Forte-Enterprise-1",
+        "provider" : "IonQ",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket"
+      }
+    },
+    "W59EWU84HMU6NFHY" : {
+      "sku" : "W59EWU84HMU6NFHY",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p3dn.24xlarge-Training",
+        "memory" : "768 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p3dn.24xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "96"
+      }
+    },
+    "MJASFJEFVH58MZ3N" : {
+      "sku" : "MJASFJEFVH58MZ3N",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p2.8xlarge-Training",
+        "memory" : "488 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p2.8xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "32"
+      }
+    },
+    "JDNRVFD7G4YAD9CP" : {
+      "sku" : "JDNRVFD7G4YAD9CP",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c4.xlarge-Training",
+        "memory" : "7.5 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c4.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "EQ92N8G8KDA2ZX52" : {
+      "sku" : "EQ92N8G8KDA2ZX52",
+      "productFamily" : "Braket Managed Jobs QPU Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Job-QPU-Task-QuEra-Aquila",
+        "operation" : "Managed-Jobs",
+        "deviceName" : "Aquila",
+        "deviceProvider" : "QuEra",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "type" : "Task"
+      }
+    },
+    "48SVAEEAA9DHJYN6" : {
+      "sku" : "48SVAEEAA9DHJYN6",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.p3.16xlarge-Training",
+        "memory" : "488 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.p3.16xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "64"
+      }
+    },
+    "Q29DWETM9G7UVPNY" : {
+      "sku" : "Q29DWETM9G7UVPNY",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.g4dn.4xlarge-Training",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.g4dn.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Accelerated Computing Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    },
+    "T6VNUYNC5QGRQN2Q" : {
+      "sku" : "T6VNUYNC5QGRQN2Q",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.c4.2xlarge-Training",
+        "memory" : "15 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.c4.2xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "8"
+      }
+    },
+    "3UJ66P3JKUXX5HV9" : {
+      "sku" : "3UJ66P3JKUXX5HV9",
+      "productFamily" : "Simulator Task",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Rehearsal-Completed-Task-ExecutionDuration-TN1",
+        "operation" : "FailedTask",
+        "operationOutcome" : "Rehearsal-Completed",
+        "productType" : "TensorNetwork",
+        "producttype" : "TensorNetwork",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "version" : "TN1"
+      }
+    },
+    "E37QQJRVEFYY46CG" : {
+      "sku" : "E37QQJRVEFYY46CG",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.xlarge-Training",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "4"
+      }
+    },
+    "5N5A55YJKWFZDHY6" : {
+      "sku" : "5N5A55YJKWFZDHY6",
+      "productFamily" : "Braket Managed Jobs Instance",
+      "attributes" : {
+        "servicecode" : "AmazonBraket",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "ml.m5.4xlarge-Training",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-Job-ExecutionDuration-ml.m5.4xlarge",
+        "operation" : "Managed-Jobs",
+        "computeType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Braket",
+        "vcpu" : "16"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BVN8NF97ZSJE8SZ5" : {
+        "BVN8NF97ZSJE8SZ5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BVN8NF97ZSJE8SZ5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BVN8NF97ZSJE8SZ5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BVN8NF97ZSJE8SZ5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03888 per minute for running a Braket Job (ml.c5n.9xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0388800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HPG37EE74BMKFHFH" : {
+        "HPG37EE74BMKFHFH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HPG37EE74BMKFHFH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HPG37EE74BMKFHFH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HPG37EE74BMKFHFH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7,000 per hour for IonQ-Aria-1 device in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "7000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9AFGTKUUCBBPG35K" : {
+        "9AFGTKUUCBBPG35K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9AFGTKUUCBBPG35K",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9AFGTKUUCBBPG35K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9AFGTKUUCBBPG35K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per-shot for IonQ-Forte-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YGN8WPYGWZ5C32P3" : {
+        "YGN8WPYGWZ5C32P3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YGN8WPYGWZ5C32P3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YGN8WPYGWZ5C32P3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YGN8WPYGWZ5C32P3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per Job Task for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XBEEN9C66Y9QRV39" : {
+        "XBEEN9C66Y9QRV39.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XBEEN9C66Y9QRV39",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XBEEN9C66Y9QRV39.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XBEEN9C66Y9QRV39.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.276 per minute for running a Braket Job (ml.p2.16xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2760000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5F9MZ3558KJH2MXY" : {
+        "5F9MZ3558KJH2MXY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5F9MZ3558KJH2MXY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5F9MZ3558KJH2MXY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5F9MZ3558KJH2MXY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09067 per minute for running a Braket Job (ml.g4dn.16xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0906700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6G3363XUAQPXMD9X" : {
+        "6G3363XUAQPXMD9X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6G3363XUAQPXMD9X",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6G3363XUAQPXMD9X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6G3363XUAQPXMD9X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00863 per minute for running a Braket Job (ml.c5n.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0086300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z7EVHG4BF8Y5CA2U" : {
+        "Z7EVHG4BF8Y5CA2U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z7EVHG4BF8Y5CA2U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z7EVHG4BF8Y5CA2U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z7EVHG4BF8Y5CA2U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per Job Task for IonQ-Forte-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QZH9B4T5ME2FENEN" : {
+        "QZH9B4T5ME2FENEN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QZH9B4T5ME2FENEN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QZH9B4T5ME2FENEN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QZH9B4T5ME2FENEN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7,000 per hour for IonQ-Forte-1 device in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "7000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AMJT6SRVNMQQFBJ4" : {
+        "AMJT6SRVNMQQFBJ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AMJT6SRVNMQQFBJ4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AMJT6SRVNMQQFBJ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AMJT6SRVNMQQFBJ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.62813 per minute for running a Braket Job (ml.p4d.24xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.6281300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FVPZYWTFF6V2K9Y" : {
+        "5FVPZYWTFF6V2K9Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5FVPZYWTFF6V2K9Y",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FVPZYWTFF6V2K9Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5FVPZYWTFF6V2K9Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04533 per minute for running a Braket Job (ml.g4dn.8xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0453300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A7HQMN88BCK2HEYA" : {
+        "A7HQMN88BCK2HEYA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A7HQMN88BCK2HEYA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "A7HQMN88BCK2HEYA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A7HQMN88BCK2HEYA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per-task for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RAKCYRZ6Q7T5KK27" : {
+        "RAKCYRZ6Q7T5KK27.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RAKCYRZ6Q7T5KK27",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RAKCYRZ6Q7T5KK27.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RAKCYRZ6Q7T5KK27.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per shot for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FJ7KZJFNH5ZZUR8S" : {
+        "FJ7KZJFNH5ZZUR8S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FJ7KZJFNH5ZZUR8S",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FJ7KZJFNH5ZZUR8S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FJ7KZJFNH5ZZUR8S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01000 per Job Task Shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7QQBCNV7FDHE88WA" : {
+        "7QQBCNV7FDHE88WA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7QQBCNV7FDHE88WA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7QQBCNV7FDHE88WA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7QQBCNV7FDHE88WA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2,500 per hour for QuEra-Aquila device in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "2500.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TXHQMRY8UK9ASE6T" : {
+        "TXHQMRY8UK9ASE6T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TXHQMRY8UK9ASE6T",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TXHQMRY8UK9ASE6T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TXHQMRY8UK9ASE6T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per-task for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CWQB385Q7FYCYESV" : {
+        "CWQB385Q7FYCYESV.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "CWQB385Q7FYCYESV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CWQB385Q7FYCYESV.A429C66SYZ.HZX83385D6" : {
+              "rateCode" : "CWQB385Q7FYCYESV.A429C66SYZ.HZX83385D6",
+              "description" : "Global rate for Simulators-Task",
+              "beginRange" : "0",
+              "endRange" : "60",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "X87P4HN56SWJTVZT", "NWE3K3GD7QT5NTYZ", "BCZZDSMFWF4UBGYV", "DRSVSNPKPAH4AAAN", "RFH35VPZAWWS2T6G", "V846BEZ4K6XK3KWB", "VGDFDTDW62FCQXW2", "V6XMRUT4HA4Q84ZG", "CXVVTVTYZPPB9UGZ", "H3HJF7J8JTTNC698", "8QVZRTUHPRCS6XTR", "YQHUFFXMK2UPHCW6", "HSPS8MNHUFYHMFW4", "3UJ66P3JKUXX5HV9", "3DKVXUFAM6TF364V", "F38C4UJA3KEQH9BS", "556NVEKB7TN76BUX", "G7PJYN7PFPQYPTF6", "H599NH5U4N8D7RKN", "QZZ8TGTCFFKPP5JV", "UM6Q9HDESW6FYXPC", "32XB2X34HEUC6NFZ", "P78773Z4785NBPK3", "6G6HS45KV36XCRG4", "3XD4W48D3PAGSHEB" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "BYMEDTX7VVU4TF7B" : {
+        "BYMEDTX7VVU4TF7B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BYMEDTX7VVU4TF7B",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BYMEDTX7VVU4TF7B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BYMEDTX7VVU4TF7B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.016 per minute for running a Braket Job (ml.m4.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0160000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8QVZRTUHPRCS6XTR" : {
+        "8QVZRTUHPRCS6XTR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8QVZRTUHPRCS6XTR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8QVZRTUHPRCS6XTR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8QVZRTUHPRCS6XTR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.075 per minute for Job Simulator (DM1) Task in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KKVBF52D4Y3KQXQ8" : {
+        "KKVBF52D4Y3KQXQ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KKVBF52D4Y3KQXQ8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KKVBF52D4Y3KQXQ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KKVBF52D4Y3KQXQ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per-task for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZH9S7GFY33ZK2Y58" : {
+        "ZH9S7GFY33ZK2Y58.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZH9S7GFY33ZK2Y58",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZH9S7GFY33ZK2Y58.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZH9S7GFY33ZK2Y58.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7,000 per hour for IonQ-Aria-2 device in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "7000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q29DWETM9G7UVPNY" : {
+        "Q29DWETM9G7UVPNY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q29DWETM9G7UVPNY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q29DWETM9G7UVPNY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q29DWETM9G7UVPNY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02508 per minute for running a Braket Job (ml.g4dn.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0250800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E6UVYF7VTXQHNESF" : {
+        "E6UVYF7VTXQHNESF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E6UVYF7VTXQHNESF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E6UVYF7VTXQHNESF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E6UVYF7VTXQHNESF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01000 per Job Task Shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NBMNGHHR6YC7TDR7" : {
+        "NBMNGHHR6YC7TDR7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NBMNGHHR6YC7TDR7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NBMNGHHR6YC7TDR7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NBMNGHHR6YC7TDR7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06375 per minute for running a Braket Job (ml.p3.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0637500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GSUMGADRBNMH3C73" : {
+        "GSUMGADRBNMH3C73.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GSUMGADRBNMH3C73",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GSUMGADRBNMH3C73.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GSUMGADRBNMH3C73.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04608 per minute for running a Braket Job (ml.m5.12xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0460800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YQHUFFXMK2UPHCW6" : {
+        "YQHUFFXMK2UPHCW6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YQHUFFXMK2UPHCW6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YQHUFFXMK2UPHCW6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YQHUFFXMK2UPHCW6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.075 per minute for Job Simulator(SV1) Task in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7YARXGJ6Q7CPGNH7" : {
+        "7YARXGJ6Q7CPGNH7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7YARXGJ6Q7CPGNH7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7YARXGJ6Q7CPGNH7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7YARXGJ6Q7CPGNH7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per Job Task Shot for QuEra-Aquila in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CDH3HBYMB6KRUNTF" : {
+        "CDH3HBYMB6KRUNTF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CDH3HBYMB6KRUNTF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CDH3HBYMB6KRUNTF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CDH3HBYMB6KRUNTF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01592 per minute for running a Braket Job (ml.c4.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0159200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EGTMR82QVQUR4XVE" : {
+        "EGTMR82QVQUR4XVE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EGTMR82QVQUR4XVE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EGTMR82QVQUR4XVE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EGTMR82QVQUR4XVE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per task for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DY2X6TZWMBTAAE3P" : {
+        "DY2X6TZWMBTAAE3P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DY2X6TZWMBTAAE3P",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DY2X6TZWMBTAAE3P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DY2X6TZWMBTAAE3P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per GB-month of provisioned storage for a Braket Job in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "67Z628QH2GY4QF6X" : {
+        "67Z628QH2GY4QF6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "67Z628QH2GY4QF6X",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "67Z628QH2GY4QF6X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "67Z628QH2GY4QF6X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per-shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QU3JAYTW2K2RNKYA" : {
+        "QU3JAYTW2K2RNKYA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QU3JAYTW2K2RNKYA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QU3JAYTW2K2RNKYA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QU3JAYTW2K2RNKYA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per minute for running a Braket Job (ml.m4.10xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZQAAY5DGXKZPZD5R" : {
+        "ZQAAY5DGXKZPZD5R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZQAAY5DGXKZPZD5R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZQAAY5DGXKZPZD5R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZQAAY5DGXKZPZD5R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per-shot for QuEra-Aquila in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JDNRVFD7G4YAD9CP" : {
+        "JDNRVFD7G4YAD9CP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JDNRVFD7G4YAD9CP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JDNRVFD7G4YAD9CP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JDNRVFD7G4YAD9CP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00398 per minute for running a Braket Job (ml.c4.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0039800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "63QY7X72CZDZHXQN" : {
+        "63QY7X72CZDZHXQN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "63QY7X72CZDZHXQN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "63QY7X72CZDZHXQN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "63QY7X72CZDZHXQN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0136 per minute for running a Braket Job (ml.c5.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0136000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T6VNUYNC5QGRQN2Q" : {
+        "T6VNUYNC5QGRQN2Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T6VNUYNC5QGRQN2Q",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "T6VNUYNC5QGRQN2Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T6VNUYNC5QGRQN2Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00797 per minute for running a Braket Job (ml.c4.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0079700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DBW4F9ZXD7X2PAKZ" : {
+        "DBW4F9ZXD7X2PAKZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DBW4F9ZXD7X2PAKZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DBW4F9ZXD7X2PAKZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DBW4F9ZXD7X2PAKZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0612 per minute for running a Braket Job (ml.c5.18xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0612000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RJ4FR3NDCNT7VGX2" : {
+        "RJ4FR3NDCNT7VGX2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RJ4FR3NDCNT7VGX2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RJ4FR3NDCNT7VGX2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RJ4FR3NDCNT7VGX2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03182 per minute for running a Braket Job (ml.c4.8xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0318200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7DHKMH8G2WYM8WWT" : {
+        "7DHKMH8G2WYM8WWT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7DHKMH8G2WYM8WWT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7DHKMH8G2WYM8WWT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7DHKMH8G2WYM8WWT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.004 per minute for running a Braket Job (ml.m4.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WW7TYCR7SAFU3Z38" : {
+        "WW7TYCR7SAFU3Z38.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WW7TYCR7SAFU3Z38",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WW7TYCR7SAFU3Z38.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WW7TYCR7SAFU3Z38.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0306 per minute for running a Braket Job (ml.c5.9xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0306000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CXVVTVTYZPPB9UGZ" : {
+        "CXVVTVTYZPPB9UGZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CXVVTVTYZPPB9UGZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CXVVTVTYZPPB9UGZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CXVVTVTYZPPB9UGZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.075 per minute for Simulator(SV1) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7724BVYNXRFGRHVV" : {
+        "7724BVYNXRFGRHVV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7724BVYNXRFGRHVV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7724BVYNXRFGRHVV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7724BVYNXRFGRHVV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per-shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5HJT732EUT7P2SES" : {
+        "5HJT732EUT7P2SES.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5HJT732EUT7P2SES",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5HJT732EUT7P2SES.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5HJT732EUT7P2SES.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00192 per minute for running a Braket Job (ml.m5.large) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0019200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RNWSP353U5YYNE33" : {
+        "RNWSP353U5YYNE33.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RNWSP353U5YYNE33",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RNWSP353U5YYNE33.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RNWSP353U5YYNE33.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03000 per Job Task Shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "48SVAEEAA9DHJYN6" : {
+        "48SVAEEAA9DHJYN6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "48SVAEEAA9DHJYN6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "48SVAEEAA9DHJYN6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "48SVAEEAA9DHJYN6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4692 per minute for running a Braket Job (ml.p3.16xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.4692000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H3HJF7J8JTTNC698" : {
+        "H3HJF7J8JTTNC698.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H3HJF7J8JTTNC698",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "H3HJF7J8JTTNC698.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H3HJF7J8JTTNC698.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.275 per minute for Simulator(TN1) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WGREWEJZ93539RR7" : {
+        "WGREWEJZ93539RR7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WGREWEJZ93539RR7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WGREWEJZ93539RR7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WGREWEJZ93539RR7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per-task for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7Z227RB3X7FWB53U" : {
+        "7Z227RB3X7FWB53U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7Z227RB3X7FWB53U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7Z227RB3X7FWB53U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7Z227RB3X7FWB53U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01728 per minute for running a Braket Job (ml.c5n.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0172800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3UJ66P3JKUXX5HV9" : {
+        "3UJ66P3JKUXX5HV9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3UJ66P3JKUXX5HV9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3UJ66P3JKUXX5HV9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3UJ66P3JKUXX5HV9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.275 per minute for Simulator(TN1) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VWGQ84DHF6GPQA3U" : {
+        "VWGQ84DHF6GPQA3U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VWGQ84DHF6GPQA3U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VWGQ84DHF6GPQA3U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VWGQ84DHF6GPQA3U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03000 per Job Task Shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R8A3R2KAMYZ4A83C" : {
+        "R8A3R2KAMYZ4A83C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R8A3R2KAMYZ4A83C",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8A3R2KAMYZ4A83C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R8A3R2KAMYZ4A83C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7000.00 per hour for IonQ-Forte-Enterprise-1 device in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "7000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GZAMUGRM2SSGDHGE" : {
+        "GZAMUGRM2SSGDHGE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GZAMUGRM2SSGDHGE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GZAMUGRM2SSGDHGE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GZAMUGRM2SSGDHGE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30000 per Job Task for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4RMV84Q4ZF6GTNYT" : {
+        "4RMV84Q4ZF6GTNYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4RMV84Q4ZF6GTNYT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4RMV84Q4ZF6GTNYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4RMV84Q4ZF6GTNYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per-task for IonQ-Forte-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F7T7NNY43UGEAP5C" : {
+        "F7T7NNY43UGEAP5C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F7T7NNY43UGEAP5C",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "F7T7NNY43UGEAP5C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F7T7NNY43UGEAP5C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.064 per minute for running a Braket Job (ml.m4.16xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5B922AVWQMF3QBF5" : {
+        "5B922AVWQMF3QBF5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5B922AVWQMF3QBF5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5B922AVWQMF3QBF5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5B922AVWQMF3QBF5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per-shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EQ92N8G8KDA2ZX52" : {
+        "EQ92N8G8KDA2ZX52.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EQ92N8G8KDA2ZX52",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EQ92N8G8KDA2ZX52.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EQ92N8G8KDA2ZX52.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Job Task for QuEra-Aquila in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2AT253KGFHGJCNY7" : {
+        "2AT253KGFHGJCNY7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2AT253KGFHGJCNY7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2AT253KGFHGJCNY7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2AT253KGFHGJCNY7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01875 per minute for running a Braket Job (ml.p2.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0187500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SH9NZG24Z9CDQHYJ" : {
+        "SH9NZG24Z9CDQHYJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SH9NZG24Z9CDQHYJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SH9NZG24Z9CDQHYJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SH9NZG24Z9CDQHYJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per Job Task Shot for IonQ-Forte-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8X77C7667SM5G9TZ" : {
+        "8X77C7667SM5G9TZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8X77C7667SM5G9TZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8X77C7667SM5G9TZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8X77C7667SM5G9TZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00432 per minute for running a Braket Job (ml.c5n.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0043200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E37QQJRVEFYY46CG" : {
+        "E37QQJRVEFYY46CG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E37QQJRVEFYY46CG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E37QQJRVEFYY46CG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E37QQJRVEFYY46CG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00383 per minute for running a Braket Job (ml.m5.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0038300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EHPPHMFD8CQ7PPW6" : {
+        "EHPPHMFD8CQ7PPW6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EHPPHMFD8CQ7PPW6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EHPPHMFD8CQ7PPW6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EHPPHMFD8CQ7PPW6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07777 per minute for running a Braket Job (ml.c5n.18xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0777700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HSPS8MNHUFYHMFW4" : {
+        "HSPS8MNHUFYHMFW4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HSPS8MNHUFYHMFW4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HSPS8MNHUFYHMFW4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HSPS8MNHUFYHMFW4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.275 per minute for Job Simulator(TN1) Task in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJW9DZQDBMGASNQ7" : {
+        "VJW9DZQDBMGASNQ7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJW9DZQDBMGASNQ7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJW9DZQDBMGASNQ7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJW9DZQDBMGASNQ7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2448 per minute for running a Braket Job (ml.p3.8xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.2448000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6XMRUT4HA4Q84ZG" : {
+        "V6XMRUT4HA4Q84ZG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6XMRUT4HA4Q84ZG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6XMRUT4HA4Q84ZG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6XMRUT4HA4Q84ZG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.075 per minute for Simulator (DM1) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0750000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P8ZYSU4REGYP76BG" : {
+        "P8ZYSU4REGYP76BG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P8ZYSU4REGYP76BG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "P8ZYSU4REGYP76BG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P8ZYSU4REGYP76BG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per-task for QuEra-Aquila in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2MVMJZ2DM5YMAB8G" : {
+        "2MVMJZ2DM5YMAB8G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2MVMJZ2DM5YMAB8G",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2MVMJZ2DM5YMAB8G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2MVMJZ2DM5YMAB8G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01567 per minute for running a Braket Job (ml.g4dn.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0156700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JXBS69MW2NZTQ2ZN" : {
+        "JXBS69MW2NZTQ2ZN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JXBS69MW2NZTQ2ZN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JXBS69MW2NZTQ2ZN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JXBS69MW2NZTQ2ZN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30000 per Job Task for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5QMAPBUTK6RUHGGK" : {
+        "5QMAPBUTK6RUHGGK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5QMAPBUTK6RUHGGK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5QMAPBUTK6RUHGGK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5QMAPBUTK6RUHGGK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00768 per minute for running a Braket Job (ml.m5.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0076800000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZPBZ9VZCNYFMDUX9" : {
+        "ZPBZ9VZCNYFMDUX9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZPBZ9VZCNYFMDUX9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZPBZ9VZCNYFMDUX9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZPBZ9VZCNYFMDUX9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0815 per minute for running a Braket Job (ml.g4dn.12xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0815000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NNUZVRD6CY9D9TM5" : {
+        "NNUZVRD6CY9D9TM5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NNUZVRD6CY9D9TM5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NNUZVRD6CY9D9TM5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NNUZVRD6CY9D9TM5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30000 per Job Task for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W59EWU84HMU6NFHY" : {
+        "W59EWU84HMU6NFHY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W59EWU84HMU6NFHY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "W59EWU84HMU6NFHY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W59EWU84HMU6NFHY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.59823 per minute for running a Braket Job (ml.p3dn.24xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.5982300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GS4G8586TK8CY4XR" : {
+        "GS4G8586TK8CY4XR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GS4G8586TK8CY4XR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GS4G8586TK8CY4XR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GS4G8586TK8CY4XR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per minute for running a Braket Job (ml.m4.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XSX3EXT8CTSPHHXT" : {
+        "XSX3EXT8CTSPHHXT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XSX3EXT8CTSPHHXT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XSX3EXT8CTSPHHXT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XSX3EXT8CTSPHHXT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30000 per Job Task for IonQ-Aria-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Task",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MJASFJEFVH58MZ3N" : {
+        "MJASFJEFVH58MZ3N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MJASFJEFVH58MZ3N",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MJASFJEFVH58MZ3N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MJASFJEFVH58MZ3N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.144 per minute for running a Braket Job (ml.p2.8xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.1440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NEXP56ZJXBVFTK8F" : {
+        "NEXP56ZJXBVFTK8F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NEXP56ZJXBVFTK8F",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NEXP56ZJXBVFTK8F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NEXP56ZJXBVFTK8F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0068 per minute for running a Braket Job (ml.c5.2xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0068000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5N5A55YJKWFZDHY6" : {
+        "5N5A55YJKWFZDHY6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5N5A55YJKWFZDHY6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5N5A55YJKWFZDHY6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5N5A55YJKWFZDHY6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01537 per minute for running a Braket Job (ml.m5.4xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0153700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EPZ2XZ7GVP25VDKD" : {
+        "EPZ2XZ7GVP25VDKD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EPZ2XZ7GVP25VDKD",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EPZ2XZ7GVP25VDKD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EPZ2XZ7GVP25VDKD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per Job Task Shot for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2XMARPRHEXPUMFNZ" : {
+        "2XMARPRHEXPUMFNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2XMARPRHEXPUMFNZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2XMARPRHEXPUMFNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2XMARPRHEXPUMFNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01227 per minute for running a Braket Job (ml.g4dn.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0122700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B4SWAU2A2FKEGDH9" : {
+        "B4SWAU2A2FKEGDH9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B4SWAU2A2FKEGDH9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B4SWAU2A2FKEGDH9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B4SWAU2A2FKEGDH9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0034 per minute for running a Braket Job (ml.c5.xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VYJFUFNGRDKHHUA8" : {
+        "VYJFUFNGRDKHHUA8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VYJFUFNGRDKHHUA8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VYJFUFNGRDKHHUA8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VYJFUFNGRDKHHUA8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09217 per minute for running a Braket Job (ml.m5.24xlarge) in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0921700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "429GQEGVS8NECEYK" : {
+        "429GQEGVS8NECEYK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "429GQEGVS8NECEYK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "429GQEGVS8NECEYK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "429GQEGVS8NECEYK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per-shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Quantum-Shot",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "CustomerProfiles",
+  "version" : "20241217135817",
+  "publicationDate" : "2024-12-17T13:58:17Z",
+  "products" : {
+    "RV8K6QCP324PNS4Y" : {
+      "sku" : "RV8K6QCP324PNS4Y",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "CustomerProfiles",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CustomerProfilesUtilizedDaily",
+        "operation" : "CustomerProfilesUtilized",
+        "lockeprofiles" : "CustomerProfilesUtilizedDaily",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Customer Profiles"
+      }
+    },
+    "7QUP2HWPUY4UVR3H" : {
+      "sku" : "7QUP2HWPUY4UVR3H",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "CustomerProfiles",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConnectBaseProfilesUtilizedDaily",
+        "operation" : "ConnectBaseProfilesUtilized",
+        "lockeprofiles" : "ConnectBaseProfilesUtilizedDaily",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect Customer Profiles"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7QUP2HWPUY4UVR3H" : {
+        "7QUP2HWPUY4UVR3H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7QUP2HWPUY4UVR3H",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "7QUP2HWPUY4UVR3H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7QUP2HWPUY4UVR3H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Profiles for USE1-ConnectBaseProfilesUtilizedDaily:ConnectBaseProfilesUtilized in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Profiles",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RV8K6QCP324PNS4Y" : {
+        "RV8K6QCP324PNS4Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RV8K6QCP324PNS4Y",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RV8K6QCP324PNS4Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RV8K6QCP324PNS4Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per Profiles for USE1-CustomerProfilesUtilizedDaily:CustomerProfilesUtilized in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Profiles",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

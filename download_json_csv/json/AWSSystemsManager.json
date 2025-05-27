@@ -1,0 +1,1372 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSSystemsManager",
+  "version" : "20250430183353",
+  "publicationDate" : "2025-04-30T18:33:53Z",
+  "products" : {
+    "SNQ94B38KKCNXSW5" : {
+      "sku" : "SNQ94B38KKCNXSW5",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-JustInTimeAccessHour",
+        "operation" : "JustInTimeAccessHour",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "trial" : "FALSE"
+      }
+    },
+    "3XW4UVEQHA78KWS2" : {
+      "sku" : "3XW4UVEQHA78KWS2",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PS-Advanced-Param-Tier1",
+        "operation" : "",
+        "parameterType" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "throughput" : "40"
+      }
+    },
+    "9PK9YPMQFXR82PR9" : {
+      "sku" : "9PK9YPMQFXR82PR9",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-USW1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "USW1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "9HRYHYTY87QPU6B9" : {
+      "sku" : "9HRYHYTY87QPU6B9",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MI-AdvInstances-Hrs",
+        "operation" : "",
+        "instances" : "advanced",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "AG3WMR8HRVCSECCQ" : {
+      "sku" : "AG3WMR8HRVCSECCQ",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Change-API-Requests-Tier1",
+        "operation" : "",
+        "apirequestsfree" : "Not Applicable",
+        "apirequestspaid" : "True",
+        "changerequestsfree" : "Not Applicable",
+        "changerequestspaid" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "PNM2JSTPY6ZQ8K7E" : {
+      "sku" : "PNM2JSTPY6ZQ8K7E",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EU-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "EU-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "69CBTNUPM5AC83AH" : {
+      "sku" : "69CBTNUPM5AC83AH",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-IM-ResponsePlan-Months-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "response" : "response-plan-months",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "UNPGD9DYFMDSVXRD" : {
+      "sku" : "UNPGD9DYFMDSVXRD",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UGE1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "UGE1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "GBCH6SDBJ88VJY6X" : {
+      "sku" : "GBCH6SDBJ88VJY6X",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APN2-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APN2-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "E45PS9ZVE8VEFT2X" : {
+      "sku" : "E45PS9ZVE8VEFT2X",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "DataTransfer-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "DataTransfer-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "J6TGD65Y5WUGW3BU" : {
+      "sku" : "J6TGD65Y5WUGW3BU",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TimedStorage-ByteHrs",
+        "operation" : "",
+        "dataTransfer" : "Not Applicable",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "True"
+      }
+    },
+    "JQMTRM5QAT5Q5S9G" : {
+      "sku" : "JQMTRM5QAT5Q5S9G",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Change-ChangeRequest-Tier1",
+        "operation" : "",
+        "apirequestsfree" : "Not Applicable",
+        "apirequestspaid" : "Not Applicable",
+        "changerequestsfree" : "Not Applicable",
+        "changerequestspaid" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "YNS7WP2C8Z59X3C6" : {
+      "sku" : "YNS7WP2C8Z59X3C6",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EUN1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "EUN1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "XMNNGXT9W8GP758W" : {
+      "sku" : "XMNNGXT9W8GP758W",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EUW3-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "EUW3-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "CJER6TJ4ZN4FSAF2" : {
+      "sku" : "CJER6TJ4ZN4FSAF2",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EUC1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "EUC1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "TPMRZ2E89RZMFTNP" : {
+      "sku" : "TPMRZ2E89RZMFTNP",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-JustInTimeAccessHour-Trial",
+        "operation" : "JustInTimeAccessHour",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "trial" : "TRUE"
+      }
+    },
+    "THYQHDPMFRQAUS5S" : {
+      "sku" : "THYQHDPMFRQAUS5S",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OC-API-Requests-Tier1",
+        "operation" : "",
+        "describes" : "Not Applicable",
+        "gets" : "True",
+        "opsItems" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "updates" : "Not Applicable"
+      }
+    },
+    "83YNJDGH6F8RN675" : {
+      "sku" : "83YNJDGH6F8RN675",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppConfig-Requests",
+        "operation" : "",
+        "gets" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "updates" : "Not Applicable"
+      }
+    },
+    "DBE23PVEV666XAAZ" : {
+      "sku" : "DBE23PVEV666XAAZ",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UGW1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "UGW1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "ZHBBQT53NUZ69GUP" : {
+      "sku" : "ZHBBQT53NUZ69GUP",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppConfig-Deployments",
+        "operation" : "",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "updates" : "True"
+      }
+    },
+    "2SC234H95RE9KUWA" : {
+      "sku" : "2SC234H95RE9KUWA",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Change-API-Requests-Free",
+        "operation" : "",
+        "apirequestsfree" : "True",
+        "apirequestspaid" : "Not Applicable",
+        "changerequestsfree" : "Not Applicable",
+        "changerequestspaid" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "M8JPDP4UYTS2PJN8" : {
+      "sku" : "M8JPDP4UYTS2PJN8",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APS2-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APS2-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "4GHA68HCKCXD8NGK" : {
+      "sku" : "4GHA68HCKCXD8NGK",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SAE1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "SAE1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "T8EZ8T42X4ZTP973" : {
+      "sku" : "T8EZ8T42X4ZTP973",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-USW2-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "USW2-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "7MPX7776F7Q4Y8KK" : {
+      "sku" : "7MPX7776F7Q4Y8KK",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APS1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APS1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "JTF8BR2XPR8HFR82" : {
+      "sku" : "JTF8BR2XPR8HFR82",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EUW2-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "EUW2-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "UXWWMVZSE7AHTM46" : {
+      "sku" : "UXWWMVZSE7AHTM46",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APN3-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APN3-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "CGM92Q8VB8YJWQXE" : {
+      "sku" : "CGM92Q8VB8YJWQXE",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-USE2-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "USE2-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "BBEM6PJWSFZ3BF3D" : {
+      "sku" : "BBEM6PJWSFZ3BF3D",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APN1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APN1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "CRGRBSKXVRVAKSFW" : {
+      "sku" : "CRGRBSKXVRVAKSFW",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CAN1-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "CAN1-",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "D9PJGEG5Y3CJ7MMP" : {
+      "sku" : "D9PJGEG5Y3CJ7MMP",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APS3-AWS-Out-Bytes",
+        "operation" : "",
+        "dataTransfer" : "APS3",
+        "gets" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "HC63D5E39KDGQFBC" : {
+      "sku" : "HC63D5E39KDGQFBC",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Change-ChangeRequest-Free",
+        "operation" : "",
+        "apirequestsfree" : "Not Applicable",
+        "apirequestspaid" : "Not Applicable",
+        "changerequestsfree" : "True",
+        "changerequestspaid" : "Not Applicable",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager"
+      }
+    },
+    "9B46YR6Q6NZSXEU8" : {
+      "sku" : "9B46YR6Q6NZSXEU8",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PS-Param-Processed-Tier1",
+        "operation" : "",
+        "parameterType" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "throughput" : "40"
+      }
+    },
+    "R4HG5NC3FGHMZB56" : {
+      "sku" : "R4HG5NC3FGHMZB56",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Doc-API-Requests-Tier1",
+        "operation" : "",
+        "dataTransfer" : "Not Applicable",
+        "gets" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "storage" : "Not Applicable"
+      }
+    },
+    "MB4F8NNCDVWUBKDE" : {
+      "sku" : "MB4F8NNCDVWUBKDE",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PS-Param-Processed-Tier2",
+        "operation" : "",
+        "parameterType" : "False",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "throughput" : "1000"
+      }
+    },
+    "TE8TQ3NV4UMVS7TS" : {
+      "sku" : "TE8TQ3NV4UMVS7TS",
+      "productFamily" : "AWS Systems Manager",
+      "attributes" : {
+        "servicecode" : "AWSSystemsManager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OC-OpsItems-Tier1",
+        "operation" : "",
+        "describes" : "Not Applicable",
+        "gets" : "Not Applicable",
+        "opsItems" : "True",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Systems Manager",
+        "updates" : "Not Applicable"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "9PK9YPMQFXR82PR9" : {
+        "9PK9YPMQFXR82PR9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9PK9YPMQFXR82PR9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9PK9YPMQFXR82PR9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9PK9YPMQFXR82PR9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CJER6TJ4ZN4FSAF2" : {
+        "CJER6TJ4ZN4FSAF2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CJER6TJ4ZN4FSAF2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CJER6TJ4ZN4FSAF2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CJER6TJ4ZN4FSAF2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M8JPDP4UYTS2PJN8" : {
+        "M8JPDP4UYTS2PJN8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M8JPDP4UYTS2PJN8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "M8JPDP4UYTS2PJN8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M8JPDP4UYTS2PJN8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "83YNJDGH6F8RN675" : {
+        "83YNJDGH6F8RN675.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "83YNJDGH6F8RN675",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "83YNJDGH6F8RN675.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "83YNJDGH6F8RN675.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000002 per Request for AppConfig-Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Configuration Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4GHA68HCKCXD8NGK" : {
+        "4GHA68HCKCXD8NGK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4GHA68HCKCXD8NGK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4GHA68HCKCXD8NGK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4GHA68HCKCXD8NGK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JQMTRM5QAT5Q5S9G" : {
+        "JQMTRM5QAT5Q5S9G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JQMTRM5QAT5Q5S9G",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "JQMTRM5QAT5Q5S9G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JQMTRM5QAT5Q5S9G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.296 per Change Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.2960000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T8EZ8T42X4ZTP973" : {
+        "T8EZ8T42X4ZTP973.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T8EZ8T42X4ZTP973",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "T8EZ8T42X4ZTP973.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T8EZ8T42X4ZTP973.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MB4F8NNCDVWUBKDE" : {
+        "MB4F8NNCDVWUBKDE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MB4F8NNCDVWUBKDE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MB4F8NNCDVWUBKDE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MB4F8NNCDVWUBKDE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 10,000 Parameter API Interaction_Higher throughput in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TPMRZ2E89RZMFTNP" : {
+        "TPMRZ2E89RZMFTNP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TPMRZ2E89RZMFTNP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TPMRZ2E89RZMFTNP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TPMRZ2E89RZMFTNP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per hours for USE1-JustInTimeAccessHour-Trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7MPX7776F7Q4Y8KK" : {
+        "7MPX7776F7Q4Y8KK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7MPX7776F7Q4Y8KK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7MPX7776F7Q4Y8KK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7MPX7776F7Q4Y8KK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TE8TQ3NV4UMVS7TS" : {
+        "TE8TQ3NV4UMVS7TS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TE8TQ3NV4UMVS7TS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TE8TQ3NV4UMVS7TS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TE8TQ3NV4UMVS7TS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00297 per OpsItem in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "OpsItems",
+              "pricePerUnit" : {
+                "USD" : "0.0029700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BBEM6PJWSFZ3BF3D" : {
+        "BBEM6PJWSFZ3BF3D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BBEM6PJWSFZ3BF3D",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "BBEM6PJWSFZ3BF3D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BBEM6PJWSFZ3BF3D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9B46YR6Q6NZSXEU8" : {
+        "9B46YR6Q6NZSXEU8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9B46YR6Q6NZSXEU8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9B46YR6Q6NZSXEU8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9B46YR6Q6NZSXEU8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per 10,000 Advanced Parameter API interaction_Standard throughput in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PNM2JSTPY6ZQ8K7E" : {
+        "PNM2JSTPY6ZQ8K7E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PNM2JSTPY6ZQ8K7E",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PNM2JSTPY6ZQ8K7E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PNM2JSTPY6ZQ8K7E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GBCH6SDBJ88VJY6X" : {
+        "GBCH6SDBJ88VJY6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GBCH6SDBJ88VJY6X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GBCH6SDBJ88VJY6X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GBCH6SDBJ88VJY6X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XMNNGXT9W8GP758W" : {
+        "XMNNGXT9W8GP758W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XMNNGXT9W8GP758W",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XMNNGXT9W8GP758W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XMNNGXT9W8GP758W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "69CBTNUPM5AC83AH" : {
+        "69CBTNUPM5AC83AH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "69CBTNUPM5AC83AH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "69CBTNUPM5AC83AH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "69CBTNUPM5AC83AH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.00 per Response Plan Month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Months",
+              "pricePerUnit" : {
+                "USD" : "7.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YNS7WP2C8Z59X3C6" : {
+        "YNS7WP2C8Z59X3C6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YNS7WP2C8Z59X3C6",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YNS7WP2C8Z59X3C6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YNS7WP2C8Z59X3C6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9HRYHYTY87QPU6B9" : {
+        "9HRYHYTY87QPU6B9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9HRYHYTY87QPU6B9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9HRYHYTY87QPU6B9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9HRYHYTY87QPU6B9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00695 per Advanced Instance Hr in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0069500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JTF8BR2XPR8HFR82" : {
+        "JTF8BR2XPR8HFR82.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JTF8BR2XPR8HFR82",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "JTF8BR2XPR8HFR82.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JTF8BR2XPR8HFR82.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E45PS9ZVE8VEFT2X" : {
+        "E45PS9ZVE8VEFT2X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E45PS9ZVE8VEFT2X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "E45PS9ZVE8VEFT2X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E45PS9ZVE8VEFT2X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D9PJGEG5Y3CJ7MMP" : {
+        "D9PJGEG5Y3CJ7MMP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D9PJGEG5Y3CJ7MMP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D9PJGEG5Y3CJ7MMP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D9PJGEG5Y3CJ7MMP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UNPGD9DYFMDSVXRD" : {
+        "UNPGD9DYFMDSVXRD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UNPGD9DYFMDSVXRD",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UNPGD9DYFMDSVXRD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UNPGD9DYFMDSVXRD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J6TGD65Y5WUGW3BU" : {
+        "J6TGD65Y5WUGW3BU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J6TGD65Y5WUGW3BU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "J6TGD65Y5WUGW3BU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J6TGD65Y5WUGW3BU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.046 per GB per month of storage used in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0460000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CRGRBSKXVRVAKSFW" : {
+        "CRGRBSKXVRVAKSFW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CRGRBSKXVRVAKSFW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CRGRBSKXVRVAKSFW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CRGRBSKXVRVAKSFW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SNQ94B38KKCNXSW5" : {
+        "SNQ94B38KKCNXSW5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SNQ94B38KKCNXSW5",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SNQ94B38KKCNXSW5.JRTCKXETXF.7UZZKUX94N" : {
+              "rateCode" : "SNQ94B38KKCNXSW5.JRTCKXETXF.7UZZKUX94N",
+              "description" : "$0.0137 per hours from 0 to 72,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "72000",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0137000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SNQ94B38KKCNXSW5.JRTCKXETXF.MR2VG8R56J" : {
+              "rateCode" : "SNQ94B38KKCNXSW5.JRTCKXETXF.MR2VG8R56J",
+              "description" : "$0.0103 per hours from 72,000 to 720,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+              "beginRange" : "72000",
+              "endRange" : "720000",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0103000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SNQ94B38KKCNXSW5.JRTCKXETXF.M9YCZK9D2S" : {
+              "rateCode" : "SNQ94B38KKCNXSW5.JRTCKXETXF.M9YCZK9D2S",
+              "description" : "$0.0034 per hours from 720,000 to 7,200,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+              "beginRange" : "720000",
+              "endRange" : "7200000",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SNQ94B38KKCNXSW5.JRTCKXETXF.4AXZNUSGXN" : {
+              "rateCode" : "SNQ94B38KKCNXSW5.JRTCKXETXF.4AXZNUSGXN",
+              "description" : "$0.0014 per hours from 7,200,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+              "beginRange" : "7200000",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZHBBQT53NUZ69GUP" : {
+        "ZHBBQT53NUZ69GUP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZHBBQT53NUZ69GUP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZHBBQT53NUZ69GUP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZHBBQT53NUZ69GUP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0008 per Configuration Received for AppConfig-Deployments in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Configuration Received",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2SC234H95RE9KUWA" : {
+        "2SC234H95RE9KUWA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2SC234H95RE9KUWA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2SC234H95RE9KUWA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2SC234H95RE9KUWA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Free trial Change Manager API Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UXWWMVZSE7AHTM46" : {
+        "UXWWMVZSE7AHTM46.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UXWWMVZSE7AHTM46",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UXWWMVZSE7AHTM46.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UXWWMVZSE7AHTM46.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "THYQHDPMFRQAUS5S" : {
+        "THYQHDPMFRQAUS5S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "THYQHDPMFRQAUS5S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "THYQHDPMFRQAUS5S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "THYQHDPMFRQAUS5S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000039 per OpsItem API Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000390000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DBE23PVEV666XAAZ" : {
+        "DBE23PVEV666XAAZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DBE23PVEV666XAAZ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DBE23PVEV666XAAZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DBE23PVEV666XAAZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3XW4UVEQHA78KWS2" : {
+        "3XW4UVEQHA78KWS2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3XW4UVEQHA78KWS2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3XW4UVEQHA78KWS2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3XW4UVEQHA78KWS2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Advanced Parameter per Month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.0000700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HC63D5E39KDGQFBC" : {
+        "HC63D5E39KDGQFBC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HC63D5E39KDGQFBC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HC63D5E39KDGQFBC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HC63D5E39KDGQFBC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Free trial Change Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R4HG5NC3FGHMZB56" : {
+        "R4HG5NC3FGHMZB56.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R4HG5NC3FGHMZB56",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "R4HG5NC3FGHMZB56.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R4HG5NC3FGHMZB56.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per 1000 Get/Describe requests for Package Documents",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AG3WMR8HRVCSECCQ" : {
+        "AG3WMR8HRVCSECCQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AG3WMR8HRVCSECCQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AG3WMR8HRVCSECCQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AG3WMR8HRVCSECCQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000039 per Change Manager API Request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000390000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CGM92Q8VB8YJWQXE" : {
+        "CGM92Q8VB8YJWQXE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CGM92Q8VB8YJWQXE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CGM92Q8VB8YJWQXE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CGM92Q8VB8YJWQXE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.9 per GB - Data Retrieval",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

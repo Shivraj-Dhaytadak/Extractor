@@ -1,0 +1,1497 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSTransfer",
+  "version" : "20250415211055",
+  "publicationDate" : "2025-04-15T21:10:55Z",
+  "products" : {
+    "NAYHZ39ZH222YRNA" : {
+      "sku" : "NAYHZ39ZH222YRNA",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "SFTP:S3",
+        "data" : "SFTP-Download-Bytes",
+        "endpoint" : "SFTP-NONE",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "6VCTQ85UE78NDXTQ" : {
+      "sku" : "6VCTQ85UE78NDXTQ",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "SFTP:S3",
+        "data" : "PGP-Decrypt-S3",
+        "endpoint" : "SFTP-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "DGX8N9Q2C3FCTVZ8" : {
+      "sku" : "DGX8N9Q2C3FCTVZ8",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WebAppHours",
+        "operation" : "HTTPS:S3",
+        "endpoint" : "HTTPS-Hours-S3",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "V6DHVTTJUMUFAAHR" : {
+      "sku" : "V6DHVTTJUMUFAAHR",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-StartRemoteMove",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-RemoteMove",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "Z4R5F9HEKPANUD8J" : {
+      "sku" : "Z4R5F9HEKPANUD8J",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OutboundMessages",
+        "operation" : "AS2-HTTP:S3",
+        "data" : "AS2-Outbound-Messages",
+        "endpoint" : "AS2-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "RFAJEVKAA8EJ7F79" : {
+      "sku" : "RFAJEVKAA8EJ7F79",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "FTPS:EFS",
+        "data" : "FTPS-None",
+        "endpoint" : "FTPS-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "3BH3Q9SUFESWND6J" : {
+      "sku" : "3BH3Q9SUFESWND6J",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "FTPS:EFS",
+        "data" : "PGP-Decrypt-EFS",
+        "endpoint" : "FTPS-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "TFJQNB3XMZHE5NBB" : {
+      "sku" : "TFJQNB3XMZHE5NBB",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "SFTP:S3",
+        "data" : "SFTP-Upload-Bytes",
+        "endpoint" : "SFTP-NONE",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "68238CJXMMGQPGBM" : {
+      "sku" : "68238CJXMMGQPGBM",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "FTPS:EFS",
+        "data" : "FTPS-None-EFS",
+        "endpoint" : "FTPS-Hours-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "TPQMZRCKMTSEQTJK" : {
+      "sku" : "TPQMZRCKMTSEQTJK",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "FTP:EFS",
+        "data" : "FTP-None-EFS",
+        "endpoint" : "FTP-Hours-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "29R88D5RCRPCM259" : {
+      "sku" : "29R88D5RCRPCM259",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "FTP:EFS",
+        "data" : "PGP-Decrypt-EFS",
+        "endpoint" : "FTP-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "XXKP8KZPMKJF7ZXF" : {
+      "sku" : "XXKP8KZPMKJF7ZXF",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "SFTP:EFS",
+        "data" : "SFTP-None-EFS",
+        "endpoint" : "SFTP-Hours-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "K6WHNARR76FBXBGS" : {
+      "sku" : "K6WHNARR76FBXBGS",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "SFTP:EFS",
+        "data" : "PGP-Decrypt-EFS",
+        "endpoint" : "SFTP-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "5NUJ765985XAEXXR" : {
+      "sku" : "5NUJ765985XAEXXR",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OutboundLargeMessages",
+        "operation" : "AS2-HTTP:S3",
+        "data" : "AS2-Outbound-Large-Messages",
+        "endpoint" : "AS2-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "72VVU66PAWN29AZE" : {
+      "sku" : "72VVU66PAWN29AZE",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-RetrieveFilePath",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-RetrieveFile",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "UV8HWZDZSQTP2RRF" : {
+      "sku" : "UV8HWZDZSQTP2RRF",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "FTPS:EFS",
+        "data" : "FTPS-Upload-EFS",
+        "endpoint" : "FTPS-None-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "U63RCB99E43TVH9P" : {
+      "sku" : "U63RCB99E43TVH9P",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "SFTP:EFS",
+        "data" : "SFTP-Download-EFS",
+        "endpoint" : "SFTP-None-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "Y9N6Z7B9Y3EK8M3T" : {
+      "sku" : "Y9N6Z7B9Y3EK8M3T",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "FTPS:S3",
+        "data" : "FTPS-None",
+        "endpoint" : "FTPS-Protocol-Hours",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "MX5F2QPQUN8YNWUY" : {
+      "sku" : "MX5F2QPQUN8YNWUY",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnector-RetrieveBytes",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "Retrieve-Bytes",
+        "execution" : "Data-Transfer",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "RRB23YMC2S3VZUTK" : {
+      "sku" : "RRB23YMC2S3VZUTK",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnector-SendBytes",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "Send-Bytes",
+        "execution" : "Data-Transfer",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "S4QWBADJUVNT5ZUY" : {
+      "sku" : "S4QWBADJUVNT5ZUY",
+      "productFamily" : "AWS Transfer for SFTP",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ENDPOINT",
+        "operation" : "",
+        "data" : "SFTP-DATA",
+        "endpoint" : "SFTP-Endpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "8PEFT4QPFVVAT9H7" : {
+      "sku" : "8PEFT4QPFVVAT9H7",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-SendFilePath",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-SendFile",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "RQQKXP6WU7YEJ3TR" : {
+      "sku" : "RQQKXP6WU7YEJ3TR",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-StartDirectoryListing",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-DirectoryListing",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "4D8PEFFNWYG7MPE7" : {
+      "sku" : "4D8PEFFNWYG7MPE7",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "SFTP:S3",
+        "data" : "SFTP-NONE",
+        "endpoint" : "SFTP-Protocol-Hours",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "K5MK7F2TSHBFJ4JS" : {
+      "sku" : "K5MK7F2TSHBFJ4JS",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "FTP:S3",
+        "data" : "FTP-Upload-Bytes",
+        "endpoint" : "FTP-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "JK6CY35SZ6GS6PU9" : {
+      "sku" : "JK6CY35SZ6GS6PU9",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-InboundMessages",
+        "operation" : "AS2-HTTP:S3",
+        "data" : "AS2-Inbound-Messages",
+        "endpoint" : "AS2-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "QNQYTN8GUQU9N6NB" : {
+      "sku" : "QNQYTN8GUQU9N6NB",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "FTPS:S3",
+        "data" : "FTPS-Download-Bytes",
+        "endpoint" : "FTPS-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "4SZRWNCZEQ27B2T3" : {
+      "sku" : "4SZRWNCZEQ27B2T3",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "FTP:EFS",
+        "data" : "FTP-Upload-EFS",
+        "endpoint" : "FTP-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "HT8AK544K9ZJDUY8" : {
+      "sku" : "HT8AK544K9ZJDUY8",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "FTP:EFS",
+        "data" : "FTP-None",
+        "endpoint" : "FTP-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "PM56EXU73VCC54JW" : {
+      "sku" : "PM56EXU73VCC54JW",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "AS2-HTTP:S3",
+        "data" : "AS2-None",
+        "endpoint" : "AS2-Hours",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "2V4C39UUVEEZA559" : {
+      "sku" : "2V4C39UUVEEZA559",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "FTP:S3",
+        "data" : "PGP-Decrypt-S3",
+        "endpoint" : "FTP-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "UVSB434EBQ6V9SAN" : {
+      "sku" : "UVSB434EBQ6V9SAN",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-StartRemoteDelete",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-RemoteDelete",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "KE82XYFRVBRASUJ2" : {
+      "sku" : "KE82XYFRVBRASUJ2",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "FTPS:S3",
+        "data" : "FTPS-Upload-Bytes",
+        "endpoint" : "FTPS-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "78QUB8P5MKQFJFKF" : {
+      "sku" : "78QUB8P5MKQFJFKF",
+      "productFamily" : "AWS Transfer for SFTP",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DOWNLOAD",
+        "operation" : "",
+        "data" : "SFTP-DATA-DOWNLOADS",
+        "endpoint" : "SFTP-NONE",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "WW8YX4VCS2TBDRDT" : {
+      "sku" : "WW8YX4VCS2TBDRDT",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-InboundLargeMessages",
+        "operation" : "AS2-HTTP:S3",
+        "data" : "AS2-Inbound-Large-Messages",
+        "endpoint" : "AS2-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "QXQNP3D8VSMYYEXW" : {
+      "sku" : "QXQNP3D8VSMYYEXW",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DecryptBytes-PGP",
+        "operation" : "FTPS:S3",
+        "data" : "PGP-Decrypt-S3",
+        "endpoint" : "FTPS-Upload",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "PWWPTBCTUEY6N6C3" : {
+      "sku" : "PWWPTBCTUEY6N6C3",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DownloadBytes",
+        "operation" : "FTP:S3",
+        "data" : "FTP-Download-Bytes",
+        "endpoint" : "FTP-None",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "N7PPT3EUCDZCNZZX" : {
+      "sku" : "N7PPT3EUCDZCNZZX",
+      "productFamily" : "AWS Transfer for SFTP",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UPLOAD",
+        "operation" : "",
+        "data" : "SFTP-DATA",
+        "endpoint" : "SFTP-NONE",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "ARVYFEYBTF2C2G9Q" : {
+      "sku" : "ARVYFEYBTF2C2G9Q",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SFTPConnectorCall-StartLargeDirectoryListing",
+        "operation" : "SFTP:S3",
+        "connectorType" : "SFTP connector",
+        "data" : "None",
+        "execution" : "ConnectorCall-LargeDirectoryListing",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "XSG9BXMKKN9VCC5R" : {
+      "sku" : "XSG9BXMKKN9VCC5R",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProtocolHours",
+        "operation" : "FTP:S3",
+        "data" : "FTP-None",
+        "endpoint" : "FTP-Protocol-Hours",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    },
+    "KZM7R8WJSHWXWTKH" : {
+      "sku" : "KZM7R8WJSHWXWTKH",
+      "productFamily" : "AWS Transfer Family",
+      "attributes" : {
+        "servicecode" : "AWSTransfer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UploadBytes",
+        "operation" : "SFTP:EFS",
+        "data" : "SFTP-Upload-EFS",
+        "endpoint" : "SFTP-None-EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Transfer Family"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MX5F2QPQUN8YNWUY" : {
+        "MX5F2QPQUN8YNWUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MX5F2QPQUN8YNWUY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MX5F2QPQUN8YNWUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MX5F2QPQUN8YNWUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.40 USD per GB retrieved over SFTP to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TPQMZRCKMTSEQTJK" : {
+        "TPQMZRCKMTSEQTJK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TPQMZRCKMTSEQTJK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TPQMZRCKMTSEQTJK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TPQMZRCKMTSEQTJK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for FTP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U63RCB99E43TVH9P" : {
+        "U63RCB99E43TVH9P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U63RCB99E43TVH9P",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "U63RCB99E43TVH9P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U63RCB99E43TVH9P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over SFTP from EFS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XXKP8KZPMKJF7ZXF" : {
+        "XXKP8KZPMKJF7ZXF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XXKP8KZPMKJF7ZXF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XXKP8KZPMKJF7ZXF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XXKP8KZPMKJF7ZXF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for SFTP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RFAJEVKAA8EJ7F79" : {
+        "RFAJEVKAA8EJ7F79.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RFAJEVKAA8EJ7F79",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RFAJEVKAA8EJ7F79.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RFAJEVKAA8EJ7F79.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over FTPS to EFS in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2V4C39UUVEEZA559" : {
+        "2V4C39UUVEEZA559.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2V4C39UUVEEZA559",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2V4C39UUVEEZA559.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2V4C39UUVEEZA559.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "78QUB8P5MKQFJFKF" : {
+        "78QUB8P5MKQFJFKF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "78QUB8P5MKQFJFKF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "78QUB8P5MKQFJFKF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "78QUB8P5MKQFJFKF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - SFTP Data Download fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UVSB434EBQ6V9SAN" : {
+        "UVSB434EBQ6V9SAN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UVSB434EBQ6V9SAN",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UVSB434EBQ6V9SAN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UVSB434EBQ6V9SAN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per connector call for ConnectorCall-RemoteDelete in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WW8YX4VCS2TBDRDT" : {
+        "WW8YX4VCS2TBDRDT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WW8YX4VCS2TBDRDT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WW8YX4VCS2TBDRDT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WW8YX4VCS2TBDRDT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per 50 MB chunk for receiving large messages over AS2-HTTP to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Message",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RRB23YMC2S3VZUTK" : {
+        "RRB23YMC2S3VZUTK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RRB23YMC2S3VZUTK",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RRB23YMC2S3VZUTK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RRB23YMC2S3VZUTK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.40 USD per GB sent over SFTP from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.4000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5NUJ765985XAEXXR" : {
+        "5NUJ765985XAEXXR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5NUJ765985XAEXXR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5NUJ765985XAEXXR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5NUJ765985XAEXXR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per 50 MB chunk for sending large messages over AS2-HTTP from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Message",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y9N6Z7B9Y3EK8M3T" : {
+        "Y9N6Z7B9Y3EK8M3T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y9N6Z7B9Y3EK8M3T",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y9N6Z7B9Y3EK8M3T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y9N6Z7B9Y3EK8M3T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for FTPS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RQQKXP6WU7YEJ3TR" : {
+        "RQQKXP6WU7YEJ3TR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RQQKXP6WU7YEJ3TR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "RQQKXP6WU7YEJ3TR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RQQKXP6WU7YEJ3TR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.001 USD per connector call for directory listing in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "29R88D5RCRPCM259" : {
+        "29R88D5RCRPCM259.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "29R88D5RCRPCM259",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "29R88D5RCRPCM259.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "29R88D5RCRPCM259.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8PEFT4QPFVVAT9H7" : {
+        "8PEFT4QPFVVAT9H7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8PEFT4QPFVVAT9H7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8PEFT4QPFVVAT9H7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8PEFT4QPFVVAT9H7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.001 USD per connector call for file transfer in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TFJQNB3XMZHE5NBB" : {
+        "TFJQNB3XMZHE5NBB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TFJQNB3XMZHE5NBB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TFJQNB3XMZHE5NBB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TFJQNB3XMZHE5NBB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over SFTP to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KE82XYFRVBRASUJ2" : {
+        "KE82XYFRVBRASUJ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KE82XYFRVBRASUJ2",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KE82XYFRVBRASUJ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KE82XYFRVBRASUJ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over FTPS to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HT8AK544K9ZJDUY8" : {
+        "HT8AK544K9ZJDUY8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HT8AK544K9ZJDUY8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HT8AK544K9ZJDUY8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HT8AK544K9ZJDUY8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over FTP from EFS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "68238CJXMMGQPGBM" : {
+        "68238CJXMMGQPGBM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "68238CJXMMGQPGBM",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "68238CJXMMGQPGBM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "68238CJXMMGQPGBM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for FTPS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6DHVTTJUMUFAAHR" : {
+        "V6DHVTTJUMUFAAHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6DHVTTJUMUFAAHR",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6DHVTTJUMUFAAHR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6DHVTTJUMUFAAHR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per connector call for ConnectorCall-RemoteMove in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6VCTQ85UE78NDXTQ" : {
+        "6VCTQ85UE78NDXTQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6VCTQ85UE78NDXTQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6VCTQ85UE78NDXTQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6VCTQ85UE78NDXTQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "72VVU66PAWN29AZE" : {
+        "72VVU66PAWN29AZE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "72VVU66PAWN29AZE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "72VVU66PAWN29AZE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "72VVU66PAWN29AZE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.001 USD per connector call for file transfer in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K5MK7F2TSHBFJ4JS" : {
+        "K5MK7F2TSHBFJ4JS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K5MK7F2TSHBFJ4JS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K5MK7F2TSHBFJ4JS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K5MK7F2TSHBFJ4JS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over FTP to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S4QWBADJUVNT5ZUY" : {
+        "S4QWBADJUVNT5ZUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S4QWBADJUVNT5ZUY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "S4QWBADJUVNT5ZUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S4QWBADJUVNT5ZUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$.30 per hour - SFTP Endpoint fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UV8HWZDZSQTP2RRF" : {
+        "UV8HWZDZSQTP2RRF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UV8HWZDZSQTP2RRF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UV8HWZDZSQTP2RRF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UV8HWZDZSQTP2RRF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over FTPS to EFS in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K6WHNARR76FBXBGS" : {
+        "K6WHNARR76FBXBGS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K6WHNARR76FBXBGS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "K6WHNARR76FBXBGS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K6WHNARR76FBXBGS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ARVYFEYBTF2C2G9Q" : {
+        "ARVYFEYBTF2C2G9Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ARVYFEYBTF2C2G9Q",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ARVYFEYBTF2C2G9Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ARVYFEYBTF2C2G9Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.001 USD per connector call per 1000 items chunk for large directory listing in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Executions",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XSG9BXMKKN9VCC5R" : {
+        "XSG9BXMKKN9VCC5R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XSG9BXMKKN9VCC5R",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XSG9BXMKKN9VCC5R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XSG9BXMKKN9VCC5R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for FTP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4D8PEFFNWYG7MPE7" : {
+        "4D8PEFFNWYG7MPE7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4D8PEFFNWYG7MPE7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4D8PEFFNWYG7MPE7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4D8PEFFNWYG7MPE7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per Hour for SFTP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3BH3Q9SUFESWND6J" : {
+        "3BH3Q9SUFESWND6J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3BH3Q9SUFESWND6J",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3BH3Q9SUFESWND6J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3BH3Q9SUFESWND6J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NAYHZ39ZH222YRNA" : {
+        "NAYHZ39ZH222YRNA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NAYHZ39ZH222YRNA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "NAYHZ39ZH222YRNA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NAYHZ39ZH222YRNA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over SFTP from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QXQNP3D8VSMYYEXW" : {
+        "QXQNP3D8VSMYYEXW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QXQNP3D8VSMYYEXW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QXQNP3D8VSMYYEXW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QXQNP3D8VSMYYEXW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JK6CY35SZ6GS6PU9" : {
+        "JK6CY35SZ6GS6PU9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JK6CY35SZ6GS6PU9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "JK6CY35SZ6GS6PU9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JK6CY35SZ6GS6PU9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01/message for receiving messages over AS2-HTTP to S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Message",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PM56EXU73VCC54JW" : {
+        "PM56EXU73VCC54JW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PM56EXU73VCC54JW",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PM56EXU73VCC54JW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PM56EXU73VCC54JW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3/hour for AS2:HTTP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z4R5F9HEKPANUD8J" : {
+        "Z4R5F9HEKPANUD8J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z4R5F9HEKPANUD8J",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z4R5F9HEKPANUD8J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z4R5F9HEKPANUD8J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01/message for sending messages over AS2-HTTP from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Message",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KZM7R8WJSHWXWTKH" : {
+        "KZM7R8WJSHWXWTKH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KZM7R8WJSHWXWTKH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KZM7R8WJSHWXWTKH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KZM7R8WJSHWXWTKH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over SFTP to EFS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QNQYTN8GUQU9N6NB" : {
+        "QNQYTN8GUQU9N6NB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QNQYTN8GUQU9N6NB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QNQYTN8GUQU9N6NB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QNQYTN8GUQU9N6NB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over FTPS from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DGX8N9Q2C3FCTVZ8" : {
+        "DGX8N9Q2C3FCTVZ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DGX8N9Q2C3FCTVZ8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DGX8N9Q2C3FCTVZ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DGX8N9Q2C3FCTVZ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per Hour per Web App Unit in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PWWPTBCTUEY6N6C3" : {
+        "PWWPTBCTUEY6N6C3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PWWPTBCTUEY6N6C3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PWWPTBCTUEY6N6C3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PWWPTBCTUEY6N6C3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte downloaded over FTP from S3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4SZRWNCZEQ27B2T3" : {
+        "4SZRWNCZEQ27B2T3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4SZRWNCZEQ27B2T3",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4SZRWNCZEQ27B2T3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4SZRWNCZEQ27B2T3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GigaByte uploaded over FTP to EFS in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7PPT3EUCDZCNZZX" : {
+        "N7PPT3EUCDZCNZZX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7PPT3EUCDZCNZZX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7PPT3EUCDZCNZZX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7PPT3EUCDZCNZZX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - SFTP Data Upload fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

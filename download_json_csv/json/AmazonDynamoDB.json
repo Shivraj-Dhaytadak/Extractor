@@ -1,0 +1,1021 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonDynamoDB",
+  "version" : "20250312202711",
+  "publicationDate" : "2025-03-12T20:27:11Z",
+  "products" : {
+    "TFXQN9PEG62G7A67" : {
+      "sku" : "TFXQN9PEG62G7A67",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Point-In-Time-Restore (PITR) Backup Storage",
+        "usagetype" : "USE1-TimedPITRStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "3ADXMU9RYGKRUA9W" : {
+      "sku" : "3ADXMU9RYGKRUA9W",
+      "productFamily" : "Amazon DynamoDB Export Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Export Size",
+        "usagetype" : "USE1-ExportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "4V475Q49DCKGXQZ2" : {
+      "sku" : "4V475Q49DCKGXQZ2",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnits",
+        "groupDescription" : "DynamoDB Provisioned Read Units",
+        "usagetype" : "ReadCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "9HGBWJU6RANR5U7Y" : {
+      "sku" : "9HGBWJU6RANR5U7Y",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ElasticViews",
+        "groupDescription" : "Change Data Capture Units for AWS Glue Elastic Views",
+        "usagetype" : "USE1-ChangeDataCaptureUnits-ElasticViews",
+        "operation" : "DelegatedOperations",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "F3E2EDSYC6ZNW7XP" : {
+      "sku" : "F3E2EDSYC6ZNW7XP",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Indexed DataStore",
+        "usagetype" : "TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "R6PXMNYCEDGZ2EYN" : {
+      "sku" : "R6PXMNYCEDGZ2EYN",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnits",
+        "groupDescription" : "DynamoDB Provisioned Write Units",
+        "usagetype" : "WriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "AKFBEQDKQJE2TU7K" : {
+      "sku" : "AKFBEQDKQJE2TU7K",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-Kinesis",
+        "groupDescription" : "Change Data Capture Units for Kinesis Data Streams",
+        "usagetype" : "USE1-ChangeDataCaptureUnits-Kinesis",
+        "operation" : "DelegatedOperations",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "FGXVD96DKJMUASY3" : {
+      "sku" : "FGXVD96DKJMUASY3",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Write Request Units",
+        "usagetype" : "WriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "P7CSCRKZN8P5MR8C" : {
+      "sku" : "P7CSCRKZN8P5MR8C",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Read Units IA",
+        "usagetype" : "IA-ReadCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "QM7WV2JADZJDV45W" : {
+      "sku" : "QM7WV2JADZJDV45W",
+      "productFamily" : "DDB-Operation-ReplicatedWrite",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnits",
+        "groupDescription" : "DynamoDB Provisioned Replicated Write Units",
+        "usagetype" : "ReplWriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "6NJM3K66JDV3SGNV" : {
+      "sku" : "6NJM3K66JDV3SGNV",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Replicated Write Request Units IA",
+        "usagetype" : "IA-ReplWriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "C7EPEWE3GFXXDMHR" : {
+      "sku" : "C7EPEWE3GFXXDMHR",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-StreamsReadRequests",
+        "groupDescription" : "DynamoDB Streams read request (GetRecords API)",
+        "usagetype" : "USE1-Streams-Requests",
+        "operation" : "GetRecords",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "V54YY5S4S3DECX7A" : {
+      "sku" : "V54YY5S4S3DECX7A",
+      "productFamily" : "Amazon DynamoDB Import Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Import Size",
+        "usagetype" : "USE1-ImportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "DUA7FNC8NKEMZ7AA" : {
+      "sku" : "DUA7FNC8NKEMZ7AA",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Indexed DataStore - IA",
+        "usagetype" : "IA-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "MJVXP493BSJ5SKSQ" : {
+      "sku" : "MJVXP493BSJ5SKSQ",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Write Request Units IA",
+        "usagetype" : "IA-WriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "4W4ZMC46EHE8XTTZ" : {
+      "sku" : "4W4ZMC46EHE8XTTZ",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Read Request Units",
+        "usagetype" : "ReadRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "YR9NFVSXEN3QWYDU" : {
+      "sku" : "YR9NFVSXEN3QWYDU",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Read Request Units IA",
+        "usagetype" : "IA-ReadRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "4PEFGG9BW5Z8Z57U" : {
+      "sku" : "4PEFGG9BW5Z8Z57U",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Write Units IA",
+        "usagetype" : "IA-WriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "MNQBR5JKF47TW9TE" : {
+      "sku" : "MNQBR5JKF47TW9TE",
+      "productFamily" : "DDB-Operation-ReplicatedWrite",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Replicated Write Units IA",
+        "usagetype" : "IA-ReplWriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "3XWM5KJM296GT93W" : {
+      "sku" : "3XWM5KJM296GT93W",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Replicated Write Request Units",
+        "usagetype" : "ReplWriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "Z79SYD7KXFPZZ9SF" : {
+      "sku" : "Z79SYD7KXFPZZ9SF",
+      "productFamily" : "Amazon DynamoDB Restore Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Backup Restore Size",
+        "usagetype" : "USE1-RestoreDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "3W5BGZNA3M3V96PD" : {
+      "sku" : "3W5BGZNA3M3V96PD",
+      "productFamily" : "Amazon DynamoDB Export Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Incremental Export",
+        "usagetype" : "USE1-IncrementalExportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "EDC5UVDZNFN2S777" : {
+      "sku" : "EDC5UVDZNFN2S777",
+      "productFamily" : "Amazon DynamoDB On-Demand Backup Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - On-Demand Backup Storage",
+        "usagetype" : "USE1-TimedBackupStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MJVXP493BSJ5SKSQ" : {
+        "MJVXP493BSJ5SKSQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MJVXP493BSJ5SKSQ",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "MJVXP493BSJ5SKSQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MJVXP493BSJ5SKSQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.78 per million IA write request units in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000007800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AKFBEQDKQJE2TU7K" : {
+        "AKFBEQDKQJE2TU7K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AKFBEQDKQJE2TU7K",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "AKFBEQDKQJE2TU7K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AKFBEQDKQJE2TU7K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10000 per million change data capture units for Kinesis Data Streams in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ChangeDataCaptureUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DUA7FNC8NKEMZ7AA" : {
+        "DUA7FNC8NKEMZ7AA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DUA7FNC8NKEMZ7AA",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "DUA7FNC8NKEMZ7AA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DUA7FNC8NKEMZ7AA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10000 per GB-Month of IA storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z79SYD7KXFPZZ9SF" : {
+        "Z79SYD7KXFPZZ9SF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z79SYD7KXFPZZ9SF",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "Z79SYD7KXFPZZ9SF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z79SYD7KXFPZZ9SF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per GB of data restored",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4W4ZMC46EHE8XTTZ" : {
+        "4W4ZMC46EHE8XTTZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4W4ZMC46EHE8XTTZ",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "4W4ZMC46EHE8XTTZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4W4ZMC46EHE8XTTZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per million read request units (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6NJM3K66JDV3SGNV" : {
+        "6NJM3K66JDV3SGNV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6NJM3K66JDV3SGNV",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "6NJM3K66JDV3SGNV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6NJM3K66JDV3SGNV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.78 per million replicated IA write request units in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000007800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9HGBWJU6RANR5U7Y" : {
+        "9HGBWJU6RANR5U7Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9HGBWJU6RANR5U7Y",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "9HGBWJU6RANR5U7Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9HGBWJU6RANR5U7Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10000 per million change data capture units for AWS Glue Elastic Views in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ChangeDataCaptureUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNQBR5JKF47TW9TE" : {
+        "MNQBR5JKF47TW9TE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNQBR5JKF47TW9TE",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "MNQBR5JKF47TW9TE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNQBR5JKF47TW9TE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00081 per hour for units of IA replicated write capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0008100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F3E2EDSYC6ZNW7XP" : {
+        "F3E2EDSYC6ZNW7XP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F3E2EDSYC6ZNW7XP",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "F3E2EDSYC6ZNW7XP.JRTCKXETXF.G2A93NZ7DT" : {
+              "rateCode" : "F3E2EDSYC6ZNW7XP.JRTCKXETXF.G2A93NZ7DT",
+              "description" : "$0.00 per GB-Month of storage for first 25 free GB-Months",
+              "beginRange" : "0",
+              "endRange" : "25",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "F3E2EDSYC6ZNW7XP.JRTCKXETXF.VYAP54KATQ" : {
+              "rateCode" : "F3E2EDSYC6ZNW7XP.JRTCKXETXF.VYAP54KATQ",
+              "description" : "$0.25 per GB-Month of storage used beyond first 25 free GB-Months",
+              "beginRange" : "25",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EDC5UVDZNFN2S777" : {
+        "EDC5UVDZNFN2S777.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EDC5UVDZNFN2S777",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "EDC5UVDZNFN2S777.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EDC5UVDZNFN2S777.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-Month of storage used for on-demand backup",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YR9NFVSXEN3QWYDU" : {
+        "YR9NFVSXEN3QWYDU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YR9NFVSXEN3QWYDU",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "YR9NFVSXEN3QWYDU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YR9NFVSXEN3QWYDU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.155 per million IA read request units in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001550"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3ADXMU9RYGKRUA9W" : {
+        "3ADXMU9RYGKRUA9W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3ADXMU9RYGKRUA9W",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "3ADXMU9RYGKRUA9W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3ADXMU9RYGKRUA9W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10000 per GB of data exported in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P7CSCRKZN8P5MR8C" : {
+        "P7CSCRKZN8P5MR8C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P7CSCRKZN8P5MR8C",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "P7CSCRKZN8P5MR8C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P7CSCRKZN8P5MR8C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001600 per hour for units of IA read capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4V475Q49DCKGXQZ2" : {
+        "4V475Q49DCKGXQZ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4V475Q49DCKGXQZ2",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "4V475Q49DCKGXQZ2.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of read capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4V475Q49DCKGXQZ2.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.00013 per hour for units of read capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QM7WV2JADZJDV45W" : {
+        "QM7WV2JADZJDV45W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QM7WV2JADZJDV45W",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "QM7WV2JADZJDV45W.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "QM7WV2JADZJDV45W.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of replicated write capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QM7WV2JADZJDV45W.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "QM7WV2JADZJDV45W.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.00065 per hour for units of replicated write capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0006500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4PEFGG9BW5Z8Z57U" : {
+        "4PEFGG9BW5Z8Z57U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4PEFGG9BW5Z8Z57U",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "4PEFGG9BW5Z8Z57U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4PEFGG9BW5Z8Z57U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0008100 per hour for units of IA write capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0008100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TFXQN9PEG62G7A67" : {
+        "TFXQN9PEG62G7A67.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TFXQN9PEG62G7A67",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "TFXQN9PEG62G7A67.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TFXQN9PEG62G7A67.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per GB-Month of storage used for DynamoDB PITR backup",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C7EPEWE3GFXXDMHR" : {
+        "C7EPEWE3GFXXDMHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C7EPEWE3GFXXDMHR",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "C7EPEWE3GFXXDMHR.JRTCKXETXF.M9QGYPQ72M" : {
+              "rateCode" : "C7EPEWE3GFXXDMHR.JRTCKXETXF.M9QGYPQ72M",
+              "description" : "$0.00 for 2.5 million DynamoDB Streams read request units for a month (free tier) (US East (N. Virginia))",
+              "beginRange" : "0",
+              "endRange" : "2500000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "C7EPEWE3GFXXDMHR.JRTCKXETXF.AUKFMGQW43" : {
+              "rateCode" : "C7EPEWE3GFXXDMHR.JRTCKXETXF.AUKFMGQW43",
+              "description" : "$0.0000002 per DynamoDB Streams read request unit beyond free tier (US East (N. Virginia))",
+              "beginRange" : "2500000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V54YY5S4S3DECX7A" : {
+        "V54YY5S4S3DECX7A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V54YY5S4S3DECX7A",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "V54YY5S4S3DECX7A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V54YY5S4S3DECX7A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1500 per GB for data import in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R6PXMNYCEDGZ2EYN" : {
+        "R6PXMNYCEDGZ2EYN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R6PXMNYCEDGZ2EYN",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "R6PXMNYCEDGZ2EYN.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of write capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "R6PXMNYCEDGZ2EYN.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.00065 per hour for units of write capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0006500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3XWM5KJM296GT93W" : {
+        "3XWM5KJM296GT93W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3XWM5KJM296GT93W",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "3XWM5KJM296GT93W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3XWM5KJM296GT93W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.625 per million replicated write request units (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000006250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FGXVD96DKJMUASY3" : {
+        "FGXVD96DKJMUASY3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FGXVD96DKJMUASY3",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "FGXVD96DKJMUASY3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FGXVD96DKJMUASY3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.625 per million write request units (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000006250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3W5BGZNA3M3V96PD" : {
+        "3W5BGZNA3M3V96PD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3W5BGZNA3M3V96PD",
+          "effectiveDate" : "2025-03-01T03:00:00Z",
+          "priceDimensions" : {
+            "3W5BGZNA3M3V96PD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3W5BGZNA3M3V96PD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1000 per GB of incremental data exported in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    },
+    "Reserved" : {
+      "4V475Q49DCKGXQZ2" : {
+        "4V475Q49DCKGXQZ2.YTVHEVGPBZ" : {
+          "offerTermCode" : "YTVHEVGPBZ",
+          "sku" : "4V475Q49DCKGXQZ2",
+          "effectiveDate" : "2025-03-12T20:27:14Z",
+          "priceDimensions" : {
+            "4V475Q49DCKGXQZ2.YTVHEVGPBZ.6YS6EN2CT7" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.YTVHEVGPBZ.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Read Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4V475Q49DCKGXQZ2.YTVHEVGPBZ.2TG2D8R56U" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.YTVHEVGPBZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "0.3"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        },
+        "4V475Q49DCKGXQZ2.VG8YD49WWM" : {
+          "offerTermCode" : "VG8YD49WWM",
+          "sku" : "4V475Q49DCKGXQZ2",
+          "effectiveDate" : "2025-03-12T20:27:14Z",
+          "priceDimensions" : {
+            "4V475Q49DCKGXQZ2.VG8YD49WWM.6YS6EN2CT7" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.VG8YD49WWM.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Read Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000160000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4V475Q49DCKGXQZ2.VG8YD49WWM.2TG2D8R56U" : {
+              "rateCode" : "4V475Q49DCKGXQZ2.VG8YD49WWM.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "0.36"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "R6PXMNYCEDGZ2EYN" : {
+        "R6PXMNYCEDGZ2EYN.VG8YD49WWM" : {
+          "offerTermCode" : "VG8YD49WWM",
+          "sku" : "R6PXMNYCEDGZ2EYN",
+          "effectiveDate" : "2025-03-12T20:27:14Z",
+          "priceDimensions" : {
+            "R6PXMNYCEDGZ2EYN.VG8YD49WWM.6YS6EN2CT7" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.VG8YD49WWM.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Write Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000810000"
+              },
+              "appliesTo" : [ ]
+            },
+            "R6PXMNYCEDGZ2EYN.VG8YD49WWM.2TG2D8R56U" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.VG8YD49WWM.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1.8"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        },
+        "R6PXMNYCEDGZ2EYN.YTVHEVGPBZ" : {
+          "offerTermCode" : "YTVHEVGPBZ",
+          "sku" : "R6PXMNYCEDGZ2EYN",
+          "effectiveDate" : "2025-03-12T20:27:14Z",
+          "priceDimensions" : {
+            "R6PXMNYCEDGZ2EYN.YTVHEVGPBZ.6YS6EN2CT7" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.YTVHEVGPBZ.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Write Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001280000"
+              },
+              "appliesTo" : [ ]
+            },
+            "R6PXMNYCEDGZ2EYN.YTVHEVGPBZ.2TG2D8R56U" : {
+              "rateCode" : "R6PXMNYCEDGZ2EYN.YTVHEVGPBZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1.5"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

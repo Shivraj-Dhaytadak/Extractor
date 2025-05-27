@@ -1,0 +1,120 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSDataSync",
+  "version" : "20250403234222",
+  "publicationDate" : "2025-04-03T23:42:22Z",
+  "products" : {
+    "KTYTDC4ZDYKH7CBS" : {
+      "sku" : "KTYTDC4ZDYKH7CBS",
+      "productFamily" : "AWS DataSync",
+      "attributes" : {
+        "servicecode" : "AWSDataSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Task-Executions-Enhanced",
+        "operation" : "Sync",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS DataSync",
+        "taskMode" : "Enhanced",
+        "taskType" : "Sync"
+      }
+    },
+    "JX86JWRSKTPGVAVU" : {
+      "sku" : "JX86JWRSKTPGVAVU",
+      "productFamily" : "AWS DataSync",
+      "attributes" : {
+        "servicecode" : "AWSDataSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Transferred-Bytes",
+        "operation" : "",
+        "productSchemaDescription" : "Data transferred",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS DataSync"
+      }
+    },
+    "KBF3DPR95ZTYM5VF" : {
+      "sku" : "KBF3DPR95ZTYM5VF",
+      "productFamily" : "AWS DataSync",
+      "attributes" : {
+        "servicecode" : "AWSDataSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Transferred-Bytes-Enhanced",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS DataSync",
+        "taskMode" : "Enhanced"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "JX86JWRSKTPGVAVU" : {
+        "JX86JWRSKTPGVAVU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JX86JWRSKTPGVAVU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "JX86JWRSKTPGVAVU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JX86JWRSKTPGVAVU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0125 per GB copied in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0125000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KTYTDC4ZDYKH7CBS" : {
+        "KTYTDC4ZDYKH7CBS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KTYTDC4ZDYKH7CBS",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KTYTDC4ZDYKH7CBS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KTYTDC4ZDYKH7CBS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.55 per task execution using Enhanced mode in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Task-Executions",
+              "pricePerUnit" : {
+                "USD" : "0.5500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KBF3DPR95ZTYM5VF" : {
+        "KBF3DPR95ZTYM5VF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KBF3DPR95ZTYM5VF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KBF3DPR95ZTYM5VF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KBF3DPR95ZTYM5VF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.015 per GB copied for tasks using Enhanced mode in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB ",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

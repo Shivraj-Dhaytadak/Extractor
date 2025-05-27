@@ -1,0 +1,340 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSPCS",
+  "version" : "20250515170703",
+  "publicationDate" : "2025-05-15T17:07:03Z",
+  "products" : {
+    "29YE5WFYF2AEVXF9" : {
+      "sku" : "29YE5WFYF2AEVXF9",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSInstance:Slurm:StdNode:RunningHours",
+        "operation" : "",
+        "nodetype" : "SlurmStd",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "JAA553S4Y64WEHW5" : {
+      "sku" : "JAA553S4Y64WEHW5",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSAccountingUsage:Slurm:Medium:RunningHours",
+        "operation" : "",
+        "controllersize" : "Medium",
+        "dbstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "GB3DDAMGSE7M3JZJ" : {
+      "sku" : "GB3DDAMGSE7M3JZJ",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSController:Slurm:Small:RunningHours",
+        "operation" : "",
+        "controllersize" : "Small",
+        "controllerstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "8MXS2YMJRFUF4955" : {
+      "sku" : "8MXS2YMJRFUF4955",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSController:Slurm:Large:RunningHours",
+        "operation" : "",
+        "controllersize" : "Large",
+        "controllerstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "HDBATW77G83G4VJ6" : {
+      "sku" : "HDBATW77G83G4VJ6",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSInstance:Slurm:AdvNode:RunningHours",
+        "operation" : "",
+        "nodetype" : "SlurmAdv",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "HS9BG5JYRKQZDRK8" : {
+      "sku" : "HS9BG5JYRKQZDRK8",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSAccountingStorage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "E2DH7QBNDNNR8WB4" : {
+      "sku" : "E2DH7QBNDNNR8WB4",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSAccountingUsage:Slurm:Large:RunningHours",
+        "operation" : "",
+        "controllersize" : "Large",
+        "dbstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "KAVT64RHY9GRFW98" : {
+      "sku" : "KAVT64RHY9GRFW98",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSController:Slurm:Medium:RunningHours",
+        "operation" : "",
+        "controllersize" : "Medium",
+        "controllerstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    },
+    "5SVQZKDXQVTX329Y" : {
+      "sku" : "5SVQZKDXQVTX329Y",
+      "productFamily" : "AWSParallelComputingService",
+      "attributes" : {
+        "servicecode" : "AWSPCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PCSAccountingUsage:Slurm:Small:RunningHours",
+        "operation" : "",
+        "controllersize" : "Small",
+        "dbstate" : "Running",
+        "regionCode" : "us-east-1",
+        "schedulertype" : "Slurm",
+        "servicename" : "AWS Parallel Computing Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "GB3DDAMGSE7M3JZJ" : {
+        "GB3DDAMGSE7M3JZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GB3DDAMGSE7M3JZJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GB3DDAMGSE7M3JZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GB3DDAMGSE7M3JZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.5825 per Hour for a Running Small Slurm Cluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.5825000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E2DH7QBNDNNR8WB4" : {
+        "E2DH7QBNDNNR8WB4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E2DH7QBNDNNR8WB4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E2DH7QBNDNNR8WB4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E2DH7QBNDNNR8WB4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.96 per Hour for USE1-PCSAccountingUsage:Slurm:Large:RunningHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "1.9600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "29YE5WFYF2AEVXF9" : {
+        "29YE5WFYF2AEVXF9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "29YE5WFYF2AEVXF9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "29YE5WFYF2AEVXF9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "29YE5WFYF2AEVXF9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.08 per Instance-Hour for a Standard Instance in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JAA553S4Y64WEHW5" : {
+        "JAA553S4Y64WEHW5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JAA553S4Y64WEHW5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JAA553S4Y64WEHW5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JAA553S4Y64WEHW5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.98 per Hour for USE1-PCSAccountingUsage:Slurm:Medium:RunningHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.9800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HDBATW77G83G4VJ6" : {
+        "HDBATW77G83G4VJ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HDBATW77G83G4VJ6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HDBATW77G83G4VJ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HDBATW77G83G4VJ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.64 per Instance-Hour for an Advanced Instance in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.6400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HS9BG5JYRKQZDRK8" : {
+        "HS9BG5JYRKQZDRK8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HS9BG5JYRKQZDRK8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "HS9BG5JYRKQZDRK8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HS9BG5JYRKQZDRK8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.81 per GB-Mo for USE1-PCSAccountingStorage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.8100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KAVT64RHY9GRFW98" : {
+        "KAVT64RHY9GRFW98.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KAVT64RHY9GRFW98",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KAVT64RHY9GRFW98.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KAVT64RHY9GRFW98.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.2579 per Hour for a Running Medium Slurm Cluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "3.2579000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8MXS2YMJRFUF4955" : {
+        "8MXS2YMJRFUF4955.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8MXS2YMJRFUF4955",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8MXS2YMJRFUF4955.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8MXS2YMJRFUF4955.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 6.5426 per Hour for a Running Large Slurm Cluster in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "6.5426000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5SVQZKDXQVTX329Y" : {
+        "5SVQZKDXQVTX329Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5SVQZKDXQVTX329Y",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5SVQZKDXQVTX329Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5SVQZKDXQVTX329Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.17 per Hour for USE1-PCSAccountingUsage:Slurm:Small:RunningHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.1700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

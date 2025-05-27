@@ -1,0 +1,86 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonWorkMail",
+  "version" : "20230110161539",
+  "publicationDate" : "2023-01-10T16:15:39Z",
+  "products" : {
+    "8PKFR8SGFERTRYG2" : {
+      "sku" : "8PKFR8SGFERTRYG2",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AmazonWorkMail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkMail-FreeTier-UserHrs",
+        "operation" : "",
+        "freeTier" : "Y",
+        "mailboxStorage" : "50GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AmazonWorkMail"
+      }
+    },
+    "GJ2WD77XFX753GMU" : {
+      "sku" : "GJ2WD77XFX753GMU",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AmazonWorkMail",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkMail-NormalTier-UserHrs",
+        "operation" : "",
+        "freeTier" : "N",
+        "mailboxStorage" : "50GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AmazonWorkMail"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "8PKFR8SGFERTRYG2" : {
+        "8PKFR8SGFERTRYG2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8PKFR8SGFERTRYG2",
+          "effectiveDate" : "2016-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8PKFR8SGFERTRYG2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8PKFR8SGFERTRYG2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per user per month under the free tier in the USE1 region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GJ2WD77XFX753GMU" : {
+        "GJ2WD77XFX753GMU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GJ2WD77XFX753GMU",
+          "effectiveDate" : "2016-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GJ2WD77XFX753GMU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GJ2WD77XFX753GMU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4 per user per month in the USE1 region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "4.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

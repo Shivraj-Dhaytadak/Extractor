@@ -1,0 +1,3066 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "CodeCatalyst",
+  "version" : "20231122231921",
+  "publicationDate" : "2023-11-22T23:19:21Z",
+  "products" : {
+    "YW7J6TDXJD62MW45" : {
+      "sku" : "YW7J6TDXJD62MW45",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "CZAXWV27P7EG5RX8" : {
+      "sku" : "CZAXWV27P7EG5RX8",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "8XPU5PW8NGDM7V8D" : {
+      "sku" : "8XPU5PW8NGDM7V8D",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "FF94H8H5HB2HA9J9" : {
+      "sku" : "FF94H8H5HB2HA9J9",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-8vCPU-16GB-DevEnvironment-Compute",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "MDE",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "GBY63EED7GF7J5T5" : {
+      "sku" : "GBY63EED7GF7J5T5",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "FKCTZB3T87TZUD9R" : {
+      "sku" : "FKCTZB3T87TZUD9R",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "U7S92WBTKRP49WUR" : {
+      "sku" : "U7S92WBTKRP49WUR",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Dev-Environment-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "QDF6MAN24TWGBKY7" : {
+      "sku" : "QDF6MAN24TWGBKY7",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DevEnvironment-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Workspace"
+      }
+    },
+    "5R229X4CPSQD4G7H" : {
+      "sku" : "5R229X4CPSQD4G7H",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-16vCPU-32GB-DevEnvironment-Compute",
+        "operation" : "",
+        "instanceSize" : "16vCPU",
+        "osType" : "MDE",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "437GEJB5W8KZAVMN" : {
+      "sku" : "437GEJB5W8KZAVMN",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "MR4KFYEA7VATQCMN" : {
+      "sku" : "MR4KFYEA7VATQCMN",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-16vCPU-Dev-Environment-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "16vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "QR6CU8NX5JPNAGRT" : {
+      "sku" : "QR6CU8NX5JPNAGRT",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "9SSKWGT5D5XRZFS2" : {
+      "sku" : "9SSKWGT5D5XRZFS2",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Enterprise-User-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Enterprise"
+      }
+    },
+    "TQ2BAHR3TZXUN84P" : {
+      "sku" : "TQ2BAHR3TZXUN84P",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Attachment-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Attachment"
+      }
+    },
+    "C5TCPUZKFPJYV8WS" : {
+      "sku" : "C5TCPUZKFPJYV8WS",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-DevEnvironment-Compute",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "MDE",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "R8V3E64MYSCWN7WW" : {
+      "sku" : "R8V3E64MYSCWN7WW",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Enterprise-User-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Enterprise"
+      }
+    },
+    "SFD5D5BWMWDD8Z7K" : {
+      "sku" : "SFD5D5BWMWDD8Z7K",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Dev-Environment-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "78R8HTEM53YCU8SJ" : {
+      "sku" : "78R8HTEM53YCU8SJ",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Packages-Requests-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "packageType" : "Requests",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "6JMMCAR2VC3YXBMC" : {
+      "sku" : "6JMMCAR2VC3YXBMC",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "MCA2RSDEZ8M2W799" : {
+      "sku" : "MCA2RSDEZ8M2W799",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Standard-User-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Standard"
+      }
+    },
+    "5C4QZPGNVK7R9N9K" : {
+      "sku" : "5C4QZPGNVK7R9N9K",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Source-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Source"
+      }
+    },
+    "68R322X4MA7K8BHS" : {
+      "sku" : "68R322X4MA7K8BHS",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "CNT32QGZJ9D6EEF6" : {
+      "sku" : "CNT32QGZJ9D6EEF6",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "XWEDNA5B7TEZZCKE" : {
+      "sku" : "XWEDNA5B7TEZZCKE",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "SY5GHXCJCMU5M422" : {
+      "sku" : "SY5GHXCJCMU5M422",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "XB9GY6PYHPHN8JM3" : {
+      "sku" : "XB9GY6PYHPHN8JM3",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "WCY4HCP3YNXB9NF4" : {
+      "sku" : "WCY4HCP3YNXB9NF4",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VPYZNC2BVYJGGP3J" : {
+      "sku" : "VPYZNC2BVYJGGP3J",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Package-Storage",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Package"
+      }
+    },
+    "F3TAMNZWESDAB3JG" : {
+      "sku" : "F3TAMNZWESDAB3JG",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "5TRTV54FEUMKQCPD" : {
+      "sku" : "5TRTV54FEUMKQCPD",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "H37YN8HZGHVTKHWP" : {
+      "sku" : "H37YN8HZGHVTKHWP",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Compute",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "53WK4V53Y69PCBCS" : {
+      "sku" : "53WK4V53Y69PCBCS",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "C42B66M9BNDTVQ2H" : {
+      "sku" : "C42B66M9BNDTVQ2H",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "NQE9GHDBXBH3S8WK" : {
+      "sku" : "NQE9GHDBXBH3S8WK",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Dev-Environment-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Workspace"
+      }
+    },
+    "92WKH9S5JG8QF9MN" : {
+      "sku" : "92WKH9S5JG8QF9MN",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "9UE9263GDFWT8AWQ" : {
+      "sku" : "9UE9263GDFWT8AWQ",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Free-User-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Free"
+      }
+    },
+    "6NP6KP6SGNUS2E9V" : {
+      "sku" : "6NP6KP6SGNUS2E9V",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "764Q4QR34PXRM558" : {
+      "sku" : "764Q4QR34PXRM558",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "CDKSJXDT6MESWFQN" : {
+      "sku" : "CDKSJXDT6MESWFQN",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Usage",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "DZX9PR4BQ5E34QKX" : {
+      "sku" : "DZX9PR4BQ5E34QKX",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VGPP2CYBVPX2PSBS" : {
+      "sku" : "VGPP2CYBVPX2PSBS",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Dev-Environment-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "GSKEYQ6FNWBHBAE4" : {
+      "sku" : "GSKEYQ6FNWBHBAE4",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Dev-Environment-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "2vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "B9A95BXG6KWHV6WE" : {
+      "sku" : "B9A95BXG6KWHV6WE",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "6G8GPXU2HUFEZHXT" : {
+      "sku" : "6G8GPXU2HUFEZHXT",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Package-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Package"
+      }
+    },
+    "NCEM8XRBDM63EV55" : {
+      "sku" : "NCEM8XRBDM63EV55",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Dev-Environment-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "2vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "CFSME556XD4B3MDW" : {
+      "sku" : "CFSME556XD4B3MDW",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Package-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Package"
+      }
+    },
+    "BWMP6984T7M34774" : {
+      "sku" : "BWMP6984T7M34774",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "W4GTB66FPG8REQZG" : {
+      "sku" : "W4GTB66FPG8REQZG",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VFRHF3KZ86A72EZR" : {
+      "sku" : "VFRHF3KZ86A72EZR",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VZJP2KTQ24UZ2VJC" : {
+      "sku" : "VZJP2KTQ24UZ2VJC",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "EYPME8Y2FBAJFU3U" : {
+      "sku" : "EYPME8Y2FBAJFU3U",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Dev-Environment-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "GWUKABR5X74AAVQH" : {
+      "sku" : "GWUKABR5X74AAVQH",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Windows-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "DNVD7TUX426HDNZU" : {
+      "sku" : "DNVD7TUX426HDNZU",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Repo-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Source"
+      }
+    },
+    "RKBJSWDV7RRQAQXR" : {
+      "sku" : "RKBJSWDV7RRQAQXR",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-4vCPU-8GB-DevEnvironment-Compute",
+        "operation" : "",
+        "instanceSize" : "4vCPU",
+        "osType" : "MDE",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "3GQ84F9BQHBMFQ8Z" : {
+      "sku" : "3GQ84F9BQHBMFQ8Z",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "FPFSKNBQFB5B4FEC" : {
+      "sku" : "FPFSKNBQFB5B4FEC",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-DevEnvironment-Storage",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Workspace"
+      }
+    },
+    "5FMJC3QG733SSCK5" : {
+      "sku" : "5FMJC3QG733SSCK5",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "82DMT78CANT8QKP5" : {
+      "sku" : "82DMT78CANT8QKP5",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "ASUAQ9ME2TVZVQW9" : {
+      "sku" : "ASUAQ9ME2TVZVQW9",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Attachment-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Attachment"
+      }
+    },
+    "7RDR5QA89Z4VQEBF" : {
+      "sku" : "7RDR5QA89Z4VQEBF",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "JJZCNVT4SEMA3FX8" : {
+      "sku" : "JJZCNVT4SEMA3FX8",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Dev-Environment-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Workspace"
+      }
+    },
+    "5TD6BZ7JF3VEJWWX" : {
+      "sku" : "5TD6BZ7JF3VEJWWX",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Provisioned-Usage",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "V6276JJHDUU27VUP" : {
+      "sku" : "V6276JJHDUU27VUP",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "Y22V6PYTDANT5Q5G" : {
+      "sku" : "Y22V6PYTDANT5Q5G",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "SNQVP5VHT823MKGW" : {
+      "sku" : "SNQVP5VHT823MKGW",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Source-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Source"
+      }
+    },
+    "TCJC3GK9UFKAA3WW" : {
+      "sku" : "TCJC3GK9UFKAA3WW",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "EJMJ7M46NVX3DTUJ" : {
+      "sku" : "EJMJ7M46NVX3DTUJ",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-2vCPU-4GB-DevEnvironment-Compute",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "MDE",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "7QPCMMQWHN787RV5" : {
+      "sku" : "7QPCMMQWHN787RV5",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Repo-Storage",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Source"
+      }
+    },
+    "A73HYCA8865MPXHY" : {
+      "sku" : "A73HYCA8865MPXHY",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Standard-User-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Standard"
+      }
+    },
+    "BEV9K6TG94WWHXDQ" : {
+      "sku" : "BEV9K6TG94WWHXDQ",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "26UVMSSK5MT28FZ2" : {
+      "sku" : "26UVMSSK5MT28FZ2",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "GCZE6V8CWZ7BNXVF" : {
+      "sku" : "GCZE6V8CWZ7BNXVF",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-4vCPU-Linux-Provisioned-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "4vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "H9E6VW4UYCZ64HWM" : {
+      "sku" : "H9E6VW4UYCZ64HWM",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Packages-Requests-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "packageType" : "Requests",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VABC5R2VB6YNMTK9" : {
+      "sku" : "VABC5R2VB6YNMTK9",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage-Package-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "storageType" : "Package"
+      }
+    },
+    "4H5K9MVNBF4YCSR9" : {
+      "sku" : "4H5K9MVNBF4YCSR9",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Usage",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "KPFBP52UAXMFRMZP" : {
+      "sku" : "KPFBP52UAXMFRMZP",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-16vCPU-Dev-Environment-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "16vCPU",
+        "osType" : "Dev-Environment",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "VV7RT9BT2US5FN8U" : {
+      "sku" : "VV7RT9BT2US5FN8U",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "V3F6GZHNRDWF7WT8" : {
+      "sku" : "V3F6GZHNRDWF7WT8",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "Pre-Provisioned",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "88CCUGTKRY2PGSGT" : {
+      "sku" : "88CCUGTKRY2PGSGT",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "YV7Y4DCM4DQB26EV" : {
+      "sku" : "YV7Y4DCM4DQB26EV",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-Arm64-Usage",
+        "operation" : "",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "J9B3CAVKR3BDBDK9" : {
+      "sku" : "J9B3CAVKR3BDBDK9",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-2vCPU-Linux-On-Demand-Usage-Included",
+        "operation" : "",
+        "chargeType" : "Included",
+        "instanceSize" : "2vCPU",
+        "osType" : "Linux",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "GKT2KSKBXF9RTRZ5" : {
+      "sku" : "GKT2KSKBXF9RTRZ5",
+      "productFamily" : "User Fees",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Free-User-Billed",
+        "operation" : "",
+        "chargeType" : "Billed",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst",
+        "tier" : "Free"
+      }
+    },
+    "SMXD9Q8WKQQPBBHD" : {
+      "sku" : "SMXD9Q8WKQQPBBHD",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Windows-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Windows",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    },
+    "U8HCJH2AJ7K52BR6" : {
+      "sku" : "U8HCJH2AJ7K52BR6",
+      "attributes" : {
+        "servicecode" : "CodeCatalyst",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Compute-8vCPU-Linux-Arm64-Usage",
+        "operation" : "",
+        "instanceSize" : "8vCPU",
+        "osType" : "Linux-ARM64",
+        "provisioningType" : "On-Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeCatalyst"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "GWUKABR5X74AAVQH" : {
+        "GWUKABR5X74AAVQH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWUKABR5X74AAVQH",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWUKABR5X74AAVQH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWUKABR5X74AAVQH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU 8 GB Windows On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RKBJSWDV7RRQAQXR" : {
+        "RKBJSWDV7RRQAQXR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RKBJSWDV7RRQAQXR",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "RKBJSWDV7RRQAQXR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RKBJSWDV7RRQAQXR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.23 per hours for 4vCPU-8GB-DevEnvironment-Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GBY63EED7GF7J5T5" : {
+        "GBY63EED7GF7J5T5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GBY63EED7GF7J5T5",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GBY63EED7GF7J5T5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GBY63EED7GF7J5T5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EJMJ7M46NVX3DTUJ" : {
+        "EJMJ7M46NVX3DTUJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EJMJ7M46NVX3DTUJ",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "EJMJ7M46NVX3DTUJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EJMJ7M46NVX3DTUJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.12 per hours for 2vCPU-4GB-DevEnvironment-Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5TD6BZ7JF3VEJWWX" : {
+        "5TD6BZ7JF3VEJWWX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5TD6BZ7JF3VEJWWX",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "5TD6BZ7JF3VEJWWX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5TD6BZ7JF3VEJWWX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.003 per Minutes for Compute-2vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FMJC3QG733SSCK5" : {
+        "5FMJC3QG733SSCK5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5FMJC3QG733SSCK5",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FMJC3QG733SSCK5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5FMJC3QG733SSCK5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B9A95BXG6KWHV6WE" : {
+        "B9A95BXG6KWHV6WE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B9A95BXG6KWHV6WE",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "B9A95BXG6KWHV6WE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B9A95BXG6KWHV6WE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0216 per Minutes for Compute-8vCPU-Windows-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0216000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GKT2KSKBXF9RTRZ5" : {
+        "GKT2KSKBXF9RTRZ5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GKT2KSKBXF9RTRZ5",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GKT2KSKBXF9RTRZ5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GKT2KSKBXF9RTRZ5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per User/Month for Free Tier User Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W4GTB66FPG8REQZG" : {
+        "W4GTB66FPG8REQZG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W4GTB66FPG8REQZG",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "W4GTB66FPG8REQZG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W4GTB66FPG8REQZG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Windows Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9SSKWGT5D5XRZFS2" : {
+        "9SSKWGT5D5XRZFS2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9SSKWGT5D5XRZFS2",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "9SSKWGT5D5XRZFS2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9SSKWGT5D5XRZFS2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per User/Month for Enterprise Tier User Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VZJP2KTQ24UZ2VJC" : {
+        "VZJP2KTQ24UZ2VJC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VZJP2KTQ24UZ2VJC",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VZJP2KTQ24UZ2VJC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VZJP2KTQ24UZ2VJC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU 8 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5R229X4CPSQD4G7H" : {
+        "5R229X4CPSQD4G7H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5R229X4CPSQD4G7H",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "5R229X4CPSQD4G7H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5R229X4CPSQD4G7H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.92 per hours for 16vCPU-32GB-DevEnvironment-Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.9200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "26UVMSSK5MT28FZ2" : {
+        "26UVMSSK5MT28FZ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "26UVMSSK5MT28FZ2",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "26UVMSSK5MT28FZ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "26UVMSSK5MT28FZ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0044 per minute for Compute 4 vCPU 8 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0044000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9UE9263GDFWT8AWQ" : {
+        "9UE9263GDFWT8AWQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9UE9263GDFWT8AWQ",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "9UE9263GDFWT8AWQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9UE9263GDFWT8AWQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per User/Month for Free Tier User Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F3TAMNZWESDAB3JG" : {
+        "F3TAMNZWESDAB3JG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F3TAMNZWESDAB3JG",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "F3TAMNZWESDAB3JG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F3TAMNZWESDAB3JG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU 8 GB Windows On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EYPME8Y2FBAJFU3U" : {
+        "EYPME8Y2FBAJFU3U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EYPME8Y2FBAJFU3U",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "EYPME8Y2FBAJFU3U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EYPME8Y2FBAJFU3U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.46 per hour for Dev Environment 8 vCPU 16 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.4600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GCZE6V8CWZ7BNXVF" : {
+        "GCZE6V8CWZ7BNXVF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GCZE6V8CWZ7BNXVF",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GCZE6V8CWZ7BNXVF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GCZE6V8CWZ7BNXVF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU  8 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H9E6VW4UYCZ64HWM" : {
+        "H9E6VW4UYCZ64HWM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H9E6VW4UYCZ64HWM",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "H9E6VW4UYCZ64HWM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H9E6VW4UYCZ64HWM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.35 per 10k Requests for Packages in US East (N. Virginia) Included",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DNVD7TUX426HDNZU" : {
+        "DNVD7TUX426HDNZU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DNVD7TUX426HDNZU",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "DNVD7TUX426HDNZU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DNVD7TUX426HDNZU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB for Repo-Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5C4QZPGNVK7R9N9K" : {
+        "5C4QZPGNVK7R9N9K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5C4QZPGNVK7R9N9K",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "5C4QZPGNVK7R9N9K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5C4QZPGNVK7R9N9K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Gigabyte for Storage - Repos - Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GSKEYQ6FNWBHBAE4" : {
+        "GSKEYQ6FNWBHBAE4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GSKEYQ6FNWBHBAE4",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GSKEYQ6FNWBHBAE4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GSKEYQ6FNWBHBAE4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.12 per hour for Dev Environment 2 vCPU 4 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H37YN8HZGHVTKHWP" : {
+        "H37YN8HZGHVTKHWP.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "H37YN8HZGHVTKHWP",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "H37YN8HZGHVTKHWP.A429C66SYZ.9FGACD7APG" : {
+              "rateCode" : "H37YN8HZGHVTKHWP.A429C66SYZ.9FGACD7APG",
+              "description" : "Global rate for Compute",
+              "beginRange" : "0",
+              "endRange" : "3000",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "EABC4ANAS5MAWVT6", "WS7SWNCYKU4MMJZC", "Y2YQZM9ZPG3AX7Y6", "T6CRU8KTAY6P46CT", "5Y54ZQ6TCWEUU2KT", "D9HDCN8B942Z5SUC", "2V8MCXD2H4SAKB8S", "8QE4VT3K7CY5GKVW", "K2EE5BJ8K6STFMKB", "CZAXWV27P7EG5RX8", "57JJW49USXSZJGH4", "FKCTZB3T87TZUD9R", "8CEJZQ3Q6CAXHU64", "4KB3DBR7SBRCA362", "QR6CU8NX5JPNAGRT", "QKSU2X7JEYGURADT", "DGNFMXJ33PFZ8KRF", "HZ8GAU4N5VUA4JYC", "6FCX5EBJAXCS5D9Y", "EGRHWK4H6HJ8HPF4", "FJEFC43SX6TFKRH5", "G92Q2CABVK8HQX5X", "TQ9VDAUPKAZECT46", "YE3XASKZCJFXP62U", "YEPCGTEVVDJCAFQR", "RHTFFNV7CUBGTZNR", "CNT32QGZJ9D6EEF6", "5XCK5NA3HZN5CQHC", "XWEDNA5B7TEZZCKE", "F8WKRU3NW3V7JTBK", "RUMYZZ56PQ4DA3UV", "UDBGCPZV5ZNJ8ACB", "WCY4HCP3YNXB9NF4", "VV4AZ3EUMHM6GHGE", "QP8BHGH8VS3FHTJX", "QHV5YFNXEFHMGHA4", "FXF2KY2W7M7DPV7C", "53WK4V53Y69PCBCS", "8TXGEG92VBS5P55E", "BAEUG4CMF8F4TMHD", "EQV86DGS74FRTYA7", "299SZ7G25Z4N7YPM", "WRZ45FTBCW62R76B", "6NP6KP6SGNUS2E9V", "3WUWNYCGW336G8US", "R3WY5KX844JDVHPK", "CDKSJXDT6MESWFQN", "45XE3EJWN9R6HC8N", "QCV4D92RSHFU9K44", "8F38YXGWN74ENB5V", "B2V5FBXGZGM9QEJE", "3RZDBU4PENYY4HWU", "B9A95BXG6KWHV6WE", "HZFAK4BMMG97URUM", "8DX87ADKBBRDZMEU", "ASK7V7USX7PHJZ8S", "BWMP6984T7M34774", "G4YPW22URMG7XKB2", "R8BU9QYQM4PMB2FP", "MUFJAGVCK79NAW9C", "4A32EU42SN2TDAQK", "A2SNXZFGTMPCPCQG", "9PGH6GAVJMVP9R44", "QA2BMK5XTYMYXMTN", "WE87PKCFJWVVX2QN", "8MYVBG6BBCMN3GW7", "UUTW3J5CEM7HAWYX", "5TD6BZ7JF3VEJWWX", "QRJBV4RWE6G4AN5V", "CNKGM6Z4WNJ9GU82", "M545JH32NZEFMYKH", "VUUJZTJMXTGYVX36", "4H5K9MVNBF4YCSR9", "7J2FYV7N5JSV2ECQ", "YV7Y4DCM4DQB26EV", "3555PH6XYA3KB4QA", "U8HCJH2AJ7K52BR6", "SMXD9Q8WKQQPBBHD" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "3GQ84F9BQHBMFQ8Z" : {
+        "3GQ84F9BQHBMFQ8Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3GQ84F9BQHBMFQ8Z",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "3GQ84F9BQHBMFQ8Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3GQ84F9BQHBMFQ8Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per minute for Compute 8 vCPU 16 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QDF6MAN24TWGBKY7" : {
+        "QDF6MAN24TWGBKY7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QDF6MAN24TWGBKY7",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "QDF6MAN24TWGBKY7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QDF6MAN24TWGBKY7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per Gigabyte for DevEnvironment-Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C42B66M9BNDTVQ2H" : {
+        "C42B66M9BNDTVQ2H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C42B66M9BNDTVQ2H",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "C42B66M9BNDTVQ2H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C42B66M9BNDTVQ2H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.003 per minute for Compute 2 vCPU 4 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SFD5D5BWMWDD8Z7K" : {
+        "SFD5D5BWMWDD8Z7K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SFD5D5BWMWDD8Z7K",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "SFD5D5BWMWDD8Z7K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SFD5D5BWMWDD8Z7K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.23 per hour for Dev Environment 4 vCPU 8 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.2300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CDKSJXDT6MESWFQN" : {
+        "CDKSJXDT6MESWFQN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CDKSJXDT6MESWFQN",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "CDKSJXDT6MESWFQN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CDKSJXDT6MESWFQN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per Minutes for Compute-4vCPU-Linux-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CZAXWV27P7EG5RX8" : {
+        "CZAXWV27P7EG5RX8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CZAXWV27P7EG5RX8",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "CZAXWV27P7EG5RX8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CZAXWV27P7EG5RX8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.018 per Minutes for Compute-4vCPU-Windows-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VGPP2CYBVPX2PSBS" : {
+        "VGPP2CYBVPX2PSBS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VGPP2CYBVPX2PSBS",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VGPP2CYBVPX2PSBS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VGPP2CYBVPX2PSBS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Dev Environment 4 vCPU 8 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KPFBP52UAXMFRMZP" : {
+        "KPFBP52UAXMFRMZP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KPFBP52UAXMFRMZP",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "KPFBP52UAXMFRMZP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KPFBP52UAXMFRMZP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Dev Environment 16 vCPU 32 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YW7J6TDXJD62MW45" : {
+        "YW7J6TDXJD62MW45.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YW7J6TDXJD62MW45",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "YW7J6TDXJD62MW45.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YW7J6TDXJD62MW45.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU 8 GB Windows Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XWEDNA5B7TEZZCKE" : {
+        "XWEDNA5B7TEZZCKE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XWEDNA5B7TEZZCKE",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "XWEDNA5B7TEZZCKE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XWEDNA5B7TEZZCKE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0044 per minutes for Compute-4vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0044000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BWMP6984T7M34774" : {
+        "BWMP6984T7M34774.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BWMP6984T7M34774",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "BWMP6984T7M34774.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BWMP6984T7M34774.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per Minutes for Compute-8vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4H5K9MVNBF4YCSR9" : {
+        "4H5K9MVNBF4YCSR9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4H5K9MVNBF4YCSR9",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "4H5K9MVNBF4YCSR9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4H5K9MVNBF4YCSR9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per Minutes for Compute-2vCPU-Linux-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FKCTZB3T87TZUD9R" : {
+        "FKCTZB3T87TZUD9R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FKCTZB3T87TZUD9R",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "FKCTZB3T87TZUD9R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FKCTZB3T87TZUD9R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0068 per minutes for Compute-4vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0068000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7QPCMMQWHN787RV5" : {
+        "7QPCMMQWHN787RV5.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "7QPCMMQWHN787RV5",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "7QPCMMQWHN787RV5.A429C66SYZ.C2QCTD4VXQ" : {
+              "rateCode" : "7QPCMMQWHN787RV5.A429C66SYZ.C2QCTD4VXQ",
+              "description" : "Global rate for Repo-Storage",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "ETRFGAKVXBC7EW96", "CNVTF9Y6DV6A85JT", "DNVD7TUX426HDNZU", "ZBJX6TS636ZU33SS", "V89EENF4BPU8BA7B", "DCSZWFSUCM4UVZ48" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "A73HYCA8865MPXHY" : {
+        "A73HYCA8865MPXHY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A73HYCA8865MPXHY",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "A73HYCA8865MPXHY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A73HYCA8865MPXHY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4 per User/Month for Standard Tier User Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "4.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "68R322X4MA7K8BHS" : {
+        "68R322X4MA7K8BHS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "68R322X4MA7K8BHS",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "68R322X4MA7K8BHS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "68R322X4MA7K8BHS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per minute for Compute 4 vCPU  8 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C5TCPUZKFPJYV8WS" : {
+        "C5TCPUZKFPJYV8WS.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "C5TCPUZKFPJYV8WS",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "C5TCPUZKFPJYV8WS.A429C66SYZ.ZGSFYEJKJH" : {
+              "rateCode" : "C5TCPUZKFPJYV8WS.A429C66SYZ.ZGSFYEJKJH",
+              "description" : "Global rate for DevEnvironment-Compute",
+              "beginRange" : "0",
+              "endRange" : "200",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "M5AQRBH7NQBBHKVY", "S24JNHW95GASFHA5", "FF94H8H5HB2HA9J9", "KH5B8JSEDCY5YYCC", "U7S92WBTKRP49WUR", "STA6AACPTPWUN9MR", "5R229X4CPSQD4G7H", "MR4KFYEA7VATQCMN", "SS4FNRVWCSF59YP3", "R4P6RGF6W6VMU24X", "SKZQTTM4MGWAF3MP", "RN3N85YW9N9FQD95", "66Y2G3E7NTSCCNSQ", "FY8YCRKX5GRTUVHQ", "8T3B489GJFNY5RE9", "SFD5D5BWMWDD8Z7K", "2QVFM6AM4GJ97GJ5", "UQKAWBEQ7KVE9S7K", "8UGMTBR6SCQ7BQ2Z", "7V5QYCKN27YKGR9N", "VDBXPAYF8C4N6EEM", "6FPMAJEGTAUUZMTX", "2M9EX8YGPBMFQ8VP", "M9P9MG8JH3MJ5DVA", "FFUBST9D488WQZ4N", "JABXK2KKSN4K7B9V", "QQF4A2PZET6FF2ZT", "ECAQ65XNVTV5V9NR", "86D7F34CKCSGZ5V4", "QQ2FKQVFU7CRWFPJ", "2AG7MPWFEVM58NZR", "QEAW88F7SS2ZZVT3", "UW3NB3Q82QPWRSDW", "D83ZQS9GZRPXFSA8", "28B3JEQWRZKXMRVZ", "Z6SQ3Q4BEDWBS6AY", "8BH6472Z9QXVXH6D", "WHBAU4Q8MHVQX5RA", "36CJQDRCRXC2DYH3", "9VBJRSW6N7BQENDR", "NUCMP7ZPYYJW3GJ7", "X6SWTZPC99YVYJMC", "VGPP2CYBVPX2PSBS", "GSKEYQ6FNWBHBAE4", "3P4TKR3G638HXGNH", "KVVK8NPHK8JUEBHW", "HWSQT247VZXFWCPG", "B8NNE2Q2EZPHRKJ2", "JQBEYKE4RUFUV9A5", "NCEM8XRBDM63EV55", "QPH72BV2BYHAZSER", "VSZXTVFFB5DG7G8V", "WADJXYTXPMFC9HPJ", "7V9H3QUTRU77MTKE", "EYPME8Y2FBAJFU3U", "DGPMHK647QHETZAR", "RKBJSWDV7RRQAQXR", "QZDGCKPZP9SRQ6XS", "9XPSM29UZHS8NB8R", "PH34RNQQ3J5FDJCD", "UVGJA9E9NMFRGGG7", "85YKD8N9ECZ3D22Z", "FD7SRKGMUSVXBKYW", "FBVN6AJ4UXS7KJ5Q", "YUGDAMZC4AK6ZKKN", "VV4XHNCJCZTPUDPQ", "EJMJ7M46NVX3DTUJ", "TFEXU723PEGWQNK9", "KPFBP52UAXMFRMZP", "NQ8UM3UP87KGRR46", "RGWS89VJV24PFADH", "8TWDJFCHP5W7MYRY" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "6JMMCAR2VC3YXBMC" : {
+        "6JMMCAR2VC3YXBMC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6JMMCAR2VC3YXBMC",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "6JMMCAR2VC3YXBMC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6JMMCAR2VC3YXBMC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per minute for Compute 8 vCPU 16 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VV7RT9BT2US5FN8U" : {
+        "VV7RT9BT2US5FN8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VV7RT9BT2US5FN8U",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VV7RT9BT2US5FN8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VV7RT9BT2US5FN8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0216 per minute for Compute 8 vCPU 16 GB Windows Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0216000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7RDR5QA89Z4VQEBF" : {
+        "7RDR5QA89Z4VQEBF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7RDR5QA89Z4VQEBF",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "7RDR5QA89Z4VQEBF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7RDR5QA89Z4VQEBF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Windows On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QR6CU8NX5JPNAGRT" : {
+        "QR6CU8NX5JPNAGRT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QR6CU8NX5JPNAGRT",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "QR6CU8NX5JPNAGRT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QR6CU8NX5JPNAGRT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0108 per Minutes for Compute-4vCPU-Windows-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0108000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CNT32QGZJ9D6EEF6" : {
+        "CNT32QGZJ9D6EEF6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CNT32QGZJ9D6EEF6",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "CNT32QGZJ9D6EEF6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CNT32QGZJ9D6EEF6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per Minutes for Compute-8vCPU-Linux-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VPYZNC2BVYJGGP3J" : {
+        "VPYZNC2BVYJGGP3J.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "VPYZNC2BVYJGGP3J",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VPYZNC2BVYJGGP3J.A429C66SYZ.C2QCTD4VXQ" : {
+              "rateCode" : "VPYZNC2BVYJGGP3J.A429C66SYZ.C2QCTD4VXQ",
+              "description" : "Global rate for Package-Storage",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "KZT92MVVKGXNA827", "TGHRHBH9SRM4H7JQ", "CFSME556XD4B3MDW", "WVS2CFJ7HTYQNBMU", "YN7BU65BKSKTR83B", "A4J69P35PSCFEZD3" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "437GEJB5W8KZAVMN" : {
+        "437GEJB5W8KZAVMN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "437GEJB5W8KZAVMN",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "437GEJB5W8KZAVMN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "437GEJB5W8KZAVMN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU 8 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "82DMT78CANT8QKP5" : {
+        "82DMT78CANT8QKP5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "82DMT78CANT8QKP5",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "82DMT78CANT8QKP5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "82DMT78CANT8QKP5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0068 per minute for Compute 4 vCPU 8 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0068000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6276JJHDUU27VUP" : {
+        "V6276JJHDUU27VUP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6276JJHDUU27VUP",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6276JJHDUU27VUP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6276JJHDUU27VUP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 4 vCPU  8 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8XPU5PW8NGDM7V8D" : {
+        "8XPU5PW8NGDM7V8D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8XPU5PW8NGDM7V8D",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "8XPU5PW8NGDM7V8D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8XPU5PW8NGDM7V8D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per minute for Compute 2 vCPU 4 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6G8GPXU2HUFEZHXT" : {
+        "6G8GPXU2HUFEZHXT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6G8GPXU2HUFEZHXT",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "6G8GPXU2HUFEZHXT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6G8GPXU2HUFEZHXT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Gigabyte for Storage - Packages - Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3F6GZHNRDWF7WT8" : {
+        "V3F6GZHNRDWF7WT8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3F6GZHNRDWF7WT8",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3F6GZHNRDWF7WT8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3F6GZHNRDWF7WT8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0088 per minute for Compute 8 vCPU 16 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0088000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VFRHF3KZ86A72EZR" : {
+        "VFRHF3KZ86A72EZR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VFRHF3KZ86A72EZR",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VFRHF3KZ86A72EZR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VFRHF3KZ86A72EZR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0022 per minute for Compute 2 vCPU 4 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0022000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TCJC3GK9UFKAA3WW" : {
+        "TCJC3GK9UFKAA3WW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TCJC3GK9UFKAA3WW",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "TCJC3GK9UFKAA3WW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TCJC3GK9UFKAA3WW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ASUAQ9ME2TVZVQW9" : {
+        "ASUAQ9ME2TVZVQW9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ASUAQ9ME2TVZVQW9",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "ASUAQ9ME2TVZVQW9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ASUAQ9ME2TVZVQW9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Gigabyte for Storage - Attachments -  Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U7S92WBTKRP49WUR" : {
+        "U7S92WBTKRP49WUR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U7S92WBTKRP49WUR",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "U7S92WBTKRP49WUR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U7S92WBTKRP49WUR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Dev Environment 8 vCPU 16 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SMXD9Q8WKQQPBBHD" : {
+        "SMXD9Q8WKQQPBBHD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SMXD9Q8WKQQPBBHD",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "SMXD9Q8WKQQPBBHD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SMXD9Q8WKQQPBBHD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.036 per Minutes for Compute-8vCPU-Windows-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0360000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R8V3E64MYSCWN7WW" : {
+        "R8V3E64MYSCWN7WW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R8V3E64MYSCWN7WW",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8V3E64MYSCWN7WW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R8V3E64MYSCWN7WW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20  per User/Month for Enterprise Tier User Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "53WK4V53Y69PCBCS" : {
+        "53WK4V53Y69PCBCS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "53WK4V53Y69PCBCS",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "53WK4V53Y69PCBCS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "53WK4V53Y69PCBCS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0022 per minutes for Compute-2vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0022000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "764Q4QR34PXRM558" : {
+        "764Q4QR34PXRM558.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "764Q4QR34PXRM558",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "764Q4QR34PXRM558.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "764Q4QR34PXRM558.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0034 per minute for Compute 2 vCPU 4 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "92WKH9S5JG8QF9MN" : {
+        "92WKH9S5JG8QF9MN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "92WKH9S5JG8QF9MN",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "92WKH9S5JG8QF9MN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "92WKH9S5JG8QF9MN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Windows On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BEV9K6TG94WWHXDQ" : {
+        "BEV9K6TG94WWHXDQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BEV9K6TG94WWHXDQ",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "BEV9K6TG94WWHXDQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BEV9K6TG94WWHXDQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 8 vCPU 16 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "78R8HTEM53YCU8SJ" : {
+        "78R8HTEM53YCU8SJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "78R8HTEM53YCU8SJ",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "78R8HTEM53YCU8SJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "78R8HTEM53YCU8SJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.35 per 10k Requests for Packages in US East (N. Virginia) Billed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "88CCUGTKRY2PGSGT" : {
+        "88CCUGTKRY2PGSGT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "88CCUGTKRY2PGSGT",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "88CCUGTKRY2PGSGT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "88CCUGTKRY2PGSGT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0136 per minute for Compute 8 vCPU 16 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0136000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NQE9GHDBXBH3S8WK" : {
+        "NQE9GHDBXBH3S8WK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NQE9GHDBXBH3S8WK",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "NQE9GHDBXBH3S8WK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NQE9GHDBXBH3S8WK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per Gigabyte for Storage - Dev Environments - Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NCEM8XRBDM63EV55" : {
+        "NCEM8XRBDM63EV55.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NCEM8XRBDM63EV55",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "NCEM8XRBDM63EV55.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NCEM8XRBDM63EV55.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per hour for Dev Environment 2 vCPU 4 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6NP6KP6SGNUS2E9V" : {
+        "6NP6KP6SGNUS2E9V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6NP6KP6SGNUS2E9V",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "6NP6KP6SGNUS2E9V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6NP6KP6SGNUS2E9V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0088 per minutes for Compute-8vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0088000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SY5GHXCJCMU5M422" : {
+        "SY5GHXCJCMU5M422.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SY5GHXCJCMU5M422",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "SY5GHXCJCMU5M422.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SY5GHXCJCMU5M422.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 2 vCPU 4 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FPFSKNBQFB5B4FEC" : {
+        "FPFSKNBQFB5B4FEC.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "FPFSKNBQFB5B4FEC",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "FPFSKNBQFB5B4FEC.A429C66SYZ.ZMFFFDMT3W" : {
+              "rateCode" : "FPFSKNBQFB5B4FEC.A429C66SYZ.ZMFFFDMT3W",
+              "description" : "Global rate for DevEnvironment-Storage",
+              "beginRange" : "0",
+              "endRange" : "128",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "K58TWR86N7Z6FSNG", "CV8QWMEQMGHE9HP3", "279PV6FXAPGXX8XT", "UDRJWC3RDDE5894J", "2P5ZGR7T6VN3FXPU", "QDF6MAN24TWGBKY7", "UHVPJ6XZP2BQDKP4" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "YV7Y4DCM4DQB26EV" : {
+        "YV7Y4DCM4DQB26EV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YV7Y4DCM4DQB26EV",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "YV7Y4DCM4DQB26EV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YV7Y4DCM4DQB26EV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0034 per minutes for Compute-2vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VABC5R2VB6YNMTK9" : {
+        "VABC5R2VB6YNMTK9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VABC5R2VB6YNMTK9",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "VABC5R2VB6YNMTK9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VABC5R2VB6YNMTK9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Gigabyte for Storage - Packages - Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SNQVP5VHT823MKGW" : {
+        "SNQVP5VHT823MKGW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SNQVP5VHT823MKGW",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "SNQVP5VHT823MKGW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SNQVP5VHT823MKGW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Gigabyte for Storage - Repos - Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DZX9PR4BQ5E34QKX" : {
+        "DZX9PR4BQ5E34QKX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DZX9PR4BQ5E34QKX",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "DZX9PR4BQ5E34QKX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DZX9PR4BQ5E34QKX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.018 per minute for Compute 4 vCPU 8 GB Windows Pre-Provisioned Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0108000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U8HCJH2AJ7K52BR6" : {
+        "U8HCJH2AJ7K52BR6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U8HCJH2AJ7K52BR6",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "U8HCJH2AJ7K52BR6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U8HCJH2AJ7K52BR6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0136 per minutes for Compute-8vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0136000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J9B3CAVKR3BDBDK9" : {
+        "J9B3CAVKR3BDBDK9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J9B3CAVKR3BDBDK9",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "J9B3CAVKR3BDBDK9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J9B3CAVKR3BDBDK9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 2 vCPU 4 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MCA2RSDEZ8M2W799" : {
+        "MCA2RSDEZ8M2W799.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MCA2RSDEZ8M2W799",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "MCA2RSDEZ8M2W799.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MCA2RSDEZ8M2W799.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per User/Month for Standard Tier User Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FF94H8H5HB2HA9J9" : {
+        "FF94H8H5HB2HA9J9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FF94H8H5HB2HA9J9",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "FF94H8H5HB2HA9J9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FF94H8H5HB2HA9J9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.46 per hours for 8vCPU-16GB-DevEnvironment-Compute in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.4600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XB9GY6PYHPHN8JM3" : {
+        "XB9GY6PYHPHN8JM3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XB9GY6PYHPHN8JM3",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "XB9GY6PYHPHN8JM3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XB9GY6PYHPHN8JM3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 2 vCPU 4 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y22V6PYTDANT5Q5G" : {
+        "Y22V6PYTDANT5Q5G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y22V6PYTDANT5Q5G",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y22V6PYTDANT5Q5G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y22V6PYTDANT5Q5G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per minute for Compute 4 vCPU  8 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WCY4HCP3YNXB9NF4" : {
+        "WCY4HCP3YNXB9NF4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WCY4HCP3YNXB9NF4",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "WCY4HCP3YNXB9NF4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WCY4HCP3YNXB9NF4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per Minutes for Compute-4vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JJZCNVT4SEMA3FX8" : {
+        "JJZCNVT4SEMA3FX8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JJZCNVT4SEMA3FX8",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "JJZCNVT4SEMA3FX8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JJZCNVT4SEMA3FX8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Gigabyte for Storage - Dev Environments - Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CFSME556XD4B3MDW" : {
+        "CFSME556XD4B3MDW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CFSME556XD4B3MDW",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "CFSME556XD4B3MDW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CFSME556XD4B3MDW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB for Package-Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5TRTV54FEUMKQCPD" : {
+        "5TRTV54FEUMKQCPD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5TRTV54FEUMKQCPD",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "5TRTV54FEUMKQCPD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5TRTV54FEUMKQCPD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per minute for Compute 2 vCPU 4 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQ2BAHR3TZXUN84P" : {
+        "TQ2BAHR3TZXUN84P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQ2BAHR3TZXUN84P",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQ2BAHR3TZXUN84P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TQ2BAHR3TZXUN84P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Gigabyte for Storage - Attachments - Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MR4KFYEA7VATQCMN" : {
+        "MR4KFYEA7VATQCMN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MR4KFYEA7VATQCMN",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "MR4KFYEA7VATQCMN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MR4KFYEA7VATQCMN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.92 per hour for Dev Environment 16 vCPU 32 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.9200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

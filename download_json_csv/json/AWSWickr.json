@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSWickr",
+  "version" : "20241120151036",
+  "publicationDate" : "2024-11-20T15:10:36Z",
+  "products" : {
+    "6TS3ST98HETMPGG7" : {
+      "sku" : "6TS3ST98HETMPGG7",
+      "productFamily" : "Wickr",
+      "attributes" : {
+        "servicecode" : "AWSWickr",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AWSWickr-GuestUsers",
+        "operation" : "GuestUsers",
+        "plan" : "Guest Users",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Wickr"
+      }
+    },
+    "UVM6A2N7JYN7PZ2V" : {
+      "sku" : "UVM6A2N7JYN7PZ2V",
+      "productFamily" : "Wickr",
+      "attributes" : {
+        "servicecode" : "AWSWickr",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AWSWickr-Premium",
+        "operation" : "Wickr",
+        "plan" : "Premium",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Wickr"
+      }
+    },
+    "HRZR8PFG22CXR4VE" : {
+      "sku" : "HRZR8PFG22CXR4VE",
+      "productFamily" : "Wickr",
+      "attributes" : {
+        "servicecode" : "AWSWickr",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AWSWickr-Standard",
+        "operation" : "Wickr",
+        "plan" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Wickr"
+      }
+    },
+    "ZTJFP6Q7DAH65NHF" : {
+      "sku" : "ZTJFP6Q7DAH65NHF",
+      "productFamily" : "Wickr",
+      "attributes" : {
+        "servicecode" : "AWSWickr",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AWSWickr-Free",
+        "operation" : "Wickr",
+        "plan" : "Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Wickr"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "HRZR8PFG22CXR4VE" : {
+        "HRZR8PFG22CXR4VE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HRZR8PFG22CXR4VE",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "HRZR8PFG22CXR4VE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HRZR8PFG22CXR4VE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5 per Users for AWSWickr-Standard:Wickr in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZTJFP6Q7DAH65NHF" : {
+        "ZTJFP6Q7DAH65NHF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZTJFP6Q7DAH65NHF",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Users for AWSWickr-Free:Wickr in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6TS3ST98HETMPGG7" : {
+        "6TS3ST98HETMPGG7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6TS3ST98HETMPGG7",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "6TS3ST98HETMPGG7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6TS3ST98HETMPGG7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2 per User for AWS Wickr Guest Users in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UVM6A2N7JYN7PZ2V" : {
+        "UVM6A2N7JYN7PZ2V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UVM6A2N7JYN7PZ2V",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "UVM6A2N7JYN7PZ2V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UVM6A2N7JYN7PZ2V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$15 per Users for AWSWickr-Premium:Wickr in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

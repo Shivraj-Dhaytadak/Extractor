@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonQLDB",
+  "version" : "20230117130956",
+  "publicationDate" : "2023-01-17T13:09:56Z",
+  "products" : {
+    "FZ2664DQQENGAFNW" : {
+      "sku" : "FZ2664DQQENGAFNW",
+      "productFamily" : "QLDB Storage",
+      "attributes" : {
+        "servicecode" : "AmazonQLDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Journal-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Quantum Ledger Database",
+        "storageType" : "Journal Storage"
+      }
+    },
+    "27SKA97EXH578BEY" : {
+      "sku" : "27SKA97EXH578BEY",
+      "productFamily" : "QLDB Storage",
+      "attributes" : {
+        "servicecode" : "AmazonQLDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Indexed-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Quantum Ledger Database",
+        "storageType" : "Indexed Storage"
+      }
+    },
+    "RGKUPVX9FDRGBV8R" : {
+      "sku" : "RGKUPVX9FDRGBV8R",
+      "productFamily" : "QLDB IOs",
+      "attributes" : {
+        "servicecode" : "AmazonQLDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Write-IO-Request",
+        "operation" : "",
+        "ioRequestType" : "Write I/O Request",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Quantum Ledger Database"
+      }
+    },
+    "HPVSMWVJRYNF9GVK" : {
+      "sku" : "HPVSMWVJRYNF9GVK",
+      "productFamily" : "QLDB IOs",
+      "attributes" : {
+        "servicecode" : "AmazonQLDB",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Read-IO-Request",
+        "operation" : "",
+        "ioRequestType" : "Read I/O Request",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Quantum Ledger Database"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "27SKA97EXH578BEY" : {
+        "27SKA97EXH578BEY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "27SKA97EXH578BEY",
+          "effectiveDate" : "2021-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "27SKA97EXH578BEY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "27SKA97EXH578BEY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.250 per GB-month for indexed storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RGKUPVX9FDRGBV8R" : {
+        "RGKUPVX9FDRGBV8R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RGKUPVX9FDRGBV8R",
+          "effectiveDate" : "2021-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "RGKUPVX9FDRGBV8R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RGKUPVX9FDRGBV8R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.700 per million write IO requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOs",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FZ2664DQQENGAFNW" : {
+        "FZ2664DQQENGAFNW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FZ2664DQQENGAFNW",
+          "effectiveDate" : "2021-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "FZ2664DQQENGAFNW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FZ2664DQQENGAFNW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.030 per GB-month for journal storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HPVSMWVJRYNF9GVK" : {
+        "HPVSMWVJRYNF9GVK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HPVSMWVJRYNF9GVK",
+          "effectiveDate" : "2021-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "HPVSMWVJRYNF9GVK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HPVSMWVJRYNF9GVK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.136 per million read IO requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOs",
+              "pricePerUnit" : {
+                "USD" : "0.0000001360"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

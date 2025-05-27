@@ -1,0 +1,1254 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonDAX",
+  "version" : "20250430174354",
+  "publicationDate" : "2025-04-30T17:43:54Z",
+  "products" : {
+    "FYV47NP6NCAHDVT8" : {
+      "sku" : "FYV47NP6NCAHDVT8",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "t2.medium",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "4",
+        "networkPerformance" : "Low to Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.t2.medium",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "5MBJQG336MC9E523" : {
+      "sku" : "5MBJQG336MC9E523",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "t3.medium",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "4",
+        "networkPerformance" : "Low to Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.t3.medium",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "FMR3NTZEHE8RSG4J" : {
+      "sku" : "FMR3NTZEHE8RSG4J",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "t2.small",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "1",
+        "memory" : "2",
+        "networkPerformance" : "Low to Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.t2.small",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "KX5QSM2VB74TZ7U7" : {
+      "sku" : "KX5QSM2VB74TZ7U7",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "32",
+        "memory" : "256",
+        "networkPerformance" : "10 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.8xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "7K8MJ45AAJ8H4DZF" : {
+      "sku" : "7K8MJ45AAJ8H4DZF",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "16",
+        "memory" : "128",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r5.4xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "TUDYYEUKTJ2UFEPA" : {
+      "sku" : "TUDYYEUKTJ2UFEPA",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "4",
+        "memory" : "30.5",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r4.xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "GVABYCZVQXRE2QQX" : {
+      "sku" : "GVABYCZVQXRE2QQX",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "16",
+        "memory" : "128",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.4xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "Z8XK9DU83NRMUJVA" : {
+      "sku" : "Z8XK9DU83NRMUJVA",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.24xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "96",
+        "memory" : "768",
+        "networkPerformance" : "25 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r5.24xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "86JDBMRMYZS4QVB9" : {
+      "sku" : "86JDBMRMYZS4QVB9",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "15.25",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r4.large",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "V4MB3W53V2GT9RDH" : {
+      "sku" : "V4MB3W53V2GT9RDH",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r3.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "4",
+        "memory" : "30.5",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r3.xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "FANF7NCV3JKW8TCU" : {
+      "sku" : "FANF7NCV3JKW8TCU",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "6",
+        "memory" : "64",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.2xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "EHRZ4K5ETTAJ9VQX" : {
+      "sku" : "EHRZ4K5ETTAJ9VQX",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "64",
+        "memory" : "512",
+        "networkPerformance" : "20 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r5.16xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "XBQV6FJBWYT652MP" : {
+      "sku" : "XBQV6FJBWYT652MP",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "4",
+        "memory" : "32",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "HPF27KJCP6VHX2WQ" : {
+      "sku" : "HPF27KJCP6VHX2WQ",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r3.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "16",
+        "memory" : "122",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r3.4xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "QXVA4A3MEBYBG4KY" : {
+      "sku" : "QXVA4A3MEBYBG4KY",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.4xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "16",
+        "memory" : "122",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r4.4xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "76T7QTQ6CY92BXFB" : {
+      "sku" : "76T7QTQ6CY92BXFB",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "16",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r5.large",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "PP8HVD566ZS4YE85" : {
+      "sku" : "PP8HVD566ZS4YE85",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "48",
+        "memory" : "384",
+        "networkPerformance" : "12 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.12xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "MZGPQWHMEB3YQTUU" : {
+      "sku" : "MZGPQWHMEB3YQTUU",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r3.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "15.25",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r3.large",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "ESBJ5JPFJ7WAQYKV" : {
+      "sku" : "ESBJ5JPFJ7WAQYKV",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "4",
+        "memory" : "32",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r5.xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "T837AUGQ2VU5PAWU" : {
+      "sku" : "T837AUGQ2VU5PAWU",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "64",
+        "memory" : "512",
+        "networkPerformance" : "20 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.16xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "QYT4RCD5F8KFSTEQ" : {
+      "sku" : "QYT4RCD5F8KFSTEQ",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "8",
+        "memory" : "61",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r4.2xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "S8NBN4VSX4SF56DT" : {
+      "sku" : "S8NBN4VSX4SF56DT",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.12xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "48",
+        "memory" : "384",
+        "networkPerformance" : "12 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r5.12xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "HZ8KWW5SN6F64QYT" : {
+      "sku" : "HZ8KWW5SN6F64QYT",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r3.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "32",
+        "memory" : "244",
+        "networkPerformance" : "10 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r3.8xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "2VVF9GZZB84N447F" : {
+      "sku" : "2VVF9GZZB84N447F",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.24xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "96",
+        "memory" : "768",
+        "networkPerformance" : "25 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.24xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "983STTMRCZTVZQTH" : {
+      "sku" : "983STTMRCZTVZQTH",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.16xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "64",
+        "memory" : "488",
+        "networkPerformance" : "20 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r4.16xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "SR5HE73R6UGFWUJG" : {
+      "sku" : "SR5HE73R6UGFWUJG",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r3.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "8",
+        "memory" : "61",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r3.2xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "B93M39CZ59EM5Y69" : {
+      "sku" : "B93M39CZ59EM5Y69",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r4.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "32",
+        "memory" : "244",
+        "networkPerformance" : "10 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r4.8xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "NC546J7YG4N4TABQ" : {
+      "sku" : "NC546J7YG4N4TABQ",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "t3.small",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "2",
+        "networkPerformance" : "Low to Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.t3.small",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "9P72VE9A8Q6H5ZZZ" : {
+      "sku" : "9P72VE9A8Q6H5ZZZ",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.8xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "32",
+        "memory" : "256",
+        "networkPerformance" : "10 Gigabit",
+        "usagetype" : "USE1-NodeUsage:dax.r5.8xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "D26EP3TKBUSPKTNC" : {
+      "sku" : "D26EP3TKBUSPKTNC",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r7i.large",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "2",
+        "memory" : "16",
+        "networkPerformance" : "Moderate",
+        "usagetype" : "USE1-NodeUsage:dax.r7i.large",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    },
+    "DV4YH672UZVQ2CUX" : {
+      "sku" : "DV4YH672UZVQ2CUX",
+      "productFamily" : "DAX",
+      "attributes" : {
+        "servicecode" : "AmazonDAX",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "r5.2xlarge",
+        "currentGeneration" : "Yes",
+        "instanceFamily" : "DAX",
+        "vcpu" : "8",
+        "memory" : "64",
+        "networkPerformance" : "High",
+        "usagetype" : "USE1-NodeUsage:dax.r5.2xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "DynamoDB Accelerator (DAX)"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "ESBJ5JPFJ7WAQYKV" : {
+        "ESBJ5JPFJ7WAQYKV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ESBJ5JPFJ7WAQYKV",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ESBJ5JPFJ7WAQYKV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ESBJ5JPFJ7WAQYKV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.509 per Enhanced High Memory dax.r5.xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5090000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T837AUGQ2VU5PAWU" : {
+        "T837AUGQ2VU5PAWU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T837AUGQ2VU5PAWU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "T837AUGQ2VU5PAWU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T837AUGQ2VU5PAWU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.137 per Enhanced High Memory r7i.16xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "8.1370000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S8NBN4VSX4SF56DT" : {
+        "S8NBN4VSX4SF56DT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S8NBN4VSX4SF56DT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "S8NBN4VSX4SF56DT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S8NBN4VSX4SF56DT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.117 per Enhanced High Memory dax.r5.12xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.1170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5MBJQG336MC9E523" : {
+        "5MBJQG336MC9E523.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5MBJQG336MC9E523",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "5MBJQG336MC9E523.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5MBJQG336MC9E523.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.080 per Enhanced High Memory t3.medium node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DV4YH672UZVQ2CUX" : {
+        "DV4YH672UZVQ2CUX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DV4YH672UZVQ2CUX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DV4YH672UZVQ2CUX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DV4YH672UZVQ2CUX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.017 per Enhanced High Memory  dax.r5.2xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KX5QSM2VB74TZ7U7" : {
+        "KX5QSM2VB74TZ7U7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KX5QSM2VB74TZ7U7",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "KX5QSM2VB74TZ7U7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KX5QSM2VB74TZ7U7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.069 per Enhanced High Memory r7i.8xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.0690000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V4MB3W53V2GT9RDH" : {
+        "V4MB3W53V2GT9RDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V4MB3W53V2GT9RDH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "V4MB3W53V2GT9RDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V4MB3W53V2GT9RDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.537 per Enhanced High Memory r3.xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5370000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FANF7NCV3JKW8TCU" : {
+        "FANF7NCV3JKW8TCU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FANF7NCV3JKW8TCU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FANF7NCV3JKW8TCU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FANF7NCV3JKW8TCU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.017 per Enhanced High Memory r7i.2xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EHRZ4K5ETTAJ9VQX" : {
+        "EHRZ4K5ETTAJ9VQX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EHRZ4K5ETTAJ9VQX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EHRZ4K5ETTAJ9VQX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EHRZ4K5ETTAJ9VQX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.137 per Enhanced High Memory dax.r5.16xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "8.1370000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TUDYYEUKTJ2UFEPA" : {
+        "TUDYYEUKTJ2UFEPA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TUDYYEUKTJ2UFEPA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TUDYYEUKTJ2UFEPA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TUDYYEUKTJ2UFEPA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.537 per Enhanced High Memory r4.xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5370000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HZ8KWW5SN6F64QYT" : {
+        "HZ8KWW5SN6F64QYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HZ8KWW5SN6F64QYT",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HZ8KWW5SN6F64QYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HZ8KWW5SN6F64QYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.295 per Enhanced High Memory r3.8xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.2950000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GVABYCZVQXRE2QQX" : {
+        "GVABYCZVQXRE2QQX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GVABYCZVQXRE2QQX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GVABYCZVQXRE2QQX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GVABYCZVQXRE2QQX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.034 per Enhanced High Memory r7i.4xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PP8HVD566ZS4YE85" : {
+        "PP8HVD566ZS4YE85.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PP8HVD566ZS4YE85",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PP8HVD566ZS4YE85.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PP8HVD566ZS4YE85.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.117 per Enhanced High Memory r7i.12xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.1170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HPF27KJCP6VHX2WQ" : {
+        "HPF27KJCP6VHX2WQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HPF27KJCP6VHX2WQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "HPF27KJCP6VHX2WQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HPF27KJCP6VHX2WQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.148 per Enhanced High Memory r3.4xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.1480000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "86JDBMRMYZS4QVB9" : {
+        "86JDBMRMYZS4QVB9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "86JDBMRMYZS4QVB9",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "86JDBMRMYZS4QVB9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "86JDBMRMYZS4QVB9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.269 per Enhanced High Memory r4.large node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2690000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2VVF9GZZB84N447F" : {
+        "2VVF9GZZB84N447F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2VVF9GZZB84N447F",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2VVF9GZZB84N447F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2VVF9GZZB84N447F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$12.234 per Enhanced High Memory r7i.24xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "12.2340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7K8MJ45AAJ8H4DZF" : {
+        "7K8MJ45AAJ8H4DZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7K8MJ45AAJ8H4DZF",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7K8MJ45AAJ8H4DZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7K8MJ45AAJ8H4DZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.034 per Enhanced High Memory dax.r5.4xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NC546J7YG4N4TABQ" : {
+        "NC546J7YG4N4TABQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NC546J7YG4N4TABQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "NC546J7YG4N4TABQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NC546J7YG4N4TABQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.040 per Enhanced High Memory t3.small node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z8XK9DU83NRMUJVA" : {
+        "Z8XK9DU83NRMUJVA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z8XK9DU83NRMUJVA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z8XK9DU83NRMUJVA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z8XK9DU83NRMUJVA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$12.234 per Enhanced High Memory dax.r5.24xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "12.2340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "76T7QTQ6CY92BXFB" : {
+        "76T7QTQ6CY92BXFB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "76T7QTQ6CY92BXFB",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "76T7QTQ6CY92BXFB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "76T7QTQ6CY92BXFB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.255 per Enhanced High Memory dax.r5.large node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B93M39CZ59EM5Y69" : {
+        "B93M39CZ59EM5Y69.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B93M39CZ59EM5Y69",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "B93M39CZ59EM5Y69.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B93M39CZ59EM5Y69.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.295 per Enhanced High Memory r4.8xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.2950000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "983STTMRCZTVZQTH" : {
+        "983STTMRCZTVZQTH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "983STTMRCZTVZQTH",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "983STTMRCZTVZQTH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "983STTMRCZTVZQTH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.590 per Enhanced High Memory r4.16xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "8.5900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MZGPQWHMEB3YQTUU" : {
+        "MZGPQWHMEB3YQTUU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MZGPQWHMEB3YQTUU",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MZGPQWHMEB3YQTUU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MZGPQWHMEB3YQTUU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.269 per Enhanced High Memory r3.large node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2690000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FYV47NP6NCAHDVT8" : {
+        "FYV47NP6NCAHDVT8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FYV47NP6NCAHDVT8",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FYV47NP6NCAHDVT8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FYV47NP6NCAHDVT8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.080 per Enhanced High Memory t2.medium node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QYT4RCD5F8KFSTEQ" : {
+        "QYT4RCD5F8KFSTEQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QYT4RCD5F8KFSTEQ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QYT4RCD5F8KFSTEQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QYT4RCD5F8KFSTEQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.074 per Enhanced High Memory r4.2xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0740000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XBQV6FJBWYT652MP" : {
+        "XBQV6FJBWYT652MP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XBQV6FJBWYT652MP",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "XBQV6FJBWYT652MP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XBQV6FJBWYT652MP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.509 per Enhanced High Memory r7i.xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5090000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QXVA4A3MEBYBG4KY" : {
+        "QXVA4A3MEBYBG4KY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QXVA4A3MEBYBG4KY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QXVA4A3MEBYBG4KY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QXVA4A3MEBYBG4KY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.148 per Enhanced High Memory r4.4xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.1480000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FMR3NTZEHE8RSG4J" : {
+        "FMR3NTZEHE8RSG4J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FMR3NTZEHE8RSG4J",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FMR3NTZEHE8RSG4J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FMR3NTZEHE8RSG4J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.040 per Enhanced High Memory t2.small node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9P72VE9A8Q6H5ZZZ" : {
+        "9P72VE9A8Q6H5ZZZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9P72VE9A8Q6H5ZZZ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9P72VE9A8Q6H5ZZZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9P72VE9A8Q6H5ZZZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.069 per Enhanced High Memory dax.r5.8xlarge node-hour (or partial hour) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.0690000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SR5HE73R6UGFWUJG" : {
+        "SR5HE73R6UGFWUJG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SR5HE73R6UGFWUJG",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "SR5HE73R6UGFWUJG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SR5HE73R6UGFWUJG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.074 per Enhanced High Memory r3.2xlarge node-hour (or partial hour) running DAX",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0740000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D26EP3TKBUSPKTNC" : {
+        "D26EP3TKBUSPKTNC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D26EP3TKBUSPKTNC",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D26EP3TKBUSPKTNC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D26EP3TKBUSPKTNC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.255 per Enhanced High Memory r7i.large node-hour (or partial hour) running DAX in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,119 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSElementalMediaPackage",
+  "version" : "20241106222026",
+  "publicationDate" : "2024-11-06T22:20:26Z",
+  "products" : {
+    "KQREGH5WYYKQFXQR" : {
+      "sku" : "KQREGH5WYYKQFXQR",
+      "productFamily" : "Packaging Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSElementalMediaPackage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "Origination-Packaging",
+        "usagetype" : "USE1-EMP-origin-packaging-bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaPackage"
+      }
+    },
+    "7J5HKNHX6VY4D3C7" : {
+      "sku" : "7J5HKNHX6VY4D3C7",
+      "productFamily" : "Packaging Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSElementalMediaPackage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "Ingest",
+        "usagetype" : "USE1-EMP-ingest-bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaPackage"
+      }
+    },
+    "ZHYJ7HMAR3A2DBEM" : {
+      "sku" : "ZHYJ7HMAR3A2DBEM",
+      "productFamily" : "Packaging Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSElementalMediaPackage",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "VOD-Origination-Packaging",
+        "usagetype" : "USE1-EMP-vod-origin-pkg-bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaPackage"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7J5HKNHX6VY4D3C7" : {
+        "7J5HKNHX6VY4D3C7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7J5HKNHX6VY4D3C7",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "7J5HKNHX6VY4D3C7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7J5HKNHX6VY4D3C7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB of Ingest",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZHYJ7HMAR3A2DBEM" : {
+        "ZHYJ7HMAR3A2DBEM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZHYJ7HMAR3A2DBEM",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZHYJ7HMAR3A2DBEM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZHYJ7HMAR3A2DBEM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB VOD Origination/Packaging",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KQREGH5WYYKQFXQR" : {
+        "KQREGH5WYYKQFXQR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KQREGH5WYYKQFXQR",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "KQREGH5WYYKQFXQR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KQREGH5WYYKQFXQR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB Origination/Packaging",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,61 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "mobileanalytics",
+  "version" : "20230127115017",
+  "publicationDate" : "2023-01-27T11:50:17Z",
+  "products" : {
+    "HVG2S4GDXS575D3S" : {
+      "sku" : "HVG2S4GDXS575D3S",
+      "productFamily" : "AWSMobile-Analytics",
+      "attributes" : {
+        "servicecode" : "mobileanalytics",
+        "description" : "Amazon Mobile Analytics events recorded per month",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "EventsRecorded",
+        "operation" : "PutEvents",
+        "includedEvents" : "First 100M events recorded per month",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Mobile Analytics"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "HVG2S4GDXS575D3S" : {
+        "HVG2S4GDXS575D3S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HVG2S4GDXS575D3S",
+          "effectiveDate" : "2014-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J",
+              "description" : "$1.00 per 1,000,000 Amazon Mobile Analytics events per month thereafter",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA" : {
+              "rateCode" : "HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA",
+              "description" : "First 100,000,000 Amazon Mobile Analytics events per month are free",
+              "beginRange" : "0",
+              "endRange" : "100000000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

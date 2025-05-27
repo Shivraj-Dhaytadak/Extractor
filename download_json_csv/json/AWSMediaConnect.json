@@ -1,0 +1,4698 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSMediaConnect",
+  "version" : "20250324183643",
+  "publicationDate" : "2025-03-24T18:36:43Z",
+  "products" : {
+    "USJUNYHPZGEDVR9Z" : {
+      "sku" : "USJUNYHPZGEDVR9Z",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Inbound",
+        "fromLocation" : "External",
+        "fromLocationType" : "Other",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "DataTransfer-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "E9F9TCY4SM7NJPUK" : {
+      "sku" : "E9F9TCY4SM7NJPUK",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Africa (Cape Town)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "AFS1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "af-south-1"
+      }
+    },
+    "A422JVYU4MN5BNC2" : {
+      "sku" : "A422JVYU4MN5BNC2",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Mumbai)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS3-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-south-1",
+        "regionCode" : "ap-south-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "N9RVS9QKARVC6THU" : {
+      "sku" : "N9RVS9QKARVC6THU",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Hong Kong)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-east-1"
+      }
+    },
+    "C6WHJFCBG99A7F3J" : {
+      "sku" : "C6WHJFCBG99A7F3J",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Frankfurt)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUC1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-central-1"
+      }
+    },
+    "3NCECY6A3R3RMEJ6" : {
+      "sku" : "3NCECY6A3R3RMEJ6",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "South America (Sao Paulo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-SAE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "sa-east-1"
+      }
+    },
+    "JD8GDR9FS6XWPKRF" : {
+      "sku" : "JD8GDR9FS6XWPKRF",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "IntraRegion Entitlement In",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-DataTransfer-Regional-Bytes",
+        "operation" : "DataProcessedEntitlementIn",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "SA4XX3FGNPFFMZYV" : {
+      "sku" : "SA4XX3FGNPFFMZYV",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Tokyo)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-1",
+        "regionCode" : "ap-northeast-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "MMMC3G9YFBJ3XTNZ" : {
+      "sku" : "MMMC3G9YFBJ3XTNZ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (London)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW2-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-2"
+      }
+    },
+    "8Q8EGZGRCRQVRBGP" : {
+      "sku" : "8Q8EGZGRCRQVRBGP",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Mumbai)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Mumbai)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS3-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-south-1",
+        "regionCode" : "ap-south-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "9HDW7B9SN5GC9V85" : {
+      "sku" : "9HDW7B9SN5GC9V85",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-720p",
+        "flowType" : "CDI-RunningOutput-CDI-720p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "5Q5KVJ6ZSTAMT63T" : {
+      "sku" : "5Q5KVJ6ZSTAMT63T",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Tokyo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-1"
+      }
+    },
+    "PYND4JJSV4WXGCX3" : {
+      "sku" : "PYND4JJSV4WXGCX3",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-480p",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-480p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "S68R8RX45A34B67C" : {
+      "sku" : "S68R8RX45A34B67C",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Melbourne)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS6-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-4"
+      }
+    },
+    "ZW2RS4K5B8JVC7NP" : {
+      "sku" : "ZW2RS4K5B8JVC7NP",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-720p",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-720p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "RH2B9KYR76BH8XJ5" : {
+      "sku" : "RH2B9KYR76BH8XJ5",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-1080p",
+        "flowType" : "CDI-RunningOutput-CDI-1080p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "SB3QPRX68JJEUFJN" : {
+      "sku" : "SB3QPRX68JJEUFJN",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Paris)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW3-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-3"
+      }
+    },
+    "4TRK7BD42Y538HHC" : {
+      "sku" : "4TRK7BD42Y538HHC",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Amazon CloudFront",
+        "toLocationType" : "AWS Edge Location",
+        "usagetype" : "USE1-CloudFront-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "7T9ZYE3Z6BDJDCR6" : {
+      "sku" : "7T9ZYE3Z6BDJDCR6",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Hyderabad)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS5-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-south-2"
+      }
+    },
+    "BBNVBMNDPTF3BHNN" : {
+      "sku" : "BBNVBMNDPTF3BHNN",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-1080i",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-1080i",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "3V9QG3MXKD4GFN33" : {
+      "sku" : "3V9QG3MXKD4GFN33",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Hong Kong)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Hong Kong)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-east-1",
+        "regionCode" : "ap-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "DW27JW783W3NMSTG" : {
+      "sku" : "DW27JW783W3NMSTG",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Stockholm)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "EU (Stockholm)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUN1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-north-1",
+        "regionCode" : "eu-north-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "XPFT3CF7KHUVD8QP" : {
+      "sku" : "XPFT3CF7KHUVD8QP",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-Other",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "2KY9CQ4QHAK3E6YW" : {
+      "sku" : "2KY9CQ4QHAK3E6YW",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "DataTransfer-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "BGJBXYWPF23ZNJHT" : {
+      "sku" : "BGJBXYWPF23ZNJHT",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Canada (Central)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Canada (Central)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "CAN1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ca-central-1",
+        "regionCode" : "ca-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "PSX7PM85UWXCE9V8" : {
+      "sku" : "PSX7PM85UWXCE9V8",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Tokyo)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-1",
+        "regionCode" : "ap-northeast-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "B8E6YHZSACZ754QB" : {
+      "sku" : "B8E6YHZSACZ754QB",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Ireland)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EU-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-1"
+      }
+    },
+    "EWBABNG2X2CVQGTK" : {
+      "sku" : "EWBABNG2X2CVQGTK",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Paris)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "EU (Paris)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW3-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-3",
+        "regionCode" : "eu-west-3",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "9WNASGMTQM6PDSB5" : {
+      "sku" : "9WNASGMTQM6PDSB5",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-480p",
+        "flowType" : "CDI-RunningFlow-480p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "HEXWJ4BAEUC8943D" : {
+      "sku" : "HEXWJ4BAEUC8943D",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Singapore)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-1",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "TTTAQUABWR5BTCCS" : {
+      "sku" : "TTTAQUABWR5BTCCS",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Outbound Reserved",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "Reserved-DataTransfer-Out-Hours",
+        "operation" : "DataProcessedReserved150Mbps1Yr",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "reservedTier" : "150 Mbps",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "UZQ33ATM6CDWGT6X" : {
+      "sku" : "UZQ33ATM6CDWGT6X",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow",
+        "flowType" : "On Demand",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "JQT2SZYEPGPD5ZDM" : {
+      "sku" : "JQT2SZYEPGPD5ZDM",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Paris)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "EU (Paris)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW3-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-3",
+        "regionCode" : "eu-west-3",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "2K92VBUEAF2H7777" : {
+      "sku" : "2K92VBUEAF2H7777",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Middle East (UAE)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Middle East (UAE)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "MEC1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "me-central-1",
+        "regionCode" : "me-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "XFVMTAXC5D7CPFNS" : {
+      "sku" : "XFVMTAXC5D7CPFNS",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US West (N. California)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-west-1"
+      }
+    },
+    "YAXX3G4QTCB274FQ" : {
+      "sku" : "YAXX3G4QTCB274FQ",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-720p",
+        "flowType" : "CDI-RunningFlow-720p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "XXRC6TPMWNTTVMWB" : {
+      "sku" : "XXRC6TPMWNTTVMWB",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US West (N. California)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-west-1"
+      }
+    },
+    "6T8VY4QGFZEEUG32" : {
+      "sku" : "6T8VY4QGFZEEUG32",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Outbound Reserved",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "Reserved-DataTransfer-Out-Hours",
+        "operation" : "DataProcessedReserved500Mbps1Yr",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "reservedTier" : "500 Mbps",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "6J64N8FPJEN6RP8A" : {
+      "sku" : "6J64N8FPJEN6RP8A",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Stockholm)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUN1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-north-1"
+      }
+    },
+    "ZX7T6TS4H9GWNGEX" : {
+      "sku" : "ZX7T6TS4H9GWNGEX",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Sydney)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS2-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-2",
+        "regionCode" : "ap-southeast-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "HCG5W6KQSVFDF3VF" : {
+      "sku" : "HCG5W6KQSVFDF3VF",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "IntraRegion Entitlement Out",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-DataTransfer-Regional-Bytes",
+        "operation" : "DataProcessedEntitlementOut",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "ZRG5G9TK5VZNW7YU" : {
+      "sku" : "ZRG5G9TK5VZNW7YU",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Melbourne)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS6-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-4"
+      }
+    },
+    "DSRUU9JVDJ9XEDVP" : {
+      "sku" : "DSRUU9JVDJ9XEDVP",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Singapore)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-1"
+      }
+    },
+    "66SMEEKUC9WBFCAA" : {
+      "sku" : "66SMEEKUC9WBFCAA",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "South America (Sao Paulo)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "South America (Sao Paulo)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "SAE1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "sa-east-1",
+        "regionCode" : "sa-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "YG9ADTGHFEQB3HCE" : {
+      "sku" : "YG9ADTGHFEQB3HCE",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Amazon CloudFront",
+        "toLocationType" : "AWS Edge Location",
+        "usagetype" : "USE1-CloudFront-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "YEHGEBF4FWH5AVCQ" : {
+      "sku" : "YEHGEBF4FWH5AVCQ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Mumbai)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS3-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-south-1"
+      }
+    },
+    "R7H5MBNMZ9SKFXPE" : {
+      "sku" : "R7H5MBNMZ9SKFXPE",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Sydney)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Sydney)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS2-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-2",
+        "regionCode" : "ap-southeast-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "MNUWMJMN353P5G3A" : {
+      "sku" : "MNUWMJMN353P5G3A",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Ireland)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EU-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-1"
+      }
+    },
+    "3AYQ255TZCCS8Q8B" : {
+      "sku" : "3AYQ255TZCCS8Q8B",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Hyderabad)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Hyderabad)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS5-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-south-2",
+        "regionCode" : "ap-south-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "AF3FTWTGMHGNF229" : {
+      "sku" : "AF3FTWTGMHGNF229",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Osaka)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Osaka)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN3-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-3",
+        "regionCode" : "ap-northeast-3",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "J67885T8MVZHNE84" : {
+      "sku" : "J67885T8MVZHNE84",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (Ohio)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE2-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-2",
+        "regionCode" : "us-east-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "THG7TXUN7UNZZB28" : {
+      "sku" : "THG7TXUN7UNZZB28",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-2160p",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-2160p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "KJ6TZKWMVF6MC8UH" : {
+      "sku" : "KJ6TZKWMVF6MC8UH",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "EU (Frankfurt)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUC1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-central-1",
+        "regionCode" : "eu-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "NWN5KG3QDRHHZU7A" : {
+      "sku" : "NWN5KG3QDRHHZU7A",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-1080i",
+        "flowType" : "CDI-RunningOutput-CDI-1080i",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "SKGFMR7J5GBCSFWC" : {
+      "sku" : "SKGFMR7J5GBCSFWC",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-JPEG-XS-1080p",
+        "flowType" : "CDI-RunningOutput-JPEG-XS-1080p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "QUST87Q2ESNRUVJY" : {
+      "sku" : "QUST87Q2ESNRUVJY",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Osaka)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN3-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-3"
+      }
+    },
+    "VYDUGGYZ5R3N5NNB" : {
+      "sku" : "VYDUGGYZ5R3N5NNB",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Paris)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW3-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-3"
+      }
+    },
+    "EYRBRPZSZD9NP3PC" : {
+      "sku" : "EYRBRPZSZD9NP3PC",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (Ohio)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE2-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-2",
+        "regionCode" : "us-east-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "A3EVEM7BVMR5Y6WX" : {
+      "sku" : "A3EVEM7BVMR5Y6WX",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Sydney)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS2-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-2"
+      }
+    },
+    "PGH3VWDQN2VC6C4D" : {
+      "sku" : "PGH3VWDQN2VC6C4D",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Singapore)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-1",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "M3VKK4EQ5Z7DV57M" : {
+      "sku" : "M3VKK4EQ5Z7DV57M",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US West (Oregon)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USW2-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-west-2",
+        "regionCode" : "us-west-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "KUTT258M7RDBK5CR" : {
+      "sku" : "KUTT258M7RDBK5CR",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Hong Kong)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Hong Kong)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-east-1",
+        "regionCode" : "ap-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "H78YZBZUB537ETUA" : {
+      "sku" : "H78YZBZUB537ETUA",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US West (Oregon)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW2-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-west-2"
+      }
+    },
+    "C7V3TPW8WU3H3BUD" : {
+      "sku" : "C7V3TPW8WU3H3BUD",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "EU (London)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW2-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-2",
+        "regionCode" : "eu-west-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "89SUT6BQUVJ88HKB" : {
+      "sku" : "89SUT6BQUVJ88HKB",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Canada (Central)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-CAN1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ca-central-1"
+      }
+    },
+    "6ADAUYG2NXCD4N96" : {
+      "sku" : "6ADAUYG2NXCD4N96",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-1080p",
+        "flowType" : "CDI-RunningFlow-1080p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "9JAS2ZWF7AXVVSPS" : {
+      "sku" : "9JAS2ZWF7AXVVSPS",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Singapore)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-1"
+      }
+    },
+    "TSND86DG28K5SRZ6" : {
+      "sku" : "TSND86DG28K5SRZ6",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Osaka)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Osaka)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN3-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-3",
+        "regionCode" : "ap-northeast-3",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "U92WTQPF8YQ63H7K" : {
+      "sku" : "U92WTQPF8YQ63H7K",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-Other",
+        "flowType" : "CDI-RunningFlow-Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "V4Z8ZPW6SECGSF79" : {
+      "sku" : "V4Z8ZPW6SECGSF79",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US West (Oregon)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USW2-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-west-2",
+        "regionCode" : "us-west-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "7DBDJ99M6J6QBW74" : {
+      "sku" : "7DBDJ99M6J6QBW74",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (Ohio)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USE2-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-2"
+      }
+    },
+    "GN9ZN8CQ6BGX8YPH" : {
+      "sku" : "GN9ZN8CQ6BGX8YPH",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Canada (Central)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Canada (Central)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "CAN1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ca-central-1",
+        "regionCode" : "ca-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "AQTKTDM46CH9CGJ4" : {
+      "sku" : "AQTKTDM46CH9CGJ4",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-2160p",
+        "flowType" : "CDI-RunningFlow-2160p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "53CREN5NSKMNU7G5" : {
+      "sku" : "53CREN5NSKMNU7G5",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Seoul)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN2-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-2",
+        "regionCode" : "ap-northeast-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "8HQ2NXPTDVFY3RUG" : {
+      "sku" : "8HQ2NXPTDVFY3RUG",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Africa (Cape Town)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Africa (Cape Town)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-AFS1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "af-south-1",
+        "regionCode" : "af-south-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "DCJGVAR2AGUGVNWP" : {
+      "sku" : "DCJGVAR2AGUGVNWP",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Osaka)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN3-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-3"
+      }
+    },
+    "VGVNQKZUANCHVC9T" : {
+      "sku" : "VGVNQKZUANCHVC9T",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "EU (London)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW2-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-2",
+        "regionCode" : "eu-west-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "EZ8DZSHA83Q4V535" : {
+      "sku" : "EZ8DZSHA83Q4V535",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Outbound Reserved",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "Reserved-DataTransfer-Out-Hours",
+        "operation" : "DataProcessedReserved1500Mbps1Yr",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "reservedTier" : "1500 Mbps",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "N7ZSZ2H6RGFMY9ZY" : {
+      "sku" : "N7ZSZ2H6RGFMY9ZY",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "IntraRegion",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "DataTransfer-Regional-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "YWJCMK235DKTSEBH" : {
+      "sku" : "YWJCMK235DKTSEBH",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Seoul)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Seoul)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN2-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-northeast-2",
+        "regionCode" : "ap-northeast-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "2QXG5ASUFUA4JQZE" : {
+      "sku" : "2QXG5ASUFUA4JQZE",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow_LargeInstance",
+        "flowType" : "Flow-Large",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "H388CR799F6Y8YSZ" : {
+      "sku" : "H388CR799F6Y8YSZ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Canada (Central)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-CAN1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ca-central-1"
+      }
+    },
+    "N3MGTK2GK5P6ZNCN" : {
+      "sku" : "N3MGTK2GK5P6ZNCN",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Seoul)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN2-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-2"
+      }
+    },
+    "4F5UATE8HK667NEG" : {
+      "sku" : "4F5UATE8HK667NEG",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "AWS Outbound Reserved",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "Reserved-DataTransfer-Out-Hours",
+        "operation" : "DataProcessedReserved50Mbps1Yr",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "reservedTier" : "50 Mbps",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "VCAHDU739K5D3AF5" : {
+      "sku" : "VCAHDU739K5D3AF5",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Hyderabad)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS5-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-south-2"
+      }
+    },
+    "CSZVSHJNXPGQRJDT" : {
+      "sku" : "CSZVSHJNXPGQRJDT",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Middle East (UAE)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-MEC1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "me-central-1"
+      }
+    },
+    "5TGBXZT6Z3MTVSW3" : {
+      "sku" : "5TGBXZT6Z3MTVSW3",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Tokyo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-1"
+      }
+    },
+    "GJ3F7XQMVR3QUS48" : {
+      "sku" : "GJ3F7XQMVR3QUS48",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "South America (Sao Paulo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-SAE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "sa-east-1"
+      }
+    },
+    "4BBB4FB4FV8UV63V" : {
+      "sku" : "4BBB4FB4FV8UV63V",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Stockholm)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUN1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-north-1"
+      }
+    },
+    "M4HS6EK93UC3YK7R" : {
+      "sku" : "M4HS6EK93UC3YK7R",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Africa (Cape Town)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-AFS1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "af-south-1"
+      }
+    },
+    "ARFXPJMR7AADX8JA" : {
+      "sku" : "ARFXPJMR7AADX8JA",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "EU (Ireland)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EU-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-1",
+        "regionCode" : "eu-west-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "DD72KPM3JRXP3WTY" : {
+      "sku" : "DD72KPM3JRXP3WTY",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (Frankfurt)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUC1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-central-1"
+      }
+    },
+    "SDHTJWBT4G3DV2KN" : {
+      "sku" : "SDHTJWBT4G3DV2KN",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Frankfurt)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "EU (Frankfurt)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUC1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-central-1",
+        "regionCode" : "eu-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "UQ7XVUG2M7CT73AS" : {
+      "sku" : "UQ7XVUG2M7CT73AS",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US West (Oregon)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW2-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-west-2"
+      }
+    },
+    "J4T387CRX393X88W" : {
+      "sku" : "J4T387CRX393X88W",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningFlow-CDI-1080i",
+        "flowType" : "CDI-RunningFlow-1080i",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "77EKFRQ24YBW52QN" : {
+      "sku" : "77EKFRQ24YBW52QN",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Hyderabad)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Hyderabad)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS5-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-south-2",
+        "regionCode" : "ap-south-2",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "N6F3GJC2QU6ANF5J" : {
+      "sku" : "N6F3GJC2QU6ANF5J",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "Inter Region Peering Data Transfer Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "External",
+        "toLocationType" : "Other",
+        "usagetype" : "USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : ""
+      }
+    },
+    "2EM57G9RXMYR7BXA" : {
+      "sku" : "2EM57G9RXMYR7BXA",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Africa (Cape Town)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Africa (Cape Town)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "AFS1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "af-south-1",
+        "regionCode" : "af-south-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "PX9AHDH5JX3T5ZCC" : {
+      "sku" : "PX9AHDH5JX3T5ZCC",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Sydney)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS2-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-southeast-2"
+      }
+    },
+    "5T9TYF5CDN998FAD" : {
+      "sku" : "5T9TYF5CDN998FAD",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (Ohio)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USE2-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-2"
+      }
+    },
+    "9E4YKBCY3R2H2Z3T" : {
+      "sku" : "9E4YKBCY3R2H2Z3T",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US West (N. California)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US West (N. California)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USW1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-west-1",
+        "regionCode" : "us-west-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "RQPZV3GKES2QDPMY" : {
+      "sku" : "RQPZV3GKES2QDPMY",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US West (N. California)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US West (N. California)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USW1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-west-1",
+        "regionCode" : "us-west-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "9CDSW3ERC444989F" : {
+      "sku" : "9CDSW3ERC444989F",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Melbourne)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Melbourne)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS6-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-4",
+        "regionCode" : "ap-southeast-4",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "VAAPN9ABWDHHM9CA" : {
+      "sku" : "VAAPN9ABWDHHM9CA",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-2160p",
+        "flowType" : "CDI-RunningOutput-CDI-2160p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "XZ4PHM5UCN24DB5C" : {
+      "sku" : "XZ4PHM5UCN24DB5C",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Stockholm)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "EU (Stockholm)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUN1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-north-1",
+        "regionCode" : "eu-north-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "AJVAWRG4PYCRR5K7" : {
+      "sku" : "AJVAWRG4PYCRR5K7",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "EU (Ireland)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EU-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "eu-west-1",
+        "regionCode" : "eu-west-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "N7H7SPXABA7CYNWF" : {
+      "sku" : "N7H7SPXABA7CYNWF",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-480p",
+        "flowType" : "CDI-RunningOutput-CDI-480p",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "Q7XFUBD36PNYV6KX" : {
+      "sku" : "Q7XFUBD36PNYV6KX",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "Inter Region Peering Data Transfer Inbound",
+        "fromLocation" : "External",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "JQAR4P496UD82QVV" : {
+      "sku" : "JQAR4P496UD82QVV",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Middle East (UAE)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Middle East (UAE)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "MEC1-USE1-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "me-central-1",
+        "regionCode" : "me-central-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "6D399E3B2AHEG7JG" : {
+      "sku" : "6D399E3B2AHEG7JG",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "Asia Pacific (Melbourne)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Melbourne)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS6-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "ap-southeast-4",
+        "regionCode" : "ap-southeast-4",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "UYHE5U8RJHRVEAVE" : {
+      "sku" : "UYHE5U8RJHRVEAVE",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Seoul)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN2-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-northeast-2"
+      }
+    },
+    "WJK9PSECAZMR9M63" : {
+      "sku" : "WJK9PSECAZMR9M63",
+      "productFamily" : "Compute Instance",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Hours",
+        "operation" : "RunningOutput-CDI-Other",
+        "flowType" : "CDI-RunningOutput-CDI-Other",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect"
+      }
+    },
+    "Q9G7BMVYDDCXNMSP" : {
+      "sku" : "Q9G7BMVYDDCXNMSP",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "EU (London)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW2-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "eu-west-2"
+      }
+    },
+    "Z2BGTBD4X7AF7JS6" : {
+      "sku" : "Z2BGTBD4X7AF7JS6",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "South America (Sao Paulo)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "South America (Sao Paulo)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "SAE1-USE1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "sa-east-1",
+        "regionCode" : "sa-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "64X6BT64ZPNNQ5VU" : {
+      "sku" : "64X6BT64ZPNNQ5VU",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Mumbai)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS3-AWS-In-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "ap-south-1"
+      }
+    },
+    "N2TH5MZGDVKKRTYQ" : {
+      "sku" : "N2TH5MZGDVKKRTYQ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSMediaConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Middle East (UAE)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-MEC1-AWS-Out-Bytes",
+        "operation" : "DataProcessed",
+        "fromRegionCode" : "us-east-1",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Elemental MediaConnect",
+        "toRegionCode" : "me-central-1"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "TTTAQUABWR5BTCCS" : {
+        "TTTAQUABWR5BTCCS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TTTAQUABWR5BTCCS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TTTAQUABWR5BTCCS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TTTAQUABWR5BTCCS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.834/hour Reserved Outbound Bandwidth at 150Mbps US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.8340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3AYQ255TZCCS8Q8B" : {
+        "3AYQ255TZCCS8Q8B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3AYQ255TZCCS8Q8B",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3AYQ255TZCCS8Q8B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3AYQ255TZCCS8Q8B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.086 per GB - Asia Pacific (Hyderabad) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0860000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R7H5MBNMZ9SKFXPE" : {
+        "R7H5MBNMZ9SKFXPE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R7H5MBNMZ9SKFXPE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "R7H5MBNMZ9SKFXPE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R7H5MBNMZ9SKFXPE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per GB - Asia Pacific (Sydney) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XXRC6TPMWNTTVMWB" : {
+        "XXRC6TPMWNTTVMWB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XXRC6TPMWNTTVMWB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XXRC6TPMWNTTVMWB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XXRC6TPMWNTTVMWB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from US West (Northern California)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZW2RS4K5B8JVC7NP" : {
+        "ZW2RS4K5B8JVC7NP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZW2RS4K5B8JVC7NP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZW2RS4K5B8JVC7NP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZW2RS4K5B8JVC7NP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13/hour of 720p JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V4Z8ZPW6SECGSF79" : {
+        "V4Z8ZPW6SECGSF79.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V4Z8ZPW6SECGSF79",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "V4Z8ZPW6SECGSF79.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V4Z8ZPW6SECGSF79.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US West (Oregon) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9E4YKBCY3R2H2Z3T" : {
+        "9E4YKBCY3R2H2Z3T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9E4YKBCY3R2H2Z3T",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9E4YKBCY3R2H2Z3T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9E4YKBCY3R2H2Z3T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US West (Northern California) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N6F3GJC2QU6ANF5J" : {
+        "N6F3GJC2QU6ANF5J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N6F3GJC2QU6ANF5J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N6F3GJC2QU6ANF5J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N6F3GJC2QU6ANF5J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.020 per GB - Data transfer from US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SB3QPRX68JJEUFJN" : {
+        "SB3QPRX68JJEUFJN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SB3QPRX68JJEUFJN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SB3QPRX68JJEUFJN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SB3QPRX68JJEUFJN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Paris)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2EM57G9RXMYR7BXA" : {
+        "2EM57G9RXMYR7BXA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2EM57G9RXMYR7BXA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2EM57G9RXMYR7BXA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2EM57G9RXMYR7BXA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.027 per GB - Africa (Cape Town) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0270000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EYRBRPZSZD9NP3PC" : {
+        "EYRBRPZSZD9NP3PC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EYRBRPZSZD9NP3PC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EYRBRPZSZD9NP3PC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EYRBRPZSZD9NP3PC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Ohio) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JD8GDR9FS6XWPKRF" : {
+        "JD8GDR9FS6XWPKRF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JD8GDR9FS6XWPKRF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JD8GDR9FS6XWPKRF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JD8GDR9FS6XWPKRF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB - entitlement data transfer US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ARFXPJMR7AADX8JA" : {
+        "ARFXPJMR7AADX8JA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ARFXPJMR7AADX8JA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ARFXPJMR7AADX8JA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ARFXPJMR7AADX8JA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - EU (Ireland) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S68R8RX45A34B67C" : {
+        "S68R8RX45A34B67C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S68R8RX45A34B67C",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "S68R8RX45A34B67C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S68R8RX45A34B67C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Melbourne)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B8E6YHZSACZ754QB" : {
+        "B8E6YHZSACZ754QB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B8E6YHZSACZ754QB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B8E6YHZSACZ754QB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B8E6YHZSACZ754QB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Ireland)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7H7SPXABA7CYNWF" : {
+        "N7H7SPXABA7CYNWF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7H7SPXABA7CYNWF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7H7SPXABA7CYNWF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7H7SPXABA7CYNWF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06/hour of 480p CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SA4XX3FGNPFFMZYV" : {
+        "SA4XX3FGNPFFMZYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SA4XX3FGNPFFMZYV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SA4XX3FGNPFFMZYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SA4XX3FGNPFFMZYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB - Asia Pacific (Tokyo) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WJK9PSECAZMR9M63" : {
+        "WJK9PSECAZMR9M63.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WJK9PSECAZMR9M63",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WJK9PSECAZMR9M63.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WJK9PSECAZMR9M63.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06/hour of Undefined CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C7V3TPW8WU3H3BUD" : {
+        "C7V3TPW8WU3H3BUD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C7V3TPW8WU3H3BUD",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "C7V3TPW8WU3H3BUD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C7V3TPW8WU3H3BUD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - EU (London) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9WNASGMTQM6PDSB5" : {
+        "9WNASGMTQM6PDSB5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9WNASGMTQM6PDSB5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9WNASGMTQM6PDSB5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9WNASGMTQM6PDSB5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.5/hour of 480p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YG9ADTGHFEQB3HCE" : {
+        "YG9ADTGHFEQB3HCE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YG9ADTGHFEQB3HCE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YG9ADTGHFEQB3HCE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YG9ADTGHFEQB3HCE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB data transfer out of US East (Northern Virginia) to CloudFront",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AQTKTDM46CH9CGJ4" : {
+        "AQTKTDM46CH9CGJ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AQTKTDM46CH9CGJ4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AQTKTDM46CH9CGJ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AQTKTDM46CH9CGJ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$12/hour of 2160p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "12.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KJ6TZKWMVF6MC8UH" : {
+        "KJ6TZKWMVF6MC8UH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJ6TZKWMVF6MC8UH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJ6TZKWMVF6MC8UH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJ6TZKWMVF6MC8UH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - EU (Germany) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NWN5KG3QDRHHZU7A" : {
+        "NWN5KG3QDRHHZU7A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NWN5KG3QDRHHZU7A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NWN5KG3QDRHHZU7A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NWN5KG3QDRHHZU7A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13/hour of 1080i CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2QXG5ASUFUA4JQZE" : {
+        "2QXG5ASUFUA4JQZE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2QXG5ASUFUA4JQZE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2QXG5ASUFUA4JQZE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2QXG5ASUFUA4JQZE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per Hour for RunningFlow_LargeInstance in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "89SUT6BQUVJ88HKB" : {
+        "89SUT6BQUVJ88HKB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "89SUT6BQUVJ88HKB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "89SUT6BQUVJ88HKB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "89SUT6BQUVJ88HKB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Canada (Central)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7ZSZ2H6RGFMY9ZY" : {
+        "N7ZSZ2H6RGFMY9ZY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7ZSZ2H6RGFMY9ZY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7ZSZ2H6RGFMY9ZY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7ZSZ2H6RGFMY9ZY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.010 per GB - regional data transfer in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5Q5KVJ6ZSTAMT63T" : {
+        "5Q5KVJ6ZSTAMT63T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5Q5KVJ6ZSTAMT63T",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5Q5KVJ6ZSTAMT63T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5Q5KVJ6ZSTAMT63T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Tokyo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "77EKFRQ24YBW52QN" : {
+        "77EKFRQ24YBW52QN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "77EKFRQ24YBW52QN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "77EKFRQ24YBW52QN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "77EKFRQ24YBW52QN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Hyderabad) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N2TH5MZGDVKKRTYQ" : {
+        "N2TH5MZGDVKKRTYQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N2TH5MZGDVKKRTYQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N2TH5MZGDVKKRTYQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N2TH5MZGDVKKRTYQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Middle East (UAE)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YWJCMK235DKTSEBH" : {
+        "YWJCMK235DKTSEBH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YWJCMK235DKTSEBH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YWJCMK235DKTSEBH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YWJCMK235DKTSEBH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Seoul) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9JAS2ZWF7AXVVSPS" : {
+        "9JAS2ZWF7AXVVSPS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9JAS2ZWF7AXVVSPS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9JAS2ZWF7AXVVSPS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9JAS2ZWF7AXVVSPS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VGVNQKZUANCHVC9T" : {
+        "VGVNQKZUANCHVC9T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VGVNQKZUANCHVC9T",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VGVNQKZUANCHVC9T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VGVNQKZUANCHVC9T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - EU (London) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KUTT258M7RDBK5CR" : {
+        "KUTT258M7RDBK5CR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KUTT258M7RDBK5CR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KUTT258M7RDBK5CR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KUTT258M7RDBK5CR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB - Asia Pacific (Hong Kong) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A3EVEM7BVMR5Y6WX" : {
+        "A3EVEM7BVMR5Y6WX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A3EVEM7BVMR5Y6WX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "A3EVEM7BVMR5Y6WX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A3EVEM7BVMR5Y6WX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Sydney)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4F5UATE8HK667NEG" : {
+        "4F5UATE8HK667NEG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4F5UATE8HK667NEG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4F5UATE8HK667NEG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4F5UATE8HK667NEG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.161/hour Reserved Outbound Bandwidth at 50Mbps US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1610000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YEHGEBF4FWH5AVCQ" : {
+        "YEHGEBF4FWH5AVCQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YEHGEBF4FWH5AVCQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YEHGEBF4FWH5AVCQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YEHGEBF4FWH5AVCQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Mumbai)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CSZVSHJNXPGQRJDT" : {
+        "CSZVSHJNXPGQRJDT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CSZVSHJNXPGQRJDT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CSZVSHJNXPGQRJDT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CSZVSHJNXPGQRJDT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Middle East (UAE)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DD72KPM3JRXP3WTY" : {
+        "DD72KPM3JRXP3WTY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DD72KPM3JRXP3WTY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DD72KPM3JRXP3WTY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DD72KPM3JRXP3WTY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Germany)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AF3FTWTGMHGNF229" : {
+        "AF3FTWTGMHGNF229.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AF3FTWTGMHGNF229",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AF3FTWTGMHGNF229.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AF3FTWTGMHGNF229.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB - Asia Pacific (Osaka) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SDHTJWBT4G3DV2KN" : {
+        "SDHTJWBT4G3DV2KN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SDHTJWBT4G3DV2KN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SDHTJWBT4G3DV2KN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SDHTJWBT4G3DV2KN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - EU (Germany) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M3VKK4EQ5Z7DV57M" : {
+        "M3VKK4EQ5Z7DV57M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M3VKK4EQ5Z7DV57M",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M3VKK4EQ5Z7DV57M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M3VKK4EQ5Z7DV57M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US West (Oregon) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8HQ2NXPTDVFY3RUG" : {
+        "8HQ2NXPTDVFY3RUG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8HQ2NXPTDVFY3RUG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8HQ2NXPTDVFY3RUG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8HQ2NXPTDVFY3RUG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Africa (Cape Town)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9HDW7B9SN5GC9V85" : {
+        "9HDW7B9SN5GC9V85.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9HDW7B9SN5GC9V85",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9HDW7B9SN5GC9V85.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9HDW7B9SN5GC9V85.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13/hour of 720p CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "64X6BT64ZPNNQ5VU" : {
+        "64X6BT64ZPNNQ5VU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "64X6BT64ZPNNQ5VU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "64X6BT64ZPNNQ5VU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "64X6BT64ZPNNQ5VU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Mumbai)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "53CREN5NSKMNU7G5" : {
+        "53CREN5NSKMNU7G5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "53CREN5NSKMNU7G5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "53CREN5NSKMNU7G5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "53CREN5NSKMNU7G5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.080 per GB - Asia Pacific (Seoul) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VAAPN9ABWDHHM9CA" : {
+        "VAAPN9ABWDHHM9CA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VAAPN9ABWDHHM9CA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VAAPN9ABWDHHM9CA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VAAPN9ABWDHHM9CA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.6/hour of 2160p CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNUWMJMN353P5G3A" : {
+        "MNUWMJMN353P5G3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNUWMJMN353P5G3A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNUWMJMN353P5G3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNUWMJMN353P5G3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Ireland)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BGJBXYWPF23ZNJHT" : {
+        "BGJBXYWPF23ZNJHT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BGJBXYWPF23ZNJHT",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BGJBXYWPF23ZNJHT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BGJBXYWPF23ZNJHT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.022 per GB - Canada (Central) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0220000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XZ4PHM5UCN24DB5C" : {
+        "XZ4PHM5UCN24DB5C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XZ4PHM5UCN24DB5C",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XZ4PHM5UCN24DB5C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XZ4PHM5UCN24DB5C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - EU (Stockholm) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GJ3F7XQMVR3QUS48" : {
+        "GJ3F7XQMVR3QUS48.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GJ3F7XQMVR3QUS48",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GJ3F7XQMVR3QUS48.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GJ3F7XQMVR3QUS48.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from South America (Sao Paulo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H78YZBZUB537ETUA" : {
+        "H78YZBZUB537ETUA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H78YZBZUB537ETUA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "H78YZBZUB537ETUA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H78YZBZUB537ETUA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to US West (Oregon)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z2BGTBD4X7AF7JS6" : {
+        "Z2BGTBD4X7AF7JS6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z2BGTBD4X7AF7JS6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z2BGTBD4X7AF7JS6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z2BGTBD4X7AF7JS6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16 per GB - South America (Sao Paulo) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MMMC3G9YFBJ3XTNZ" : {
+        "MMMC3G9YFBJ3XTNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MMMC3G9YFBJ3XTNZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MMMC3G9YFBJ3XTNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MMMC3G9YFBJ3XTNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to EU (London)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6J64N8FPJEN6RP8A" : {
+        "6J64N8FPJEN6RP8A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6J64N8FPJEN6RP8A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6J64N8FPJEN6RP8A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6J64N8FPJEN6RP8A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Stockholm)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5TGBXZT6Z3MTVSW3" : {
+        "5TGBXZT6Z3MTVSW3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5TGBXZT6Z3MTVSW3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5TGBXZT6Z3MTVSW3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5TGBXZT6Z3MTVSW3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Tokyo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UQ7XVUG2M7CT73AS" : {
+        "UQ7XVUG2M7CT73AS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UQ7XVUG2M7CT73AS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UQ7XVUG2M7CT73AS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UQ7XVUG2M7CT73AS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from US West (Oregon)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PYND4JJSV4WXGCX3" : {
+        "PYND4JJSV4WXGCX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PYND4JJSV4WXGCX3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PYND4JJSV4WXGCX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PYND4JJSV4WXGCX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06/hour of 480p JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZX7T6TS4H9GWNGEX" : {
+        "ZX7T6TS4H9GWNGEX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZX7T6TS4H9GWNGEX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZX7T6TS4H9GWNGEX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZX7T6TS4H9GWNGEX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Sydney) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2K92VBUEAF2H7777" : {
+        "2K92VBUEAF2H7777.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2K92VBUEAF2H7777",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2K92VBUEAF2H7777.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2K92VBUEAF2H7777.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per GB - Middle East (UAE) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8Q8EGZGRCRQVRBGP" : {
+        "8Q8EGZGRCRQVRBGP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8Q8EGZGRCRQVRBGP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8Q8EGZGRCRQVRBGP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8Q8EGZGRCRQVRBGP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Mumbai) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TSND86DG28K5SRZ6" : {
+        "TSND86DG28K5SRZ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TSND86DG28K5SRZ6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TSND86DG28K5SRZ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TSND86DG28K5SRZ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Osaka) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2KY9CQ4QHAK3E6YW" : {
+        "2KY9CQ4QHAK3E6YW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2KY9CQ4QHAK3E6YW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2KY9CQ4QHAK3E6YW.JRTCKXETXF.N9EW5UVVPA" : {
+              "rateCode" : "2KY9CQ4QHAK3E6YW.JRTCKXETXF.N9EW5UVVPA",
+              "description" : "$0.070 per GB - next 100 TB / month data transfer out",
+              "beginRange" : "51200",
+              "endRange" : "153600",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2KY9CQ4QHAK3E6YW.JRTCKXETXF.ETY2894C67" : {
+              "rateCode" : "2KY9CQ4QHAK3E6YW.JRTCKXETXF.ETY2894C67",
+              "description" : "$0.000 per GB - first 100 GB of data transferred out per month",
+              "beginRange" : "0",
+              "endRange" : "100",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2KY9CQ4QHAK3E6YW.JRTCKXETXF.GPHXDESFBB" : {
+              "rateCode" : "2KY9CQ4QHAK3E6YW.JRTCKXETXF.GPHXDESFBB",
+              "description" : "$0.050 per GB - greater than 150 TB / month data transfer out",
+              "beginRange" : "153600",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2KY9CQ4QHAK3E6YW.JRTCKXETXF.TGCPV7KR65" : {
+              "rateCode" : "2KY9CQ4QHAK3E6YW.JRTCKXETXF.TGCPV7KR65",
+              "description" : "$0.090 per GB - first 10 TB / month data transfer out beyond the global free tier",
+              "beginRange" : "100",
+              "endRange" : "10240",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2KY9CQ4QHAK3E6YW.JRTCKXETXF.VF6T3GAUKQ" : {
+              "rateCode" : "2KY9CQ4QHAK3E6YW.JRTCKXETXF.VF6T3GAUKQ",
+              "description" : "$0.085 per GB - next 40 TB / month data transfer out",
+              "beginRange" : "10240",
+              "endRange" : "51200",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0850000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J4T387CRX393X88W" : {
+        "J4T387CRX393X88W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J4T387CRX393X88W",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "J4T387CRX393X88W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J4T387CRX393X88W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3/hour of 1080i Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZRG5G9TK5VZNW7YU" : {
+        "ZRG5G9TK5VZNW7YU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZRG5G9TK5VZNW7YU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZRG5G9TK5VZNW7YU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZRG5G9TK5VZNW7YU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Melbourne)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PSX7PM85UWXCE9V8" : {
+        "PSX7PM85UWXCE9V8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PSX7PM85UWXCE9V8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PSX7PM85UWXCE9V8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PSX7PM85UWXCE9V8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Tokyo) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E9F9TCY4SM7NJPUK" : {
+        "E9F9TCY4SM7NJPUK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E9F9TCY4SM7NJPUK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E9F9TCY4SM7NJPUK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E9F9TCY4SM7NJPUK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Africa (Cape Town) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XFVMTAXC5D7CPFNS" : {
+        "XFVMTAXC5D7CPFNS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XFVMTAXC5D7CPFNS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XFVMTAXC5D7CPFNS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XFVMTAXC5D7CPFNS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to US West (Northern California)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EWBABNG2X2CVQGTK" : {
+        "EWBABNG2X2CVQGTK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EWBABNG2X2CVQGTK",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EWBABNG2X2CVQGTK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EWBABNG2X2CVQGTK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - EU (Paris) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "THG7TXUN7UNZZB28" : {
+        "THG7TXUN7UNZZB28.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "THG7TXUN7UNZZB28",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "THG7TXUN7UNZZB28.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "THG7TXUN7UNZZB28.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.6/hour of 2160p JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7T9ZYE3Z6BDJDCR6" : {
+        "7T9ZYE3Z6BDJDCR6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7T9ZYE3Z6BDJDCR6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7T9ZYE3Z6BDJDCR6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7T9ZYE3Z6BDJDCR6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Hyderabad)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3NCECY6A3R3RMEJ6" : {
+        "3NCECY6A3R3RMEJ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3NCECY6A3R3RMEJ6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3NCECY6A3R3RMEJ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3NCECY6A3R3RMEJ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to South America (Sao Paulo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M4HS6EK93UC3YK7R" : {
+        "M4HS6EK93UC3YK7R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M4HS6EK93UC3YK7R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M4HS6EK93UC3YK7R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M4HS6EK93UC3YK7R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Africa (Cape Town)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YAXX3G4QTCB274FQ" : {
+        "YAXX3G4QTCB274FQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YAXX3G4QTCB274FQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YAXX3G4QTCB274FQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YAXX3G4QTCB274FQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3/hour of 720p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "66SMEEKUC9WBFCAA" : {
+        "66SMEEKUC9WBFCAA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "66SMEEKUC9WBFCAA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "66SMEEKUC9WBFCAA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "66SMEEKUC9WBFCAA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - South America (Sao Paulo) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HCG5W6KQSVFDF3VF" : {
+        "HCG5W6KQSVFDF3VF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HCG5W6KQSVFDF3VF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HCG5W6KQSVFDF3VF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HCG5W6KQSVFDF3VF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - subscriber funded entitlement data transfer US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PGH3VWDQN2VC6C4D" : {
+        "PGH3VWDQN2VC6C4D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGH3VWDQN2VC6C4D",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGH3VWDQN2VC6C4D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGH3VWDQN2VC6C4D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB - Asia Pacific (Singapore) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3V9QG3MXKD4GFN33" : {
+        "3V9QG3MXKD4GFN33.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3V9QG3MXKD4GFN33",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3V9QG3MXKD4GFN33.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3V9QG3MXKD4GFN33.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Hong Kong) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JQT2SZYEPGPD5ZDM" : {
+        "JQT2SZYEPGPD5ZDM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JQT2SZYEPGPD5ZDM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JQT2SZYEPGPD5ZDM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JQT2SZYEPGPD5ZDM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - EU (Paris) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DSRUU9JVDJ9XEDVP" : {
+        "DSRUU9JVDJ9XEDVP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DSRUU9JVDJ9XEDVP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DSRUU9JVDJ9XEDVP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DSRUU9JVDJ9XEDVP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q9G7BMVYDDCXNMSP" : {
+        "Q9G7BMVYDDCXNMSP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q9G7BMVYDDCXNMSP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q9G7BMVYDDCXNMSP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q9G7BMVYDDCXNMSP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from EU (London)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AJVAWRG4PYCRR5K7" : {
+        "AJVAWRG4PYCRR5K7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJVAWRG4PYCRR5K7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJVAWRG4PYCRR5K7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJVAWRG4PYCRR5K7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - EU (Ireland) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4TRK7BD42Y538HHC" : {
+        "4TRK7BD42Y538HHC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4TRK7BD42Y538HHC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4TRK7BD42Y538HHC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4TRK7BD42Y538HHC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB data transfer in to US East (Northern Virginia) from CloudFront",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4BBB4FB4FV8UV63V" : {
+        "4BBB4FB4FV8UV63V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4BBB4FB4FV8UV63V",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4BBB4FB4FV8UV63V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4BBB4FB4FV8UV63V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Stockholm)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VYDUGGYZ5R3N5NNB" : {
+        "VYDUGGYZ5R3N5NNB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VYDUGGYZ5R3N5NNB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VYDUGGYZ5R3N5NNB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VYDUGGYZ5R3N5NNB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Paris)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XPFT3CF7KHUVD8QP" : {
+        "XPFT3CF7KHUVD8QP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XPFT3CF7KHUVD8QP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XPFT3CF7KHUVD8QP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XPFT3CF7KHUVD8QP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06/hour of Undefined JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UYHE5U8RJHRVEAVE" : {
+        "UYHE5U8RJHRVEAVE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UYHE5U8RJHRVEAVE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UYHE5U8RJHRVEAVE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UYHE5U8RJHRVEAVE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Seoul)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J67885T8MVZHNE84" : {
+        "J67885T8MVZHNE84.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J67885T8MVZHNE84",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "J67885T8MVZHNE84.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J67885T8MVZHNE84.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB - US East (Ohio) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7DBDJ99M6J6QBW74" : {
+        "7DBDJ99M6J6QBW74.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7DBDJ99M6J6QBW74",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7DBDJ99M6J6QBW74.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7DBDJ99M6J6QBW74.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from US East (Ohio)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A422JVYU4MN5BNC2" : {
+        "A422JVYU4MN5BNC2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A422JVYU4MN5BNC2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "A422JVYU4MN5BNC2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A422JVYU4MN5BNC2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.086 per GB - Asia Pacific (Mumbai) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0860000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6T8VY4QGFZEEUG32" : {
+        "6T8VY4QGFZEEUG32.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6T8VY4QGFZEEUG32",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6T8VY4QGFZEEUG32.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6T8VY4QGFZEEUG32.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.474/hour Reserved Outbound Bandwidth at 500Mbps US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "6.4740000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCJGVAR2AGUGVNWP" : {
+        "DCJGVAR2AGUGVNWP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCJGVAR2AGUGVNWP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCJGVAR2AGUGVNWP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCJGVAR2AGUGVNWP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Osaka)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5T9TYF5CDN998FAD" : {
+        "5T9TYF5CDN998FAD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5T9TYF5CDN998FAD",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5T9TYF5CDN998FAD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5T9TYF5CDN998FAD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB - US East (Northern Virginia) data transfer to US East (Ohio)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6ADAUYG2NXCD4N96" : {
+        "6ADAUYG2NXCD4N96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6ADAUYG2NXCD4N96",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6ADAUYG2NXCD4N96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6ADAUYG2NXCD4N96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6/hour of 1080p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N3MGTK2GK5P6ZNCN" : {
+        "N3MGTK2GK5P6ZNCN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N3MGTK2GK5P6ZNCN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N3MGTK2GK5P6ZNCN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N3MGTK2GK5P6ZNCN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Seoul)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HEXWJ4BAEUC8943D" : {
+        "HEXWJ4BAEUC8943D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HEXWJ4BAEUC8943D",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HEXWJ4BAEUC8943D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HEXWJ4BAEUC8943D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Singapore) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DW27JW783W3NMSTG" : {
+        "DW27JW783W3NMSTG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DW27JW783W3NMSTG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DW27JW783W3NMSTG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DW27JW783W3NMSTG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - EU (Stockholm) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EZ8DZSHA83Q4V535" : {
+        "EZ8DZSHA83Q4V535.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EZ8DZSHA83Q4V535",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EZ8DZSHA83Q4V535.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EZ8DZSHA83Q4V535.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$11.444/hour Reserved Outbound Bandwidth at 1500Mbps US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "11.4440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9CDSW3ERC444989F" : {
+        "9CDSW3ERC444989F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9CDSW3ERC444989F",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9CDSW3ERC444989F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9CDSW3ERC444989F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Melbourne) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C6WHJFCBG99A7F3J" : {
+        "C6WHJFCBG99A7F3J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C6WHJFCBG99A7F3J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "C6WHJFCBG99A7F3J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C6WHJFCBG99A7F3J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Germany)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "USJUNYHPZGEDVR9Z" : {
+        "USJUNYHPZGEDVR9Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "USJUNYHPZGEDVR9Z",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "USJUNYHPZGEDVR9Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "USJUNYHPZGEDVR9Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000 per GB - data transfer in per month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SKGFMR7J5GBCSFWC" : {
+        "SKGFMR7J5GBCSFWC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SKGFMR7J5GBCSFWC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "SKGFMR7J5GBCSFWC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SKGFMR7J5GBCSFWC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3/hour of 1080p JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RQPZV3GKES2QDPMY" : {
+        "RQPZV3GKES2QDPMY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RQPZV3GKES2QDPMY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RQPZV3GKES2QDPMY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RQPZV3GKES2QDPMY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US West (Northern California) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QUST87Q2ESNRUVJY" : {
+        "QUST87Q2ESNRUVJY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QUST87Q2ESNRUVJY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QUST87Q2ESNRUVJY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QUST87Q2ESNRUVJY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Osaka)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H388CR799F6Y8YSZ" : {
+        "H388CR799F6Y8YSZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H388CR799F6Y8YSZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "H388CR799F6Y8YSZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H388CR799F6Y8YSZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Canada (Central)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RH2B9KYR76BH8XJ5" : {
+        "RH2B9KYR76BH8XJ5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RH2B9KYR76BH8XJ5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RH2B9KYR76BH8XJ5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RH2B9KYR76BH8XJ5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3/hour of 1080p CDI Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q7XFUBD36PNYV6KX" : {
+        "Q7XFUBD36PNYV6KX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q7XFUBD36PNYV6KX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q7XFUBD36PNYV6KX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q7XFUBD36PNYV6KX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Data transfer to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BBNVBMNDPTF3BHNN" : {
+        "BBNVBMNDPTF3BHNN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BBNVBMNDPTF3BHNN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BBNVBMNDPTF3BHNN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BBNVBMNDPTF3BHNN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13/hour of 1080i JPEG-XS Output usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UZQ33ATM6CDWGT6X" : {
+        "UZQ33ATM6CDWGT6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UZQ33ATM6CDWGT6X",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UZQ33ATM6CDWGT6X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UZQ33ATM6CDWGT6X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.16/hour of Active Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "0.1600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JQAR4P496UD82QVV" : {
+        "JQAR4P496UD82QVV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JQAR4P496UD82QVV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JQAR4P496UD82QVV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JQAR4P496UD82QVV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Middle East (UAE) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GN9ZN8CQ6BGX8YPH" : {
+        "GN9ZN8CQ6BGX8YPH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GN9ZN8CQ6BGX8YPH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GN9ZN8CQ6BGX8YPH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GN9ZN8CQ6BGX8YPH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Canada (Central) data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6D399E3B2AHEG7JG" : {
+        "6D399E3B2AHEG7JG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6D399E3B2AHEG7JG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6D399E3B2AHEG7JG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6D399E3B2AHEG7JG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.14 per GB - Asia Pacific (Melbourne) data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PX9AHDH5JX3T5ZCC" : {
+        "PX9AHDH5JX3T5ZCC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PX9AHDH5JX3T5ZCC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PX9AHDH5JX3T5ZCC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PX9AHDH5JX3T5ZCC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Sydney)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VCAHDU739K5D3AF5" : {
+        "VCAHDU739K5D3AF5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VCAHDU739K5D3AF5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VCAHDU739K5D3AF5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VCAHDU739K5D3AF5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Hyderabad)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U92WTQPF8YQ63H7K" : {
+        "U92WTQPF8YQ63H7K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U92WTQPF8YQ63H7K",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "U92WTQPF8YQ63H7K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U92WTQPF8YQ63H7K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.5/hour of Undefined Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hours",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N9RVS9QKARVC6THU" : {
+        "N9RVS9QKARVC6THU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N9RVS9QKARVC6THU",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "N9RVS9QKARVC6THU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N9RVS9QKARVC6THU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Hong Kong)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

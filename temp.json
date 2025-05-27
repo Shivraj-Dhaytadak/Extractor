@@ -1,0 +1,220 @@
+[{
+  "name": "Pipeline provisioning",
+  "services": [
+    {
+      "name": "Amazon S3",
+      "type": "AWS service",
+      "description": "Model artifact and data",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Orchestrator",
+          "description": "Model artifacts and training data for model monitor"
+        }
+      ]
+    },
+    {
+      "name": "Amazon SageMaker",
+      "type": "AWS service",
+      "description": "Model Registry",
+      "account_context": "AWS Cloud",
+      "relations": []
+    },
+    {
+      "name": "Amazon ECR",
+      "type": "AWS service",
+      "description": "Custom algorithms",
+      "account_context": "AWS Cloud",
+      "relations": []
+    },
+    {
+      "name": "Amazon API Gateway",
+      "type": "AWS service",
+      "description": "Option 1: Initiate by API call",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "AWS Lambda",
+          "description": "Initiate by API call"
+        },
+        {
+          "target": "Orchestrator",
+          "description": "Initiate by API call"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "type": "AWS service",
+      "description": "Pipeline blueprint repository",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Orchestrator",
+          "description": "Interacts with"
+        },
+        {
+          "target": "AWS Lambda",
+          "description": "Triggers"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "type": "AWS service",
+      "description": "Option 2: Initiate by upload to S3 bucket",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "AWS Lambda",
+          "description": "Initiate by upload to S3 bucket"
+        }
+      ]
+    },
+    {
+      "name": "AWS Lambda",
+      "type": "AWS service",
+      "description": "",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Amazon API Gateway",
+          "description": "Triggered by"
+        },
+        {
+          "target": "Amazon S3 (Pipeline blueprint repository)",
+          "description": "Triggered by"
+        },
+        {
+          "target": "Amazon S3 (Option 2: Initiate by upload to S3 bucket)",
+          "description": "Triggered by"
+        },
+        {
+          "target": "AWS CloudFormation",
+          "description": "Triggers"
+        }
+      ]
+    },
+    {
+      "name": "AWS CloudFormation",
+      "type": "AWS service",
+      "description": "",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "AWS Lambda",
+          "description": "Triggered by"
+        },
+        {
+          "target": "AWS CodePipeline",
+          "description": "Deploys"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "AWS CodePipeline",
+  "services": [
+    {
+      "name": "Amazon S3",
+      "type": "AWS service",
+      "description": "Stage: Source",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "AWS CloudFormation action",
+          "description": "Feeds into"
+        }
+      ]
+    },
+    {
+      "name": "AWS CloudFormation action",
+      "type": "AWS service",
+      "description": "Stage: DeployPipeline",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Amazon S3 (Stage: Source)",
+          "description": "Receives input from"
+        },
+        {
+          "target": "Provisioned Pipeline",
+          "description": "Deploys"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Provisioned Pipeline (e.g. bring your own model - realtime inference pipeline)",
+  "services": [
+    {
+      "name": "Model",
+      "type": "other",
+      "description": "",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Amazon SageMaker Endpoint",
+          "description": "Associated with"
+        }
+      ]
+    },
+    {
+      "name": "Amazon SageMaker Endpoint",
+      "type": "AWS service",
+      "description": "Invoke endpoint",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Model",
+          "description": "Serves"
+        },
+        {
+          "target": "AWS Lambda (Invoke endpoint)",
+          "description": "Invoked by"
+        }
+      ]
+    },
+    {
+      "name": "AWS Lambda",
+      "type": "AWS service",
+      "description": "Invoke endpoint",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "Amazon SageMaker Endpoint",
+          "description": "Invokes"
+        },
+        {
+          "target": "Amazon API Gateway",
+          "description": "Triggered by"
+        }
+      ]
+    },
+    {
+      "name": "Amazon API Gateway",
+      "type": "AWS service",
+      "description": "",
+      "account_context": "AWS Cloud",
+      "relations": [
+        {
+          "target": "User",
+          "description": "Interacted with by"
+        },
+        {
+          "target": "AWS Lambda (Invoke endpoint)",
+          "description": "Triggers"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "type": "AWS service",
+      "description": "Existing bucket used to store captured data, input/output of batch transform jobs, or model monitor",
+      "account_context": "AWS Cloud",
+      "relations": []
+    }
+  ]
+}]

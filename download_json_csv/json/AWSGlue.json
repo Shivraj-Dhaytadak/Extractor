@@ -1,0 +1,613 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSGlue",
+  "version" : "20250307234720",
+  "publicationDate" : "2025-03-07T23:47:20Z",
+  "products" : {
+    "QKD9TPUADWXWA4F5" : {
+      "sku" : "QKD9TPUADWXWA4F5",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data catalog storage",
+        "usagetype" : "USE1-Catalog-Storage",
+        "operation" : "Storage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "H5SXAYMQH485TMM7" : {
+      "sku" : "H5SXAYMQH485TMM7",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Development endpoint",
+        "usagetype" : "USE1-DEVED-DPU-Hour",
+        "operation" : "StartDevEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "MBAX62AMGNTGZ4DJ" : {
+      "sku" : "MBAX62AMGNTGZ4DJ",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Data Catalog Requests global",
+        "usagetype" : "Global-Catalog-Request",
+        "operation" : "Request",
+        "regionCode" : "",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "GHMPJF3R3WNB27VE" : {
+      "sku" : "GHMPJF3R3WNB27VE",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Ray Interactive Session",
+        "usagetype" : "USE1-GlueInteractiveSession-MemOptimized-DPU-Hour",
+        "operation" : "GlueInteractiveSession",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "CW2STD52Z73SFDTA" : {
+      "sku" : "CW2STD52Z73SFDTA",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Job run",
+        "usagetype" : "USE1-ETL-Flex-DPU-Hour",
+        "operation" : "FlexJobrun",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "7TBP5C45D3X75RCH" : {
+      "sku" : "7TBP5C45D3X75RCH",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data catalog crawler run",
+        "usagetype" : "USE1-Crawler-DPU-Hour",
+        "operation" : "CrawlerRun",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "KAS3XQMNVJMZG4A6" : {
+      "sku" : "KAS3XQMNVJMZG4A6",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Interactive Session",
+        "usagetype" : "USE1-GlueInteractiveSession-DPU-Hour",
+        "operation" : "GlueInteractiveSession",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "92HECYVH6ADRNZD6" : {
+      "sku" : "92HECYVH6ADRNZD6",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data lake optimization job run",
+        "usagetype" : "USE1-Optimization-DPU-Hour",
+        "operation" : "OptimizationJobRun",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "CXGYW3G8GS2SN9UG" : {
+      "sku" : "CXGYW3G8GS2SN9UG",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Job run",
+        "usagetype" : "USE1-ETL-DPU-Hour",
+        "operation" : "Jobrun",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "AHCYX2R7HSQ6HQ2H" : {
+      "sku" : "AHCYX2R7HSQ6HQ2H",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ETL Ray Job run",
+        "usagetype" : "USE1-ETL-MemOptimized-DPU-Hour",
+        "operation" : "Jobrun",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "T5DES2UXBSRTQDDA" : {
+      "sku" : "T5DES2UXBSRTQDDA",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ZETL Ingestion",
+        "usagetype" : "USE1-zeroETL-App-IngestionVolume-GB",
+        "operation" : "zeroETL-App-IngestionVolume",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "4EUSN8K2EQ66HPHZ" : {
+      "sku" : "4EUSN8K2EQ66HPHZ",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Brew free interactive sessions",
+        "usagetype" : "USE1-DBrew-FreeSessions",
+        "operation" : "Session",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "XUYP7NN729GFEEB7" : {
+      "sku" : "XUYP7NN729GFEEB7",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data catalog requests",
+        "usagetype" : "USE1-Catalog-Request",
+        "operation" : "Request",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "4N6K3A6GUPP28B3P" : {
+      "sku" : "4N6K3A6GUPP28B3P",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Brew interactive sessions",
+        "usagetype" : "USE1-DBrew-Sessions",
+        "operation" : "Session",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "TQYV5AMX5KKT9VQA" : {
+      "sku" : "TQYV5AMX5KKT9VQA",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ZETL Compute",
+        "usagetype" : "USE1-zeroETL-Lakehouse-Compute-DPU-Hour",
+        "operation" : "zeroETL-Lakehouse-Compute",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "YWMCS8MFGKD2AGD9" : {
+      "sku" : "YWMCS8MFGKD2AGD9",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Brew Job run",
+        "usagetype" : "USE1-DBrew-Node-Hour",
+        "operation" : "Job",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Glue"
+      }
+    },
+    "KQ8UDQCB4YC9MUEX" : {
+      "sku" : "KQ8UDQCB4YC9MUEX",
+      "productFamily" : "AWS Glue",
+      "attributes" : {
+        "servicecode" : "AWSGlue",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Data Catalog storage global",
+        "usagetype" : "Global-Catalog-Storage",
+        "operation" : "Storage",
+        "regionCode" : "",
+        "servicename" : "AWS Glue"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MBAX62AMGNTGZ4DJ" : {
+        "MBAX62AMGNTGZ4DJ.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "MBAX62AMGNTGZ4DJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MBAX62AMGNTGZ4DJ.A429C66SYZ.SB2VSFF4TP" : {
+              "rateCode" : "MBAX62AMGNTGZ4DJ.A429C66SYZ.SB2VSFF4TP",
+              "description" : "$0 for AWS Glue Data Catalog requests under the free tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "C2XTFC93Y5JX7YMR", "WB2V53ES7TJAX89E", "23DJTS8U2Y725Q9G", "Y7M7VBTBV4CFXGY2", "TMMJGWDNSK36THDH", "3FW8Y63MN7MHQD3B", "V7AGXDFX6BUEG8WT", "2JE3WCEUSPXQY8TK", "4JSDAGJUPQFRUMAN", "ET6JYDGVUZESQNWW", "GY37T8BDHF4PAY4S", "ANYPRZ3SPMBFB9XR", "6PQ5QJEXHQG4AN35", "6GNVJKR779JFU8EX", "AGFY248E9RTTPCKA", "6PDFTXNWT277TXP4", "PGTWYUYX7FPMKNKN", "XUYP7NN729GFEEB7", "FRBTU2K96SVQWHB8", "3DRFHJAZTSGAXKXD", "T8PNNSQ7KNTSTQ6A", "VAUJRGZX9RB8NT3D", "GQRMB5HN28MMNCFH", "ANMX565B49VAQAGX", "2WMP7VW8GB8PNHYW", "NNNFBY349QFQSV8K", "FHEBDEJ7JNSEUK4C", "S5NS27VYZVXBHYUW", "ZV78NH9F34YRJ8B6", "WU8KJ73BPKAC9WJ7", "B7AB9XZF8FCFJUDN", "RKKPCJ2KF7EUJWGR", "GMD9CWNK6FKKB242", "UX26WGXFXQ9X8YQ7" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "T5DES2UXBSRTQDDA" : {
+        "T5DES2UXBSRTQDDA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T5DES2UXBSRTQDDA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "T5DES2UXBSRTQDDA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T5DES2UXBSRTQDDA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per GB of AWS Glue data ingestion from any application, billed per MB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7TBP5C45D3X75RCH" : {
+        "7TBP5C45D3X75RCH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7TBP5C45D3X75RCH",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7TBP5C45D3X75RCH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7TBP5C45D3X75RCH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Data Processing Unit-Hour for AWS Glue crawler",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQYV5AMX5KKT9VQA" : {
+        "TQYV5AMX5KKT9VQA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQYV5AMX5KKT9VQA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQYV5AMX5KKT9VQA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TQYV5AMX5KKT9VQA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per AWS Glue DPU Hour for compute to process zero-ETL data written to Amazon S3",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4N6K3A6GUPP28B3P" : {
+        "4N6K3A6GUPP28B3P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4N6K3A6GUPP28B3P",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4N6K3A6GUPP28B3P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4N6K3A6GUPP28B3P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per session for AWS Glue DataBrew interactive sessions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Sessions",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CW2STD52Z73SFDTA" : {
+        "CW2STD52Z73SFDTA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CW2STD52Z73SFDTA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CW2STD52Z73SFDTA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CW2STD52Z73SFDTA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.29 per Data Processing Unit-Hour for AWS Glue Flex ETL job",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.2900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KAS3XQMNVJMZG4A6" : {
+        "KAS3XQMNVJMZG4A6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KAS3XQMNVJMZG4A6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KAS3XQMNVJMZG4A6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KAS3XQMNVJMZG4A6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Data Processing Unit-Hour for AWS Glue interactive sessions and job notebooks",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H5SXAYMQH485TMM7" : {
+        "H5SXAYMQH485TMM7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H5SXAYMQH485TMM7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "H5SXAYMQH485TMM7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H5SXAYMQH485TMM7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Data Processing Unit-Hour for AWS Glue development endpoints",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "92HECYVH6ADRNZD6" : {
+        "92HECYVH6ADRNZD6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "92HECYVH6ADRNZD6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "92HECYVH6ADRNZD6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "92HECYVH6ADRNZD6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Data Processing Unit-Hour for optimizing Iceberg tables with compaction.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YWMCS8MFGKD2AGD9" : {
+        "YWMCS8MFGKD2AGD9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YWMCS8MFGKD2AGD9",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "YWMCS8MFGKD2AGD9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YWMCS8MFGKD2AGD9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.48 per node hour for AWS Glue DataBrew jobs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Node-hour",
+              "pricePerUnit" : {
+                "USD" : "0.4800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AHCYX2R7HSQ6HQ2H" : {
+        "AHCYX2R7HSQ6HQ2H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AHCYX2R7HSQ6HQ2H",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AHCYX2R7HSQ6HQ2H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AHCYX2R7HSQ6HQ2H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Memory optimized Data Processing Unit-Hour for AWS Glue for Ray job",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "M-DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GHMPJF3R3WNB27VE" : {
+        "GHMPJF3R3WNB27VE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GHMPJF3R3WNB27VE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GHMPJF3R3WNB27VE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GHMPJF3R3WNB27VE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Memory optimized Data Processing Unit-Hour for AWS Glue for Ray interactive sessions and job notebooks",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "M-DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KQ8UDQCB4YC9MUEX" : {
+        "KQ8UDQCB4YC9MUEX.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "KQ8UDQCB4YC9MUEX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KQ8UDQCB4YC9MUEX.A429C66SYZ.SB2VSFF4TP" : {
+              "rateCode" : "KQ8UDQCB4YC9MUEX.A429C66SYZ.SB2VSFF4TP",
+              "description" : "$0 for AWS Glue Data Catalog storage under the free tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Obj-Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "FTDSH4K3SRJAQFJT", "NDA4DXYR7JSFPHW7", "A7W5BZ4HS9YZECBP", "DNG9K3M6JAZWYM5W", "QKD9TPUADWXWA4F5", "CSJCXKHFVXS2YYW5", "ZZGHEV6BARPHXPK8", "48HM5KWGF2CCBWWG", "QQU8BRNRHYSFBNYR", "67AADUA5WPBY4CGD", "WDN94UGMBWR45KDZ", "REVCEFKVDSJDUNEZ", "CDCZWBF65NEHDUY9", "CGQB4SV22EG6SS8U", "RKQSRSXVF7G2ND9D", "35VYWS5ZRDED6XC8", "48D4DNDCU8393P6Q", "QMJS4RMUZSNFU8UH", "ECCXEJXS2363BJJV", "TJB3YVUSGSKAMH99", "9KJDZJV6T5BUJFUC", "53WFD8U3TG36DTN8", "PT522CHER33VZEZ4", "9FQU7PJA8G2S6KBJ", "TF8EAYCTK3G6GS4Q", "QN4K9763W8ESJJK3", "NGYFRQX8ZA97G5JT", "CFKYR6ZPQBJESJ3A", "ZATMMQC3NCNV2482", "JYZWRVKRDV2AK8K7", "YJV3PGPPAVNE52TA", "2S6E45CF5TCDMDFK", "C5UPA7D6QYMRDSC6", "GR6BUK2D8AMYADSU" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "CXGYW3G8GS2SN9UG" : {
+        "CXGYW3G8GS2SN9UG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CXGYW3G8GS2SN9UG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CXGYW3G8GS2SN9UG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CXGYW3G8GS2SN9UG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per Data Processing Unit-Hour for AWS Glue ETL job",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "DPU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XUYP7NN729GFEEB7" : {
+        "XUYP7NN729GFEEB7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XUYP7NN729GFEEB7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XUYP7NN729GFEEB7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XUYP7NN729GFEEB7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per 1,000,000 requests for AWS Glue Data Catalog request",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QKD9TPUADWXWA4F5" : {
+        "QKD9TPUADWXWA4F5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QKD9TPUADWXWA4F5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QKD9TPUADWXWA4F5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QKD9TPUADWXWA4F5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per 100,000 objects per month for AWS Glue Data Catalog storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Obj-Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4EUSN8K2EQ66HPHZ" : {
+        "4EUSN8K2EQ66HPHZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4EUSN8K2EQ66HPHZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4EUSN8K2EQ66HPHZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4EUSN8K2EQ66HPHZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 for AWS Glue DataBrew interactive sessions under free trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Sessions",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

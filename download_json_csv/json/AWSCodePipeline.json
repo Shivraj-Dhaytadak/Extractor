@@ -1,0 +1,193 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCodePipeline",
+  "version" : "20240808221440",
+  "publicationDate" : "2024-08-08T22:14:40Z",
+  "products" : {
+    "TD9KXBWATDCHXY5Z" : {
+      "sku" : "TD9KXBWATDCHXY5Z",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "AWSCodePipeline",
+        "description" : "First active pipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-activePipeline",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodePipeline"
+      }
+    },
+    "XFZ7BBUMJGQAAN5W" : {
+      "sku" : "XFZ7BBUMJGQAAN5W",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "AWSCodePipeline",
+        "description" : "First active pipeline",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-activePipeline",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS CodePipeline"
+      }
+    },
+    "VXNDVJE8HG8SJE8X" : {
+      "sku" : "VXNDVJE8HG8SJE8X",
+      "productFamily" : "Active Pipeline",
+      "attributes" : {
+        "servicecode" : "AWSCodePipeline",
+        "description" : "Trial active pipeline",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-trialPipeline",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodePipeline"
+      }
+    },
+    "DJWUTK2Q4VSYNRHG" : {
+      "sku" : "DJWUTK2Q4VSYNRHG",
+      "productFamily" : "Action Execution Minutes",
+      "attributes" : {
+        "servicecode" : "AWSCodePipeline",
+        "description" : "Action Execution Minute",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-actionExecutionMinute",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS CodePipeline"
+      }
+    },
+    "8FMDH7HG6QN4E65Z" : {
+      "sku" : "8FMDH7HG6QN4E65Z",
+      "productFamily" : "Action Execution Minutes",
+      "attributes" : {
+        "servicecode" : "AWSCodePipeline",
+        "description" : "Action Execution Minute",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-actionExecutionMinute",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS CodePipeline"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "XFZ7BBUMJGQAAN5W" : {
+        "XFZ7BBUMJGQAAN5W.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "XFZ7BBUMJGQAAN5W",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "XFZ7BBUMJGQAAN5W.A429C66SYZ.8EEUB22XNJ" : {
+              "rateCode" : "XFZ7BBUMJGQAAN5W.A429C66SYZ.8EEUB22XNJ",
+              "description" : "$0.00 for first active pipeline",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "pipelines",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "3EHX82HXVK38ZWG6", "8UE4PGD2ENZ7TZY2", "G7FV4K2X8K6U6CVW", "VFV8CK7ZYA74QAH3", "9VKYK89Q9V8PKN87", "S3V937YYN6QS9QGQ", "PTZD79SD8FGC4J42", "CVQE3NJZA7723P2J", "Z2DG9CSDN7V79Q6S", "EQFFESYKMZ7K8PPC", "37SVZYDNWKHSDATH", "7HBHAVQ8NB3W4PW3", "D7MVPYF6A2SB39MN", "MRJE2Q49ZY65RS4Z", "FUXWKN7EQQE7P8X6", "KBHU2H8VBRCVUVZC", "Z648JZC3YB4MTFF4", "4AGC82WS9QTS8YCA", "4M3MGGMXGGGXE7GB", "CDWZ3YQ84HU2MENX", "X46ZUT4HFJYV6P8B", "H3325NWRUXTJ92GD", "9EFDYZBY6ANGDQ7K", "D2R428BESSP9X764", "DM64R47QVAT7A858", "BQQRBF5CR2CRSBS9", "K9FCHREYUFPQETFP", "DN826TNB92KG3NV6", "TD9KXBWATDCHXY5Z", "73EA8ZY4E39XJJ47" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "VXNDVJE8HG8SJE8X" : {
+        "VXNDVJE8HG8SJE8X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VXNDVJE8HG8SJE8X",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "VXNDVJE8HG8SJE8X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VXNDVJE8HG8SJE8X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per trial pipeline - no charge for pipelines created within 30 days",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "pipelines",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8FMDH7HG6QN4E65Z" : {
+        "8FMDH7HG6QN4E65Z.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "8FMDH7HG6QN4E65Z",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "8FMDH7HG6QN4E65Z.A429C66SYZ.ETY2894C67" : {
+              "rateCode" : "8FMDH7HG6QN4E65Z.A429C66SYZ.ETY2894C67",
+              "description" : "$0.00 for 100 action execution minutes",
+              "beginRange" : "0",
+              "endRange" : "100",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "T6BVWRP62ZPD5QG8", "HMJW9HJBA2SWW6D8", "DMY5HNRV8P7694R4", "KNTFRJJMFB8GQSNW", "KPQ79598TABHW52X", "QPKB4U6NS7P9X38T", "EGKUG7FE4RHWA3FG", "YBHJSAFGH6MGMQUF", "G9ZG6HSR8XFRQTTM", "XERBMPJXY4JHEWPK", "D573EYT6RS6XMWJ2", "6QKP6CJ8TNPKHR3B", "J462JU5D3TYUDN82", "8F228PBT38ASPYEF", "QNA8Z722XH5P2XSU", "DJWUTK2Q4VSYNRHG", "EN52NGAFJX6XARJT", "CRK6Q22V7JA5VCRQ", "JRMUCVCS2VPXWDHU", "RVPS3DVAQ78MKXY8", "6XVWMQRY9F5WZBUK", "4WVE5NMACSR5X893", "9EUUZKCZC8AUD3HH", "XSDTQVFVVRRTKDMD", "HEE2RYXSNAT9Y467", "CPZA9P7R9SFK6SU2", "NN55ZDT7RH3JQFCB", "6QUADT5AJF8G9UUJ", "47D4WQC9FKWR2U46", "HS5GXR7PC7J2K2MF" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "DJWUTK2Q4VSYNRHG" : {
+        "DJWUTK2Q4VSYNRHG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJWUTK2Q4VSYNRHG",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJWUTK2Q4VSYNRHG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DJWUTK2Q4VSYNRHG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per action execution minute",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0020000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TD9KXBWATDCHXY5Z" : {
+        "TD9KXBWATDCHXY5Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TD9KXBWATDCHXY5Z",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TD9KXBWATDCHXY5Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TD9KXBWATDCHXY5Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per additional active pipeline",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "pipelines",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

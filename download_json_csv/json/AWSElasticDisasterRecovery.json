@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSElasticDisasterRecovery",
+  "version" : "20241107084624",
+  "publicationDate" : "2024-11-07T08:46:24Z",
+  "products" : {
+    "PADN2F22KRKAVRAZ" : {
+      "sku" : "PADN2F22KRKAVRAZ",
+      "productFamily" : "Server DR",
+      "attributes" : {
+        "servicecode" : "AWSElasticDisasterRecovery",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DRS-Replication",
+        "operation" : "Normal-Replication",
+        "regionCode" : "us-east-1",
+        "replicationType" : "Normal",
+        "servicename" : "AWS Elastic Disaster Recovery"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "PADN2F22KRKAVRAZ" : {
+        "PADN2F22KRKAVRAZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PADN2F22KRKAVRAZ",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "PADN2F22KRKAVRAZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PADN2F22KRKAVRAZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Normal-Replication Replication-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Replication-hour",
+              "pricePerUnit" : {
+                "USD" : "0.0280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

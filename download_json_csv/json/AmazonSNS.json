@@ -1,0 +1,1221 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonSNS",
+  "version" : "20250318190544",
+  "publicationDate" : "2025-03-18T19:05:44Z",
+  "products" : {
+    "PZKWMK7N3J96FDVN" : {
+      "sku" : "PZKWMK7N3J96FDVN",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) Sandbox - Mac OS",
+        "usagetype" : "DeliveryAttempts-MACOS_SB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "5WMX2578TWABWVDP" : {
+      "sku" : "5WMX2578TWABWVDP",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) - Mac OS",
+        "usagetype" : "DeliveryAttempts-MACOS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "GXS664ADCBPVT6BA" : {
+      "sku" : "GXS664ADCBPVT6BA",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Requests",
+        "groupDescription" : "Amazon SNS FIFO API Requests",
+        "usagetype" : "F-Request-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "QDX8G2WMY9NPXXPG" : {
+      "sku" : "QDX8G2WMY9NPXXPG",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-Requests-Tier1",
+        "groupDescription" : "Amazon SNS API Requests",
+        "usagetype" : "Requests-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "756548AEU5ZG7RPQ" : {
+      "sku" : "756548AEU5ZG7RPQ",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Microsoft Push Notification Service for Windows Phone (MPNS)",
+        "usagetype" : "DeliveryAttempts-MPNS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "5N4XS8YGXD4JGDTN" : {
+      "sku" : "5N4XS8YGXD4JGDTN",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "HTTP",
+        "usagetype" : "DeliveryAttempts-HTTP",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "EPBYSB65V2JYSVAY" : {
+      "sku" : "EPBYSB65V2JYSVAY",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Subscription-Messages-Payload",
+        "groupDescription" : "Amazon SNS FIFO Subscription Messages Payload",
+        "usagetype" : "F-Egress-SQS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "E3EKE9PTQWY22R5R" : {
+      "sku" : "E3EKE9PTQWY22R5R",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) VOIP Sandbox",
+        "usagetype" : "DeliveryAttempts-AP_V_SB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "7GZHTBPFNSTRXHD5" : {
+      "sku" : "7GZHTBPFNSTRXHD5",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-Standard-Payload-MessageFiltering-Filtered-Out",
+        "groupDescription" : "Amazon SNS Standard Payload Scanned & Filtered",
+        "usagetype" : "PL-Filtered-Out",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "FTTMKKE7TJYZKPMN" : {
+      "sku" : "FTTMKKE7TJYZKPMN",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-ArchiveProcessing",
+        "groupDescription" : "Amazon SNS FIFO Topics Archive Processing",
+        "usagetype" : "USE1-F-ArchiveProcessing",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "3J8ZAUG4DBP38TK5" : {
+      "sku" : "3J8ZAUG4DBP38TK5",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-Publish-Payload",
+        "groupDescription" : "SNS FIFO Publish Payload",
+        "usagetype" : "F-Ingress-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "6S9VXKZ5G7EJWP36" : {
+      "sku" : "6S9VXKZ5G7EJWP36",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-MDP-AuditReporting",
+        "groupDescription" : "Amazon SNS Audit Reporting",
+        "usagetype" : "USE1-MDP-AuditReporting",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "UT4GBPVG592AUZEM" : {
+      "sku" : "UT4GBPVG592AUZEM",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Amazon Device Messaging (ADM)",
+        "usagetype" : "DeliveryAttempts-ADM",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "72Y4BTQ4WU6YZZEF" : {
+      "sku" : "72Y4BTQ4WU6YZZEF",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) VOIP",
+        "usagetype" : "DeliveryAttempts-AP_V",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "BZ4UZ2ERDQACBPJ4" : {
+      "sku" : "BZ4UZ2ERDQACBPJ4",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "SMTP",
+        "usagetype" : "DeliveryAttempts-SMTP",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "2KVK94JGJ4MPBBQG" : {
+      "sku" : "2KVK94JGJ4MPBBQG",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Payload-MessageFiltering-Filtered-Out",
+        "groupDescription" : "Amazon SNS FIFO Payload Scanned & Filtered",
+        "usagetype" : "F-PL-Filtered-Out",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "CT2KS3UK2VVZNU7J" : {
+      "sku" : "CT2KS3UK2VVZNU7J",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "AWS Lambda",
+        "usagetype" : "DeliveryAttempts-LAMBDA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "RN6V7ZMAAKU36Y77" : {
+      "sku" : "RN6V7ZMAAKU36Y77",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Amazon SQS",
+        "usagetype" : "DeliveryAttempts-SQS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "TZEC9JEDUHUR523U" : {
+      "sku" : "TZEC9JEDUHUR523U",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Amazon Kinesis Data Firehose",
+        "usagetype" : "DeliveryAttempts-FIREHOSE",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "Q23C5K562MP58KRF" : {
+      "sku" : "Q23C5K562MP58KRF",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Google Cloud Messaging for Android (GCM)",
+        "usagetype" : "DeliveryAttempts-GCM",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "69N3UW89UBTBWXSF" : {
+      "sku" : "69N3UW89UBTBWXSF",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "SMS",
+        "usagetype" : "DeliveryAttempts-SMS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "6WGD9R7TPDEWDUHM" : {
+      "sku" : "6WGD9R7TPDEWDUHM",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Windows Push Notification Services (WNS)",
+        "usagetype" : "DeliveryAttempts-WNS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "JFU6C95UUVQHQSWR" : {
+      "sku" : "JFU6C95UUVQHQSWR",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Storage",
+        "groupDescription" : "Amazon SNS FIFO Topics Storage",
+        "usagetype" : "USE1-F-Storage",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "E2MCTP8HN3D5YZZZ" : {
+      "sku" : "E2MCTP8HN3D5YZZZ",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Payload-MessageFiltering-Filter-Matched",
+        "groupDescription" : "Amazon SNS FIFO Payload Scanned & Matched",
+        "usagetype" : "F-PL-Filter-Matched",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "7J3WRCTQVRR38SN3" : {
+      "sku" : "7J3WRCTQVRR38SN3",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-Standard-Payload-MessageFiltering-Filter-Matched",
+        "groupDescription" : "Amazon SNS Standard Payload Scanned & Matched",
+        "usagetype" : "PL-Filter-Matched",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "G6C9JM3PZ27SVPEV" : {
+      "sku" : "G6C9JM3PZ27SVPEV",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) Sandbox - iOS",
+        "usagetype" : "DeliveryAttempts-APNS_SB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "HADXDENCA9TZ34BW" : {
+      "sku" : "HADXDENCA9TZ34BW",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-MDP-Scanning",
+        "groupDescription" : "Amazon SNS Message Scanning",
+        "usagetype" : "USE1-MDP-Scanning",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "CPC8KYP9QDG68MUP" : {
+      "sku" : "CPC8KYP9QDG68MUP",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Push Notification Service (APNS) - iOS",
+        "usagetype" : "DeliveryAttempts-APNS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "B2HVK8TAS4H8RJ8U" : {
+      "sku" : "B2HVK8TAS4H8RJ8U",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SNS-FIFO-Subscription-Messages",
+        "groupDescription" : "Amazon SNS FIFO Subscription Messages",
+        "usagetype" : "F-DA-SQS",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "NE8PTK9XSRPVKD2Q" : {
+      "sku" : "NE8PTK9XSRPVKD2Q",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Passbook Sandbox",
+        "usagetype" : "DeliveryAttempts-AP_PB_SB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "KXMN9QG243P7DWRR" : {
+      "sku" : "KXMN9QG243P7DWRR",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Baidu Cloud Push (Baidu)",
+        "usagetype" : "DeliveryAttempts-BAIDU",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "MH82JMYFVMY4KHTJ" : {
+      "sku" : "MH82JMYFVMY4KHTJ",
+      "productFamily" : "Bundle",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "group" : "SNS-MonthlyFree-Notifications",
+        "groupDescription" : "Monthly free usage of Amazon SNS requests",
+        "usagetype" : "Notifications-Mobile",
+        "operation" : "",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    },
+    "9XWXSU28J97DCHXS" : {
+      "sku" : "9XWXSU28J97DCHXS",
+      "productFamily" : "Message Delivery",
+      "attributes" : {
+        "servicecode" : "AmazonSNS",
+        "description" : "Charged for each 64KB chunk of published data",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Apple Passbook",
+        "usagetype" : "DeliveryAttempts-AP_PB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Notification Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "7J3WRCTQVRR38SN3" : {
+        "7J3WRCTQVRR38SN3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7J3WRCTQVRR38SN3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7J3WRCTQVRR38SN3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7J3WRCTQVRR38SN3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for PL-Filter-Matched in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q23C5K562MP58KRF" : {
+        "Q23C5K562MP58KRF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q23C5K562MP58KRF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q23C5K562MP58KRF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q23C5K562MP58KRF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7GZHTBPFNSTRXHD5" : {
+        "7GZHTBPFNSTRXHD5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7GZHTBPFNSTRXHD5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "7GZHTBPFNSTRXHD5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7GZHTBPFNSTRXHD5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for PL-Filtered-Out in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MH82JMYFVMY4KHTJ" : {
+        "MH82JMYFVMY4KHTJ.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "MH82JMYFVMY4KHTJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MH82JMYFVMY4KHTJ.A429C66SYZ.SB2VSFF4TP" : {
+              "rateCode" : "MH82JMYFVMY4KHTJ.A429C66SYZ.SB2VSFF4TP",
+              "description" : "First 1,000,000 Mobile Push Notifications per month are free",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "VYFH6VT2W7RMYTTC", "Q5FWTHWFRQRNHVFR", "B9AHY5BK9UDVX7UA", "F8UER7CQWJNZUVT6", "KHZSZDHVZU2R6QC2", "EGZ852BSAMCUUB4N", "83GDDWJ6557VEHMH", "AYGCTH9X4KMQN279", "BZA9JMZ996P4HDXR", "NE7UP77AFHEB379V", "9CYEPW5WTQDNXVBS", "2W2GBQQFTGQEXY2S", "UPJY9KQBSHNSN7Y9", "V45GN2FWDU9KYZEY", "X34J6UPFR8ETVWDW", "H4NEHTHPG9AAFPZ6", "KDNXX7EER6ARTQT8", "ZXQ56UUE9RMCTUVY", "4K3GZRSBEY5UH8CC", "CX89MPB3BZJ89THB", "4GSXQPWJ72NCNWY9", "Z9TF6442QJMS482K", "KF9XZ7KPNSXWAWUH", "JUSDGUBXFNB8DG8A", "N8TEQGE3KVCUY3BV", "QE6QWQJGWKS4FVKC", "TDJGWQHTZ8QZFEYT", "KZCSYZ3C2DHXZ7KM", "3WSQBSXFNRTXRZ4K", "T5UGX3JB9NM5MZJY", "6K9M9HKPJH9KVCPE", "W6UTAPKCH24VDUSM", "MK796672XJ9FJQFB", "V8NT4FMSJQHVBXD4", "9AJFNGU4RKT8JD9E", "PV6HCG2HQDP5355P", "ZWSAZJ7CVWJC2FX6", "HHDG8GNE2QN5JF7C", "ZB3SM5Q8294NH7Z6", "U5XA3XTAFASD49GS", "4R4JDG8DXX6XXS6T", "S9C9Y2VJZZXZ9J6K", "XUNYNYHR9X3JPM3E", "W6UAXPFXEA6MC6VN", "MA88765R57CAY7BE", "8RS4R7XK6UNWJB7U", "PPZCU5CJCKGRSK89", "S78D4JA6Q4A3RGN2", "UEH38UF8P5MGV83Q", "ZD7V8DQUWFHPMSY3", "8DTHCNAUVQSYEG48", "J32HCUCAHUHBFT8B", "BTYSAJNY48H8RGXS", "7Y9GMN55K3BHTNNP", "KRBENNTGPH3DWP5U", "TG2MPTXFPXUU7683", "79HR3BE5WYJMACQW", "TE38P5X2ZAMC9NGJ", "5FRFQ4TBX3VUMVFN", "TRNZPRHWQT76RBZ7", "D7N5YZ35WVJPFNCN", "4W9NUS52P9XPZKBS", "6BH2RNT2MXGV2VG9", "TM9EDXM4ADZWJ5YF", "T75DKTCZXE7UUPU3", "DSQ7YQUMQ3KK7YGJ", "UJSBGHBQGWFDFWNW", "8KRUK5VJQUWZ8RQR", "8EGQ55HUW6YCN8BP", "J74CS8K374JTT43P", "PKURRZG79R8ZNPWY", "7CASDATTCD9W8MRV", "7VU48R433WJ3GX4Z", "944S5QF4DK6268Q4", "N8QHT2J4YGE79VBV", "GMPKQDSB4AJGGAMK", "B6A6UJTZHXJBZP6Z", "36SSQJY3YJZHQT7J", "6RM7XQ5BVVQ5VUXN", "MK5ZPHQFBSKV2434", "AX5PCGDMV7H7NTRW", "CTE7ZS23BSZHYCW2", "U9724WBTM3U8KD3Q", "U25WGM4YVXYKX9CK", "MUG3V228FXF3UQEG", "9QGE999Z67S4FTWW", "JQABV26CKG2A9A49", "KTFWNSSENNGQS25M", "VT9MC5F92C523TSA", "28WGC64RAMQ7XKG8", "PGDW5Z35FZWY792P", "V9H75TGRRTUUFMW4", "SS6734JVHS3F63DE", "5W9ZCZ8MPJ97DWEX", "8AN8RJBPQX7N9CWH", "8KPK95AJ4ZSN3YSF", "ZXBXCDUSXQHNVE25", "DGJV9QR3AP7UD2Z9", "SB5R5R32F3NB6Q4N", "JCVY869Z9YYQMXEU", "2DBTYAJXVRM7KFE3", "G2SWVAHCN3WVM6VD", "8RDVAVZT5K2DEGWW", "QH3QDVS7KARVF9E7", "ZAJ7WKBTTGDCMCV2", "CUJKHF6FFSQXVTW9", "4VXKM3B6F63CDH5P", "DBZGHP7M3QNSRS3W", "N9TWQEA3UG7B5JT7", "2UJA6TW2PC4SP5ZA", "23698T3JFH9GKEJX", "PYHYWXBSFZNEMDAU", "3MY572RQ7T7RDF3Z", "ZVNJRXXCZKG87KG7", "KH26EK8GD5BKREX4", "FC2VGG2RNXH2MAXS", "GFCME4TMHDFUTDHC", "MHRZFWGNGA2FKYVF", "RW37MVG45SUQ45CZ", "PKETJRKCDCHFTEKF", "CD86ZBK6Z3GYD5NS", "UH2FNYNGEF96P3JW", "FNTVA3YNX7JQN5VV", "82K49T5J9AZBE3BC", "B5WAF2GRYPNK549F", "UYJ6WFC566YJ7FAH", "MUMHH4NKJC4HAUGM", "A866MEC78N59SFKP", "EP5SR9SHFC5YCWJM", "YX3HRVHMPBUBZB7T", "RPT24XGRA7KBWBMJ", "RABQZTBEP9QP32V8", "YXJHJ45B2JZVG3VC", "DUQYQ6EP9J44Z6DF", "CEHMT7JJ9TTJPNWN", "EUFCSGN4DX3VRK5H", "WS5TDAUNVHYQEFYG", "E9QZM7CVF9PDNSWT", "T2W5AV245WDSH2KG", "PPMR6A4XW4M6ZBZH", "94MXQC5YNDQPR2FT", "QCZAQ6GCN6W8ASA2", "AXEV6WQYGU7ZDJDD", "UT4GBPVG592AUZEM", "CPC8KYP9QDG68MUP", "G6C9JM3PZ27SVPEV", "9XWXSU28J97DCHXS", "NE8PTK9XSRPVKD2Q", "72Y4BTQ4WU6YZZEF", "E3EKE9PTQWY22R5R", "KXMN9QG243P7DWRR", "Q23C5K562MP58KRF", "5WMX2578TWABWVDP", "PZKWMK7N3J96FDVN", "756548AEU5ZG7RPQ", "6WGD9R7TPDEWDUHM", "W2TPN2SGRUYP9WJP", "DCA4Y3YWYZFVNAK3", "ZFG7ZY2U78XVQGSA", "6ENRPX5KY2Z2V4CS", "5JVHVWHV4CUQNH6Q", "3AWYNCQ4HFDKNR67", "B43XVSW4RC97U3U4", "XWH7WCBPBKZXMK2F", "6WBP2BCBMNDTSZ9Q", "K9STYUX7GGUWETU3", "FG5QXUPGSS975XHP", "GS5EKUT79YJFYYKK", "7ANGZCB9TDMHZ3D4", "Y7HEM8DHRTQMT2T3", "CC6PTCWBGJSGAPHV", "TGNSRNZMNEAKBB38", "NNZRYNV9XFVNJPB7", "HRB4XBR9YXJU4V93", "RM848ZFZZV55ZREJ", "YDZHSYTASWEPYQRY", "SHB4UWRY7VHY6QTV", "V5JVK7ANW8VG9YPZ", "7RAY6DATNW7V472B", "RXBKBV5P6QXZ6HUF", "M5H9N2T2B6YC7NYF", "9PF5U62XV59H4H6U", "M7767CVUGA63Q3RB", "948VG6XW9UHYXJWJ", "8MTGKZWAQT2Z4CCW", "MYRWNYHNKBJGCR4U", "ECMR585C7TFKYJ3B", "HXPJAXB5K3CGYQ2A", "73RFACDQKWK76T3E", "SHA8EH93QQ3KYRZ7", "JSCN362HWSEC6T9N", "F3QWH8EHK5WN9SYW", "YX7VPQRPF8VZBCRC", "WDZUGH5B978J8N34", "HSHXX77EYVFR3PAU", "AB9HHGXTQHRSWCUZ", "7PG2KT5VRR8HBPRW", "89DRD2AHH2V82Q7V", "C9QJM3MCKENV8WMG", "NTUQXV4AS5Z7N2NT", "59UUGVEWP2HVG5NF", "8JA7DVR72ERYG4CD", "2WTAJUBV5VUP23TT", "CQXQZUFSPXMF9298", "59UVJWVCRKR489E4", "F8JEC43J7QSUNUJT", "2DUPQX7QEV28WYHP", "4M2YG4CJXV7YMBCK", "W2UF8MHXFXXA2GGG", "XKHW72VTMCZBXWWX", "BFZWZ4UC68ZTKPPQ", "SDM99KH6YYTNK4KD", "RXXU8EDZ6B5ESKKR", "AZGK9JGX729MK3EX", "3NHGGMA48M98ZTW9", "XB6H4CZABFX6GY7R", "9XDVAHDZZF4GWA3J", "H6MFDD7ZDBWZX5AV", "QBG5FZ6HQK6NFJVU", "BD28Q4QGYTAQQJTM", "Y6U8ZGF5QM5PVQXY", "YK32SQG3PJWFNUZ7", "XZS75F6J398YZX4Y", "FZCSGCE2Q9EMHPMH", "HPHHAZJJJY9F92QU", "AZZVGRVV9DRDGDB4", "MMA9KQBWZAVUMVYZ", "59H5VR3MTM3AQ4XR", "YVAPXBWW2MP4JA4Y", "CP5C93VJ9CGVKMCS", "5DRVFQKNV7R3U8E3", "VAMTXERTQYW3C7DT", "HRUDYHKYY3T54R6C", "WANG6MQK9HPCQU2E", "EA7UE72JAGRYK56E", "82WEYU8TE4SVTWBD", "7EBT7WKYQMU2XB46", "CY59FHTUEU9KSEWK", "KYHDDHYBWJKQ2Q22", "PQNV5FYPKS47EECG", "VNC5PKUB43E5ZMA8", "543S88C4PB2F3R9N", "JAZE6UMJTJRYHPTB", "BTJDKJXMMS7D8FD5", "WFPAM6BAH399M8Y8", "3E85NCV7EK6AJQWE", "TNFM4Z76V5U7XWQW", "XRWTBF246JJ5TP9S", "3NUP64ZSTSQEMCBS", "DZ2JVVWNPURC9M2B", "XDEGDV3ZC7RB8ZMH", "QW3QB6DAU64M677A", "FSBQD6FT9G4RREYZ", "QEETNHFQT2N82RUA", "XT6ADJRTJV624TDE", "BUTPTDPG8PTF68VK", "BFAJEVZ4JAHXPQ53", "WHZA98CT26KV7BT4", "QC2NN3EZQ39DDWGN", "QH737PKYETNZNEMS", "89ZMU5KRHT79GT8D", "P7EKTY64TPZVPZ7V", "22JEZQCFB9UX733S", "P4ZG2T6SRY87XBPJ", "MBDDGJT9H2HUH9NN", "AVFPJET8MGQEC5PE", "CXDSERJRWYMZY5UK", "SGUQ27V34FC6HE8H", "TZZX28M2XU2YYD5B", "EQ7SYM2S5SYXBGD9", "BJM9B6ZQZSB3JE9E", "2UQS4VTKSWJTUAMT", "KUABJBJ7K92Z7A9F", "J3U46435KVDS4K5U", "ST8YRPHHWB87V52K", "RVVEZ996JKB9YTKF", "UK777WZNGCKVBJ7N", "5BZ7RYHTGWQSDA9B", "Y8D5V6T4VHCBRYRJ", "U6YG9WTJUCQQRRVB", "E225GB6J7XPAJ49M", "CMPY9VQGPECANG3B", "TWJ9H7U4A2DZHD7V", "GWJTKZVMKNS8TSZ7", "PNAVGMG99W22DZS2", "QNTRFSDEDJH3H52T", "V2MH9ERZQP9845UQ", "32J8G7BRNVUVX5U6", "6S99VCZ2MXZYRKBB", "7P6R3H5FPTRGABGS", "K3AFBNBJQMRB4RRV", "AE23KTV4W29U9GRK", "4SRU5WK9D9TBTA3U", "ZYSZEZP26RX74FZD", "3A27DTVN233WTYHJ", "8SAJ2DXMJHGU5A49", "JJUSNV9VJR69D2V7", "XRRH2V4XBK7R74B3", "R8ESMMXCQN4NY9XE", "ZD8J8XCURX6MRM5S", "CSB5MVGKTUKUZGZV", "3FQT2EGJXRH5XYFW", "8C3XYPAJ8VKMKKKV", "TPY28HGK9539FDBU", "7KUGSBU7JG7WNF7M", "FH22TAZ9GMPTCTFX", "PK779KR3G5BRHAFR", "XYSUUXDX6KUMEV4J", "8E5HMMV437HTRNXP", "MZZ4XWY68T32ZUEN", "BSKSFDR85QA4N2ZV", "CMHYPBZ8KWVHU2Q3", "HXMTY642W6HTNSQX", "YXF25UAPB4NK8Z73", "YK42EAW98Z5U4BRY", "BM2PW4363EYHWETR", "ACM3UWRA6NCB9SW4", "WZU5S9HHGKP36WCR", "QGVEE5RG6KJBG58R", "5YFMU7F9NU9MF4ZN", "WDRY2EK2VWZD9TDC", "6NNNC2YGBPRCKWRV", "JKGY72DCC74XQUJZ", "UN4QSKAP4U9P427V", "R6PNHWF9SGM799DA" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "KXMN9QG243P7DWRR" : {
+        "KXMN9QG243P7DWRR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KXMN9QG243P7DWRR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KXMN9QG243P7DWRR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KXMN9QG243P7DWRR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PZKWMK7N3J96FDVN" : {
+        "PZKWMK7N3J96FDVN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PZKWMK7N3J96FDVN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PZKWMK7N3J96FDVN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PZKWMK7N3J96FDVN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EPBYSB65V2JYSVAY" : {
+        "EPBYSB65V2JYSVAY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EPBYSB65V2JYSVAY",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EPBYSB65V2JYSVAY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EPBYSB65V2JYSVAY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per GB of SNS FIFO Messages for Subscribers in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RN6V7ZMAAKU36Y77" : {
+        "RN6V7ZMAAKU36Y77.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RN6V7ZMAAKU36Y77",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "RN6V7ZMAAKU36Y77.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RN6V7ZMAAKU36Y77.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "There is no charge for SQS Notifications",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G6C9JM3PZ27SVPEV" : {
+        "G6C9JM3PZ27SVPEV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G6C9JM3PZ27SVPEV",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "G6C9JM3PZ27SVPEV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G6C9JM3PZ27SVPEV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "69N3UW89UBTBWXSF" : {
+        "69N3UW89UBTBWXSF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "69N3UW89UBTBWXSF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "69N3UW89UBTBWXSF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "69N3UW89UBTBWXSF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Attempts to dispatch SMS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E3EKE9PTQWY22R5R" : {
+        "E3EKE9PTQWY22R5R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E3EKE9PTQWY22R5R",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E3EKE9PTQWY22R5R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E3EKE9PTQWY22R5R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "72Y4BTQ4WU6YZZEF" : {
+        "72Y4BTQ4WU6YZZEF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "72Y4BTQ4WU6YZZEF",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "72Y4BTQ4WU6YZZEF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "72Y4BTQ4WU6YZZEF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NE8PTK9XSRPVKD2Q" : {
+        "NE8PTK9XSRPVKD2Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NE8PTK9XSRPVKD2Q",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "NE8PTK9XSRPVKD2Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NE8PTK9XSRPVKD2Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3J8ZAUG4DBP38TK5" : {
+        "3J8ZAUG4DBP38TK5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3J8ZAUG4DBP38TK5",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3J8ZAUG4DBP38TK5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3J8ZAUG4DBP38TK5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.017 per GB of SNS FIFO Publish Messages Payload in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5N4XS8YGXD4JGDTN" : {
+        "5N4XS8YGXD4JGDTN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5N4XS8YGXD4JGDTN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5N4XS8YGXD4JGDTN.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "5N4XS8YGXD4JGDTN.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "First 100,000 Amazon SNS HTTP/HTTPS Notifications per month are free",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5N4XS8YGXD4JGDTN.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "5N4XS8YGXD4JGDTN.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "$0.06 per 100,000 Amazon SNS HTTP/HTTPS Notifications thereafter",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2KVK94JGJ4MPBBQG" : {
+        "2KVK94JGJ4MPBBQG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2KVK94JGJ4MPBBQG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2KVK94JGJ4MPBBQG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2KVK94JGJ4MPBBQG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for F-PL-Filtered-Out in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E2MCTP8HN3D5YZZZ" : {
+        "E2MCTP8HN3D5YZZZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E2MCTP8HN3D5YZZZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E2MCTP8HN3D5YZZZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E2MCTP8HN3D5YZZZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for F-PL-Filter-Matched in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9XWXSU28J97DCHXS" : {
+        "9XWXSU28J97DCHXS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9XWXSU28J97DCHXS",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9XWXSU28J97DCHXS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9XWXSU28J97DCHXS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CPC8KYP9QDG68MUP" : {
+        "CPC8KYP9QDG68MUP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CPC8KYP9QDG68MUP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CPC8KYP9QDG68MUP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CPC8KYP9QDG68MUP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QDX8G2WMY9NPXXPG" : {
+        "QDX8G2WMY9NPXXPG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QDX8G2WMY9NPXXPG",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "QDX8G2WMY9NPXXPG.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "QDX8G2WMY9NPXXPG.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1,000,000 Amazon SNS API Requests per month are free",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QDX8G2WMY9NPXXPG.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "QDX8G2WMY9NPXXPG.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.50 per 1,000,000 Amazon SNS API Requests per month thereafter",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B2HVK8TAS4H8RJ8U" : {
+        "B2HVK8TAS4H8RJ8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B2HVK8TAS4H8RJ8U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "B2HVK8TAS4H8RJ8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B2HVK8TAS4H8RJ8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per 1,000,000 SNS FIFO Messages for Subscribers in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000000100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FTTMKKE7TJYZKPMN" : {
+        "FTTMKKE7TJYZKPMN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FTTMKKE7TJYZKPMN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FTTMKKE7TJYZKPMN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FTTMKKE7TJYZKPMN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB of SNS FIFO Topics Archive Processing in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6WGD9R7TPDEWDUHM" : {
+        "6WGD9R7TPDEWDUHM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6WGD9R7TPDEWDUHM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6WGD9R7TPDEWDUHM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6WGD9R7TPDEWDUHM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "756548AEU5ZG7RPQ" : {
+        "756548AEU5ZG7RPQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "756548AEU5ZG7RPQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "756548AEU5ZG7RPQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "756548AEU5ZG7RPQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CT2KS3UK2VVZNU7J" : {
+        "CT2KS3UK2VVZNU7J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CT2KS3UK2VVZNU7J",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CT2KS3UK2VVZNU7J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CT2KS3UK2VVZNU7J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "There is no charge for Lambda Notifications",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5WMX2578TWABWVDP" : {
+        "5WMX2578TWABWVDP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5WMX2578TWABWVDP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5WMX2578TWABWVDP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5WMX2578TWABWVDP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JFU6C95UUVQHQSWR" : {
+        "JFU6C95UUVQHQSWR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JFU6C95UUVQHQSWR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "JFU6C95UUVQHQSWR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JFU6C95UUVQHQSWR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 per GB / Month of SNS FIFO Topics Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6S9VXKZ5G7EJWP36" : {
+        "6S9VXKZ5G7EJWP36.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6S9VXKZ5G7EJWP36",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6S9VXKZ5G7EJWP36.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6S9VXKZ5G7EJWP36.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per GB of SNS Audit Reporting in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HADXDENCA9TZ34BW" : {
+        "HADXDENCA9TZ34BW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HADXDENCA9TZ34BW",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HADXDENCA9TZ34BW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HADXDENCA9TZ34BW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB of SNS Message Scanning in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TZEC9JEDUHUR523U" : {
+        "TZEC9JEDUHUR523U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TZEC9JEDUHUR523U",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TZEC9JEDUHUR523U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TZEC9JEDUHUR523U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.19 per 1,000,000 SNS to Kinesis Firehose messages in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000001900"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GXS664ADCBPVT6BA" : {
+        "GXS664ADCBPVT6BA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GXS664ADCBPVT6BA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "GXS664ADCBPVT6BA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GXS664ADCBPVT6BA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3 per 1,000,000 SNS FIFO Publish API Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UT4GBPVG592AUZEM" : {
+        "UT4GBPVG592AUZEM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UT4GBPVG592AUZEM",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UT4GBPVG592AUZEM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UT4GBPVG592AUZEM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BZ4UZ2ERDQACBPJ4" : {
+        "BZ4UZ2ERDQACBPJ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BZ4UZ2ERDQACBPJ4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "BZ4UZ2ERDQACBPJ4.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "BZ4UZ2ERDQACBPJ4.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "First 1,000 Amazon SNS Email/Email-JSON Notifications per month are free",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "BZ4UZ2ERDQACBPJ4.JRTCKXETXF.MUBTP6UPGZ" : {
+              "rateCode" : "BZ4UZ2ERDQACBPJ4.JRTCKXETXF.MUBTP6UPGZ",
+              "description" : "$2.00 per 100,000 Amazon SNS Email/Email-JSON Notifications thereafter",
+              "beginRange" : "1000",
+              "endRange" : "Inf",
+              "unit" : "Notifications",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSApplicationMigrationSvc",
+  "version" : "20230822094144",
+  "publicationDate" : "2023-08-22T09:41:44Z",
+  "products" : {
+    "NGXU2VZE2RTJFUZK" : {
+      "sku" : "NGXU2VZE2RTJFUZK",
+      "productFamily" : "Server Migration",
+      "attributes" : {
+        "servicecode" : "AWSApplicationMigrationSvc",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MGN-Replication",
+        "operation" : "Free_replication",
+        "regionCode" : "us-east-1",
+        "replicationType" : "Free",
+        "servicename" : "AWS Application Migration Service"
+      }
+    },
+    "7F58PBM7CF6W2EG8" : {
+      "sku" : "7F58PBM7CF6W2EG8",
+      "productFamily" : "Server Migration",
+      "attributes" : {
+        "servicecode" : "AWSApplicationMigrationSvc",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MGN-Replication",
+        "operation" : "Paid_replication",
+        "regionCode" : "us-east-1",
+        "replicationType" : "Normal",
+        "servicename" : "AWS Application Migration Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NGXU2VZE2RTJFUZK" : {
+        "NGXU2VZE2RTJFUZK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NGXU2VZE2RTJFUZK",
+          "effectiveDate" : "2023-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Replication-hour for MGN-Replication:Free_replication in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Replication-hour",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7F58PBM7CF6W2EG8" : {
+        "7F58PBM7CF6W2EG8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7F58PBM7CF6W2EG8",
+          "effectiveDate" : "2023-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.042 per Replication-hour for MGN-Replication:Paid_replication in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Replication-hour",
+              "pricePerUnit" : {
+                "USD" : "0.0420000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

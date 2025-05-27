@@ -1,0 +1,246 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIoTAnalytics",
+  "version" : "20220726210610",
+  "publicationDate" : "2022-07-26T21:06:10Z",
+  "products" : {
+    "2P6U9ATJJ4UNQ2TU" : {
+      "sku" : "2P6U9ATJJ4UNQ2TU",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - ProcessingByte",
+        "usagetype" : "USE1-DataProcessing-Bytes",
+        "operation" : "DataProcessing",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    },
+    "5YM6QPJJPXSMNC2J" : {
+      "sku" : "5YM6QPJJPXSMNC2J",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - Custom Analysis Execution - 2-ACU",
+        "usagetype" : "USE1-2-AnalysisComputeHour",
+        "operation" : "CreateDatasetContent",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    },
+    "Q3E98SW2GVTQTRT5" : {
+      "sku" : "Q3E98SW2GVTQTRT5",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - Custom Analysis Execution - 1-ACU",
+        "usagetype" : "USE1-1-AnalysisComputeHour",
+        "operation" : "CreateDatasetContent",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    },
+    "RPJ2SQMV96V8GRW9" : {
+      "sku" : "RPJ2SQMV96V8GRW9",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - Processed Storage",
+        "usagetype" : "USE1-ProcessedStorage-ByteHrs",
+        "operation" : "ProcessedDataStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    },
+    "4NC92D4K24FT7RGY" : {
+      "sku" : "4NC92D4K24FT7RGY",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - Raw Storage",
+        "usagetype" : "USE1-RawStorage-ByteHrs",
+        "operation" : "RawDataStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    },
+    "5JEYUGRHKS6H8P5Z" : {
+      "sku" : "5JEYUGRHKS6H8P5Z",
+      "productFamily" : "IoTAnalytics",
+      "attributes" : {
+        "servicecode" : "AWSIoTAnalytics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoTAnalytics - Scanning",
+        "usagetype" : "USE1-DataScanned-TB",
+        "operation" : "CreateDatasetContent",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Analytics"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "Q3E98SW2GVTQTRT5" : {
+        "Q3E98SW2GVTQTRT5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q3E98SW2GVTQTRT5",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q3E98SW2GVTQTRT5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q3E98SW2GVTQTRT5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.36 per ACU-Hour for 1-AnalysisComputeHourCreateDatasetContent in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.3600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2P6U9ATJJ4UNQ2TU" : {
+        "2P6U9ATJJ4UNQ2TU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2P6U9ATJJ4UNQ2TU",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "2P6U9ATJJ4UNQ2TU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2P6U9ATJJ4UNQ2TU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per GB of data processed in pipelines in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5JEYUGRHKS6H8P5Z" : {
+        "5JEYUGRHKS6H8P5Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5JEYUGRHKS6H8P5Z",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "5JEYUGRHKS6H8P5Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5JEYUGRHKS6H8P5Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.50 per TB of scanned data in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "TB",
+              "pricePerUnit" : {
+                "USD" : "6.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RPJ2SQMV96V8GRW9" : {
+        "RPJ2SQMV96V8GRW9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RPJ2SQMV96V8GRW9",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "RPJ2SQMV96V8GRW9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RPJ2SQMV96V8GRW9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB of processed data stored per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4NC92D4K24FT7RGY" : {
+        "4NC92D4K24FT7RGY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4NC92D4K24FT7RGY",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "4NC92D4K24FT7RGY.JRTCKXETXF.PGHJ3S3EYE" : {
+              "rateCode" : "4NC92D4K24FT7RGY.JRTCKXETXF.PGHJ3S3EYE",
+              "description" : "$0.023 per GB of raw storage for first 50TB per month in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "51200",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4NC92D4K24FT7RGY.JRTCKXETXF.D42MF2PVJS" : {
+              "rateCode" : "4NC92D4K24FT7RGY.JRTCKXETXF.D42MF2PVJS",
+              "description" : "$0.022 per GB of raw storage for next 450TB per month in US East (N. Virginia)",
+              "beginRange" : "51200",
+              "endRange" : "512000",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0220000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "4NC92D4K24FT7RGY.JRTCKXETXF.PXJDJ3YRG3" : {
+              "rateCode" : "4NC92D4K24FT7RGY.JRTCKXETXF.PXJDJ3YRG3",
+              "description" : "$0.021 per GB of raw storage for over 500TB per month in US East (N. Virginia)",
+              "beginRange" : "512000",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0210000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5YM6QPJJPXSMNC2J" : {
+        "5YM6QPJJPXSMNC2J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5YM6QPJJPXSMNC2J",
+          "effectiveDate" : "2021-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "5YM6QPJJPXSMNC2J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5YM6QPJJPXSMNC2J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.72 per ACU-Hour for 2-AnalysisComputeHourCreateDatasetContent in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Hour",
+              "pricePerUnit" : {
+                "USD" : "0.7200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

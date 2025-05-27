@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "auditmanager",
+  "version" : "20230209151230",
+  "publicationDate" : "2023-02-09T15:12:30Z",
+  "products" : {
+    "XQ6CPRFK5Z7TPZTB" : {
+      "sku" : "XQ6CPRFK5Z7TPZTB",
+      "productFamily" : "AWS Audit Manager",
+      "attributes" : {
+        "servicecode" : "auditmanager",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Resource-Assessment-Collected",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourceAssessment" : "all assessment",
+        "servicename" : "AWS Audit Manager"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "XQ6CPRFK5Z7TPZTB" : {
+        "XQ6CPRFK5Z7TPZTB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XQ6CPRFK5Z7TPZTB",
+          "effectiveDate" : "2021-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XQ6CPRFK5Z7TPZTB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XQ6CPRFK5Z7TPZTB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00125 per resource assessment for US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "resource assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0012500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

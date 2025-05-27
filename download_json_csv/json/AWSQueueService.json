@@ -1,0 +1,175 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSQueueService",
+  "version" : "20250402184219",
+  "publicationDate" : "2025-04-02T18:42:19Z",
+  "products" : {
+    "624ZQ7K46KHFAD9Y" : {
+      "sku" : "624ZQ7K46KHFAD9Y",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSQueueService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SQS-APIRequest-Tier1",
+        "groupDescription" : "Amazon SQS Requests",
+        "usagetype" : "Requests-FIFO-RBP",
+        "operation" : "",
+        "messageDeliveryFrequency" : "Exactly Once",
+        "messageDeliveryOrder" : "Guaranteed",
+        "queueType" : "FIFO (first-in, first-out)",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Queue Service"
+      }
+    },
+    "8RN6B8U4MERHRXP3" : {
+      "sku" : "8RN6B8U4MERHRXP3",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSQueueService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SQS-APIRequest-Tier1",
+        "groupDescription" : "Amazon SQS Requests",
+        "usagetype" : "Requests-RBP",
+        "operation" : "",
+        "messageDeliveryFrequency" : "At Least Once",
+        "messageDeliveryOrder" : "Not Guaranteed",
+        "queueType" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Queue Service"
+      }
+    },
+    "MNCJEPJRCSC9RFY2" : {
+      "sku" : "MNCJEPJRCSC9RFY2",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSQueueService",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "SQS-APIRequest-Tier1",
+        "groupDescription" : "Amazon SQS Requests",
+        "usagetype" : "Global-Requests",
+        "operation" : "",
+        "queueType" : "Any",
+        "regionCode" : "",
+        "servicename" : "Amazon Simple Queue Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "8RN6B8U4MERHRXP3" : {
+        "8RN6B8U4MERHRXP3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8RN6B8U4MERHRXP3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8RN6B8U4MERHRXP3.JRTCKXETXF.VXGXCWQKTY" : {
+              "rateCode" : "8RN6B8U4MERHRXP3.JRTCKXETXF.VXGXCWQKTY",
+              "description" : "$0.40 per million Amazon SQS standard requests in Tier1 in US East (N Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8RN6B8U4MERHRXP3.JRTCKXETXF.9JVYQWEJJY" : {
+              "rateCode" : "8RN6B8U4MERHRXP3.JRTCKXETXF.9JVYQWEJJY",
+              "description" : "$0.30 per million Amazon SQS standard requests in Tier2 in US East (N Virginia)",
+              "beginRange" : "100000000000",
+              "endRange" : "200000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8RN6B8U4MERHRXP3.JRTCKXETXF.27HCEGFCXT" : {
+              "rateCode" : "8RN6B8U4MERHRXP3.JRTCKXETXF.27HCEGFCXT",
+              "description" : "$0.24 per million Amazon SQS standard requests in Tier3 in US East (N Virginia)",
+              "beginRange" : "200000000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000002400"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNCJEPJRCSC9RFY2" : {
+        "MNCJEPJRCSC9RFY2.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "MNCJEPJRCSC9RFY2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNCJEPJRCSC9RFY2.A429C66SYZ.SB2VSFF4TP" : {
+              "rateCode" : "MNCJEPJRCSC9RFY2.A429C66SYZ.SB2VSFF4TP",
+              "description" : "First 1,000,000 Amazon SQS Requests per month are free",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "YEXXSM3VA68K4F6Y", "8RN6B8U4MERHRXP3", "5Y72GBZYEX3K6HZD", "R9ENKEPD2X3ZS4WG", "3C4VGZ5GZ59FW48C", "SS8QW3CYKK8KB24U", "92UK6XB5N9F9XQ2D", "JZ9B9GSHQJS48GP9", "4PRFSQSZPBHH5P62", "QNZ8TGCKNKNRUPGW", "ZCM368RUDWCG67TA", "UGEAHPS9QMJQF3K4", "ZSV7PSV36PVSDE32", "TW38AR2BPP3PKCZB", "KW4DYRNE4YX3KP4D", "29ABJHHVVR63QR62", "DNX4ZACK32GSXC3Q", "9C8YFGPNBKF9HP9A", "PVF7MDBNRK7V9S5H", "BP4TRN8B3DYN8SQZ", "9EZTQJC84BRJ8CHZ", "7DSEXZJZCF4MMFKF", "KJR94VEEKG8JZ5NQ", "YH5ZUTMAG8WSV8TJ", "5Q2SBURHPCGERHBD", "PR5QUY752RRGMYJC", "G95FST5FTYV3JSRX", "VUKA5PPX25AYTAAV", "6WH88PFBNCJ83VC5", "RC6UWG9P2K8KHYDB", "4GAC7KSBWB2RF3VB", "KKYU8N9BXAT9BX78", "BT8RVHST6VNCHUCN", "57Y46ZQ5U7FA2Z5Z", "D8K2W3D7HJHVWMFG", "PV7WUTW3NXR2794P", "WXF9K2K46U6ZR9US", "4FXA3SQAS69KUCQ6", "3FFU2JU83EB5H7UP", "Y6JJ7JBXQG364CH7", "YUQ6HZRBKZKTYUHN", "RCTKWXYG5375R322", "6HPTR2MP4ZFUUGNV", "PAHYVTQK8UZB4C9Q", "7VNHS7AMZAP5RXND", "EK4A5UXS9GZFVTBD", "Y8W4TKQWYZFDM9BG", "SNCBHWU9JQQ5FM7G", "SSZJAF3K6XY544ES", "EDTTE6DBKU582ME9", "6H4FT9UZM5YGT53K", "J72GSUBUNE9DNT9B", "ZJG565KXXBERH5R4", "5H8P99CKXY68YUT5", "FUGS4872HHERGU2K", "U9U3WGB3P2FBYDRZ", "FDRQYHYC2RR56944", "FKZ8P3YM3G69V3KQ", "7JDCXCCHVYH99G79", "HSP76GSZN55FQXBC", "QC48Q5XRV72KG29M", "GZ4K2VVYZYCA2NTU", "SQUU378BX6EJ8NEF", "MMJQEHWUA3GBM3US", "P3CJY2XWAQJRARVP", "8MSPNYX7NRACMDH7", "XYPZ7BUEGH4GTEUG", "X7T4FVGEF8N3VZCP", "RQZVF8C5J25UDYJZ", "EAQ7C37E8H4G9TA2", "V6ENB53VG52BZXU5", "624ZQ7K46KHFAD9Y" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "624ZQ7K46KHFAD9Y" : {
+        "624ZQ7K46KHFAD9Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "624ZQ7K46KHFAD9Y",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "624ZQ7K46KHFAD9Y.JRTCKXETXF.VXGXCWQKTY" : {
+              "rateCode" : "624ZQ7K46KHFAD9Y.JRTCKXETXF.VXGXCWQKTY",
+              "description" : "$0.50 per million Amazon SQS FIFO requests in Tier1 in US East (N Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000005000"
+              },
+              "appliesTo" : [ ]
+            },
+            "624ZQ7K46KHFAD9Y.JRTCKXETXF.9JVYQWEJJY" : {
+              "rateCode" : "624ZQ7K46KHFAD9Y.JRTCKXETXF.9JVYQWEJJY",
+              "description" : "$0.40 per million Amazon SQS FIFO requests in Tier2 in US East (N Virginia)",
+              "beginRange" : "100000000000",
+              "endRange" : "200000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            },
+            "624ZQ7K46KHFAD9Y.JRTCKXETXF.27HCEGFCXT" : {
+              "rateCode" : "624ZQ7K46KHFAD9Y.JRTCKXETXF.27HCEGFCXT",
+              "description" : "$0.35 per million Amazon SQS FIFO requests in Tier3 in US East (N Virginia)",
+              "beginRange" : "200000000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000003500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,165 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AppFlow",
+  "version" : "20220304194505",
+  "publicationDate" : "2022-03-04T19:45:05Z",
+  "products" : {
+    "X8HFA9266JG7P6D7" : {
+      "sku" : "X8HFA9266JG7P6D7",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AppFlow",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FlowRun",
+        "operation" : "ExecuteFlow",
+        "flow" : "Flow Run",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon AppFlow"
+      }
+    },
+    "YN8W7NTWZ5KQ4W69" : {
+      "sku" : "YN8W7NTWZ5KQ4W69",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AppFlow",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataProcDestAWSPL-Bytes",
+        "operation" : "PrivateLinkDataProcessing",
+        "flow" : "Data processing over PL",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon AppFlow"
+      }
+    },
+    "B68MXPV4HVN6TQDK" : {
+      "sku" : "B68MXPV4HVN6TQDK",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AppFlow",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataProcDestAWS-Bytes",
+        "operation" : "DataProcessing",
+        "flow" : "Data processing within AWS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon AppFlow"
+      }
+    },
+    "JMFSZN2ZW2FXREEV" : {
+      "sku" : "JMFSZN2ZW2FXREEV",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AppFlow",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataProcDestExt-Bytes",
+        "operation" : "DataProcessing",
+        "flow" : "Data processing outside AWS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon AppFlow"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "X8HFA9266JG7P6D7" : {
+        "X8HFA9266JG7P6D7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X8HFA9266JG7P6D7",
+          "effectiveDate" : "2022-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "X8HFA9266JG7P6D7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X8HFA9266JG7P6D7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "per flow run",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Flow runs",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YN8W7NTWZ5KQ4W69" : {
+        "YN8W7NTWZ5KQ4W69.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YN8W7NTWZ5KQ4W69",
+          "effectiveDate" : "2022-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YN8W7NTWZ5KQ4W69.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YN8W7NTWZ5KQ4W69.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "GB of data processed (PrivateLink)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Processing-Bytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B68MXPV4HVN6TQDK" : {
+        "B68MXPV4HVN6TQDK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B68MXPV4HVN6TQDK",
+          "effectiveDate" : "2022-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "B68MXPV4HVN6TQDK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B68MXPV4HVN6TQDK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "GB of data processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Processing-Bytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JMFSZN2ZW2FXREEV" : {
+        "JMFSZN2ZW2FXREEV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JMFSZN2ZW2FXREEV",
+          "effectiveDate" : "2022-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JMFSZN2ZW2FXREEV.JRTCKXETXF.JTU8TKNAMW" : {
+              "rateCode" : "JMFSZN2ZW2FXREEV.JRTCKXETXF.JTU8TKNAMW",
+              "description" : "GB of data processed (dest. outside AWS)",
+              "beginRange" : "1",
+              "endRange" : "Inf",
+              "unit" : "Processing-Bytes",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JMFSZN2ZW2FXREEV.JRTCKXETXF.8EEUB22XNJ" : {
+              "rateCode" : "JMFSZN2ZW2FXREEV.JRTCKXETXF.8EEUB22XNJ",
+              "description" : "GB of data processed (dest. outside AWS)",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "Processing-Bytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

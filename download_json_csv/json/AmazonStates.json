@@ -1,0 +1,182 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonStates",
+  "version" : "20250318160150",
+  "publicationDate" : "2025-03-18T16:01:50Z",
+  "products" : {
+    "5NX6NBD43SV57CH3" : {
+      "sku" : "5NX6NBD43SV57CH3",
+      "productFamily" : "AWS Step Functions",
+      "attributes" : {
+        "servicecode" : "AmazonStates",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SFN-StateTransitions",
+        "groupDescription" : "Number of State Transitions",
+        "usagetype" : "USE1-StateTransition",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Step Functions"
+      }
+    },
+    "DCMZZXP5RBUG8FGP" : {
+      "sku" : "DCMZZXP5RBUG8FGP",
+      "productFamily" : "AWS Step Functions",
+      "attributes" : {
+        "servicecode" : "AmazonStates",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "SFN-StateTransitions",
+        "groupDescription" : "Number of State Transitions",
+        "usagetype" : "Global-StateTransition",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS Step Functions"
+      }
+    },
+    "AJJXM66BP92T8UX4" : {
+      "sku" : "AJJXM66BP92T8UX4",
+      "productFamily" : "AWS Step Functions",
+      "attributes" : {
+        "servicecode" : "AmazonStates",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SFN-ExpressWorkflows-Requests",
+        "groupDescription" : "Number of Workflow Requests",
+        "usagetype" : "USE1-StepFunctions-Request",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Step Functions"
+      }
+    },
+    "TFDWDW6V2TSZF7M2" : {
+      "sku" : "TFDWDW6V2TSZF7M2",
+      "productFamily" : "AWS Step Functions",
+      "attributes" : {
+        "servicecode" : "AmazonStates",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SFN-ExpressWorkflows-Duration",
+        "groupDescription" : "Duration of Workflows",
+        "usagetype" : "USE1-StepFunctions-GB-Second",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Step Functions"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "5NX6NBD43SV57CH3" : {
+        "5NX6NBD43SV57CH3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5NX6NBD43SV57CH3",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5NX6NBD43SV57CH3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5NX6NBD43SV57CH3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per state transition",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "StateTransitions",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TFDWDW6V2TSZF7M2" : {
+        "TFDWDW6V2TSZF7M2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TFDWDW6V2TSZF7M2",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "TFDWDW6V2TSZF7M2.JRTCKXETXF.XVGEBCCZCY" : {
+              "rateCode" : "TFDWDW6V2TSZF7M2.JRTCKXETXF.XVGEBCCZCY",
+              "description" : "Express Workflows - Duration - USD 0.00001667 per GB-S for the first 3.6 million GB-Seconds",
+              "beginRange" : "0",
+              "endRange" : "3600000",
+              "unit" : "GB-Seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000166700"
+              },
+              "appliesTo" : [ ]
+            },
+            "TFDWDW6V2TSZF7M2.JRTCKXETXF.NE24EMDVS9" : {
+              "rateCode" : "TFDWDW6V2TSZF7M2.JRTCKXETXF.NE24EMDVS9",
+              "description" : "Express Workflows - Duration - USD 0.00000833 per GB-S for the next 14.4 million GB-Seconds",
+              "beginRange" : "3600000",
+              "endRange" : "18000000",
+              "unit" : "GB-Seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000083300"
+              },
+              "appliesTo" : [ ]
+            },
+            "TFDWDW6V2TSZF7M2.JRTCKXETXF.FMHKY9FZ3N" : {
+              "rateCode" : "TFDWDW6V2TSZF7M2.JRTCKXETXF.FMHKY9FZ3N",
+              "description" : "Express Workflows - Duration - USD 0.00000456 per GB-S above 18 million GB-Seconds",
+              "beginRange" : "18000000",
+              "endRange" : "Inf",
+              "unit" : "GB-Seconds",
+              "pricePerUnit" : {
+                "USD" : "0.0000045600"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCMZZXP5RBUG8FGP" : {
+        "DCMZZXP5RBUG8FGP.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "DCMZZXP5RBUG8FGP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCMZZXP5RBUG8FGP.A429C66SYZ.DVEZ32496R" : {
+              "rateCode" : "DCMZZXP5RBUG8FGP.A429C66SYZ.DVEZ32496R",
+              "description" : "$0 for first 4,000 state transitions",
+              "beginRange" : "0",
+              "endRange" : "4000",
+              "unit" : "StateTransitions",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "KC4P5BNZ85CDEWWQ", "EH4TPBCG2WNVYENN", "FD3VCRWY9DWQNNR2", "3JFHXG48ND6GQ33B", "XMHKSF96BVDUEV9U", "5NX6NBD43SV57CH3", "Q52QCQF6YBG4687U", "BTMHABYR5QRUGQME", "DWY5PYXCAKBN3TYW", "BTKF2VQUME7BCFVV", "E2ZEAPHCEKSXJUED", "24U6G4866M8UVP7A", "364FRT45USBXTZW4", "GMN3GQH672E44JWH", "YR6N48F9AGYVTGVS", "ND32UH26A6UPBR96", "CQE6XENF3KN2P84N", "GVNX93JHCJ2Y3YAJ", "Z6V8BSW5F8WDY8KJ", "EJQU53MHSECW2Z32", "6HVUUG7M4R37JP4W", "58KUBWFAURJZRTNC", "4DQECRX2VAPNF8JE", "PEWNRD5EMPQPHCAQ", "T27DUT86AXK76Y2F", "GBZDVMJEAYD7JBJS", "FT76JNZ4ZR9HPDP6", "Q77S8DTHK7YGTP6Z", "E5H8B762UWBVDHNJ", "GN2KXGUTSKXWQY3E", "SUCCVQKTB2Y4TXZ8", "AEKKC8TN7R4P3M2U", "QWJQHWQ6CMMD645J", "XGGWEYVMS82UQ68Y", "286DEWDEPZP9TGN2", "Y993HK7PPJAWN5SM" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "AJJXM66BP92T8UX4" : {
+        "AJJXM66BP92T8UX4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJJXM66BP92T8UX4",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJJXM66BP92T8UX4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJJXM66BP92T8UX4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Express Workflows - Total Requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

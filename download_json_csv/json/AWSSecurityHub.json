@@ -1,0 +1,372 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSSecurityHub",
+  "version" : "20250214192845",
+  "publicationDate" : "2025-02-14T19:28:45Z",
+  "products" : {
+    "DHWPTYPT9X2EPX4J" : {
+      "sku" : "DHWPTYPT9X2EPX4J",
+      "productFamily" : "AWS Security Hub - Standards",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidComplianceCheck",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub",
+        "standardGroup" : "PaidComplianceCheck",
+        "standardStorage" : "Basic"
+      }
+    },
+    "E98XSQUQPTBJ6ACG" : {
+      "sku" : "E98XSQUQPTBJ6ACG",
+      "productFamily" : "AWS Security Hub - Findings",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SecurityHubProduct:FreeFindingsIngestion",
+        "operation" : "",
+        "findingGroup" : "FreeFindingsIngestion",
+        "findingSource" : "SecurityHubProduct",
+        "findingStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    },
+    "AWF9SS3UQ2T6ZC2J" : {
+      "sku" : "AWF9SS3UQ2T6ZC2J",
+      "productFamily" : "AWS Security Hub - Automation",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RuleEvaluation",
+        "operation" : "",
+        "automationGroup" : "RuleEvaluation",
+        "automationStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    },
+    "RVTEQFZNTSCX36VW" : {
+      "sku" : "RVTEQFZNTSCX36VW",
+      "productFamily" : "AWS Security Hub - Automation",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RuleEvaluation-FreeTrial",
+        "operation" : "",
+        "automationGroup" : "RuleEvaluation-FreeTrial",
+        "automationStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    },
+    "RHQTE7CF4TMKG2HX" : {
+      "sku" : "RHQTE7CF4TMKG2HX",
+      "productFamily" : "AWS Security Hub - Findings",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OtherProduct:PaidFindingsIngestion",
+        "operation" : "",
+        "findingGroup" : "PaidFindingsIngestion",
+        "findingSource" : "OtherProduct",
+        "findingStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    },
+    "UUQ8YT7BBB8FZ9W7" : {
+      "sku" : "UUQ8YT7BBB8FZ9W7",
+      "productFamily" : "AWS Security Hub - Findings",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeFindingsIngestion-CrossRegion",
+        "operation" : "",
+        "findingGroup" : "FreeFindingsIngestion-CrossRegion",
+        "findingSource" : "Basic",
+        "findingStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    },
+    "NZDYRG4D3CMABZ8G" : {
+      "sku" : "NZDYRG4D3CMABZ8G",
+      "productFamily" : "AWS Security Hub - Standards",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeComplianceCheck",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub",
+        "standardGroup" : "FreeComplianceCheck",
+        "standardStorage" : "Basic"
+      }
+    },
+    "QBGRV4ZDRGWRY2AR" : {
+      "sku" : "QBGRV4ZDRGWRY2AR",
+      "productFamily" : "AWS Security Hub - Findings",
+      "attributes" : {
+        "servicecode" : "AWSSecurityHub",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OtherProduct:FreeFindingsIngestion-FreeTrial",
+        "operation" : "",
+        "findingGroup" : "FreeFindingsIngestion-FreeTrial",
+        "findingSource" : "OtherProduct",
+        "findingStorage" : "Basic",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Security Hub"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NZDYRG4D3CMABZ8G" : {
+        "NZDYRG4D3CMABZ8G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NZDYRG4D3CMABZ8G",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "NZDYRG4D3CMABZ8G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NZDYRG4D3CMABZ8G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Security checks are free during the 30-day free trial period",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Security Checks",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DHWPTYPT9X2EPX4J" : {
+        "DHWPTYPT9X2EPX4J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DHWPTYPT9X2EPX4J",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DHWPTYPT9X2EPX4J.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "DHWPTYPT9X2EPX4J.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "The first 100,000 security checks per account per region per month cost USD0.001 per check",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Security Checks",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DHWPTYPT9X2EPX4J.JRTCKXETXF.25RFZHS7D6" : {
+              "rateCode" : "DHWPTYPT9X2EPX4J.JRTCKXETXF.25RFZHS7D6",
+              "description" : "100,001 to 400,000 security checks per account per region per month cost USD0.0008 per check",
+              "beginRange" : "100000",
+              "endRange" : "500000",
+              "unit" : "Security Checks",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DHWPTYPT9X2EPX4J.JRTCKXETXF.4Q8N5BDBT4" : {
+              "rateCode" : "DHWPTYPT9X2EPX4J.JRTCKXETXF.4Q8N5BDBT4",
+              "description" : "Over 500,000 security checks per account per region per month cost USD0.0005 per check",
+              "beginRange" : "500000",
+              "endRange" : "Inf",
+              "unit" : "Security Checks",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E98XSQUQPTBJ6ACG" : {
+        "E98XSQUQPTBJ6ACG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E98XSQUQPTBJ6ACG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "E98XSQUQPTBJ6ACG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E98XSQUQPTBJ6ACG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Findings generated by Security Hub security checks are always free",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Finding Ingestion Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QBGRV4ZDRGWRY2AR" : {
+        "QBGRV4ZDRGWRY2AR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QBGRV4ZDRGWRY2AR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QBGRV4ZDRGWRY2AR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QBGRV4ZDRGWRY2AR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Findings ingestion events are free during the 30-day free trial period",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Finding Ingestion Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UUQ8YT7BBB8FZ9W7" : {
+        "UUQ8YT7BBB8FZ9W7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UUQ8YT7BBB8FZ9W7",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UUQ8YT7BBB8FZ9W7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UUQ8YT7BBB8FZ9W7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0 per Finding Ingestion Events for FreeFindingsIngestion-CrossRegion in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Finding Ingestion Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RHQTE7CF4TMKG2HX" : {
+        "RHQTE7CF4TMKG2HX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RHQTE7CF4TMKG2HX",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RHQTE7CF4TMKG2HX.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "RHQTE7CF4TMKG2HX.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "First 10,000 finding ingestion events each month per account per region are free",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Finding Ingestion Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RHQTE7CF4TMKG2HX.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "RHQTE7CF4TMKG2HX.JRTCKXETXF.B536CJ4M58",
+              "description" : "Finding ingestion events above 10,000 events per account per region per month cost USD0.00003 per event",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "Finding Ingestion Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AWF9SS3UQ2T6ZC2J" : {
+        "AWF9SS3UQ2T6ZC2J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AWF9SS3UQ2T6ZC2J",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "Up to 1M Rule Evaluation Events for RuleEvaluation in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Rule Evaluation Event",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.DPKJ4VJHPK" : {
+              "rateCode" : "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.DPKJ4VJHPK",
+              "description" : "Between 1M and 100M Evaluation Events for RuleEvaluation in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "100000000",
+              "unit" : "Rule Evaluation Event",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            },
+            "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.V9JAN4EP4Z" : {
+              "rateCode" : "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.V9JAN4EP4Z",
+              "description" : "Between 100M and 1000M Evaluation Events for RuleEvaluation in US East (N. Virginia)",
+              "beginRange" : "100000000",
+              "endRange" : "1000000000",
+              "unit" : "Rule Evaluation Event",
+              "pricePerUnit" : {
+                "USD" : "0.0000000500"
+              },
+              "appliesTo" : [ ]
+            },
+            "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.AGD8ADSNTG" : {
+              "rateCode" : "AWF9SS3UQ2T6ZC2J.JRTCKXETXF.AGD8ADSNTG",
+              "description" : "Over 1000M Evaluation Events for RuleEvaluation in US East (N. Virginia)",
+              "beginRange" : "1000000000",
+              "endRange" : "Inf",
+              "unit" : "Rule Evaluation Event",
+              "pricePerUnit" : {
+                "USD" : "0.0000000150"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RVTEQFZNTSCX36VW" : {
+        "RVTEQFZNTSCX36VW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RVTEQFZNTSCX36VW",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RVTEQFZNTSCX36VW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RVTEQFZNTSCX36VW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Rule Evaluation Event for RuleEvaluation-FreeTrial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Rule Evaluation Event",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

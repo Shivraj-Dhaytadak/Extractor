@@ -1,0 +1,86 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "A4B",
+  "version" : "20230428170723",
+  "publicationDate" : "2023-04-28T17:07:23Z",
+  "products" : {
+    "36GVC4SCXMHBN3ZH" : {
+      "sku" : "36GVC4SCXMHBN3ZH",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "A4B",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EnrolledUser",
+        "operation" : "",
+        "deploymentModel" : "User",
+        "deploymentModelDescription" : "Number of users who have enrolled their personal account to their organization and are managed by Alexa for Business",
+        "regionCode" : "us-east-1",
+        "servicename" : "Alexa for Business"
+      }
+    },
+    "Q2FSX8AJGNAGR967" : {
+      "sku" : "Q2FSX8AJGNAGR967",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "A4B",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SharedDevice",
+        "operation" : "",
+        "deploymentModel" : "Device",
+        "deploymentModelDescription" : "Number of shared devices deployed and assigned location profile via console",
+        "regionCode" : "us-east-1",
+        "servicename" : "Alexa for Business"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "36GVC4SCXMHBN3ZH" : {
+        "36GVC4SCXMHBN3ZH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "36GVC4SCXMHBN3ZH",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "36GVC4SCXMHBN3ZH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "36GVC4SCXMHBN3ZH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per month for each user you have invited to join your Alexa for Business organization, prorated.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q2FSX8AJGNAGR967" : {
+        "Q2FSX8AJGNAGR967.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q2FSX8AJGNAGR967",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q2FSX8AJGNAGR967.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q2FSX8AJGNAGR967.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per month for each shared device assigned to a \"room\", prorated.",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

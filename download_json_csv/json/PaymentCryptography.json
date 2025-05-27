@@ -1,0 +1,106 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "PaymentCryptography",
+  "version" : "20240813183438",
+  "publicationDate" : "2024-08-13T18:34:38Z",
+  "products" : {
+    "DJ2F3K6DRV3SZB55" : {
+      "sku" : "DJ2F3K6DRV3SZB55",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "PaymentCryptography",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests",
+        "operation" : "",
+        "apitype" : "All",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Payment Cryptography"
+      }
+    },
+    "XFC3QYM8X8FQ6QEZ" : {
+      "sku" : "XFC3QYM8X8FQ6QEZ",
+      "productFamily" : "Encryption Key",
+      "attributes" : {
+        "servicecode" : "PaymentCryptography",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActiveKeys",
+        "operation" : "",
+        "apitype" : "All",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Payment Cryptography"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "XFC3QYM8X8FQ6QEZ" : {
+        "XFC3QYM8X8FQ6QEZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XFC3QYM8X8FQ6QEZ",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "XFC3QYM8X8FQ6QEZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XFC3QYM8X8FQ6QEZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per Month for ActiveKeys in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DJ2F3K6DRV3SZB55" : {
+        "DJ2F3K6DRV3SZB55.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJ2F3K6DRV3SZB55",
+          "effectiveDate" : "2024-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJ2F3K6DRV3SZB55.JRTCKXETXF.2GQZD7548S" : {
+              "rateCode" : "DJ2F3K6DRV3SZB55.JRTCKXETXF.2GQZD7548S",
+              "description" : "$2.00 per 10,000 Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "20000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DJ2F3K6DRV3SZB55.JRTCKXETXF.ZNZ86FN743" : {
+              "rateCode" : "DJ2F3K6DRV3SZB55.JRTCKXETXF.ZNZ86FN743",
+              "description" : "$0.75 per 10,000 Requests in US East (N. Virginia)",
+              "beginRange" : "20000000",
+              "endRange" : "220000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000750000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DJ2F3K6DRV3SZB55.JRTCKXETXF.5USK7U6UKE" : {
+              "rateCode" : "DJ2F3K6DRV3SZB55.JRTCKXETXF.5USK7U6UKE",
+              "description" : "$0.50 per 10,000 Requests in US East (N. Virginia)",
+              "beginRange" : "220000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

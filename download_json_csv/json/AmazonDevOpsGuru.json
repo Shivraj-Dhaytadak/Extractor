@@ -1,0 +1,2324 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonDevOpsGuru",
+  "version" : "20220906172511",
+  "publicationDate" : "2022-09-06T17:25:11Z",
+  "products" : {
+    "QGZU6EWUW8XGFVGH" : {
+      "sku" : "QGZU6EWUW8XGFVGH",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DevOpsGuru-APICalls",
+        "operation" : "",
+        "apiCalls" : "DevOps Guru API Calls",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "RBK5H5FCBATNU58V" : {
+      "sku" : "RBK5H5FCBATNU58V",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SageMaker-InvocationEndpoint-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SageMaker-InvocationEndpoint-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "55XSKHZFCSVNYY6K" : {
+      "sku" : "55XSKHZFCSVNYY6K",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "A7PJP37JKU24GXRN" : {
+      "sku" : "A7PJP37JKU24GXRN",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SQS-Queue-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SQS-Queue-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "ADAUW96VRJFE9CV2" : {
+      "sku" : "ADAUW96VRJFE9CV2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OpenSearchService-Node-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "OpenSearchService-Node-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "PH267TFV9DAPTSYX" : {
+      "sku" : "PH267TFV9DAPTSYX",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-NATGateway-VPC-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "NATGateway-VPC-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "U8CGSMFX2AYFGX7K" : {
+      "sku" : "U8CGSMFX2AYFGX7K",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Instance-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "EC2-Instance-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "K6PT3KCZTGY3HCQR" : {
+      "sku" : "K6PT3KCZTGY3HCQR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StepFunctions-StateMachine-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "StepFunctions-StateMachine-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "8NQ9VE9475DSJMX9" : {
+      "sku" : "8NQ9VE9475DSJMX9",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-NetworkELB-LoadBalancer-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Network ELB-LoadBalancer-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "KN5UCRKD9R4SKHRH" : {
+      "sku" : "KN5UCRKD9R4SKHRH",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Function-GroupA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Lambda-Function-GroupA",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "G5ABKY78DJZ7RAZA" : {
+      "sku" : "G5ABKY78DJZ7RAZA",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Kinesis-Stream-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Kinesis-Stream-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "EDV9ZP44AFJWFPDP" : {
+      "sku" : "EDV9ZP44AFJWFPDP",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ElasticBeanstalk-Environment-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Elastic Beanstalk-Environment-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "U5HXJXYVPSQ68KD9" : {
+      "sku" : "U5HXJXYVPSQ68KD9",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ElastiCache-Node-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ElastiCache-Node-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "W6DPKQQK5PSPCF5K" : {
+      "sku" : "W6DPKQQK5PSPCF5K",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-NATGateway-VPC-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "NATGateway-VPC-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "5MW3HSTRB5C2A8G7" : {
+      "sku" : "5MW3HSTRB5C2A8G7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Application-ELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Application-ELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "8MSGJXZDH6BPAQ44" : {
+      "sku" : "8MSGJXZDH6BPAQ44",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APIGateway-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "APIGateway-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "RB6AGG83ZZC2PGME" : {
+      "sku" : "RB6AGG83ZZC2PGME",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RedShift-Node-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RedShift-Node-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "4X73UKZD9KT9X5B3" : {
+      "sku" : "4X73UKZD9KT9X5B3",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CloudFront-Distribution-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "CloudFront-Distribution-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "MDR823Y6URJEY5CG" : {
+      "sku" : "MDR823Y6URJEY5CG",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DynamoDBStreams-Stream-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "DynamoDB Streams-Stream-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "UXJ7PRXCN8DTJ9ZZ" : {
+      "sku" : "UXJ7PRXCN8DTJ9ZZ",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RDS-DBInstance-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RDS-DBInstance-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "PPCNAYEATN2HAFHR" : {
+      "sku" : "PPCNAYEATN2HAFHR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APIGateway-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "APIGateway-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "HYQUYGJ7M2BT5X27" : {
+      "sku" : "HYQUYGJ7M2BT5X27",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DevOpsGuru-API-Calls-ZeroTier",
+        "operation" : "",
+        "apiCalls" : "API-Calls-ZeroTier",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "KRHBA688A9ZVZCAK" : {
+      "sku" : "KRHBA688A9ZVZCAK",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Function-GroupA-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Lambda-Function-GroupA-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "YFR6Q4GXDDZ44S9Z" : {
+      "sku" : "YFR6Q4GXDDZ44S9Z",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SQS-Queue-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SQS-Queue-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "5PRMEH49PQ7SMTRG" : {
+      "sku" : "5PRMEH49PQ7SMTRG",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RDS-DBInstance-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RDS-DBInstance-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "Q7GC4J589VYZBEYT" : {
+      "sku" : "Q7GC4J589VYZBEYT",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Instance-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "EC2-Instance-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "A7U3QZ8B5FNT4FSB" : {
+      "sku" : "A7U3QZ8B5FNT4FSB",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DynamoDB-Table-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "DynamoDB-Table-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "4TNB4EWDWA8HSBCF" : {
+      "sku" : "4TNB4EWDWA8HSBCF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-S3-Bucket-GroupA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "S3-Bucket-GroupA",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "B79S9S9JGVNPUZZN" : {
+      "sku" : "B79S9S9JGVNPUZZN",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RedShift-Cluster-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RedShift-Cluster-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "TC8UVKXPMFVZN27B" : {
+      "sku" : "TC8UVKXPMFVZN27B",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ELB-LoadBalancer-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ELB-LoadBalancer-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "228ZKC2CZTTHVKWF" : {
+      "sku" : "228ZKC2CZTTHVKWF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SNS-Topic-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SNS-Topic-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "9JZJNFPVAU4Y74R4" : {
+      "sku" : "9JZJNFPVAU4Y74R4",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SageMaker-InvocationEndpoint-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SageMaker-InvocationEndpoint-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "U9HXR3YHEU2FWHMC" : {
+      "sku" : "U9HXR3YHEU2FWHMC",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StepFunctions-Activity-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "StepFunctions-Activity-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "6FB2J3XX8WX7MRVR" : {
+      "sku" : "6FB2J3XX8WX7MRVR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-S3-Bucket-GroupA-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "S3-Bucket-GroupA-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "JBRT9AEPVC8X9QJ7" : {
+      "sku" : "JBRT9AEPVC8X9QJ7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceGroup-A-usagehours",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Resource Price Group A",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "JM6BZC3TRU55EVA9" : {
+      "sku" : "JM6BZC3TRU55EVA9",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceGroup-B-usagehours-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Resource Price Group B-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "DCX4YY66WJZ7Y6PF" : {
+      "sku" : "DCX4YY66WJZ7Y6PF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CloudFront-Distribution-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "CloudFront-Distribution-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "6MV4RG9VHCGNYYGK" : {
+      "sku" : "6MV4RG9VHCGNYYGK",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StepFunctions-StateMachine-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "StepFunctions-StateMachine-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "DDHYNJBX29K7J9D7" : {
+      "sku" : "DDHYNJBX29K7J9D7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Route53-HostedZone-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Route 53-HostedZone-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "PGAGBTQQ2UX7EJHU" : {
+      "sku" : "PGAGBTQQ2UX7EJHU",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ElasticBeanstalk-Environment-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Elastic Beanstalk-Environment-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "CYNB6TN77JGXWCPY" : {
+      "sku" : "CYNB6TN77JGXWCPY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Kinesis-Stream-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Kinesis-Stream-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "353DQUZN7K49RSC2" : {
+      "sku" : "353DQUZN7K49RSC2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DynamoDBStreams-Stream-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "DynamoDB Streams-Stream-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "MV4AKFG67XSRT7J4" : {
+      "sku" : "MV4AKFG67XSRT7J4",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SWF-Task-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SWF-Task-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "CHYE8XVWN64AC73A" : {
+      "sku" : "CHYE8XVWN64AC73A",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EKS-Service-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "EKS-Service-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "SXQ57MPXX559T9SM" : {
+      "sku" : "SXQ57MPXX559T9SM",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceGroup-A-usagehours-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Resource Price Group A-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "TY2QKZWHF2VTYESV" : {
+      "sku" : "TY2QKZWHF2VTYESV",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RedShift-Cluster-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RedShift-Cluster-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "2GZ87APHEP2ZJZTJ" : {
+      "sku" : "2GZ87APHEP2ZJZTJ",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceGroup-B-usagehours",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Resource Price Group B",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "GTRCSWMUVBSCN7CS" : {
+      "sku" : "GTRCSWMUVBSCN7CS",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SNS-Topic-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SNS-Topic-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "DRYJ8RBS4Z5RVQGU" : {
+      "sku" : "DRYJ8RBS4Z5RVQGU",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SWF-Workflow-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SWF-Workflow-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "HVTUAV7CPSV8BCUY" : {
+      "sku" : "HVTUAV7CPSV8BCUY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ElastiCache-Node-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ElastiCache-Node-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "TK4JBUH4T28WC5B4" : {
+      "sku" : "TK4JBUH4T28WC5B4",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ASG-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ASG-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "M4NBRE7GQZCZN3RA" : {
+      "sku" : "M4NBRE7GQZCZN3RA",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ECS-Service-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ECS-Service-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "VB7Q8AK2XHG4RW9Y" : {
+      "sku" : "VB7Q8AK2XHG4RW9Y",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ECS-Service-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ECS-Service-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "TCRAYP53J2XF4C48" : {
+      "sku" : "TCRAYP53J2XF4C48",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SWF-Workflow-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SWF-Workflow-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "UB8XZQYGSX6QCBEB" : {
+      "sku" : "UB8XZQYGSX6QCBEB",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Elasticsearch-Node-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Elasticsearch-Node-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "JEMJSDWEBQMYGZB8" : {
+      "sku" : "JEMJSDWEBQMYGZB8",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DynamoDB-Table-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "DynamoDB-Table-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "SMQU65Z95B2ZEGBD" : {
+      "sku" : "SMQU65Z95B2ZEGBD",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Route53-HostedZone-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Route 53-HostedZone-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "FGW7543W4KK6DH3Q" : {
+      "sku" : "FGW7543W4KK6DH3Q",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SWF-Task-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "SWF-Task-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "79PG5REFKF4YJ9JF" : {
+      "sku" : "79PG5REFKF4YJ9JF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ASG-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "ASG-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "C7DNZJF2GG3KQWPM" : {
+      "sku" : "C7DNZJF2GG3KQWPM",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-NetworkELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Network ELB-LoadBalancer-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "MT3DDNMUYYHKBWJP" : {
+      "sku" : "MT3DDNMUYYHKBWJP",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RedShift-Node-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "RedShift-Node-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "94AK9AG3VPQGGB2Y" : {
+      "sku" : "94AK9AG3VPQGGB2Y",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StepFunctions-Activity-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "StepFunctions-Activity-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "ASXGM85NPBBQWU48" : {
+      "sku" : "ASXGM85NPBBQWU48",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Application-ELB-LoadBalancer-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Application-ELB-LoadBalancer-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "VJATAE7U2HGAAXAU" : {
+      "sku" : "VJATAE7U2HGAAXAU",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EKS-Service-GroupB-Resource-Analysis-ZeroTier",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "EKS-Service-GroupB-Resource-Analysis-ZeroTier",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "VZR9TC9HJ9RGY3UR" : {
+      "sku" : "VZR9TC9HJ9RGY3UR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OpenSearchService-Node-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "OpenSearchService-Node-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    },
+    "W3YZS47JJC2Z7755" : {
+      "sku" : "W3YZS47JJC2Z7755",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonDevOpsGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Elasticsearch-Node-GroupB",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourcePriceGroup" : "Elasticsearch-Node-GroupB",
+        "servicename" : "Amazon DevOps Guru"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "UXJ7PRXCN8DTJ9ZZ" : {
+        "UXJ7PRXCN8DTJ9ZZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UXJ7PRXCN8DTJ9ZZ",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "UXJ7PRXCN8DTJ9ZZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UXJ7PRXCN8DTJ9ZZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-RDS-DBInstance-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HYQUYGJ7M2BT5X27" : {
+        "HYQUYGJ7M2BT5X27.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HYQUYGJ7M2BT5X27",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "HYQUYGJ7M2BT5X27.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HYQUYGJ7M2BT5X27.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for DevOps Guru API Calls",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JEMJSDWEBQMYGZB8" : {
+        "JEMJSDWEBQMYGZB8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JEMJSDWEBQMYGZB8",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "JEMJSDWEBQMYGZB8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JEMJSDWEBQMYGZB8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-DynamoDB-Table-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q7GC4J589VYZBEYT" : {
+        "Q7GC4J589VYZBEYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q7GC4J589VYZBEYT",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q7GC4J589VYZBEYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q7GC4J589VYZBEYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DDHYNJBX29K7J9D7" : {
+        "DDHYNJBX29K7J9D7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DDHYNJBX29K7J9D7",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "DDHYNJBX29K7J9D7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DDHYNJBX29K7J9D7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-Route53-HostedZone-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FGW7543W4KK6DH3Q" : {
+        "FGW7543W4KK6DH3Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FGW7543W4KK6DH3Q",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "FGW7543W4KK6DH3Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FGW7543W4KK6DH3Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8NQ9VE9475DSJMX9" : {
+        "8NQ9VE9475DSJMX9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8NQ9VE9475DSJMX9",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "8NQ9VE9475DSJMX9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8NQ9VE9475DSJMX9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-NetworkELB-LoadBalancer-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TC8UVKXPMFVZN27B" : {
+        "TC8UVKXPMFVZN27B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TC8UVKXPMFVZN27B",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "TC8UVKXPMFVZN27B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TC8UVKXPMFVZN27B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ELB-LoadBalancer-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CHYE8XVWN64AC73A" : {
+        "CHYE8XVWN64AC73A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CHYE8XVWN64AC73A",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "CHYE8XVWN64AC73A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CHYE8XVWN64AC73A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-EKS-Service-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HVTUAV7CPSV8BCUY" : {
+        "HVTUAV7CPSV8BCUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HVTUAV7CPSV8BCUY",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "HVTUAV7CPSV8BCUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HVTUAV7CPSV8BCUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ElastiCache-Node-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W3YZS47JJC2Z7755" : {
+        "W3YZS47JJC2Z7755.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W3YZS47JJC2Z7755",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "W3YZS47JJC2Z7755.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W3YZS47JJC2Z7755.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-Elasticsearch-Node-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "79PG5REFKF4YJ9JF" : {
+        "79PG5REFKF4YJ9JF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "79PG5REFKF4YJ9JF",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "79PG5REFKF4YJ9JF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "79PG5REFKF4YJ9JF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A7U3QZ8B5FNT4FSB" : {
+        "A7U3QZ8B5FNT4FSB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A7U3QZ8B5FNT4FSB",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "A7U3QZ8B5FNT4FSB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A7U3QZ8B5FNT4FSB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6MV4RG9VHCGNYYGK" : {
+        "6MV4RG9VHCGNYYGK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6MV4RG9VHCGNYYGK",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "6MV4RG9VHCGNYYGK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6MV4RG9VHCGNYYGK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U9HXR3YHEU2FWHMC" : {
+        "U9HXR3YHEU2FWHMC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U9HXR3YHEU2FWHMC",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "U9HXR3YHEU2FWHMC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U9HXR3YHEU2FWHMC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-StepFunctions-Activity-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SXQ57MPXX559T9SM" : {
+        "SXQ57MPXX559T9SM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SXQ57MPXX559T9SM",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "SXQ57MPXX559T9SM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SXQ57MPXX559T9SM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "228ZKC2CZTTHVKWF" : {
+        "228ZKC2CZTTHVKWF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "228ZKC2CZTTHVKWF",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "228ZKC2CZTTHVKWF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "228ZKC2CZTTHVKWF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M4NBRE7GQZCZN3RA" : {
+        "M4NBRE7GQZCZN3RA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M4NBRE7GQZCZN3RA",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "M4NBRE7GQZCZN3RA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M4NBRE7GQZCZN3RA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCX4YY66WJZ7Y6PF" : {
+        "DCX4YY66WJZ7Y6PF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCX4YY66WJZ7Y6PF",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCX4YY66WJZ7Y6PF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCX4YY66WJZ7Y6PF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PPCNAYEATN2HAFHR" : {
+        "PPCNAYEATN2HAFHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PPCNAYEATN2HAFHR",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "PPCNAYEATN2HAFHR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PPCNAYEATN2HAFHR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-APIGateway-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CYNB6TN77JGXWCPY" : {
+        "CYNB6TN77JGXWCPY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CYNB6TN77JGXWCPY",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "CYNB6TN77JGXWCPY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CYNB6TN77JGXWCPY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-Kinesis-Stream-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RBK5H5FCBATNU58V" : {
+        "RBK5H5FCBATNU58V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RBK5H5FCBATNU58V",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "RBK5H5FCBATNU58V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RBK5H5FCBATNU58V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GTRCSWMUVBSCN7CS" : {
+        "GTRCSWMUVBSCN7CS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GTRCSWMUVBSCN7CS",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "GTRCSWMUVBSCN7CS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GTRCSWMUVBSCN7CS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-SNS-Topic-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8MSGJXZDH6BPAQ44" : {
+        "8MSGJXZDH6BPAQ44.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8MSGJXZDH6BPAQ44",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "8MSGJXZDH6BPAQ44.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8MSGJXZDH6BPAQ44.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U5HXJXYVPSQ68KD9" : {
+        "U5HXJXYVPSQ68KD9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U5HXJXYVPSQ68KD9",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "U5HXJXYVPSQ68KD9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U5HXJXYVPSQ68KD9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MDR823Y6URJEY5CG" : {
+        "MDR823Y6URJEY5CG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MDR823Y6URJEY5CG",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "MDR823Y6URJEY5CG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MDR823Y6URJEY5CG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YFR6Q4GXDDZ44S9Z" : {
+        "YFR6Q4GXDDZ44S9Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YFR6Q4GXDDZ44S9Z",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "YFR6Q4GXDDZ44S9Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YFR6Q4GXDDZ44S9Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U8CGSMFX2AYFGX7K" : {
+        "U8CGSMFX2AYFGX7K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U8CGSMFX2AYFGX7K",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "U8CGSMFX2AYFGX7K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U8CGSMFX2AYFGX7K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-EC2(ASG)-Instance-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TK4JBUH4T28WC5B4" : {
+        "TK4JBUH4T28WC5B4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TK4JBUH4T28WC5B4",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "TK4JBUH4T28WC5B4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TK4JBUH4T28WC5B4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ASG-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G5ABKY78DJZ7RAZA" : {
+        "G5ABKY78DJZ7RAZA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G5ABKY78DJZ7RAZA",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "G5ABKY78DJZ7RAZA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G5ABKY78DJZ7RAZA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VZR9TC9HJ9RGY3UR" : {
+        "VZR9TC9HJ9RGY3UR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VZR9TC9HJ9RGY3UR",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "VZR9TC9HJ9RGY3UR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VZR9TC9HJ9RGY3UR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-OpenSearchService-Node-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RB6AGG83ZZC2PGME" : {
+        "RB6AGG83ZZC2PGME.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RB6AGG83ZZC2PGME",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "RB6AGG83ZZC2PGME.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RB6AGG83ZZC2PGME.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5MW3HSTRB5C2A8G7" : {
+        "5MW3HSTRB5C2A8G7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5MW3HSTRB5C2A8G7",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "5MW3HSTRB5C2A8G7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5MW3HSTRB5C2A8G7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DRYJ8RBS4Z5RVQGU" : {
+        "DRYJ8RBS4Z5RVQGU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DRYJ8RBS4Z5RVQGU",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "DRYJ8RBS4Z5RVQGU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DRYJ8RBS4Z5RVQGU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-SWF-Workflow-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "94AK9AG3VPQGGB2Y" : {
+        "94AK9AG3VPQGGB2Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "94AK9AG3VPQGGB2Y",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "94AK9AG3VPQGGB2Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "94AK9AG3VPQGGB2Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ADAUW96VRJFE9CV2" : {
+        "ADAUW96VRJFE9CV2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ADAUW96VRJFE9CV2",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "ADAUW96VRJFE9CV2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ADAUW96VRJFE9CV2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9JZJNFPVAU4Y74R4" : {
+        "9JZJNFPVAU4Y74R4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9JZJNFPVAU4Y74R4",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "9JZJNFPVAU4Y74R4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9JZJNFPVAU4Y74R4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-SageMaker-InvocationEndpoint-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MT3DDNMUYYHKBWJP" : {
+        "MT3DDNMUYYHKBWJP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MT3DDNMUYYHKBWJP",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "MT3DDNMUYYHKBWJP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MT3DDNMUYYHKBWJP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-RedShift-Node-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ASXGM85NPBBQWU48" : {
+        "ASXGM85NPBBQWU48.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ASXGM85NPBBQWU48",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "ASXGM85NPBBQWU48.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ASXGM85NPBBQWU48.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-Application-ELB-LoadBalancer-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JM6BZC3TRU55EVA9" : {
+        "JM6BZC3TRU55EVA9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JM6BZC3TRU55EVA9",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "JM6BZC3TRU55EVA9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JM6BZC3TRU55EVA9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4X73UKZD9KT9X5B3" : {
+        "4X73UKZD9KT9X5B3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4X73UKZD9KT9X5B3",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "4X73UKZD9KT9X5B3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4X73UKZD9KT9X5B3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-CloudFront-Distribution-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QGZU6EWUW8XGFVGH" : {
+        "QGZU6EWUW8XGFVGH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QGZU6EWUW8XGFVGH",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "QGZU6EWUW8XGFVGH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QGZU6EWUW8XGFVGH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00004 per DevOps Guru API Call in US East (N. Virginia) Region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5PRMEH49PQ7SMTRG" : {
+        "5PRMEH49PQ7SMTRG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5PRMEH49PQ7SMTRG",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "5PRMEH49PQ7SMTRG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5PRMEH49PQ7SMTRG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6FB2J3XX8WX7MRVR" : {
+        "6FB2J3XX8WX7MRVR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6FB2J3XX8WX7MRVR",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "6FB2J3XX8WX7MRVR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6FB2J3XX8WX7MRVR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W6DPKQQK5PSPCF5K" : {
+        "W6DPKQQK5PSPCF5K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W6DPKQQK5PSPCF5K",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "W6DPKQQK5PSPCF5K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W6DPKQQK5PSPCF5K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-NATGateway-VPC-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KN5UCRKD9R4SKHRH" : {
+        "KN5UCRKD9R4SKHRH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KN5UCRKD9R4SKHRH",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "KN5UCRKD9R4SKHRH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KN5UCRKD9R4SKHRH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0028 per AWS Resource per Hour for US East (N. Virginia)-Lambda-Function-GroupA",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0028000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JBRT9AEPVC8X9QJ7" : {
+        "JBRT9AEPVC8X9QJ7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JBRT9AEPVC8X9QJ7",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "JBRT9AEPVC8X9QJ7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JBRT9AEPVC8X9QJ7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0028 per AWS Resource per Hour for US East (N. Virginia)-ResourceGroup-A-usagehours",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0028000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TY2QKZWHF2VTYESV" : {
+        "TY2QKZWHF2VTYESV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TY2QKZWHF2VTYESV",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "TY2QKZWHF2VTYESV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TY2QKZWHF2VTYESV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SMQU65Z95B2ZEGBD" : {
+        "SMQU65Z95B2ZEGBD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SMQU65Z95B2ZEGBD",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "SMQU65Z95B2ZEGBD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SMQU65Z95B2ZEGBD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UB8XZQYGSX6QCBEB" : {
+        "UB8XZQYGSX6QCBEB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UB8XZQYGSX6QCBEB",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "UB8XZQYGSX6QCBEB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UB8XZQYGSX6QCBEB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PGAGBTQQ2UX7EJHU" : {
+        "PGAGBTQQ2UX7EJHU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGAGBTQQ2UX7EJHU",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGAGBTQQ2UX7EJHU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGAGBTQQ2UX7EJHU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ElasticBeanstalk-Environment-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TCRAYP53J2XF4C48" : {
+        "TCRAYP53J2XF4C48.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TCRAYP53J2XF4C48",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "TCRAYP53J2XF4C48.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TCRAYP53J2XF4C48.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KRHBA688A9ZVZCAK" : {
+        "KRHBA688A9ZVZCAK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KRHBA688A9ZVZCAK",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "KRHBA688A9ZVZCAK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KRHBA688A9ZVZCAK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJATAE7U2HGAAXAU" : {
+        "VJATAE7U2HGAAXAU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJATAE7U2HGAAXAU",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJATAE7U2HGAAXAU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJATAE7U2HGAAXAU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C7DNZJF2GG3KQWPM" : {
+        "C7DNZJF2GG3KQWPM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C7DNZJF2GG3KQWPM",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "C7DNZJF2GG3KQWPM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C7DNZJF2GG3KQWPM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "353DQUZN7K49RSC2" : {
+        "353DQUZN7K49RSC2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "353DQUZN7K49RSC2",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "353DQUZN7K49RSC2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "353DQUZN7K49RSC2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-DynamoDBStreams-Stream-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EDV9ZP44AFJWFPDP" : {
+        "EDV9ZP44AFJWFPDP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EDV9ZP44AFJWFPDP",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "EDV9ZP44AFJWFPDP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EDV9ZP44AFJWFPDP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VB7Q8AK2XHG4RW9Y" : {
+        "VB7Q8AK2XHG4RW9Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VB7Q8AK2XHG4RW9Y",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "VB7Q8AK2XHG4RW9Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VB7Q8AK2XHG4RW9Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ECS-Service-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PH267TFV9DAPTSYX" : {
+        "PH267TFV9DAPTSYX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PH267TFV9DAPTSYX",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "PH267TFV9DAPTSYX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PH267TFV9DAPTSYX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2GZ87APHEP2ZJZTJ" : {
+        "2GZ87APHEP2ZJZTJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2GZ87APHEP2ZJZTJ",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "2GZ87APHEP2ZJZTJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2GZ87APHEP2ZJZTJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-ResourceGroup-B-usagehours",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4TNB4EWDWA8HSBCF" : {
+        "4TNB4EWDWA8HSBCF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4TNB4EWDWA8HSBCF",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "4TNB4EWDWA8HSBCF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4TNB4EWDWA8HSBCF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0028 per AWS Resource per Hour for US East (N. Virginia)-S3-Bucket-GroupA",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0028000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K6PT3KCZTGY3HCQR" : {
+        "K6PT3KCZTGY3HCQR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K6PT3KCZTGY3HCQR",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "K6PT3KCZTGY3HCQR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K6PT3KCZTGY3HCQR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-StepFunctions-StateMachine-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "55XSKHZFCSVNYY6K" : {
+        "55XSKHZFCSVNYY6K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "55XSKHZFCSVNYY6K",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "55XSKHZFCSVNYY6K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "55XSKHZFCSVNYY6K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Zero Dollar SKUs for AWS Resource Analysis",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B79S9S9JGVNPUZZN" : {
+        "B79S9S9JGVNPUZZN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B79S9S9JGVNPUZZN",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "B79S9S9JGVNPUZZN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B79S9S9JGVNPUZZN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-RedShift-Cluster-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A7PJP37JKU24GXRN" : {
+        "A7PJP37JKU24GXRN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A7PJP37JKU24GXRN",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "A7PJP37JKU24GXRN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A7PJP37JKU24GXRN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-SQS-Queue-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MV4AKFG67XSRT7J4" : {
+        "MV4AKFG67XSRT7J4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MV4AKFG67XSRT7J4",
+          "effectiveDate" : "2022-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "MV4AKFG67XSRT7J4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MV4AKFG67XSRT7J4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0042 per AWS Resource per Hour for US East (N. Virginia)-SWF-Task-GroupB",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "usagehours",
+              "pricePerUnit" : {
+                "USD" : "0.0042000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

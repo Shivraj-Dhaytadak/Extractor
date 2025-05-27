@@ -1,0 +1,272 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonSWF",
+  "version" : "20250318160053",
+  "publicationDate" : "2025-03-18T16:00:53Z",
+  "products" : {
+    "EFYQ2ZA82QUPFUUA" : {
+      "sku" : "EFYQ2ZA82QUPFUUA",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SWF-ClosedRetainedWorkflowDays",
+        "groupDescription" : "Number of calendar days workflow is retained",
+        "usagetype" : "ClosedRetainedWorkflowDays",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "E5KNPC8WWVTNWF96" : {
+      "sku" : "E5KNPC8WWVTNWF96",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SWF-OpenWorkflowDays",
+        "groupDescription" : "Number of billable 24-hour periods the workflow was running",
+        "usagetype" : "OpenWorkflowDays",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "2856NV7DYGAJKGNN" : {
+      "sku" : "2856NV7DYGAJKGNN",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "SWF-OpenWorkflowDays",
+        "groupDescription" : "Number of billable 24-hour periods the workflow was running",
+        "usagetype" : "Global-AggregateWorkflowDays",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "M5K4H7RWRXH2XJSD" : {
+      "sku" : "M5K4H7RWRXH2XJSD",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SWF-InitiatedWorkflows",
+        "groupDescription" : "Number of workflow executions initiated",
+        "usagetype" : "InitiatedWorkflows",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "5KETBYVYVJC78P29" : {
+      "sku" : "5KETBYVYVJC78P29",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "SWF-InitiatedWorkflows",
+        "groupDescription" : "Number of workflow executions initiated",
+        "usagetype" : "Global-AggregateInitiatedWorkflows",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "K5ZM7QRHQB9WZN27" : {
+      "sku" : "K5ZM7QRHQB9WZN27",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "SWF-InitiatedActions",
+        "groupDescription" : "Number of tasks scheduled, signals received, markers set and timers setup",
+        "usagetype" : "Global-AggregateInitiatedActions",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    },
+    "6RU74KYY7RT4YSZR" : {
+      "sku" : "6RU74KYY7RT4YSZR",
+      "productFamily" : "Amazon Simple Workflow",
+      "attributes" : {
+        "servicecode" : "AmazonSWF",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "SWF-InitiatedActions",
+        "groupDescription" : "Number of tasks scheduled, signals received, markers set and timers setup",
+        "usagetype" : "InitiatedActions",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Workflow Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "2856NV7DYGAJKGNN" : {
+        "2856NV7DYGAJKGNN.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "2856NV7DYGAJKGNN",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "2856NV7DYGAJKGNN.A429C66SYZ.UT487EKX45" : {
+              "rateCode" : "2856NV7DYGAJKGNN.A429C66SYZ.UT487EKX45",
+              "description" : "$0 for first 30,000 open and retained workflow days (24 hr period), free tier",
+              "beginRange" : "0",
+              "endRange" : "30000",
+              "unit" : "Workflow-days",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "B27YWUDNTWT6ASSW", "FRJB7WYF6CAVNUX8", "ZZ87KMNW9HVQ2WB5", "QZCPED9HY84KB9U2", "9HZP5888GNA2HUY2", "S762CSM4FZMUDBYG", "AVNGTYJK2ZJT8SV3", "EYZMA3TTKJ75EKPV", "3XDK8HP2KWFP48H3", "APQ352RPM54J7HHQ", "WWM42YZ23TBCNAGY", "3MARAMUU5ZPFWKPN", "ZF76537C5ZAGP484", "EFYQ2ZA82QUPFUUA", "EZDH3HPUG7T655WA", "882E3FV4FU727VFF", "SEP3MKUFGC3776VJ", "5BZQ9MSMKFWJPHJQ", "N4DSC2J4AJ65TZGN", "RMCY8R3VX49FC5ZM", "BKCSE53GJ57SDKYV", "58WQWTJSNZC3NT95", "FVXUHBYH5YGBE2YF", "84V6455FNGSTP5BY", "Q5P5533YQX5KYFJN", "CZZJWWYC9K3GFB3R", "S7XMR5CKDKS59H9M", "XZ4XFFR88GVRFUVW", "5G4XJB2JBVY64H4S", "JDDWKMSC853PTBTD", "7YFFPG7MCNP69CTR", "NFYGACA2WSTF9824", "CWQBU8U2JQ7FHBH3", "MCKA4KBAHDUQNHKR", "2TS5XB8YTZWDFT25", "H2Z5F7NSRJ5VMN9Q", "VA6PWVYHPNCU2EY4", "YUHF7J2NE49TJFDD", "C36XSFFBV9T8VRUS", "D45KSUP9VQ9SQXBX", "8HPFWN2URK42Q7UB", "4H8J2G6U6SBAR54K", "CDCMBR8HK92BCARF", "JFB8D4E6XUG2Y88M", "54774S6VEE4RCFZZ", "PUTK5W8DJQNAB5UQ", "66T4NNZR92BA7V9Z", "9W5DPQKNKQ89MD5H", "M46GC6PMXYHUQEQN", "GBKRWHPUZENW9P36", "HBGZQRAPEMQJWKPA", "E5KNPC8WWVTNWF96", "4SQ5XYV9R5ZHUERW", "XS2QMHEUAU4EZ3QM", "6WTU6QYYFRPRAFQH", "Y6QPH957RRGRD3CY", "KV5TTNF9TM64PVVS", "3PSP4NT8CBFHXZE5", "ZEMHW6QFWDASQNRM", "8B7XPGRUTVQHXQQW", "JSGNGN2EDN278Z5Q", "PAFRJQ6WD76AY998", "EMJPP5QAG6BXRTQE", "QB26EVGAA2N9EBXR", "429BYFP9TU2DSYXZ", "WPFU9ET94YDAHBDV", "976ZGHMVXCA52KRC", "KCNHFWW42KJ82QH7" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "K5ZM7QRHQB9WZN27" : {
+        "K5ZM7QRHQB9WZN27.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "K5ZM7QRHQB9WZN27",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "K5ZM7QRHQB9WZN27.A429C66SYZ.A6VD9GXV7W" : {
+              "rateCode" : "K5ZM7QRHQB9WZN27.A429C66SYZ.A6VD9GXV7W",
+              "description" : "$0 for first 10,000 tasks, signals, timers and markers (free tier)",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Tasks,signals,markers,timers",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "7NWUP7BDWTVW5EE2", "8UJR5P24WK38TKX7", "HYPU6VPRJBM2YJCB", "9F6H6DXM366SRBH3", "Q8R99947T2S46TW3", "CAJ4CEYUR7EYF6XT", "D8TH2GKNUQ3BWACK", "4R58ZAQDXGCHXYA5", "TZT92GREA75EYBE6", "QGT5AY45E22BYEX8", "2T7ANXTSRCTAE8CN", "E5YFME9MC3NQPQBE", "3TZTJGB5CPMRAUQA", "NMAP7VEBBGF5AK2C", "WZ66RZ2M8QZMUR3N", "SGVWX66Q3VHYCQPK", "AWRQA6SAJP2TCVSB", "KPND3V4533PZMPYA", "Y34UAQP7KGKR8J4D", "GYQNEH9PVRQWCWV2", "6RU74KYY7RT4YSZR", "XVAZPXCEYSBDFWHZ", "T54WZ9X77JXFQT8F", "B5H6XAS8R9Q2WG6K", "DHEYW5VRUJ9HCD58", "YAJSRJBD6UHYY6PV", "8DJFGNZRKP2JG8A4", "A6YN3GAJB52X35KA", "SZMGRFHH5AWTW9HT", "ZM4K5TY7HZ6Y6DJK", "97JDUTHGKS457YSG", "5TWGNCFPPCNRD97Q", "U9JF2H3F2D66MRAX", "A67GKB7R3UMBTVGA" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "EFYQ2ZA82QUPFUUA" : {
+        "EFYQ2ZA82QUPFUUA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EFYQ2ZA82QUPFUUA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EFYQ2ZA82QUPFUUA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EFYQ2ZA82QUPFUUA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000005 per 24 hr period that a workflow execution is retained above the free tier",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Workflow-days",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E5KNPC8WWVTNWF96" : {
+        "E5KNPC8WWVTNWF96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E5KNPC8WWVTNWF96",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "E5KNPC8WWVTNWF96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E5KNPC8WWVTNWF96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000005 per 24 hr period that a workflow execution is open above the free tier",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Workflow-days",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M5K4H7RWRXH2XJSD" : {
+        "M5K4H7RWRXH2XJSD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M5K4H7RWRXH2XJSD",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M5K4H7RWRXH2XJSD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M5K4H7RWRXH2XJSD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001 per workflow execution above the free tier",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Workflow executions",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6RU74KYY7RT4YSZR" : {
+        "6RU74KYY7RT4YSZR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6RU74KYY7RT4YSZR",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "6RU74KYY7RT4YSZR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6RU74KYY7RT4YSZR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per task, signal, marker or timer above the free tier",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Tasks,signals,markers,timers",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5KETBYVYVJC78P29" : {
+        "5KETBYVYVJC78P29.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "5KETBYVYVJC78P29",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "5KETBYVYVJC78P29.A429C66SYZ.JXGPBPHWFF" : {
+              "rateCode" : "5KETBYVYVJC78P29.A429C66SYZ.JXGPBPHWFF",
+              "description" : "$0 for first 1,000 workflow executions (free tier)",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Workflow executions",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "X3YTCVP8H3HSTP8P", "66Y7Q2XYETAJXFDU", "ZDHWNHJJKQ4BDWKQ", "G8J9VXYBGSUQVMCB", "QRSN5NTC53ADYR5Q", "KWUTTKM8NAGY5VCN", "2RNNFP5E8BQASVN6", "UC6W3MHZFD79YK9C", "VV5Y95X2PEBTC39Z", "3KKWNS5MYVM9CJTD", "ZB8QTSR552MRYFHS", "WG3AWJTB6ZMS8CU8", "TZ7UB4PJ5NT7V3XD", "M5K4H7RWRXH2XJSD", "SSR6YMX8SGNT64F5", "5ZJ4M2F55UTUFNXY", "XWX9PMDR5ZGW8SWC", "X3W4B4Y3MZ4UXPX7", "K236HUR9H4YDQ9FT", "55VMZFX2KBBK86EA", "FQC4S5Z6H3X2TZSW", "JNGPDCAX966N8NY2", "C4X23EVHHB7MTE3K", "RCGJ58HPWTYTGDDZ", "TKKGWAHZ3S5YGHR4", "9W93GV3N8K5JDA9M", "GF8TSUHKYZUGUW7B", "DQF5YH69KCY9NCCV", "66Z7RPMKBD9MN27Q", "QWT35AJTVF9VFAFN", "UWBXGGTET8ACUNEA", "ANG8SA722W28ZECD", "5RKCNV4WC24AZAZ5", "J9K4WPZEBQ8NF94V" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

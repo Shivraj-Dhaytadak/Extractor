@@ -1,0 +1,196 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "translate",
+  "version" : "20230720005517",
+  "publicationDate" : "2023-07-20T00:55:17Z",
+  "products" : {
+    "D26MAGTVNQQDECAQ" : {
+      "sku" : "D26MAGTVNQQDECAQ",
+      "productFamily" : "Text Translation",
+      "attributes" : {
+        "servicecode" : "translate",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TextTranslationJob",
+        "operation" : "TextTranslationJob",
+        "inputMode" : "Text",
+        "outputMode" : "Text",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Translate"
+      }
+    },
+    "HKPD68QYBZC42XKJ" : {
+      "sku" : "HKPD68QYBZC42XKJ",
+      "productFamily" : "Text Translation",
+      "attributes" : {
+        "servicecode" : "translate",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TranslateDocument",
+        "operation" : "TranslateDocument",
+        "filetype" : "Basic",
+        "inputMode" : "Text",
+        "outputMode" : "Text",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Translate"
+      }
+    },
+    "V3YZ2MUYK8E672RC" : {
+      "sku" : "V3YZ2MUYK8E672RC",
+      "productFamily" : "Text Translation",
+      "attributes" : {
+        "servicecode" : "translate",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TranslateText",
+        "operation" : "TranslateText",
+        "inputMode" : "Text",
+        "outputMode" : "Text",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Translate"
+      }
+    },
+    "8598UBQWTQ6UVN3S" : {
+      "sku" : "8598UBQWTQ6UVN3S",
+      "productFamily" : "Text Translation",
+      "attributes" : {
+        "servicecode" : "translate",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActiveCustomTranslationJob",
+        "operation" : "ActiveCustomTranslationJob",
+        "inputMode" : "Text",
+        "outputMode" : "Text",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Translate"
+      }
+    },
+    "D4RQZ2PPJSGXFMN2" : {
+      "sku" : "D4RQZ2PPJSGXFMN2",
+      "productFamily" : "Text Translation",
+      "attributes" : {
+        "servicecode" : "translate",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TranslateDocument-Office",
+        "operation" : "TranslateDocument",
+        "filetype" : "Office",
+        "inputMode" : "Text",
+        "outputMode" : "Text",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Translate"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "D26MAGTVNQQDECAQ" : {
+        "D26MAGTVNQQDECAQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D26MAGTVNQQDECAQ",
+          "effectiveDate" : "2023-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "D26MAGTVNQQDECAQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D26MAGTVNQQDECAQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000015 per Character for TextTranslationJob:TextTranslationJob in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Character",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D4RQZ2PPJSGXFMN2" : {
+        "D4RQZ2PPJSGXFMN2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D4RQZ2PPJSGXFMN2",
+          "effectiveDate" : "2023-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "D4RQZ2PPJSGXFMN2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D4RQZ2PPJSGXFMN2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000030 per Character for TranslateDocument:TranslateDocument in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Character",
+              "pricePerUnit" : {
+                "USD" : "0.0000300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HKPD68QYBZC42XKJ" : {
+        "HKPD68QYBZC42XKJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HKPD68QYBZC42XKJ",
+          "effectiveDate" : "2023-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "HKPD68QYBZC42XKJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HKPD68QYBZC42XKJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000015 per Character for TranslateDocument:TranslateDocument in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Character",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3YZ2MUYK8E672RC" : {
+        "V3YZ2MUYK8E672RC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3YZ2MUYK8E672RC",
+          "effectiveDate" : "2023-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3YZ2MUYK8E672RC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3YZ2MUYK8E672RC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Processed translation request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Character",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8598UBQWTQ6UVN3S" : {
+        "8598UBQWTQ6UVN3S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8598UBQWTQ6UVN3S",
+          "effectiveDate" : "2023-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "8598UBQWTQ6UVN3S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8598UBQWTQ6UVN3S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00006 per Character for ActiveCustomTranslationJob:ActiveCustomTranslationJob in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Character",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

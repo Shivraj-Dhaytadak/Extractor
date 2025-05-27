@@ -1,0 +1,639 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "IoTTwinMaker",
+  "version" : "20231018161701",
+  "publicationDate" : "2023-10-18T16:17:01Z",
+  "products" : {
+    "WPE4B8CNBR99JZSP" : {
+      "sku" : "WPE4B8CNBR99JZSP",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Entity",
+        "usagetype" : "USE1-IoTTwinMaker-Entities",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker"
+      }
+    },
+    "5MF3487S8UJB7HPA" : {
+      "sku" : "5MF3487S8UJB7HPA",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoT TwinMaker Unified Data Access",
+        "usagetype" : "USE1-IoTTwinMaker-UnifiedDataAccess",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker"
+      }
+    },
+    "J4P2BMTV7A65CWU2" : {
+      "sku" : "J4P2BMTV7A65CWU2",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Queries",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier4-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier4"
+      }
+    },
+    "D3GVWTWBJ349Y4YD" : {
+      "sku" : "D3GVWTWBJ349Y4YD",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Queries",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier1-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier1"
+      }
+    },
+    "V3TD5VG3W9YSKCZP" : {
+      "sku" : "V3TD5VG3W9YSKCZP",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Queries",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier3-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier3"
+      }
+    },
+    "Y9HQ7JSFPN3ZPGPD" : {
+      "sku" : "Y9HQ7JSFPN3ZPGPD",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Entity",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier1-Entities",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier1"
+      }
+    },
+    "WKR95C8TE5J6B7NS" : {
+      "sku" : "WKR95C8TE5J6B7NS",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoT TwinMaker Unified Data Access",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier4-UnifiedDataAccess",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier4"
+      }
+    },
+    "RPESWHBBJCK79DY9" : {
+      "sku" : "RPESWHBBJCK79DY9",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoT TwinMaker Unified Data Access",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier2-UnifiedDataAccess",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier2"
+      }
+    },
+    "BBQSYZNQQP3Y9QH9" : {
+      "sku" : "BBQSYZNQQP3Y9QH9",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoT TwinMaker Unified Data Access",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier1-UnifiedDataAccess",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier1"
+      }
+    },
+    "47QDBYB5A67N2T3T" : {
+      "sku" : "47QDBYB5A67N2T3T",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Entity",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier3-Entities",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier3"
+      }
+    },
+    "V6TMF7Z9BK3U3TUZ" : {
+      "sku" : "V6TMF7Z9BK3U3TUZ",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "IoT TwinMaker Unified Data Access",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier3-UnifiedDataAccess",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier3"
+      }
+    },
+    "F55BP253U225YEG9" : {
+      "sku" : "F55BP253U225YEG9",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Entity",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier4-Entities",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier4"
+      }
+    },
+    "MAXSAVVVTCX9SJV6" : {
+      "sku" : "MAXSAVVVTCX9SJV6",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Entity",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier2-Entities",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier2"
+      }
+    },
+    "ZHV3BGGWN39F5PS6" : {
+      "sku" : "ZHV3BGGWN39F5PS6",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Queries",
+        "usagetype" : "USE1-IoTTwinMaker-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker"
+      }
+    },
+    "GA6TWVEUFVRQ9ES8" : {
+      "sku" : "GA6TWVEUFVRQ9ES8",
+      "productFamily" : "AWSIoTTwinMaker",
+      "attributes" : {
+        "servicecode" : "IoTTwinMaker",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Queries",
+        "usagetype" : "USE1-IoTTwinMaker-BaseTier2-Queries",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT TwinMaker",
+        "tiers" : "Tier2"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "ZHV3BGGWN39F5PS6" : {
+        "ZHV3BGGWN39F5PS6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZHV3BGGWN39F5PS6",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZHV3BGGWN39F5PS6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZHV3BGGWN39F5PS6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5MF3487S8UJB7HPA" : {
+        "5MF3487S8UJB7HPA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5MF3487S8UJB7HPA",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "5MF3487S8UJB7HPA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5MF3487S8UJB7HPA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J4P2BMTV7A65CWU2" : {
+        "J4P2BMTV7A65CWU2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J4P2BMTV7A65CWU2",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "J4P2BMTV7A65CWU2.JRTCKXETXF.RTHK7YAMRB" : {
+              "rateCode" : "J4P2BMTV7A65CWU2.JRTCKXETXF.RTHK7YAMRB",
+              "description" : "24 million Queries executed for IoTTwinMaker-Queries included in bundle Tier4 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "24000000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "J4P2BMTV7A65CWU2.JRTCKXETXF.RPF7QFPVRK" : {
+              "rateCode" : "J4P2BMTV7A65CWU2.JRTCKXETXF.RPF7QFPVRK",
+              "description" : "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+              "beginRange" : "24000000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WKR95C8TE5J6B7NS" : {
+        "WKR95C8TE5J6B7NS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WKR95C8TE5J6B7NS",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "WKR95C8TE5J6B7NS.JRTCKXETXF.YVW5GKSDQR" : {
+              "rateCode" : "WKR95C8TE5J6B7NS.JRTCKXETXF.YVW5GKSDQR",
+              "description" : "160 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier4 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "160000000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "WKR95C8TE5J6B7NS.JRTCKXETXF.P732QGRMK3" : {
+              "rateCode" : "WKR95C8TE5J6B7NS.JRTCKXETXF.P732QGRMK3",
+              "description" : "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+              "beginRange" : "160000000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F55BP253U225YEG9" : {
+        "F55BP253U225YEG9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F55BP253U225YEG9",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "F55BP253U225YEG9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F55BP253U225YEG9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1950 per month for IoTTwinMaker bundle Tier4 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "1950.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WPE4B8CNBR99JZSP" : {
+        "WPE4B8CNBR99JZSP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WPE4B8CNBR99JZSP",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "WPE4B8CNBR99JZSP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WPE4B8CNBR99JZSP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per entity per month for IoTTwinMaker-Entities in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MAXSAVVVTCX9SJV6" : {
+        "MAXSAVVVTCX9SJV6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MAXSAVVVTCX9SJV6",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "MAXSAVVVTCX9SJV6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MAXSAVVVTCX9SJV6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$650 per month for IoTTwinMaker bundle Tier2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "650.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GA6TWVEUFVRQ9ES8" : {
+        "GA6TWVEUFVRQ9ES8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GA6TWVEUFVRQ9ES8",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "GA6TWVEUFVRQ9ES8.JRTCKXETXF.64R3BK7YF2" : {
+              "rateCode" : "GA6TWVEUFVRQ9ES8.JRTCKXETXF.64R3BK7YF2",
+              "description" : "9 million Queries executed for IoTTwinMaker-Queries included in bundle Tier2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "9000000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GA6TWVEUFVRQ9ES8.JRTCKXETXF.3ER7GDFHNP" : {
+              "rateCode" : "GA6TWVEUFVRQ9ES8.JRTCKXETXF.3ER7GDFHNP",
+              "description" : "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+              "beginRange" : "9000000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y9HQ7JSFPN3ZPGPD" : {
+        "Y9HQ7JSFPN3ZPGPD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y9HQ7JSFPN3ZPGPD",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y9HQ7JSFPN3ZPGPD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y9HQ7JSFPN3ZPGPD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$220 per month for IoTTwinMaker bundle Tier1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "220.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "47QDBYB5A67N2T3T" : {
+        "47QDBYB5A67N2T3T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "47QDBYB5A67N2T3T",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "47QDBYB5A67N2T3T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "47QDBYB5A67N2T3T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1100 per month for IoTTwinMaker bundle Tier3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "1100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BBQSYZNQQP3Y9QH9" : {
+        "BBQSYZNQQP3Y9QH9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BBQSYZNQQP3Y9QH9",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "BBQSYZNQQP3Y9QH9.JRTCKXETXF.JGMPDZ6XDN" : {
+              "rateCode" : "BBQSYZNQQP3Y9QH9.JRTCKXETXF.JGMPDZ6XDN",
+              "description" : "25 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "25000000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "BBQSYZNQQP3Y9QH9.JRTCKXETXF.YZ8GSG8HAE" : {
+              "rateCode" : "BBQSYZNQQP3Y9QH9.JRTCKXETXF.YZ8GSG8HAE",
+              "description" : "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+              "beginRange" : "25000000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6TMF7Z9BK3U3TUZ" : {
+        "V6TMF7Z9BK3U3TUZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6TMF7Z9BK3U3TUZ",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6TMF7Z9BK3U3TUZ.JRTCKXETXF.6AJBPD7BF2" : {
+              "rateCode" : "V6TMF7Z9BK3U3TUZ.JRTCKXETXF.6AJBPD7BF2",
+              "description" : "95 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "95000000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V6TMF7Z9BK3U3TUZ.JRTCKXETXF.95MU8MEFEQ" : {
+              "rateCode" : "V6TMF7Z9BK3U3TUZ.JRTCKXETXF.95MU8MEFEQ",
+              "description" : "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+              "beginRange" : "95000000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RPESWHBBJCK79DY9" : {
+        "RPESWHBBJCK79DY9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RPESWHBBJCK79DY9",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "RPESWHBBJCK79DY9.JRTCKXETXF.5TBGNY4DHA" : {
+              "rateCode" : "RPESWHBBJCK79DY9.JRTCKXETXF.5TBGNY4DHA",
+              "description" : "60 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier2 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "60000000",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RPESWHBBJCK79DY9.JRTCKXETXF.D2VQG4WZUB" : {
+              "rateCode" : "RPESWHBBJCK79DY9.JRTCKXETXF.D2VQG4WZUB",
+              "description" : "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+              "beginRange" : "60000000",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D3GVWTWBJ349Y4YD" : {
+        "D3GVWTWBJ349Y4YD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D3GVWTWBJ349Y4YD",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "D3GVWTWBJ349Y4YD.JRTCKXETXF.4348NHS3VR" : {
+              "rateCode" : "D3GVWTWBJ349Y4YD.JRTCKXETXF.4348NHS3VR",
+              "description" : "3.8 million Queries executed for IoTTwinMaker-Queries included in bundle Tier1 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "3800000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "D3GVWTWBJ349Y4YD.JRTCKXETXF.QC7XAXBXB9" : {
+              "rateCode" : "D3GVWTWBJ349Y4YD.JRTCKXETXF.QC7XAXBXB9",
+              "description" : "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+              "beginRange" : "3800000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3TD5VG3W9YSKCZP" : {
+        "V3TD5VG3W9YSKCZP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3TD5VG3W9YSKCZP",
+          "effectiveDate" : "2023-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3TD5VG3W9YSKCZP.JRTCKXETXF.RWABBEAG3U" : {
+              "rateCode" : "V3TD5VG3W9YSKCZP.JRTCKXETXF.RWABBEAG3U",
+              "description" : "14.3 million Queries executed for IoTTwinMaker-Queries included in bundle Tier3 in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "14300000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "V3TD5VG3W9YSKCZP.JRTCKXETXF.4386YHGGU8" : {
+              "rateCode" : "V3TD5VG3W9YSKCZP.JRTCKXETXF.4386YHGGU8",
+              "description" : "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+              "beginRange" : "14300000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

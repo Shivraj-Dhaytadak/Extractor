@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIoTThingsGraph",
+  "version" : "20230110161506",
+  "publicationDate" : "2023-01-10T16:15:06Z",
+  "products" : {
+    "9DGPYQ9FCZV6WA5F" : {
+      "sku" : "9DGPYQ9FCZV6WA5F",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoTThingsGraph",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Steps Executed",
+        "usagetype" : "USE1-Cloud-Workflows",
+        "operation" : "StepExecuted",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Things Graph"
+      }
+    },
+    "BV7778V3NQCCYHDM" : {
+      "sku" : "BV7778V3NQCCYHDM",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoTThingsGraph",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Deployments",
+        "usagetype" : "USE1-Edge-Deployment",
+        "operation" : "Deployment",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Things Graph"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BV7778V3NQCCYHDM" : {
+        "BV7778V3NQCCYHDM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BV7778V3NQCCYHDM",
+          "effectiveDate" : "2019-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BV7778V3NQCCYHDM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BV7778V3NQCCYHDM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0095 per flow deployed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Deployments",
+              "pricePerUnit" : {
+                "USD" : "0.0095000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9DGPYQ9FCZV6WA5F" : {
+        "9DGPYQ9FCZV6WA5F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9DGPYQ9FCZV6WA5F",
+          "effectiveDate" : "2019-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9DGPYQ9FCZV6WA5F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9DGPYQ9FCZV6WA5F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000045 per StepExecuted after free tier US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Steps",
+              "pricePerUnit" : {
+                "USD" : "0.0000450000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

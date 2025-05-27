@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonECR",
+  "version" : "20250314191444",
+  "publicationDate" : "2025-03-14T19:14:44Z",
+  "products" : {
+    "KJC988R4J65BDMTQ" : {
+      "sku" : "KJC988R4J65BDMTQ",
+      "productFamily" : "EC2 Container Registry",
+      "attributes" : {
+        "servicecode" : "AmazonECR",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon EC2 Container Registry (ECR)",
+        "storageType" : "S3"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "KJC988R4J65BDMTQ" : {
+        "KJC988R4J65BDMTQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJC988R4J65BDMTQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJC988R4J65BDMTQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJC988R4J65BDMTQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-month of data storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

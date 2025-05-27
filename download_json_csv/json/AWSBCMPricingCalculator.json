@@ -1,0 +1,86 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSBCMPricingCalculator",
+  "version" : "20241125150720",
+  "publicationDate" : "2024-11-25T15:07:20Z",
+  "products" : {
+    "85K95Z9RQYR93HGQ" : {
+      "sku" : "85K95Z9RQYR93HGQ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSBCMPricingCalculator",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-BillEstimate",
+        "operation" : "CreateBillEstimate",
+        "estimateType" : "Bill Estimate",
+        "regionCode" : "",
+        "servicename" : "AWS Pricing Calculator"
+      }
+    },
+    "NWWVTUHSYMVRCWZP" : {
+      "sku" : "NWWVTUHSYMVRCWZP",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSBCMPricingCalculator",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BillEstimate",
+        "operation" : "CreateBillEstimate",
+        "estimateType" : "Bill Estimate",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Pricing Calculator"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "NWWVTUHSYMVRCWZP" : {
+        "NWWVTUHSYMVRCWZP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NWWVTUHSYMVRCWZP",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "NWWVTUHSYMVRCWZP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NWWVTUHSYMVRCWZP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.00 per CreateBillEstimate API operation",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Estimate",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "85K95Z9RQYR93HGQ" : {
+        "85K95Z9RQYR93HGQ.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "85K95Z9RQYR93HGQ",
+          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "85K95Z9RQYR93HGQ.A429C66SYZ.V7GB4D473V" : {
+              "rateCode" : "85K95Z9RQYR93HGQ.A429C66SYZ.V7GB4D473V",
+              "description" : "$0.00 per CreateBillEstimate API operation",
+              "beginRange" : "0",
+              "endRange" : "5",
+              "unit" : "Estimate",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "NWWVTUHSYMVRCWZP" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

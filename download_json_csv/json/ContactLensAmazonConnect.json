@@ -1,0 +1,173 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "ContactLensAmazonConnect",
+  "version" : "20250409215007",
+  "publicationDate" : "2025-04-09T21:50:07Z",
+  "products" : {
+    "98NZF4MREG9GX62S" : {
+      "sku" : "98NZF4MREG9GX62S",
+      "productFamily" : "Business Analytics",
+      "attributes" : {
+        "servicecode" : "ContactLensAmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-VoiceAnalytics",
+        "operation" : "VoiceAnalytics",
+        "analyticsMode" : "Batch",
+        "analyticsType" : "Voice",
+        "maxpackage" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Contact Lens for Amazon Connect"
+      }
+    },
+    "64RSKHZJPNGBYM25" : {
+      "sku" : "64RSKHZJPNGBYM25",
+      "productFamily" : "Business Analytics",
+      "attributes" : {
+        "servicecode" : "ContactLensAmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ChatAnalytics",
+        "operation" : "ChatAnalytics",
+        "analyticsMode" : "Batch",
+        "analyticsType" : "Chat",
+        "maxpackage" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Contact Lens for Amazon Connect"
+      }
+    },
+    "V8UNG7NGU69RUD9X" : {
+      "sku" : "V8UNG7NGU69RUD9X",
+      "productFamily" : "Business Analytics",
+      "attributes" : {
+        "servicecode" : "ContactLensAmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-VoiceAnalytics",
+        "operation" : "ai-VoiceAnalytics",
+        "analyticsMode" : "Batch",
+        "analyticsType" : "Voice",
+        "maxpackage" : "Max",
+        "regionCode" : "us-east-1",
+        "servicename" : "Contact Lens for Amazon Connect"
+      }
+    },
+    "QV6KKUJU6E6P5QXE" : {
+      "sku" : "QV6KKUJU6E6P5QXE",
+      "productFamily" : "Business Analytics",
+      "attributes" : {
+        "servicecode" : "ContactLensAmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-ChatAnalytics",
+        "operation" : "ai-ChatAnalytics",
+        "analyticsMode" : "Batch",
+        "analyticsType" : "Chat",
+        "maxpackage" : "Max",
+        "regionCode" : "us-east-1",
+        "servicename" : "Contact Lens for Amazon Connect"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "V8UNG7NGU69RUD9X" : {
+        "V8UNG7NGU69RUD9X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V8UNG7NGU69RUD9X",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "V8UNG7NGU69RUD9X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V8UNG7NGU69RUD9X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Contact Lens for Speech",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minute",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "64RSKHZJPNGBYM25" : {
+        "64RSKHZJPNGBYM25.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "64RSKHZJPNGBYM25",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "64RSKHZJPNGBYM25.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "64RSKHZJPNGBYM25.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0015 per message for ChatAnalytics in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "message",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "98NZF4MREG9GX62S" : {
+        "98NZF4MREG9GX62S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "98NZF4MREG9GX62S",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "98NZF4MREG9GX62S.JRTCKXETXF.4GGFUHBAHK" : {
+              "rateCode" : "98NZF4MREG9GX62S.JRTCKXETXF.4GGFUHBAHK",
+              "description" : "$0.015 per minute for initial 5 million minutes for VoiceAnalytics in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "5000000",
+              "unit" : "minute",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "98NZF4MREG9GX62S.JRTCKXETXF.XCXBHCFFQ2" : {
+              "rateCode" : "98NZF4MREG9GX62S.JRTCKXETXF.XCXBHCFFQ2",
+              "description" : "$0.0125 per minute after initial 5 million minutes for VoiceAnalytics in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "Inf",
+              "unit" : "minute",
+              "pricePerUnit" : {
+                "USD" : "0.0125000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QV6KKUJU6E6P5QXE" : {
+        "QV6KKUJU6E6P5QXE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QV6KKUJU6E6P5QXE",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "QV6KKUJU6E6P5QXE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QV6KKUJU6E6P5QXE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Contact Lens for Chat",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "message",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

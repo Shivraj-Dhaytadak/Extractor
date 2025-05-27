@@ -1,0 +1,174 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "IoTDeviceDefender",
+  "version" : "20230405234028",
+  "publicationDate" : "2023-04-05T23:40:28Z",
+  "products" : {
+    "3EVBK8DT57BRHUNQ" : {
+      "sku" : "3EVBK8DT57BRHUNQ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "IoTDeviceDefender",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Detect",
+        "operation" : "",
+        "feature" : "Detect",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Defender"
+      }
+    },
+    "8QFC6CQ7KM3TREPU" : {
+      "sku" : "8QFC6CQ7KM3TREPU",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "IoTDeviceDefender",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Audit",
+        "operation" : "",
+        "feature" : "Audit",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Defender"
+      }
+    },
+    "UV6H83D5JU587M3T" : {
+      "sku" : "UV6H83D5JU587M3T",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "IoTDeviceDefender",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ML-Detect",
+        "operation" : "",
+        "feature" : "ML Detect",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT Device Defender"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "UV6H83D5JU587M3T" : {
+        "UV6H83D5JU587M3T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UV6H83D5JU587M3T",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "UV6H83D5JU587M3T.JRTCKXETXF.M5FV5V3JHA" : {
+              "rateCode" : "UV6H83D5JU587M3T.JRTCKXETXF.M5FV5V3JHA",
+              "description" : "$2.00 per one hundred thousand metric datapoints",
+              "beginRange" : "0",
+              "endRange" : "300000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UV6H83D5JU587M3T.JRTCKXETXF.WEZKRGUN5F" : {
+              "rateCode" : "UV6H83D5JU587M3T.JRTCKXETXF.WEZKRGUN5F",
+              "description" : "$0.75 per one hundred thousand metric datapoints",
+              "beginRange" : "300000",
+              "endRange" : "10000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000075000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UV6H83D5JU587M3T.JRTCKXETXF.RTKVR6ZK95" : {
+              "rateCode" : "UV6H83D5JU587M3T.JRTCKXETXF.RTKVR6ZK95",
+              "description" : "$0.15 per one hundred thousand metric datapoints",
+              "beginRange" : "10000000",
+              "endRange" : "100000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UV6H83D5JU587M3T.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "UV6H83D5JU587M3T.JRTCKXETXF.F83EQNDM5J",
+              "description" : "$0.10 per one hundred thousand metric datapoints",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8QFC6CQ7KM3TREPU" : {
+        "8QFC6CQ7KM3TREPU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8QFC6CQ7KM3TREPU",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "8QFC6CQ7KM3TREPU.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "8QFC6CQ7KM3TREPU.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$1.10 per thousand devices",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "0.0011000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8QFC6CQ7KM3TREPU.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "8QFC6CQ7KM3TREPU.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "$1.00 per thousand devices",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3EVBK8DT57BRHUNQ" : {
+        "3EVBK8DT57BRHUNQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3EVBK8DT57BRHUNQ",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3EVBK8DT57BRHUNQ.JRTCKXETXF.BZNXGJP27R" : {
+              "rateCode" : "3EVBK8DT57BRHUNQ.JRTCKXETXF.BZNXGJP27R",
+              "description" : "$0.25 per million metric datapoints",
+              "beginRange" : "0",
+              "endRange" : "10000000000",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000002500"
+              },
+              "appliesTo" : [ ]
+            },
+            "3EVBK8DT57BRHUNQ.JRTCKXETXF.P5T423F3Q5" : {
+              "rateCode" : "3EVBK8DT57BRHUNQ.JRTCKXETXF.P5T423F3Q5",
+              "description" : "$0.20 per million metric datapoints",
+              "beginRange" : "10000000000",
+              "endRange" : "Inf",
+              "unit" : "Metric Datapoints",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

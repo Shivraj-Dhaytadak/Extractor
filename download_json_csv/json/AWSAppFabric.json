@@ -1,0 +1,119 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSAppFabric",
+  "version" : "20230627141203",
+  "publicationDate" : "2023-06-27T14:12:03Z",
+  "products" : {
+    "XW5UF23XYEZSFC5S" : {
+      "sku" : "XW5UF23XYEZSFC5S",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AWSAppFabric",
+        "description" : "Free Trial",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeTrialUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppFabric"
+      }
+    },
+    "3A2ATN7E2A4V2CZG" : {
+      "sku" : "3A2ATN7E2A4V2CZG",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AWSAppFabric",
+        "description" : "Standard User",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StandardUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppFabric"
+      }
+    },
+    "NF4KSRDZSG8ST44F" : {
+      "sku" : "NF4KSRDZSG8ST44F",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AWSAppFabric",
+        "description" : "Additional App per User",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AdditionalAppUser",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS AppFabric"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "3A2ATN7E2A4V2CZG" : {
+        "3A2ATN7E2A4V2CZG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3A2ATN7E2A4V2CZG",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "3A2ATN7E2A4V2CZG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3A2ATN7E2A4V2CZG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3 per User per Month up to 30 apps (StandardUser) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NF4KSRDZSG8ST44F" : {
+        "NF4KSRDZSG8ST44F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NF4KSRDZSG8ST44F",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "NF4KSRDZSG8ST44F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NF4KSRDZSG8ST44F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per App per User per Month above 30 apps (AdditionalAppUser) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UserApp-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XW5UF23XYEZSFC5S" : {
+        "XW5UF23XYEZSFC5S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XW5UF23XYEZSFC5S",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XW5UF23XYEZSFC5S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XW5UF23XYEZSFC5S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per User up to 100 users for 30 days (FreeTrialUser) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "User-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

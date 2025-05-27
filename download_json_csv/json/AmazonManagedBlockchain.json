@@ -1,0 +1,1698 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonManagedBlockchain",
+  "version" : "20240319172241",
+  "publicationDate" : "2024-03-19T17:22:41Z",
+  "products" : {
+    "UW9ZAA2BJSRZGC4N" : {
+      "sku" : "UW9ZAA2BJSRZGC4N",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.xlarge",
+        "usagetype" : "USE1-Node:bc.t3.xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "E7DFRPMKVPGK5CRB" : {
+      "sku" : "E7DFRPMKVPGK5CRB",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.xlarge",
+        "usagetype" : "USE1-Node:bc.t3.xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "TCESZ2VRDTJSFVPF" : {
+      "sku" : "TCESZ2VRDTJSFVPF",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-M",
+        "operation" : "Public-Ethereum-Mainnet",
+        "frameworkType" : "Ethereum-Mainnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "M"
+      }
+    },
+    "7BRNGUCXTKGCGQR4" : {
+      "sku" : "7BRNGUCXTKGCGQR4",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-XS",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XS"
+      }
+    },
+    "NV6C2NA4RZB5ECSA" : {
+      "sku" : "NV6C2NA4RZB5ECSA",
+      "productFamily" : "Blockchain Member",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Member",
+        "operation" : "Fabric:Starter",
+        "frameworkType" : "Hyperledger Fabric - Starter",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "93ZBD26GHE6CMUTK" : {
+      "sku" : "93ZBD26GHE6CMUTK",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.large",
+        "usagetype" : "USE1-Node:bc.c5.large",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "2MDPQGXKE2P2T8YG" : {
+      "sku" : "2MDPQGXKE2P2T8YG",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-XL",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XL"
+      }
+    },
+    "TTF9YRP64VF7U5TV" : {
+      "sku" : "TTF9YRP64VF7U5TV",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-S",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "S"
+      }
+    },
+    "WB53CAPMNDKKHZ78" : {
+      "sku" : "WB53CAPMNDKKHZ78",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-XL",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XL"
+      }
+    },
+    "MR6GN6FMVDESE2ZN" : {
+      "sku" : "MR6GN6FMVDESE2ZN",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.small",
+        "usagetype" : "USE1-Node:bc.t3.small",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "JSG47H6YXDWMT77R" : {
+      "sku" : "JSG47H6YXDWMT77R",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-M",
+        "operation" : "Public-Ethereum-Sepolia-Testnet",
+        "frameworkType" : "Ethereum-Sepolia-Testnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "M"
+      }
+    },
+    "5NJRAWXX4GJTUD7B" : {
+      "sku" : "5NJRAWXX4GJTUD7B",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.4xlarge",
+        "usagetype" : "USE1-Node:bc.c5.4xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "ZYUUZV7NCG3FCHEP" : {
+      "sku" : "ZYUUZV7NCG3FCHEP",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-S",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "S"
+      }
+    },
+    "867X8NA7XJUSE3V2" : {
+      "sku" : "867X8NA7XJUSE3V2",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-M",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "M"
+      }
+    },
+    "UXABKTUQH9YZBERB" : {
+      "sku" : "UXABKTUQH9YZBERB",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.large",
+        "usagetype" : "USE1-Node:bc.t3.large",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "8RJ376776NTZMXW7" : {
+      "sku" : "8RJ376776NTZMXW7",
+      "productFamily" : "Blockchain Member",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Member",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "BVW8SACRE2VNVQ3Q" : {
+      "sku" : "BVW8SACRE2VNVQ3Q",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.xlarge",
+        "usagetype" : "USE1-Node:bc.c5.xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "YM3QN88ARXM7PFUG" : {
+      "sku" : "YM3QN88ARXM7PFUG",
+      "productFamily" : "Blockchain Node Storage",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Node-Storage",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "ND2DSQRB7JCX3D6E" : {
+      "sku" : "ND2DSQRB7JCX3D6E",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Request",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "W7FQUYK3N6V5XV4X" : {
+      "sku" : "W7FQUYK3N6V5XV4X",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-M",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "M"
+      }
+    },
+    "THVJ3V8K3PV43T9X" : {
+      "sku" : "THVJ3V8K3PV43T9X",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.large",
+        "usagetype" : "USE1-Node:bc.m5.large",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "WQNWXY969ASCGJ7U" : {
+      "sku" : "WQNWXY969ASCGJ7U",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.medium",
+        "usagetype" : "USE1-Node:bc.t3.medium",
+        "operation" : "Fabric:Starter",
+        "frameworkType" : "Hyperledger Fabric - Starter",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "KR4BTMGB4R7ZQWMU" : {
+      "sku" : "KR4BTMGB4R7ZQWMU",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.xlarge",
+        "usagetype" : "USE1-Node:bc.m5.xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "WUCHCZRWPAFAGNC2" : {
+      "sku" : "WUCHCZRWPAFAGNC2",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.large",
+        "usagetype" : "USE1-Node:bc.m5.large",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "96P3D2P84P8K8V6J" : {
+      "sku" : "96P3D2P84P8K8V6J",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.xlarge",
+        "usagetype" : "USE1-Node:bc.m5.xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "HX449J37V3EH3A37" : {
+      "sku" : "HX449J37V3EH3A37",
+      "productFamily" : "Blockchain Data Written",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Data-Written-To-Network",
+        "operation" : "Fabric:Starter",
+        "frameworkType" : "Hyperledger Fabric - Starter",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "VJFFPN8M82RFKVR5" : {
+      "sku" : "VJFFPN8M82RFKVR5",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.xlarge",
+        "usagetype" : "USE1-Node:bc.c5.xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "DPARQ5UYPDF45CZF" : {
+      "sku" : "DPARQ5UYPDF45CZF",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-L",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "L"
+      }
+    },
+    "MRS9VB6RAGSJRFXA" : {
+      "sku" : "MRS9VB6RAGSJRFXA",
+      "productFamily" : "Blockchain Node Storage",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Node-Storage",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "EMA6ZM3RZ8SGBRGM" : {
+      "sku" : "EMA6ZM3RZ8SGBRGM",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-L",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "L"
+      }
+    },
+    "DZ962ADNAG2ATF3S" : {
+      "sku" : "DZ962ADNAG2ATF3S",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.2xlarge",
+        "usagetype" : "USE1-Node:bc.c5.2xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "AQ6ZSEHBE9QGK7KN" : {
+      "sku" : "AQ6ZSEHBE9QGK7KN",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-S",
+        "operation" : "Public-Ethereum-Sepolia-Testnet",
+        "frameworkType" : "Ethereum-Sepolia-Testnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "S"
+      }
+    },
+    "MVWY3CH5CAWB55G9" : {
+      "sku" : "MVWY3CH5CAWB55G9",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.2xlarge",
+        "usagetype" : "USE1-Node:bc.m5.2xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "7N3SRDFJT2GFU9R3" : {
+      "sku" : "7N3SRDFJT2GFU9R3",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.2xlarge",
+        "usagetype" : "USE1-Node:bc.c5.2xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "VFZBSYM8EBBEFZTF" : {
+      "sku" : "VFZBSYM8EBBEFZTF",
+      "productFamily" : "Blockchain Data Written",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Data-Written-To-Network",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "V6Z9A7CQCEW8TKTN" : {
+      "sku" : "V6Z9A7CQCEW8TKTN",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.2xlarge",
+        "usagetype" : "USE1-Node:bc.m5.2xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "SKVKW2PV439T85CC" : {
+      "sku" : "SKVKW2PV439T85CC",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-XL",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XL"
+      }
+    },
+    "9QH4TJ5YPYK55KB7" : {
+      "sku" : "9QH4TJ5YPYK55KB7",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Query-Public-S",
+        "operation" : "Public-Ethereum-Mainnet",
+        "frameworkType" : "Ethereum-Mainnet-Query",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "S"
+      }
+    },
+    "YUPG28P88GY83GGN" : {
+      "sku" : "YUPG28P88GY83GGN",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.large",
+        "usagetype" : "USE1-Node:bc.t3.large",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "RUASU7KN8DJZS3V4" : {
+      "sku" : "RUASU7KN8DJZS3V4",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-XL",
+        "operation" : "Public-Bitcoin-Mainnet",
+        "frameworkType" : "Bitcoin-Mainnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XL"
+      }
+    },
+    "J7GWMXK2A4PGEXR8" : {
+      "sku" : "J7GWMXK2A4PGEXR8",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.4xlarge",
+        "usagetype" : "USE1-Node:bc.m5.4xlarge",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "ZRD6VJ9W9CHQJBEF" : {
+      "sku" : "ZRD6VJ9W9CHQJBEF",
+      "productFamily" : "Blockchain Node Storage",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Node-Storage",
+        "operation" : "Fabric:Starter",
+        "frameworkType" : "Hyperledger Fabric - Starter",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "JKYCWGX55JTS7W8U" : {
+      "sku" : "JKYCWGX55JTS7W8U",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.small",
+        "usagetype" : "USE1-Node:bc.t3.small",
+        "operation" : "Fabric:Starter",
+        "frameworkType" : "Hyperledger Fabric - Starter",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "KJCBH8NXBADZEJK2" : {
+      "sku" : "KJCBH8NXBADZEJK2",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.m5.4xlarge",
+        "usagetype" : "USE1-Node:bc.m5.4xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "X2NVQYP5BH57H66Y" : {
+      "sku" : "X2NVQYP5BH57H66Y",
+      "productFamily" : "Blockchain Request",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Access-Public-XS",
+        "operation" : "Public-Bitcoin-Testnet",
+        "frameworkType" : "Bitcoin-Testnet-Access",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain",
+        "size" : "XS"
+      }
+    },
+    "W6E9QVV747UMHNTB" : {
+      "sku" : "W6E9QVV747UMHNTB",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.c5.4xlarge",
+        "usagetype" : "USE1-Node:bc.c5.4xlarge",
+        "operation" : "Ethereum:Public",
+        "frameworkType" : "Ethereum - Public",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    },
+    "7UMWQHGZB6EEPDDY" : {
+      "sku" : "7UMWQHGZB6EEPDDY",
+      "productFamily" : "Blockchain Instance",
+      "attributes" : {
+        "servicecode" : "AmazonManagedBlockchain",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "bc.t3.medium",
+        "usagetype" : "USE1-Node:bc.t3.medium",
+        "operation" : "Fabric:Standard",
+        "frameworkType" : "Hyperledger Fabric - Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Blockchain"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "SKVKW2PV439T85CC" : {
+        "SKVKW2PV439T85CC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SKVKW2PV439T85CC",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "SKVKW2PV439T85CC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SKVKW2PV439T85CC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per Request for Query-Public-XL:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJFFPN8M82RFKVR5" : {
+        "VJFFPN8M82RFKVR5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJFFPN8M82RFKVR5",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJFFPN8M82RFKVR5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJFFPN8M82RFKVR5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.272 per hour for Hyperledger Fabric - Standard Edition bc.c5.xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2720000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WB53CAPMNDKKHZ78" : {
+        "WB53CAPMNDKKHZ78.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WB53CAPMNDKKHZ78",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WB53CAPMNDKKHZ78.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WB53CAPMNDKKHZ78.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per Request for Access-Public-XL:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7UMWQHGZB6EEPDDY" : {
+        "7UMWQHGZB6EEPDDY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7UMWQHGZB6EEPDDY",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "7UMWQHGZB6EEPDDY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7UMWQHGZB6EEPDDY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.067 per hour for Hyperledger Fabric - Standard Edition bc.t3.medium node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9QH4TJ5YPYK55KB7" : {
+        "9QH4TJ5YPYK55KB7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9QH4TJ5YPYK55KB7",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "9QH4TJ5YPYK55KB7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9QH4TJ5YPYK55KB7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000007 per Request for Query-Public-S:Public-Ethereum-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000070000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MR6GN6FMVDESE2ZN" : {
+        "MR6GN6FMVDESE2ZN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MR6GN6FMVDESE2ZN",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MR6GN6FMVDESE2ZN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MR6GN6FMVDESE2ZN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.034 per hour for Hyperledger Fabric - Standard Edition bc.t3.small node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JKYCWGX55JTS7W8U" : {
+        "JKYCWGX55JTS7W8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JKYCWGX55JTS7W8U",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JKYCWGX55JTS7W8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JKYCWGX55JTS7W8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.034 per hour for Hyperledger Fabric - Starter Edition bc.t3.small node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "THVJ3V8K3PV43T9X" : {
+        "THVJ3V8K3PV43T9X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "THVJ3V8K3PV43T9X",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "THVJ3V8K3PV43T9X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "THVJ3V8K3PV43T9X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.154 per hour for Hyperledger Fabric - Standard Edition bc.m5.large node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1540000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V6Z9A7CQCEW8TKTN" : {
+        "V6Z9A7CQCEW8TKTN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V6Z9A7CQCEW8TKTN",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "V6Z9A7CQCEW8TKTN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V6Z9A7CQCEW8TKTN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.617 per hour for Node:bc.m5.2xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WQNWXY969ASCGJ7U" : {
+        "WQNWXY969ASCGJ7U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WQNWXY969ASCGJ7U",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WQNWXY969ASCGJ7U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WQNWXY969ASCGJ7U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.067 per hour for Hyperledger Fabric - Starter Edition bc.t3.medium node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7BRNGUCXTKGCGQR4" : {
+        "7BRNGUCXTKGCGQR4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7BRNGUCXTKGCGQR4",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "7BRNGUCXTKGCGQR4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7BRNGUCXTKGCGQR4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000005 per Request for Access-Public-XS:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YM3QN88ARXM7PFUG" : {
+        "YM3QN88ARXM7PFUG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YM3QN88ARXM7PFUG",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YM3QN88ARXM7PFUG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YM3QN88ARXM7PFUG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-Mo for Hyperledger Fabric - Standard Edition node storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AQ6ZSEHBE9QGK7KN" : {
+        "AQ6ZSEHBE9QGK7KN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AQ6ZSEHBE9QGK7KN",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "AQ6ZSEHBE9QGK7KN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AQ6ZSEHBE9QGK7KN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000007 per Request for Query-Public-S:Public-Ethereum-Sepolia-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000070000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JSG47H6YXDWMT77R" : {
+        "JSG47H6YXDWMT77R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JSG47H6YXDWMT77R",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JSG47H6YXDWMT77R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JSG47H6YXDWMT77R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000009 per Request for Query-Public-M:Public-Ethereum-Sepolia-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000090000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TTF9YRP64VF7U5TV" : {
+        "TTF9YRP64VF7U5TV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TTF9YRP64VF7U5TV",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TTF9YRP64VF7U5TV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TTF9YRP64VF7U5TV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000007 per Request for Query-Public-S:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000070000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WUCHCZRWPAFAGNC2" : {
+        "WUCHCZRWPAFAGNC2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WUCHCZRWPAFAGNC2",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WUCHCZRWPAFAGNC2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WUCHCZRWPAFAGNC2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.154 per hour for Node:bc.m5.large:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1540000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HX449J37V3EH3A37" : {
+        "HX449J37V3EH3A37.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HX449J37V3EH3A37",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "HX449J37V3EH3A37.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HX449J37V3EH3A37.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for Hyperledger Fabric - Starter Edition data written in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ND2DSQRB7JCX3D6E" : {
+        "ND2DSQRB7JCX3D6E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ND2DSQRB7JCX3D6E",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ND2DSQRB7JCX3D6E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ND2DSQRB7JCX3D6E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000003 per Request ($3 per million requests) for Request:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RUASU7KN8DJZS3V4" : {
+        "RUASU7KN8DJZS3V4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RUASU7KN8DJZS3V4",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RUASU7KN8DJZS3V4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RUASU7KN8DJZS3V4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per Request for Access-Public-XL:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5NJRAWXX4GJTUD7B" : {
+        "5NJRAWXX4GJTUD7B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5NJRAWXX4GJTUD7B",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "5NJRAWXX4GJTUD7B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5NJRAWXX4GJTUD7B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.088 per hour for Hyperledger Fabric - Standard Edition bc.c5.4xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J7GWMXK2A4PGEXR8" : {
+        "J7GWMXK2A4PGEXR8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J7GWMXK2A4PGEXR8",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "J7GWMXK2A4PGEXR8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J7GWMXK2A4PGEXR8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.229 per hour for Hyperledger Fabric - Standard Edition bc.m5.4xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2290000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EMA6ZM3RZ8SGBRGM" : {
+        "EMA6ZM3RZ8SGBRGM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EMA6ZM3RZ8SGBRGM",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "EMA6ZM3RZ8SGBRGM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EMA6ZM3RZ8SGBRGM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000016 per Request for Access-Public-L:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000160000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8RJ376776NTZMXW7" : {
+        "8RJ376776NTZMXW7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8RJ376776NTZMXW7",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "8RJ376776NTZMXW7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8RJ376776NTZMXW7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.55 per hr for Hyperledger Fabric - Standard Edition member in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E7DFRPMKVPGK5CRB" : {
+        "E7DFRPMKVPGK5CRB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E7DFRPMKVPGK5CRB",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "E7DFRPMKVPGK5CRB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E7DFRPMKVPGK5CRB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.267 per hour for Node:bc.t3.xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZRD6VJ9W9CHQJBEF" : {
+        "ZRD6VJ9W9CHQJBEF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZRD6VJ9W9CHQJBEF",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZRD6VJ9W9CHQJBEF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZRD6VJ9W9CHQJBEF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-Mo for Hyperledger Fabric - Starter Edition node storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZYUUZV7NCG3FCHEP" : {
+        "ZYUUZV7NCG3FCHEP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZYUUZV7NCG3FCHEP",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZYUUZV7NCG3FCHEP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZYUUZV7NCG3FCHEP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000007 per Request for Query-Public-S:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000070000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BVW8SACRE2VNVQ3Q" : {
+        "BVW8SACRE2VNVQ3Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BVW8SACRE2VNVQ3Q",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BVW8SACRE2VNVQ3Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BVW8SACRE2VNVQ3Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.272 per hour for Node:bc.c5.xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2720000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UXABKTUQH9YZBERB" : {
+        "UXABKTUQH9YZBERB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UXABKTUQH9YZBERB",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UXABKTUQH9YZBERB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UXABKTUQH9YZBERB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.134 per hour for Hyperledger Fabric - Standard Edition bc.t3.large node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "93ZBD26GHE6CMUTK" : {
+        "93ZBD26GHE6CMUTK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "93ZBD26GHE6CMUTK",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "93ZBD26GHE6CMUTK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "93ZBD26GHE6CMUTK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.136 per hour for Hyperledger Fabric - Standard Edition bc.c5.large node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1360000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DPARQ5UYPDF45CZF" : {
+        "DPARQ5UYPDF45CZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DPARQ5UYPDF45CZF",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DPARQ5UYPDF45CZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DPARQ5UYPDF45CZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000016 per Request for Access-Public-L:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000160000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "867X8NA7XJUSE3V2" : {
+        "867X8NA7XJUSE3V2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "867X8NA7XJUSE3V2",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "867X8NA7XJUSE3V2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "867X8NA7XJUSE3V2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000009 per Request for Query-Public-M:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000090000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W6E9QVV747UMHNTB" : {
+        "W6E9QVV747UMHNTB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W6E9QVV747UMHNTB",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "W6E9QVV747UMHNTB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W6E9QVV747UMHNTB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.088 per hour for Node:bc.c5.4xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0880000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YUPG28P88GY83GGN" : {
+        "YUPG28P88GY83GGN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YUPG28P88GY83GGN",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YUPG28P88GY83GGN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YUPG28P88GY83GGN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.134 per hour for Node:bc.t3.large:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7N3SRDFJT2GFU9R3" : {
+        "7N3SRDFJT2GFU9R3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7N3SRDFJT2GFU9R3",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "7N3SRDFJT2GFU9R3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7N3SRDFJT2GFU9R3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.544 per hour for Node:bc.c5.2xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NV6C2NA4RZB5ECSA" : {
+        "NV6C2NA4RZB5ECSA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NV6C2NA4RZB5ECSA",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "NV6C2NA4RZB5ECSA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NV6C2NA4RZB5ECSA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per hr for Hyperledger Fabric - Starter Edition member in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2MDPQGXKE2P2T8YG" : {
+        "2MDPQGXKE2P2T8YG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2MDPQGXKE2P2T8YG",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "2MDPQGXKE2P2T8YG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2MDPQGXKE2P2T8YG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000025 per Request for Query-Public-XL:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KR4BTMGB4R7ZQWMU" : {
+        "KR4BTMGB4R7ZQWMU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KR4BTMGB4R7ZQWMU",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "KR4BTMGB4R7ZQWMU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KR4BTMGB4R7ZQWMU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.307 per hour for Node:bc.m5.xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3070000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MRS9VB6RAGSJRFXA" : {
+        "MRS9VB6RAGSJRFXA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MRS9VB6RAGSJRFXA",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MRS9VB6RAGSJRFXA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MRS9VB6RAGSJRFXA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-Mo for Node-Storage:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W7FQUYK3N6V5XV4X" : {
+        "W7FQUYK3N6V5XV4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W7FQUYK3N6V5XV4X",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "W7FQUYK3N6V5XV4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W7FQUYK3N6V5XV4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000009 per Request for Query-Public-M:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000090000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DZ962ADNAG2ATF3S" : {
+        "DZ962ADNAG2ATF3S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DZ962ADNAG2ATF3S",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DZ962ADNAG2ATF3S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DZ962ADNAG2ATF3S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.544 per hour for Hyperledger Fabric - Standard Edition bc.c5.2xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MVWY3CH5CAWB55G9" : {
+        "MVWY3CH5CAWB55G9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVWY3CH5CAWB55G9",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVWY3CH5CAWB55G9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVWY3CH5CAWB55G9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.617 per hour for Hyperledger Fabric - Standard Edition bc.m5.2xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UW9ZAA2BJSRZGC4N" : {
+        "UW9ZAA2BJSRZGC4N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UW9ZAA2BJSRZGC4N",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UW9ZAA2BJSRZGC4N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UW9ZAA2BJSRZGC4N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.267 per hour for Hyperledger Fabric - Standard Edition bc.t3.xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TCESZ2VRDTJSFVPF" : {
+        "TCESZ2VRDTJSFVPF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TCESZ2VRDTJSFVPF",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TCESZ2VRDTJSFVPF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TCESZ2VRDTJSFVPF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000009 per Request for Query-Public-M:Public-Ethereum-Mainnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000090000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VFZBSYM8EBBEFZTF" : {
+        "VFZBSYM8EBBEFZTF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VFZBSYM8EBBEFZTF",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "VFZBSYM8EBBEFZTF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VFZBSYM8EBBEFZTF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB for Hyperledger Fabric - Standard Edition data written in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "96P3D2P84P8K8V6J" : {
+        "96P3D2P84P8K8V6J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "96P3D2P84P8K8V6J",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "96P3D2P84P8K8V6J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "96P3D2P84P8K8V6J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.307 per hour for Hyperledger Fabric - Standard Edition bc.m5.xlarge node in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3070000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KJCBH8NXBADZEJK2" : {
+        "KJCBH8NXBADZEJK2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJCBH8NXBADZEJK2",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJCBH8NXBADZEJK2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJCBH8NXBADZEJK2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.229 per hour for Node:bc.m5.4xlarge:Ethereum:Public in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.2290000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X2NVQYP5BH57H66Y" : {
+        "X2NVQYP5BH57H66Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X2NVQYP5BH57H66Y",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "X2NVQYP5BH57H66Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X2NVQYP5BH57H66Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000005 per Request for Access-Public-XS:Public-Bitcoin-Testnet in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

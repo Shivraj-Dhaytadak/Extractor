@@ -1,0 +1,125 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSPrivate5G",
+  "version" : "20230628174401",
+  "publicationDate" : "2023-06-28T17:44:01Z",
+  "products" : {
+    "MWAWQDW5ZU3TDUXV" : {
+      "sku" : "MWAWQDW5ZU3TDUXV",
+      "productFamily" : "Private Networks",
+      "attributes" : {
+        "servicecode" : "AWSPrivate5G",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-3YearCommit",
+        "operation" : "",
+        "accessPointType" : "CBRS LTE RU",
+        "capability" : "Outdoor CatA",
+        "commitmentDays" : "1095",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Private 5G"
+      }
+    },
+    "JUPNPTXEWW8CKHED" : {
+      "sku" : "JUPNPTXEWW8CKHED",
+      "productFamily" : "Private Networks",
+      "attributes" : {
+        "servicecode" : "AWSPrivate5G",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-60DaysCommit",
+        "operation" : "",
+        "accessPointType" : "CBRS LTE RU",
+        "capability" : "Outdoor CatA",
+        "commitmentDays" : "60",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Private 5G"
+      }
+    },
+    "ZYERXB4UZPYPWEG2" : {
+      "sku" : "ZYERXB4UZPYPWEG2",
+      "productFamily" : "Private Networks",
+      "attributes" : {
+        "servicecode" : "AWSPrivate5G",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-1YearCommit",
+        "operation" : "",
+        "accessPointType" : "CBRS LTE RU",
+        "capability" : "Outdoor CatA",
+        "commitmentDays" : "365",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Private 5G"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "JUPNPTXEWW8CKHED" : {
+        "JUPNPTXEWW8CKHED.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JUPNPTXEWW8CKHED",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "JUPNPTXEWW8CKHED.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JUPNPTXEWW8CKHED.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10 per hour for each CBRS LTE radio unit with a minimum 60 day commitment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MWAWQDW5ZU3TDUXV" : {
+        "MWAWQDW5ZU3TDUXV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MWAWQDW5ZU3TDUXV",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "MWAWQDW5ZU3TDUXV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MWAWQDW5ZU3TDUXV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.50 per hour for each CBRS LTE radio unit with a 3 year commitment in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "3.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZYERXB4UZPYPWEG2" : {
+        "ZYERXB4UZPYPWEG2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZYERXB4UZPYPWEG2",
+          "effectiveDate" : "2023-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZYERXB4UZPYPWEG2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZYERXB4UZPYPWEG2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.35 per hour for each CBRS LTE radio unit with a 1 year commitment in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "5.3500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

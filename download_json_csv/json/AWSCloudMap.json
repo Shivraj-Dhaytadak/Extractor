@@ -1,0 +1,119 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCloudMap",
+  "version" : "20250313211538",
+  "publicationDate" : "2025-03-13T21:15:38Z",
+  "products" : {
+    "WE3HMQYAX2JZ2QM6" : {
+      "sku" : "WE3HMQYAX2JZ2QM6",
+      "productFamily" : "AWS Cloud Map",
+      "attributes" : {
+        "servicecode" : "AWSCloudMap",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Cloud-Map-Resources",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud Map",
+        "type" : "Resource-Month"
+      }
+    },
+    "M9AJYZKUF3TBMKSZ" : {
+      "sku" : "M9AJYZKUF3TBMKSZ",
+      "productFamily" : "AWS Cloud Map",
+      "attributes" : {
+        "servicecode" : "AWSCloudMap",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Cloud-Map-DIR-API-Calls",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud Map",
+        "type" : "DIR-API-Calls"
+      }
+    },
+    "4ZC2BWYQG6Y56KXA" : {
+      "sku" : "4ZC2BWYQG6Y56KXA",
+      "productFamily" : "AWS Cloud Map",
+      "attributes" : {
+        "servicecode" : "AWSCloudMap",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Cloud-Map-API-Calls",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cloud Map",
+        "type" : "API calls"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "4ZC2BWYQG6Y56KXA" : {
+        "4ZC2BWYQG6Y56KXA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4ZC2BWYQG6Y56KXA",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "4ZC2BWYQG6Y56KXA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4ZC2BWYQG6Y56KXA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million API calls",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CloudMapAPICall",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WE3HMQYAX2JZ2QM6" : {
+        "WE3HMQYAX2JZ2QM6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WE3HMQYAX2JZ2QM6",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "WE3HMQYAX2JZ2QM6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WE3HMQYAX2JZ2QM6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per resource-month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CloudMapResource",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M9AJYZKUF3TBMKSZ" : {
+        "M9AJYZKUF3TBMKSZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M9AJYZKUF3TBMKSZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "M9AJYZKUF3TBMKSZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M9AJYZKUF3TBMKSZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million API calls",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CloudMapAPICall",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

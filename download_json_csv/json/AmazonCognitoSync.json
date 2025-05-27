@@ -1,0 +1,82 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonCognitoSync",
+  "version" : "20230110163652",
+  "publicationDate" : "2023-01-10T16:36:52Z",
+  "products" : {
+    "KJ5H65YWPQW93V8U" : {
+      "sku" : "KJ5H65YWPQW93V8U",
+      "productFamily" : "Sync Operation",
+      "attributes" : {
+        "servicecode" : "AmazonCognitoSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "CognitoSyncOperation",
+        "operation" : "CognitoSync",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito Sync"
+      }
+    },
+    "U4JWJQJGSMPCZ46F" : {
+      "sku" : "U4JWJQJGSMPCZ46F",
+      "productFamily" : "Sync Storage",
+      "attributes" : {
+        "servicecode" : "AmazonCognitoSync",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "TimedStorage-ByteHrs",
+        "operation" : "CognitoStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Cognito Sync"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "KJ5H65YWPQW93V8U" : {
+        "KJ5H65YWPQW93V8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJ5H65YWPQW93V8U",
+          "effectiveDate" : "2017-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJ5H65YWPQW93V8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJ5H65YWPQW93V8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cognito Sync operation",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "CognitoSyncOp-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U4JWJQJGSMPCZ46F" : {
+        "U4JWJQJGSMPCZ46F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4JWJQJGSMPCZ46F",
+          "effectiveDate" : "2017-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4JWJQJGSMPCZ46F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4JWJQJGSMPCZ46F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Cognito Sync store space",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

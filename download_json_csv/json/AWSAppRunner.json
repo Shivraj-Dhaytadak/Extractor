@@ -1,0 +1,194 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSAppRunner",
+  "version" : "20240126165719",
+  "publicationDate" : "2024-01-26T16:57:19Z",
+  "products" : {
+    "HVVA7M22NCWEH496" : {
+      "sku" : "HVVA7M22NCWEH496",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSAppRunner",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppRunner-Build-mins",
+        "operation" : "",
+        "build" : "build",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS App Runner",
+        "type" : "Build-mins"
+      }
+    },
+    "YYWUT3AQDJMRWWGA" : {
+      "sku" : "YYWUT3AQDJMRWWGA",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSAppRunner",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppRunner-Provisioned-GB-hours",
+        "operation" : "RunService",
+        "gb" : "GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS App Runner",
+        "type" : "Provisioned-GB-hours"
+      }
+    },
+    "DH9DXBVSTZFG449B" : {
+      "sku" : "DH9DXBVSTZFG449B",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSAppRunner",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppRunner-GB-hours",
+        "operation" : "RunService",
+        "gb" : "GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS App Runner",
+        "type" : "GB-hours"
+      }
+    },
+    "GAPMZ4VJNXNWKVJS" : {
+      "sku" : "GAPMZ4VJNXNWKVJS",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSAppRunner",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppRunner-AutomaticDeployment",
+        "operation" : "BuildService",
+        "pipeline" : "pipeline",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS App Runner",
+        "type" : "AutomaticDeployment"
+      }
+    },
+    "8FZ3ANRH34DG5WJ2" : {
+      "sku" : "8FZ3ANRH34DG5WJ2",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AWSAppRunner",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AppRunner-vCPU-hours",
+        "operation" : "RunService",
+        "cputupe" : "x86",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS App Runner",
+        "type" : "vCPU-hours"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "HVVA7M22NCWEH496" : {
+        "HVVA7M22NCWEH496.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HVVA7M22NCWEH496",
+          "effectiveDate" : "2024-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HVVA7M22NCWEH496.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HVVA7M22NCWEH496.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS App Runner - Build-mins- US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Mins",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DH9DXBVSTZFG449B" : {
+        "DH9DXBVSTZFG449B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DH9DXBVSTZFG449B",
+          "effectiveDate" : "2024-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "DH9DXBVSTZFG449B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DH9DXBVSTZFG449B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS App Runner - GB-hours - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0070000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8FZ3ANRH34DG5WJ2" : {
+        "8FZ3ANRH34DG5WJ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8FZ3ANRH34DG5WJ2",
+          "effectiveDate" : "2024-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "8FZ3ANRH34DG5WJ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8FZ3ANRH34DG5WJ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS App Runner - vCPU - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-hour",
+              "pricePerUnit" : {
+                "USD" : "0.0640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GAPMZ4VJNXNWKVJS" : {
+        "GAPMZ4VJNXNWKVJS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GAPMZ4VJNXNWKVJS",
+          "effectiveDate" : "2024-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "GAPMZ4VJNXNWKVJS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GAPMZ4VJNXNWKVJS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS App Runner - AutomaticDeployment - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "pipelines",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YYWUT3AQDJMRWWGA" : {
+        "YYWUT3AQDJMRWWGA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YYWUT3AQDJMRWWGA",
+          "effectiveDate" : "2024-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "YYWUT3AQDJMRWWGA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YYWUT3AQDJMRWWGA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "AWS App Runner - Provisioned - GB-hours - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0070000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

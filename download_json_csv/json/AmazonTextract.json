@@ -1,0 +1,1524 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonTextract",
+  "version" : "20241029164050",
+  "publicationDate" : "2024-10-29T16:40:50Z",
+  "products" : {
+    "A9TNAGWQ34USJP26" : {
+      "sku" : "A9TNAGWQ34USJP26",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument Signatures",
+        "usagetype" : "USE1-SyncSignaturesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Signatures",
+        "platopagedatatype" : "SyncSignaturesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "X6MQ6RZKGUPW54YP" : {
+      "sku" : "X6MQ6RZKGUPW54YP",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncCustomQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "CustomQueries+Tables",
+        "platopagedatatype" : "AsyncCustomQueriesTablesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "MU9BPN7BUTB9FTQJ" : {
+      "sku" : "MU9BPN7BUTB9FTQJ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract DocumentText API Requests",
+        "groupDescription" : "Number of pages processed using DetectDocumentText",
+        "usagetype" : "USE1-SyncTextPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Text",
+        "platopagedatatype" : "SyncTextPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "VWGDYXPE27886VFB" : {
+      "sku" : "VWGDYXPE27886VFB",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncFormsQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Forms+Queries",
+        "platopagedatatype" : "SyncFormsQueriesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "E7SCKVY9F56C6DAH" : {
+      "sku" : "E7SCKVY9F56C6DAH",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Queries",
+        "platopagedatatype" : "AsyncQueriesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "TNJSWPT8JU2JFM9D" : {
+      "sku" : "TNJSWPT8JU2JFM9D",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument Layout",
+        "usagetype" : "USE1-SyncLayoutPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Layout",
+        "platopagedatatype" : "SyncLayoutPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "ECAEBTT5K856YES6" : {
+      "sku" : "ECAEBTT5K856YES6",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze ID API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeID",
+        "usagetype" : "USE1-SyncIDPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync Analyze ID",
+        "entityType" : "ID",
+        "platopagedatatype" : "SyncIDPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "B2TF6MVSVF57QXDE" : {
+      "sku" : "B2TF6MVSVF57QXDE",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Tables",
+        "platopagedatatype" : "SyncTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "5EK63MPE2RTR9TMJ" : {
+      "sku" : "5EK63MPE2RTR9TMJ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncCustomQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "CustomQueries+Tables",
+        "platopagedatatype" : "SyncCustomQueriesTablesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "EQ94UE9NS76BAU2W" : {
+      "sku" : "EQ94UE9NS76BAU2W",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncFormsCustomQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Forms+CustomQueries",
+        "platopagedatatype" : "AsyncFormsCustomQueriesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "8KB775J8FC6QZC7M" : {
+      "sku" : "8KB775J8FC6QZC7M",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze Lending API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeLending",
+        "usagetype" : "USE1-AsyncLendingPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Lending",
+        "platopagedatatype" : "AsyncLendingPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "SVEEKZ42EZMZ5GRV" : {
+      "sku" : "SVEEKZ42EZMZ5GRV",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncFormsCustomQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Forms+CustomQueries+Tables",
+        "platopagedatatype" : "AsyncFormsCustomQueriesTablesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "A88UYT297TDCR4KQ" : {
+      "sku" : "A88UYT297TDCR4KQ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze Expense API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeExpense",
+        "usagetype" : "USE1-SyncExpensePagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync AnalyzeExpense",
+        "entityType" : "Expense",
+        "platopagedatatype" : "SyncExpensePagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "7E39ME4YHJHRBF5Q" : {
+      "sku" : "7E39ME4YHJHRBF5Q",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Tables+Queries",
+        "platopagedatatype" : "SyncQueriesTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "49UUAQ7GYYKC9PWZ" : {
+      "sku" : "49UUAQ7GYYKC9PWZ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncFormsPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Forms",
+        "platopagedatatype" : "AsyncFormsPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "E7GKQXTN22TKKDQX" : {
+      "sku" : "E7GKQXTN22TKKDQX",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncFormsQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Forms+Tables+Queries",
+        "platopagedatatype" : "SyncFormsQueriesTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "CV77QFZTMB7ERWTZ" : {
+      "sku" : "CV77QFZTMB7ERWTZ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Queries",
+        "platopagedatatype" : "SyncQueriesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "REETNZ3P9CRT3JFW" : {
+      "sku" : "REETNZ3P9CRT3JFW",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Tables+Queries",
+        "platopagedatatype" : "AsyncQueriesTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "QJ5CH5ME2PKW6NKC" : {
+      "sku" : "QJ5CH5ME2PKW6NKC",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncCustomQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "CustomQueries",
+        "platopagedatatype" : "AsyncCustomQueriesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "2BTDJUEGMJQMHBWR" : {
+      "sku" : "2BTDJUEGMJQMHBWR",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncFormsQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Forms+Tables+Queries",
+        "platopagedatatype" : "AsyncFormsQueriesTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "P2ZQH2TFSHCZ9MN4" : {
+      "sku" : "P2ZQH2TFSHCZ9MN4",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncFormsQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Forms+Queries",
+        "platopagedatatype" : "AsyncFormsQueriesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "VRNPJCMF5F4CK95U" : {
+      "sku" : "VRNPJCMF5F4CK95U",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument Layout",
+        "usagetype" : "USE1-AsyncLayoutPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Layout",
+        "platopagedatatype" : "AsyncLayoutPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "9XEVKMSU6UZUX3NB" : {
+      "sku" : "9XEVKMSU6UZUX3NB",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze Expense API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeExpense",
+        "usagetype" : "USE1-AsyncExpensePagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Expense",
+        "platopagedatatype" : "AsyncExpensePagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "EBCHQCQPSYNXQMXB" : {
+      "sku" : "EBCHQCQPSYNXQMXB",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncFormsCustomQueriesTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Forms+CustomQueries+Tables",
+        "platopagedatatype" : "SyncFormsCustomQueriesTablesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "YRKWU5W3J6266NFK" : {
+      "sku" : "YRKWU5W3J6266NFK",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncFormsCustomQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Forms+CustomQueries",
+        "platopagedatatype" : "SyncFormsCustomQueriesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "YUYSKRWFFBTPPKP9" : {
+      "sku" : "YUYSKRWFFBTPPKP9",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument Signatures",
+        "usagetype" : "USE1-AsyncSignaturesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Signatures",
+        "platopagedatatype" : "AsyncSignaturesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "DSWYVCQ9QNW9CY2N" : {
+      "sku" : "DSWYVCQ9QNW9CY2N",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncFormsPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "Forms",
+        "platopagedatatype" : "SyncFormsPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "B46VY7E9SHE767XJ" : {
+      "sku" : "B46VY7E9SHE767XJ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract DocumentText API Requests",
+        "groupDescription" : "Number of pages processed using DocumentTextDetection APIs",
+        "usagetype" : "USE1-AsyncTextPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Text",
+        "platopagedatatype" : "AsyncTextPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "XGSGJ46GFKRSFY3M" : {
+      "sku" : "XGSGJ46GFKRSFY3M",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-AsyncTablesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Async",
+        "entityType" : "Tables",
+        "platopagedatatype" : "AsyncTablesPagesProcessed",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    },
+    "65PDAR684HV4F68P" : {
+      "sku" : "65PDAR684HV4F68P",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonTextract",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Textract Analyze API Requests",
+        "groupDescription" : "Number of pages processed using AnalyzeDocument",
+        "usagetype" : "USE1-SyncCustomQueriesPagesProcessed",
+        "operation" : "",
+        "apiType" : "Sync",
+        "entityType" : "CustomQueries",
+        "platopagedatatype" : "SyncCustomQueriesPagesProcessed",
+        "pricingunit" : "Pages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Textract"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "2BTDJUEGMJQMHBWR" : {
+        "2BTDJUEGMJQMHBWR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2BTDJUEGMJQMHBWR",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "2BTDJUEGMJQMHBWR.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "2BTDJUEGMJQMHBWR.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.07 per page for AsyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2BTDJUEGMJQMHBWR.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "2BTDJUEGMJQMHBWR.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.055 per page for AsyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DSWYVCQ9QNW9CY2N" : {
+        "DSWYVCQ9QNW9CY2N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DSWYVCQ9QNW9CY2N",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "DSWYVCQ9QNW9CY2N.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "DSWYVCQ9QNW9CY2N.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "SyncPagesProcessed: 0-1M pages of AnalyzeDocument Forms, $50 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DSWYVCQ9QNW9CY2N.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "DSWYVCQ9QNW9CY2N.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "SyncPagesProcessed: 1M+ pages of AnalyzeDocument Forms, $40 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EQ94UE9NS76BAU2W" : {
+        "EQ94UE9NS76BAU2W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EQ94UE9NS76BAU2W",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "EQ94UE9NS76BAU2W.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "EQ94UE9NS76BAU2W.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.065 per page for AsyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EQ94UE9NS76BAU2W.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "EQ94UE9NS76BAU2W.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.050 per page for AsyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MU9BPN7BUTB9FTQJ" : {
+        "MU9BPN7BUTB9FTQJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MU9BPN7BUTB9FTQJ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "MU9BPN7BUTB9FTQJ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "MU9BPN7BUTB9FTQJ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "SyncPagesProcessed: 0 - 1M DetectDocumentText pages processed USD per month, $1.50 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "MU9BPN7BUTB9FTQJ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "MU9BPN7BUTB9FTQJ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "SyncPagesProcessed: 1M+ DetectDocumentText pages processed USD per month, $0.60 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E7SCKVY9F56C6DAH" : {
+        "E7SCKVY9F56C6DAH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E7SCKVY9F56C6DAH",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "E7SCKVY9F56C6DAH.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "E7SCKVY9F56C6DAH.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.015 per page for AsyncQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "E7SCKVY9F56C6DAH.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "E7SCKVY9F56C6DAH.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.01 per page for AsyncQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "REETNZ3P9CRT3JFW" : {
+        "REETNZ3P9CRT3JFW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "REETNZ3P9CRT3JFW",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "REETNZ3P9CRT3JFW.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "REETNZ3P9CRT3JFW.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.02 per page for AsyncQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "REETNZ3P9CRT3JFW.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "REETNZ3P9CRT3JFW.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.015 per page for AsyncQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9XEVKMSU6UZUX3NB" : {
+        "9XEVKMSU6UZUX3NB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9XEVKMSU6UZUX3NB",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "9XEVKMSU6UZUX3NB.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "9XEVKMSU6UZUX3NB.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.01 per API Requests for AsyncExpensePagesProcessed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9XEVKMSU6UZUX3NB.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "9XEVKMSU6UZUX3NB.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.008 per API Requests for AsyncExpensePagesProcessed in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YRKWU5W3J6266NFK" : {
+        "YRKWU5W3J6266NFK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YRKWU5W3J6266NFK",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "YRKWU5W3J6266NFK.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "YRKWU5W3J6266NFK.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.065 per page for SyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0650000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YRKWU5W3J6266NFK.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "YRKWU5W3J6266NFK.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.050 per page for SyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X6MQ6RZKGUPW54YP" : {
+        "X6MQ6RZKGUPW54YP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X6MQ6RZKGUPW54YP",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "X6MQ6RZKGUPW54YP.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "X6MQ6RZKGUPW54YP.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.030 per page for AsyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "X6MQ6RZKGUPW54YP.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "X6MQ6RZKGUPW54YP.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.020 per page for AsyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "65PDAR684HV4F68P" : {
+        "65PDAR684HV4F68P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "65PDAR684HV4F68P",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "65PDAR684HV4F68P.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "65PDAR684HV4F68P.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.025 per page for SyncCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "65PDAR684HV4F68P.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "65PDAR684HV4F68P.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.015 per page for SyncCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5EK63MPE2RTR9TMJ" : {
+        "5EK63MPE2RTR9TMJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5EK63MPE2RTR9TMJ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "5EK63MPE2RTR9TMJ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "5EK63MPE2RTR9TMJ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.030 per page for SyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5EK63MPE2RTR9TMJ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "5EK63MPE2RTR9TMJ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.020 per page for SyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7E39ME4YHJHRBF5Q" : {
+        "7E39ME4YHJHRBF5Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7E39ME4YHJHRBF5Q",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "7E39ME4YHJHRBF5Q.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "7E39ME4YHJHRBF5Q.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.02 per page for SyncQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "7E39ME4YHJHRBF5Q.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "7E39ME4YHJHRBF5Q.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.015 per page for SyncQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B46VY7E9SHE767XJ" : {
+        "B46VY7E9SHE767XJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B46VY7E9SHE767XJ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "B46VY7E9SHE767XJ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "B46VY7E9SHE767XJ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "AsyncPagesProcessed: 0 - 1M DetectDocumentText pages processed USD per month, $1.50 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B46VY7E9SHE767XJ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "B46VY7E9SHE767XJ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "AsyncPagesProcessed: 1M+ DetectDocumentText pages processed USD per month, $0.60 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CV77QFZTMB7ERWTZ" : {
+        "CV77QFZTMB7ERWTZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CV77QFZTMB7ERWTZ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "CV77QFZTMB7ERWTZ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "CV77QFZTMB7ERWTZ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.015 per page for SyncQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "CV77QFZTMB7ERWTZ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "CV77QFZTMB7ERWTZ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.01 per page for SyncQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A9TNAGWQ34USJP26" : {
+        "A9TNAGWQ34USJP26.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A9TNAGWQ34USJP26",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "A9TNAGWQ34USJP26.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "A9TNAGWQ34USJP26.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "SyncPagesProcessed: 0 - 1M Signatures pages processed per month, 3.5 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0035000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "A9TNAGWQ34USJP26.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "A9TNAGWQ34USJP26.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "SyncPagesProcessed: 1M+ Signatures pages processed per month, 1.4 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VRNPJCMF5F4CK95U" : {
+        "VRNPJCMF5F4CK95U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VRNPJCMF5F4CK95U",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "VRNPJCMF5F4CK95U.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "VRNPJCMF5F4CK95U.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.004 per page for AsyncLayoutPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VRNPJCMF5F4CK95U.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "VRNPJCMF5F4CK95U.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.003 per page for AsyncLayoutPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QJ5CH5ME2PKW6NKC" : {
+        "QJ5CH5ME2PKW6NKC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QJ5CH5ME2PKW6NKC",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "QJ5CH5ME2PKW6NKC.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "QJ5CH5ME2PKW6NKC.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.025 per page for AsyncCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QJ5CH5ME2PKW6NKC.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "QJ5CH5ME2PKW6NKC.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.015 per page for AsyncCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VWGDYXPE27886VFB" : {
+        "VWGDYXPE27886VFB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VWGDYXPE27886VFB",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "VWGDYXPE27886VFB.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "VWGDYXPE27886VFB.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.055 per page for SyncFormsQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "VWGDYXPE27886VFB.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "VWGDYXPE27886VFB.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.045 per page for SyncFormsQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P2ZQH2TFSHCZ9MN4" : {
+        "P2ZQH2TFSHCZ9MN4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P2ZQH2TFSHCZ9MN4",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "P2ZQH2TFSHCZ9MN4.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "P2ZQH2TFSHCZ9MN4.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.055 per page for AsyncFormsQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "P2ZQH2TFSHCZ9MN4.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "P2ZQH2TFSHCZ9MN4.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.045 per page for AsyncFormsQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "49UUAQ7GYYKC9PWZ" : {
+        "49UUAQ7GYYKC9PWZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "49UUAQ7GYYKC9PWZ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "49UUAQ7GYYKC9PWZ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "49UUAQ7GYYKC9PWZ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "AsyncPagesProcessed: 0-1M pages of AnalyzeDocument Forms, $50 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "49UUAQ7GYYKC9PWZ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "49UUAQ7GYYKC9PWZ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "AsyncPagesProcessed: 1M+ pages of AnalyzeDocument Forms, $40 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E7GKQXTN22TKKDQX" : {
+        "E7GKQXTN22TKKDQX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E7GKQXTN22TKKDQX",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "E7GKQXTN22TKKDQX.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "E7GKQXTN22TKKDQX.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.07 per page for SyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "E7GKQXTN22TKKDQX.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "E7GKQXTN22TKKDQX.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.055 per page for SyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XGSGJ46GFKRSFY3M" : {
+        "XGSGJ46GFKRSFY3M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XGSGJ46GFKRSFY3M",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "XGSGJ46GFKRSFY3M.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "XGSGJ46GFKRSFY3M.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "AsyncPagesProcessed: 0-1M pages of AnalyzeDocument Tables, $15 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "XGSGJ46GFKRSFY3M.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "XGSGJ46GFKRSFY3M.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "AsyncPagesProcessed: 1M+ pages of AnalyzeDocument Tables, $10 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A88UYT297TDCR4KQ" : {
+        "A88UYT297TDCR4KQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A88UYT297TDCR4KQ",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "A88UYT297TDCR4KQ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "A88UYT297TDCR4KQ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.01 per Pages for SyncExpensePagesProcessed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "A88UYT297TDCR4KQ.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "A88UYT297TDCR4KQ.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.008 per Pages for SyncExpensePagesProcessed in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YUYSKRWFFBTPPKP9" : {
+        "YUYSKRWFFBTPPKP9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YUYSKRWFFBTPPKP9",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "YUYSKRWFFBTPPKP9.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "YUYSKRWFFBTPPKP9.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "AsyncPagesProcessed: 0 - 1M Signatures pages processed per month, 3.5 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0035000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YUYSKRWFFBTPPKP9.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "YUYSKRWFFBTPPKP9.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "AsyncPagesProcessed: 1M+ Signatures pages processed per month, 1.4 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8KB775J8FC6QZC7M" : {
+        "8KB775J8FC6QZC7M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8KB775J8FC6QZC7M",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "8KB775J8FC6QZC7M.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "8KB775J8FC6QZC7M.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "AsyncPagesProcessed: 0 - 1M AnalyzeLending pages processed per month, 70 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8KB775J8FC6QZC7M.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "8KB775J8FC6QZC7M.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "AsyncPagesProcessed: 1M+ AnalyzeLending pages processed per month, 55 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EBCHQCQPSYNXQMXB" : {
+        "EBCHQCQPSYNXQMXB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EBCHQCQPSYNXQMXB",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "EBCHQCQPSYNXQMXB.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "EBCHQCQPSYNXQMXB.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.080 per page for SyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EBCHQCQPSYNXQMXB.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "EBCHQCQPSYNXQMXB.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.060 per page for SyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B2TF6MVSVF57QXDE" : {
+        "B2TF6MVSVF57QXDE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B2TF6MVSVF57QXDE",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "B2TF6MVSVF57QXDE.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "B2TF6MVSVF57QXDE.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "SyncPagesProcessed: 0-1M pages of AnalyzeDocument Tables, $15 USD per 1000 pages",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B2TF6MVSVF57QXDE.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "B2TF6MVSVF57QXDE.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "SyncPagesProcessed: 1M+ pages of AnalyzeDocument Tables, $10 USD per 1000 pages",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SVEEKZ42EZMZ5GRV" : {
+        "SVEEKZ42EZMZ5GRV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SVEEKZ42EZMZ5GRV",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "SVEEKZ42EZMZ5GRV.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "SVEEKZ42EZMZ5GRV.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.080 per page for AsyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "SVEEKZ42EZMZ5GRV.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "SVEEKZ42EZMZ5GRV.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.060 per page for AsyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TNJSWPT8JU2JFM9D" : {
+        "TNJSWPT8JU2JFM9D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TNJSWPT8JU2JFM9D",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "TNJSWPT8JU2JFM9D.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "TNJSWPT8JU2JFM9D.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.004 per page for SyncLayoutPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TNJSWPT8JU2JFM9D.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "TNJSWPT8JU2JFM9D.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.003 per page for SyncLayoutPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ECAEBTT5K856YES6" : {
+        "ECAEBTT5K856YES6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ECAEBTT5K856YES6",
+          "effectiveDate" : "2024-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "ECAEBTT5K856YES6.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "ECAEBTT5K856YES6.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$0.025 per Pages for SyncIDPagesProcessed in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ECAEBTT5K856YES6.JRTCKXETXF.FF8BMSDA2R" : {
+              "rateCode" : "ECAEBTT5K856YES6.JRTCKXETXF.FF8BMSDA2R",
+              "description" : "$0.010 per Pages for SyncIDPagesProcessed in US East (N. Virginia)",
+              "beginRange" : "100000",
+              "endRange" : "Inf",
+              "unit" : "Pages",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

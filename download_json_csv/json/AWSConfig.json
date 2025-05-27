@@ -1,0 +1,332 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSConfig",
+  "version" : "20250415232247",
+  "publicationDate" : "2025-04-15T23:22:47Z",
+  "products" : {
+    "CAB97RH6TZPC2PQJ" : {
+      "sku" : "CAB97RH6TZPC2PQJ",
+      "productFamily" : "Management Tools - AWS Config Rules",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProactiveConfigRuleEvaluations",
+        "operation" : "",
+        "category" : "ProactiveConfigRuleEvaluation",
+        "platopricingtype" : "ProactiveConfigRuleEvaluations",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    },
+    "FNDDQPQRK6JD6CWA" : {
+      "sku" : "FNDDQPQRK6JD6CWA",
+      "productFamily" : "Management Tools - AWS Config Rules",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProactiveConfigRuleEvaluationsDetectiveEnabled",
+        "operation" : "",
+        "category" : "ProactiveConfigRuleEvaluationsDetectiveEnabled",
+        "platopricingtype" : "ProactiveConfigRuleEvaluationsDetectiveEnabled",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    },
+    "J29KD2787RGQNXMX" : {
+      "sku" : "J29KD2787RGQNXMX",
+      "productFamily" : "Management Tools - AWS Config",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ConfigurationItemRecorded",
+        "operation" : "",
+        "ciType" : "Core",
+        "platopricingtype" : "ConfigurationItemRecorded",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    },
+    "9QFXD53PPEYGFB7P" : {
+      "sku" : "9QFXD53PPEYGFB7P",
+      "productFamily" : "Management Tools - AWS Config Rules",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConfigRuleEvaluations",
+        "operation" : "",
+        "category" : "ConfigRuleEvaluation",
+        "platopricingtype" : "ConfigRuleEvaluations",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    },
+    "PVR5ZSAM5UK9KDWV" : {
+      "sku" : "PVR5ZSAM5UK9KDWV",
+      "productFamily" : "Management Tools - AWS Config",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConfigurationItemRecordedDaily",
+        "operation" : "",
+        "ciType" : "Core",
+        "platopricingtype" : "configurationItemRecordedDaily",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    },
+    "EC97QC3APYWMF3XY" : {
+      "sku" : "EC97QC3APYWMF3XY",
+      "productFamily" : "Management Tools - AWS Config Conformance Packs",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConformancePackEvaluations",
+        "operation" : "",
+        "platopricingtype" : "ConformancePackEvaluations",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config",
+        "type" : "ConformancePacks"
+      }
+    },
+    "4GVEDVBBU2JFD7QJ" : {
+      "sku" : "4GVEDVBBU2JFD7QJ",
+      "productFamily" : "Management Tools - AWS Config",
+      "attributes" : {
+        "servicecode" : "AWSConfig",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CustomConfigItemRecorded",
+        "operation" : "",
+        "ciType" : "Custom",
+        "platopricingtype" : "CustomConfigItemRecorded",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Config"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "FNDDQPQRK6JD6CWA" : {
+        "FNDDQPQRK6JD6CWA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FNDDQPQRK6JD6CWA",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "FNDDQPQRK6JD6CWA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FNDDQPQRK6JD6CWA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per ProactiveConfigRuleEvalDetEnabled in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ProactiveConfigRuleEvalDetEnabled",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CAB97RH6TZPC2PQJ" : {
+        "CAB97RH6TZPC2PQJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CAB97RH6TZPC2PQJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "CAB97RH6TZPC2PQJ.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "CAB97RH6TZPC2PQJ.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$0.001 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "ProactiveConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "CAB97RH6TZPC2PQJ.JRTCKXETXF.25RFZHS7D6" : {
+              "rateCode" : "CAB97RH6TZPC2PQJ.JRTCKXETXF.25RFZHS7D6",
+              "description" : "$0.0008 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+              "beginRange" : "100000",
+              "endRange" : "500000",
+              "unit" : "ProactiveConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "CAB97RH6TZPC2PQJ.JRTCKXETXF.4Q8N5BDBT4" : {
+              "rateCode" : "CAB97RH6TZPC2PQJ.JRTCKXETXF.4Q8N5BDBT4",
+              "description" : "$0.0005 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+              "beginRange" : "500000",
+              "endRange" : "Inf",
+              "unit" : "ProactiveConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J29KD2787RGQNXMX" : {
+        "J29KD2787RGQNXMX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J29KD2787RGQNXMX",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "J29KD2787RGQNXMX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J29KD2787RGQNXMX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.003 per Configuration Item recorded in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ConfigurationItemRecorded",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9QFXD53PPEYGFB7P" : {
+        "9QFXD53PPEYGFB7P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9QFXD53PPEYGFB7P",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "9QFXD53PPEYGFB7P.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "9QFXD53PPEYGFB7P.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$0.001 for the first 100,000 evaluations in  US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "ConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9QFXD53PPEYGFB7P.JRTCKXETXF.25RFZHS7D6" : {
+              "rateCode" : "9QFXD53PPEYGFB7P.JRTCKXETXF.25RFZHS7D6",
+              "description" : "$0.0008 for the next 400,000 evaluations in  US East (N.Virginia) region",
+              "beginRange" : "100000",
+              "endRange" : "500000",
+              "unit" : "ConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9QFXD53PPEYGFB7P.JRTCKXETXF.4Q8N5BDBT4" : {
+              "rateCode" : "9QFXD53PPEYGFB7P.JRTCKXETXF.4Q8N5BDBT4",
+              "description" : "$0.0005 for 500,001 evaluations and more  US East (N.Virginia) region",
+              "beginRange" : "500000",
+              "endRange" : "Inf",
+              "unit" : "ConfigRuleEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4GVEDVBBU2JFD7QJ" : {
+        "4GVEDVBBU2JFD7QJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4GVEDVBBU2JFD7QJ",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4GVEDVBBU2JFD7QJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4GVEDVBBU2JFD7QJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.003 per Custom Configuration Item recorded in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ConfigurationItemRecorded",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PVR5ZSAM5UK9KDWV" : {
+        "PVR5ZSAM5UK9KDWV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PVR5ZSAM5UK9KDWV",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PVR5ZSAM5UK9KDWV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PVR5ZSAM5UK9KDWV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per ConfigurationItemRecordedDaily",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ConfigurationItemRecordedDaily",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EC97QC3APYWMF3XY" : {
+        "EC97QC3APYWMF3XY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EC97QC3APYWMF3XY",
+          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EC97QC3APYWMF3XY.JRTCKXETXF.NADQ2ZJX8V" : {
+              "rateCode" : "EC97QC3APYWMF3XY.JRTCKXETXF.NADQ2ZJX8V",
+              "description" : "$0.001 for the first 100,000 Conformance pack evaluations in  US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "100000",
+              "unit" : "ConformancePackEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EC97QC3APYWMF3XY.JRTCKXETXF.25RFZHS7D6" : {
+              "rateCode" : "EC97QC3APYWMF3XY.JRTCKXETXF.25RFZHS7D6",
+              "description" : "$0.0008 for the next 400,000 Conformance pack evaluations in  US East (N.Virginia) region",
+              "beginRange" : "100000",
+              "endRange" : "500000",
+              "unit" : "ConformancePackEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "EC97QC3APYWMF3XY.JRTCKXETXF.4Q8N5BDBT4" : {
+              "rateCode" : "EC97QC3APYWMF3XY.JRTCKXETXF.4Q8N5BDBT4",
+              "description" : "$0.0005 for 500,001 Conformance pack evaluations and more  US East (N.Virginia) region",
+              "beginRange" : "500000",
+              "endRange" : "Inf",
+              "unit" : "ConformancePackEvaluations",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

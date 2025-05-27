@@ -1,0 +1,1534 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonVPC",
+  "version" : "20250521033543",
+  "publicationDate" : "2025-05-21T03:35:43Z",
+  "products" : {
+    "Z2ZYE9BNTKZB3ZQ8" : {
+      "sku" : "Z2ZYE9BNTKZB3ZQ8",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTrafficMirroring",
+        "groupDescription" : "Hourly charge for Traffic Mirroring Source",
+        "usagetype" : "USE1-ENI-Mirror",
+        "operation" : "ENI-to-ENI",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "9N2FHGMMCZBKDCGH" : {
+      "sku" : "9N2FHGMMCZBKDCGH",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway VPC Attachments",
+        "usagetype" : "USE1-TransitGateway-Hours",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "6TQVKSWSMZMGQ66P" : {
+      "sku" : "6TQVKSWSMZMGQ66P",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "transferType" : "Intra Region Peering Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-VpcPeering-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "G45CEDSGU2ER8WPQ" : {
+      "sku" : "G45CEDSGU2ER8WPQ",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VPCIPv4ContiguousBlocks",
+        "groupDescription" : "Hourly charge for IPv4 address in a contiguous block of IPv4 address",
+        "usagetype" : "USE1-PublicIPv4:ContiguousBlock",
+        "operation" : "ProvisionIpamPoolCidr",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "CGTM7UBZH2TVW4HH" : {
+      "sku" : "CGTM7UBZH2TVW4HH",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Gateway Load Balancer Endpoint",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Hourly charge for AWS Gateway Load Balancer VPC Endpoint",
+        "usagetype" : "USE1-VpcEndpoint-GWLBE-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "EN2N5TATXE673A3B" : {
+      "sku" : "EN2N5TATXE673A3B",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "PrivateLink",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Hourly charge for VPC Endpoints",
+        "usagetype" : "USE1-VpcEndpoint-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "WJVJ7M2CHEBD98JZ" : {
+      "sku" : "WJVJ7M2CHEBD98JZ",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Gateway Load Balancer Endpoint",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+        "usagetype" : "USE1-VpcEndpoint-GWLBE-Bytes",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "PGNDUBPKV98PF5TB" : {
+      "sku" : "PGNDUBPKV98PF5TB",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Peering Attachments",
+        "usagetype" : "USE1-TransitGateway-Hours",
+        "operation" : "TransitGatewayPeering",
+        "attachmentType" : "Transit Gateway",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "YGVQQQ3WT9VAX47N" : {
+      "sku" : "YGVQQQ3WT9VAX47N",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments",
+        "usagetype" : "USE1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayDirectConnect",
+        "attachmentType" : "AWS DirectConnect",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "MH5MV7B93CBZYHYH" : {
+      "sku" : "MH5MV7B93CBZYHYH",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVPCIPAddressManager",
+        "groupDescription" : "Hourly charge for Active IP Addresses",
+        "usagetype" : "USE1-IPAddressManager-IP-Hours",
+        "operation" : "IPAM-Active-IP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "2Z8EJNMUG8MRUAQM" : {
+      "sku" : "2Z8EJNMUG8MRUAQM",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Hourly charge to access VPC Resource through Resource-endpoint",
+        "usagetype" : "USE1-VpcEndpoint-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "7DA87KWXES4HFUJX" : {
+      "sku" : "7DA87KWXES4HFUJX",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Data processed by AWS Verified Access",
+        "usagetype" : "USE1-VerifiedAccess-DataProcess-Bytes",
+        "operation" : "VerifiedAccess-data",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "3MUZ8GNDVB5XPGSB" : {
+      "sku" : "3MUZ8GNDVB5XPGSB",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVPCAccessAnalyzer",
+        "groupDescription" : "Charge per ENI processed by VPC Access Analyzer",
+        "usagetype" : "USE1-NetworkInterface-Assessment",
+        "operation" : "AnalyzeENI",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "FBSC9FB2KXJ38ZUZ" : {
+      "sku" : "FBSC9FB2KXJ38ZUZ",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSClientVPN",
+        "groupDescription" : "Hourly charge for Client VPN connections",
+        "usagetype" : "USE1-ClientVPN-ConnectionHours",
+        "operation" : "ClientVPNConnections",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "QCP92DSX72Q3CE8J" : {
+      "sku" : "QCP92DSX72Q3CE8J",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers",
+        "usagetype" : "USE1-TGW-Multicast-Consumer-Bytes",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "CJWGHHWNZBJQ72FC" : {
+      "sku" : "CJWGHHWNZBJQ72FC",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcResources",
+        "groupDescription" : "Hourly charge to access VPC Resource through service-network",
+        "usagetype" : "USE1-VpcLattice-Service-Network-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "BJ5T77AX98TZRG6J" : {
+      "sku" : "BJ5T77AX98TZRG6J",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Connect attachments",
+        "usagetype" : "USE1-TransitGateway-Hours",
+        "operation" : "TransitGatewayConnect",
+        "attachmentType" : "Transit Gateway Connect",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "F6U9HDNT75GWAMM2" : {
+      "sku" : "F6U9HDNT75GWAMM2",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSReachabilityAnalyzer",
+        "groupDescription" : "Charge per analysis processed by VPC Reachability Analyzer",
+        "usagetype" : "USE1-Analysis-Runs",
+        "operation" : "RunAnalysis",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "EC5BHP9ZANKN9EQD" : {
+      "sku" : "EC5BHP9ZANKN9EQD",
+      "productFamily" : "Cloud Connectivity",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "IPsec",
+        "usagetype" : "VPN-Usage-Hours:ipsec.1",
+        "operation" : "CreateVpnConnection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "4GQUNXTFWVSGPUZK" : {
+      "sku" : "4GQUNXTFWVSGPUZK",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VPCPublicIPv4Address",
+        "groupDescription" : "Hourly charge for In-use Public IPv4 Addresses",
+        "usagetype" : "USE1-PublicIPv4:InUseAddress",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "ZG7JTGZ4S7E5N26T" : {
+      "sku" : "ZG7JTGZ4S7E5N26T",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Endpoint Service",
+        "group" : "VPCE:VPCEnpoint",
+        "groupDescription" : "Charge per hour per active remote region for a VPCE service",
+        "usagetype" : "USE1-VpcEndpoint-Service-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "AK5AFB32HAKBFRSV" : {
+      "sku" : "AK5AFB32HAKBFRSV",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Connection per hour processed by VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-ConnectionCount-Charged",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "NJF9DVF9AEMQYT6B" : {
+      "sku" : "NJF9DVF9AEMQYT6B",
+      "productFamily" : "VPC Route Server",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Route Server",
+        "groupDescription" : "Hourly charge for Route Server Endpoints",
+        "usagetype" : "USE1-RouteServer-EndpointHours",
+        "operation" : "RouteServerEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "GJC3A7G9QS9MK3K3" : {
+      "sku" : "GJC3A7G9QS9MK3K3",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "transferType" : "Intra Region Peering Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-VpcPeering-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "ZRFZCHNHEEPEHEJY" : {
+      "sku" : "ZRFZCHNHEEPEHEJY",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for non-HTTP Verified Access endpoints",
+        "usagetype" : "USE1-VerifiedAccess-non-HTTP-App-Hours",
+        "operation" : "VerifiedAccess-NonHTTP-Apps",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "JJTHUHDDR6A6AMZ2" : {
+      "sku" : "JJTHUHDDR6A6AMZ2",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSClientVPN",
+        "groupDescription" : "Hourly charge for Client VPN Endpoints",
+        "usagetype" : "USE1-ClientVPN-EndpointHours",
+        "operation" : "ClientVPNEndpoints",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "7W9NVPG8YS74A6WC" : {
+      "sku" : "7W9NVPG8YS74A6WC",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways for VPC attachments",
+        "usagetype" : "USE1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "KPTJWQRPRKHTH73R" : {
+      "sku" : "KPTJWQRPRKHTH73R",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for Verified Access Applications",
+        "usagetype" : "USE1-VerifiedAccess-App-Hours",
+        "operation" : "VerifiedAccess-Apps",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "3MQ9DPVXQ37SYP6U" : {
+      "sku" : "3MQ9DPVXQ37SYP6U",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge to access VPC Resources",
+        "usagetype" : "USE1-VpcResource-Consumer-Bytes",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "T6YDQKTMVWKNJFJ8" : {
+      "sku" : "T6YDQKTMVWKNJFJ8",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VPCPublicIPv4Address",
+        "groupDescription" : "Hourly charge for Idle Public IPv4 Addresses",
+        "usagetype" : "USE1-PublicIPv4:IdleAddress",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "DQYYEZBCWSW5XS2R" : {
+      "sku" : "DQYYEZBCWSW5XS2R",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "endpointType" : "PrivateLink",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Charge for per GB data processed by VPC Endpoints",
+        "usagetype" : "USE1-VpcEndpoint-Bytes",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "YJ3BCMKN6N4V4VX3" : {
+      "sku" : "YJ3BCMKN6N4V4VX3",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Hour per VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-Service-Hourly",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "DJR6RVPWHDN423JY" : {
+      "sku" : "DJR6RVPWHDN423JY",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for Verified Access connections",
+        "usagetype" : "USE1-VerifiedAccess-ConnectionHours",
+        "operation" : "VerifiedAccessConnection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "NWMDJWA6SF7Z3MXD" : {
+      "sku" : "NWMDJWA6SF7Z3MXD",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways  for Site-to-Site VPN attachments",
+        "usagetype" : "USE1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "GR84NRRRB5UQHD5W" : {
+      "sku" : "GR84NRRRB5UQHD5W",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Free for the first 300,000 Connections per hour processed by VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-ConnectionCount-Free",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "CUP7BB8T9H2HZPVT" : {
+      "sku" : "CUP7BB8T9H2HZPVT",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Site-to-Site VPN attachments",
+        "usagetype" : "USE1-TransitGateway-Hours",
+        "operation" : "TransitGatewayVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "DJUV5YF82V6MHHV2" : {
+      "sku" : "DJUV5YF82V6MHHV2",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Request per hour processed by VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-RequestCount-Charged",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "NYTF84WY2A8AHZZC" : {
+      "sku" : "NYTF84WY2A8AHZZC",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge for provider of VPC Resource",
+        "usagetype" : "USE1-VpcResource-Provider-Bytes",
+        "operation" : "VpcResourceProvider",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "DQCNPSF4YK7XKQW8" : {
+      "sku" : "DQCNPSF4YK7XKQW8",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Free for the first 300,000 Requests per hour processed by VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-RequestCount-Free",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "6QWMNMNS4H37T5JU" : {
+      "sku" : "6QWMNMNS4H37T5JU",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per GB Data Processed by VPC Lattice Service",
+        "usagetype" : "USE1-VPCLattice-DataProcessing-Bytes",
+        "operation" : "VpcLattice",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "6FV8M2VENJXE5B4X" : {
+      "sku" : "6FV8M2VENJXE5B4X",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments",
+        "usagetype" : "USE1-TransitGateway-Hours",
+        "operation" : "TransitGatewayDirectConnect",
+        "attachmentType" : "AWS DirectConnect",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "PGNDUBPKV98PF5TB" : {
+        "PGNDUBPKV98PF5TB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGNDUBPKV98PF5TB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGNDUBPKV98PF5TB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGNDUBPKV98PF5TB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per hour for TransitGateway-Hours:TransitGatewayPeering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AK5AFB32HAKBFRSV" : {
+        "AK5AFB32HAKBFRSV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AK5AFB32HAKBFRSV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AK5AFB32HAKBFRSV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AK5AFB32HAKBFRSV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000001 per Connection per hour processed by VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Connections",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZG7JTGZ4S7E5N26T" : {
+        "ZG7JTGZ4S7E5N26T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZG7JTGZ4S7E5N26T",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZG7JTGZ4S7E5N26T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZG7JTGZ4S7E5N26T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per hour per active remote region for a VPCE service",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BJ5T77AX98TZRG6J" : {
+        "BJ5T77AX98TZRG6J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BJ5T77AX98TZRG6J",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BJ5T77AX98TZRG6J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BJ5T77AX98TZRG6J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per hour for TransitGateway-Hours:TransitGatewayConnect in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6TQVKSWSMZMGQ66P" : {
+        "6TQVKSWSMZMGQ66P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6TQVKSWSMZMGQ66P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6TQVKSWSMZMGQ66P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6TQVKSWSMZMGQ66P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for USE1-VpcPeering-Out-Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MH5MV7B93CBZYHYH" : {
+        "MH5MV7B93CBZYHYH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MH5MV7B93CBZYHYH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MH5MV7B93CBZYHYH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MH5MV7B93CBZYHYH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00027 per hours for IPAddressManager-IP-Hours:IPAM-Active-IP in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0002700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KPTJWQRPRKHTH73R" : {
+        "KPTJWQRPRKHTH73R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KPTJWQRPRKHTH73R",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KPTJWQRPRKHTH73R.JRTCKXETXF.YHRGHAZCQU" : {
+              "rateCode" : "KPTJWQRPRKHTH73R.JRTCKXETXF.YHRGHAZCQU",
+              "description" : "$0.27 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "148800",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KPTJWQRPRKHTH73R.JRTCKXETXF.7P82R4JVNG" : {
+              "rateCode" : "KPTJWQRPRKHTH73R.JRTCKXETXF.7P82R4JVNG",
+              "description" : "$0.20 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in US East (N. Virginia)",
+              "beginRange" : "148800",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EC5BHP9ZANKN9EQD" : {
+        "EC5BHP9ZANKN9EQD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EC5BHP9ZANKN9EQD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EC5BHP9ZANKN9EQD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EC5BHP9ZANKN9EQD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per VPN Connection-Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4GQUNXTFWVSGPUZK" : {
+        "4GQUNXTFWVSGPUZK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4GQUNXTFWVSGPUZK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4GQUNXTFWVSGPUZK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4GQUNXTFWVSGPUZK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per In-use public IPv4 address per hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CJWGHHWNZBJQ72FC" : {
+        "CJWGHHWNZBJQ72FC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CJWGHHWNZBJQ72FC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CJWGHHWNZBJQ72FC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CJWGHHWNZBJQ72FC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per hour per VPC resource in a service-network in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DQYYEZBCWSW5XS2R" : {
+        "DQYYEZBCWSW5XS2R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DQYYEZBCWSW5XS2R",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DQYYEZBCWSW5XS2R.JRTCKXETXF.D7RZ6WCPVW" : {
+              "rateCode" : "DQYYEZBCWSW5XS2R.JRTCKXETXF.D7RZ6WCPVW",
+              "description" : "$0.01 per GB for upto 1 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "0",
+              "endRange" : "1048576",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DQYYEZBCWSW5XS2R.JRTCKXETXF.RBMR72YW69" : {
+              "rateCode" : "DQYYEZBCWSW5XS2R.JRTCKXETXF.RBMR72YW69",
+              "description" : "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "1048576",
+              "endRange" : "5242880",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DQYYEZBCWSW5XS2R.JRTCKXETXF.SW9U2ZKBYX" : {
+              "rateCode" : "DQYYEZBCWSW5XS2R.JRTCKXETXF.SW9U2ZKBYX",
+              "description" : "$0.004 per GB for more than 5 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "5242880",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZRFZCHNHEEPEHEJY" : {
+        "ZRFZCHNHEEPEHEJY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZRFZCHNHEEPEHEJY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZRFZCHNHEEPEHEJY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZRFZCHNHEEPEHEJY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.20 per hours for VerifiedAccess-non-HTTP-App-Hours:VerifiedAccess-NonHTTP-Apps in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F6U9HDNT75GWAMM2" : {
+        "F6U9HDNT75GWAMM2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F6U9HDNT75GWAMM2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "F6U9HDNT75GWAMM2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F6U9HDNT75GWAMM2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per analysis processed by VPC Reachability Analyzer",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReachabilityAnalyses",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2Z8EJNMUG8MRUAQM" : {
+        "2Z8EJNMUG8MRUAQM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2Z8EJNMUG8MRUAQM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "2Z8EJNMUG8MRUAQM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2Z8EJNMUG8MRUAQM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per hour per VPC resource for VPC endpoint of type 'resource' in  US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7DA87KWXES4HFUJX" : {
+        "7DA87KWXES4HFUJX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7DA87KWXES4HFUJX",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7DA87KWXES4HFUJX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7DA87KWXES4HFUJX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for VerifiedAccess-DataProcess-Bytes:VerifiedAccess-data in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6QWMNMNS4H37T5JU" : {
+        "6QWMNMNS4H37T5JU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6QWMNMNS4H37T5JU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6QWMNMNS4H37T5JU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6QWMNMNS4H37T5JU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per GB Data Processed by VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NWMDJWA6SF7Z3MXD" : {
+        "NWMDJWA6SF7Z3MXD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NWMDJWA6SF7Z3MXD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NWMDJWA6SF7Z3MXD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NWMDJWA6SF7Z3MXD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway VPN Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6FV8M2VENJXE5B4X" : {
+        "6FV8M2VENJXE5B4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6FV8M2VENJXE5B4X",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6FV8M2VENJXE5B4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6FV8M2VENJXE5B4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Transit Gateway DirectConnect Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9N2FHGMMCZBKDCGH" : {
+        "9N2FHGMMCZBKDCGH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9N2FHGMMCZBKDCGH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9N2FHGMMCZBKDCGH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9N2FHGMMCZBKDCGH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Transit Gateway VPC Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DQCNPSF4YK7XKQW8" : {
+        "DQCNPSF4YK7XKQW8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DQCNPSF4YK7XKQW8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DQCNPSF4YK7XKQW8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DQCNPSF4YK7XKQW8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 for the first 300,000 Requests per hour processed by VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YGVQQQ3WT9VAX47N" : {
+        "YGVQQQ3WT9VAX47N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YGVQQQ3WT9VAX47N",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YGVQQQ3WT9VAX47N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YGVQQQ3WT9VAX47N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway DirectConnect Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CGTM7UBZH2TVW4HH" : {
+        "CGTM7UBZH2TVW4HH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CGTM7UBZH2TVW4HH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CGTM7UBZH2TVW4HH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CGTM7UBZH2TVW4HH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per Hrs for VpcEndpoint-GWLBE-Hours:VpcEndpoint in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CUP7BB8T9H2HZPVT" : {
+        "CUP7BB8T9H2HZPVT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CUP7BB8T9H2HZPVT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CUP7BB8T9H2HZPVT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CUP7BB8T9H2HZPVT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Transit Gateway VPN Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GJC3A7G9QS9MK3K3" : {
+        "GJC3A7G9QS9MK3K3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GJC3A7G9QS9MK3K3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GJC3A7G9QS9MK3K3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GJC3A7G9QS9MK3K3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for USE1-VpcPeering-In-Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EN2N5TATXE673A3B" : {
+        "EN2N5TATXE673A3B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EN2N5TATXE673A3B",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EN2N5TATXE673A3B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EN2N5TATXE673A3B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per VPC Endpoint Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3MQ9DPVXQ37SYP6U" : {
+        "3MQ9DPVXQ37SYP6U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3MQ9DPVXQ37SYP6U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3MQ9DPVXQ37SYP6U.JRTCKXETXF.D7RZ6WCPVW" : {
+              "rateCode" : "3MQ9DPVXQ37SYP6U.JRTCKXETXF.D7RZ6WCPVW",
+              "description" : "$0.01 per GB for upto 1 PB monthly data processed for VPC resources ",
+              "beginRange" : "0",
+              "endRange" : "1048576",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3MQ9DPVXQ37SYP6U.JRTCKXETXF.RBMR72YW69" : {
+              "rateCode" : "3MQ9DPVXQ37SYP6U.JRTCKXETXF.RBMR72YW69",
+              "description" : "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed for VPC resources",
+              "beginRange" : "1048576",
+              "endRange" : "5242880",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3MQ9DPVXQ37SYP6U.JRTCKXETXF.SW9U2ZKBYX" : {
+              "rateCode" : "3MQ9DPVXQ37SYP6U.JRTCKXETXF.SW9U2ZKBYX",
+              "description" : "$0.004 per GB for more than 5 PB monthly data processed for VPC resources ",
+              "beginRange" : "5242880",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QCP92DSX72Q3CE8J" : {
+        "QCP92DSX72Q3CE8J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QCP92DSX72Q3CE8J",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QCP92DSX72Q3CE8J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QCP92DSX72Q3CE8J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GigaBytes for TGW-Multicast-Consumer-Bytes:TransitGatewayVPC in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WJVJ7M2CHEBD98JZ" : {
+        "WJVJ7M2CHEBD98JZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WJVJ7M2CHEBD98JZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WJVJ7M2CHEBD98JZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WJVJ7M2CHEBD98JZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0035000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JJTHUHDDR6A6AMZ2" : {
+        "JJTHUHDDR6A6AMZ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JJTHUHDDR6A6AMZ2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JJTHUHDDR6A6AMZ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JJTHUHDDR6A6AMZ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per Client VPN Endpoint Association Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T6YDQKTMVWKNJFJ8" : {
+        "T6YDQKTMVWKNJFJ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T6YDQKTMVWKNJFJ8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "T6YDQKTMVWKNJFJ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T6YDQKTMVWKNJFJ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per Idle public IPv4 address per hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3MUZ8GNDVB5XPGSB" : {
+        "3MUZ8GNDVB5XPGSB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3MUZ8GNDVB5XPGSB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3MUZ8GNDVB5XPGSB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3MUZ8GNDVB5XPGSB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per ENI processed by VPC Network Access Analyzer us-east-1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "NetworkInterface-Assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0020000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NYTF84WY2A8AHZZC" : {
+        "NYTF84WY2A8AHZZC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NYTF84WY2A8AHZZC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NYTF84WY2A8AHZZC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NYTF84WY2A8AHZZC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per GB for data processed by VPC resource in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GR84NRRRB5UQHD5W" : {
+        "GR84NRRRB5UQHD5W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GR84NRRRB5UQHD5W",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GR84NRRRB5UQHD5W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GR84NRRRB5UQHD5W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 for the first 300,000 Connections per hour processed by VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Connections",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G45CEDSGU2ER8WPQ" : {
+        "G45CEDSGU2ER8WPQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G45CEDSGU2ER8WPQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "G45CEDSGU2ER8WPQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G45CEDSGU2ER8WPQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per hour per IPv4 address in contiguous IPv4 block",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FBSC9FB2KXJ38ZUZ" : {
+        "FBSC9FB2KXJ38ZUZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FBSC9FB2KXJ38ZUZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FBSC9FB2KXJ38ZUZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FBSC9FB2KXJ38ZUZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Client VPN Connection Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7W9NVPG8YS74A6WC" : {
+        "7W9NVPG8YS74A6WC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7W9NVPG8YS74A6WC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7W9NVPG8YS74A6WC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7W9NVPG8YS74A6WC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway VPC Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z2ZYE9BNTKZB3ZQ8" : {
+        "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z2ZYE9BNTKZB3ZQ8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.015 per Traffic Mirroring Source Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YJ3BCMKN6N4V4VX3" : {
+        "YJ3BCMKN6N4V4VX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YJ3BCMKN6N4V4VX3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YJ3BCMKN6N4V4VX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YJ3BCMKN6N4V4VX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per Hour per VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DJUV5YF82V6MHHV2" : {
+        "DJUV5YF82V6MHHV2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJUV5YF82V6MHHV2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJUV5YF82V6MHHV2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DJUV5YF82V6MHHV2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000001 per Request per hour processed by VPC Lattice Service (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000001000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NJF9DVF9AEMQYT6B" : {
+        "NJF9DVF9AEMQYT6B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NJF9DVF9AEMQYT6B",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NJF9DVF9AEMQYT6B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NJF9DVF9AEMQYT6B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.75 per Hour for USE1-RouteServer-EndpointHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DJR6RVPWHDN423JY" : {
+        "DJR6RVPWHDN423JY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJR6RVPWHDN423JY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJR6RVPWHDN423JY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DJR6RVPWHDN423JY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.001 per Hourly for VerifiedAccess-ConnectionHours:VerifiedAccessConnection in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

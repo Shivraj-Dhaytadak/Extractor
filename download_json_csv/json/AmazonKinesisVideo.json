@@ -1,0 +1,559 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonKinesisVideo",
+  "version" : "20250516194206",
+  "publicationDate" : "2025-05-16T19:42:06Z",
+  "products" : {
+    "275MYCAMKU3J44D9" : {
+      "sku" : "275MYCAMKU3J44D9",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per minute of media stream recorded into Kinesis Video Streams via WebRTC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "WebRTC Streaming minutes for Storage",
+        "usagetype" : "USE1-WebRTCRecording",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "28JSEGSRHJV77EGM" : {
+      "sku" : "28JSEGSRHJV77EGM",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data read from Kinesis Video Streams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Consumption",
+        "usagetype" : "USE1-BytesOut",
+        "operation" : "GetMediaforFragmentList",
+        "readtype" : "Fragment based",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "XURDWRTH4WHG6WV7" : {
+      "sku" : "XURDWRTH4WHG6WV7",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per million images generated - S3 Delivery (greater than 1080p resolution)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Images Generated",
+        "usagetype" : "USE1-HighRes-ImagesCount",
+        "operation" : "S3ImageGeneration",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "RM29Y377B8TAW8FQ" : {
+      "sku" : "RM29Y377B8TAW8FQ",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per million images generated - S3 Delivery (1080p or lower resolution)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Images Generated",
+        "usagetype" : "USE1-LowRes-ImagesCount",
+        "operation" : "S3ImageGeneration",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "S994JVRH7PWUP27Y" : {
+      "sku" : "S994JVRH7PWUP27Y",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data ingested into Kinesis Video Streams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Ingestion",
+        "usagetype" : "USE1-BytesIn",
+        "operation" : "PutMedia",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "2D6XRW82K66GU286" : {
+      "sku" : "2D6XRW82K66GU286",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per month for an active signaling channel",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Active Signaling Channel",
+        "usagetype" : "USE1-SignalingChannel",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "45ZVYHPZT3MMMU95" : {
+      "sku" : "45ZVYHPZT3MMMU95",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB-Month of data stored in Kinesis Video Streams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Storage",
+        "usagetype" : "USE1-BytesHr",
+        "operation" : "PutMedia",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "F9GXMSVRZZJ8Q5YG" : {
+      "sku" : "F9GXMSVRZZJ8Q5YG",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per million images generated - getImages (greater than 1080p resolution)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Images Generated",
+        "usagetype" : "USE1-HighRes-ImagesCount",
+        "operation" : "GetImages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "XNTVWJ2S7NHGKTST" : {
+      "sku" : "XNTVWJ2S7NHGKTST",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per million images generated - getImages (1080p or lower resolution)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Images Generated",
+        "usagetype" : "USE1-LowRes-ImagesCount",
+        "operation" : "GetImages",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "JAY5MU5U5Y9CYYAR" : {
+      "sku" : "JAY5MU5U5Y9CYYAR",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data read from Kinesis Video Streams for HLS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Consumption",
+        "usagetype" : "USE1-BytesOut",
+        "operation" : "GetClip",
+        "readtype" : "Fragment based",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "UBUQ3MPM98ZVBR3N" : {
+      "sku" : "UBUQ3MPM98ZVBR3N",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data read from Kinesis Video Streams",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Consumption",
+        "usagetype" : "USE1-BytesOut",
+        "operation" : "GetMedia",
+        "readtype" : "Streaming",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "N5443J59MTJSMGXN" : {
+      "sku" : "N5443J59MTJSMGXN",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per thousand TURN streaming minutes",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "TURN Streaming Minutes",
+        "usagetype" : "USE1-TURNMinutes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "3T9WX6UZH7C67JHE" : {
+      "sku" : "3T9WX6UZH7C67JHE",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data read from Kinesis Video Streams for HLS  or MPEG-DASH",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Consumption",
+        "usagetype" : "USE1-BytesOut",
+        "operation" : "GetMP4MediaFragment",
+        "readtype" : "Streaming",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "CWKVC4GTX2UFWM8J" : {
+      "sku" : "CWKVC4GTX2UFWM8J",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per million signaling messages",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Signaling Messages",
+        "usagetype" : "USE1-SignalingMessages",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    },
+    "9KB2FX5K5DQ75DHA" : {
+      "sku" : "9KB2FX5K5DQ75DHA",
+      "productFamily" : "Kinesis Video",
+      "attributes" : {
+        "servicecode" : "AmazonKinesisVideo",
+        "description" : "Per GB of data read from Kinesis Video Streams for HLS  or MPEG-DASH",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Data Consumption",
+        "usagetype" : "USE1-BytesOut",
+        "operation" : "GetTSFragment",
+        "readtype" : "Fragment based",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Kinesis Video Streams"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "28JSEGSRHJV77EGM" : {
+        "28JSEGSRHJV77EGM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "28JSEGSRHJV77EGM",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "28JSEGSRHJV77EGM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "28JSEGSRHJV77EGM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0085 Per GB of data read from Kinesis Video Streams",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0085000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XNTVWJ2S7NHGKTST" : {
+        "XNTVWJ2S7NHGKTST.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XNTVWJ2S7NHGKTST",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XNTVWJ2S7NHGKTST.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XNTVWJ2S7NHGKTST.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00001 Per million images generated - getImages (1080p or lower resolution)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S994JVRH7PWUP27Y" : {
+        "S994JVRH7PWUP27Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S994JVRH7PWUP27Y",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "S994JVRH7PWUP27Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S994JVRH7PWUP27Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0085 Per GB of data ingested into Kinesis Video Streams",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0085000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CWKVC4GTX2UFWM8J" : {
+        "CWKVC4GTX2UFWM8J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CWKVC4GTX2UFWM8J",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "CWKVC4GTX2UFWM8J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CWKVC4GTX2UFWM8J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.25 per million signaling messages",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000022500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F9GXMSVRZZJ8Q5YG" : {
+        "F9GXMSVRZZJ8Q5YG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F9GXMSVRZZJ8Q5YG",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "F9GXMSVRZZJ8Q5YG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F9GXMSVRZZJ8Q5YG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000018 Per million images generated - getImages (greater than 1080p resolution)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0000180000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2D6XRW82K66GU286" : {
+        "2D6XRW82K66GU286.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2D6XRW82K66GU286",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per month for an active signaling channel",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Count",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JAY5MU5U5Y9CYYAR" : {
+        "JAY5MU5U5Y9CYYAR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JAY5MU5U5Y9CYYAR",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "JAY5MU5U5Y9CYYAR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JAY5MU5U5Y9CYYAR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0119 per GB for BytesOut:GetClip in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0119000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3T9WX6UZH7C67JHE" : {
+        "3T9WX6UZH7C67JHE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3T9WX6UZH7C67JHE",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "3T9WX6UZH7C67JHE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3T9WX6UZH7C67JHE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0119 Per GB of data read from Kinesis Video Streams for HLS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0119000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9KB2FX5K5DQ75DHA" : {
+        "9KB2FX5K5DQ75DHA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9KB2FX5K5DQ75DHA",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "9KB2FX5K5DQ75DHA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9KB2FX5K5DQ75DHA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0119 Per GB of data read from Kinesis Video Streams for HLS",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0119000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XURDWRTH4WHG6WV7" : {
+        "XURDWRTH4WHG6WV7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XURDWRTH4WHG6WV7",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XURDWRTH4WHG6WV7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XURDWRTH4WHG6WV7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000018 Per million images generated - S3 Delivery (greater than 1080p resolution)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0000180000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "45ZVYHPZT3MMMU95" : {
+        "45ZVYHPZT3MMMU95.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "45ZVYHPZT3MMMU95",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "45ZVYHPZT3MMMU95.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "45ZVYHPZT3MMMU95.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023 Per GB-Month of data stored in Kinesis Video Streams",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Month",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "275MYCAMKU3J44D9" : {
+        "275MYCAMKU3J44D9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "275MYCAMKU3J44D9",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "275MYCAMKU3J44D9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "275MYCAMKU3J44D9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Per minute of media stream recorded into Kinesis Video Streams via WebRTC",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minute",
+              "pricePerUnit" : {
+                "USD" : "0.0034000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N5443J59MTJSMGXN" : {
+        "N5443J59MTJSMGXN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N5443J59MTJSMGXN",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "N5443J59MTJSMGXN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N5443J59MTJSMGXN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.12 per 1000 TURN streaming minutes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0001200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UBUQ3MPM98ZVBR3N" : {
+        "UBUQ3MPM98ZVBR3N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UBUQ3MPM98ZVBR3N",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "UBUQ3MPM98ZVBR3N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UBUQ3MPM98ZVBR3N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0085 Per GB of data read from Kinesis Video Streams",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0085000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RM29Y377B8TAW8FQ" : {
+        "RM29Y377B8TAW8FQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RM29Y377B8TAW8FQ",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "RM29Y377B8TAW8FQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RM29Y377B8TAW8FQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00001 Per million images generated - S3 Delivery (1080p or lower resolution)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Images Processed",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

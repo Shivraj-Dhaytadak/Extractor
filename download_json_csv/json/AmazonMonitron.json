@@ -1,0 +1,50 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMonitron",
+  "version" : "20230420164103",
+  "publicationDate" : "2023-04-20T16:41:03Z",
+  "products" : {
+    "EDSSWZT5BTGFNZ36" : {
+      "sku" : "EDSSWZT5BTGFNZ36",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonMonitron",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Monitron",
+        "groupDescription" : "Monitron service",
+        "usagetype" : "USE1-MonitronService",
+        "operation" : "MonitronService",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Monitron"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "EDSSWZT5BTGFNZ36" : {
+        "EDSSWZT5BTGFNZ36.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EDSSWZT5BTGFNZ36",
+          "effectiveDate" : "2023-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "EDSSWZT5BTGFNZ36.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EDSSWZT5BTGFNZ36.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.167 per Sensor-Month for Monitron Service in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Sensor-Month",
+              "pricePerUnit" : {
+                "USD" : "4.1670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

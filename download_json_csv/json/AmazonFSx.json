@@ -1,0 +1,2611 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonFSx",
+  "version" : "20250516170145",
+  "publicationDate" : "2025-05-16T17:01:45Z",
+  "products" : {
+    "7BCUWZN7JRJAUQAC" : {
+      "sku" : "7BCUWZN7JRJAUQAC",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.50",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "No",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "50"
+      }
+    },
+    "UKNG9T36WPKDA96X" : {
+      "sku" : "UKNG9T36WPKDA96X",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:INT_Monitoring",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Monitoring",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "BQB5JCA6KYX2XFMW" : {
+      "sku" : "BQB5JCA6KYX2XFMW",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MetadataIOPS",
+        "operation" : "CreateFileSystem:Lustre",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "5B2VYQKCG82UNAKV" : {
+      "sku" : "5B2VYQKCG82UNAKV",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.MAZ",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "4Z8DEN65X89AAWCM" : {
+      "sku" : "4Z8DEN65X89AAWCM",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ2",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "E5FGFU8KYGKMRRVC" : {
+      "sku" : "E5FGFU8KYGKMRRVC",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ_HA",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_HA",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "7Z67S7SXJMS6RJGU" : {
+      "sku" : "7Z67S7SXJMS6RJGU",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MultiAZ:SSD",
+        "operation" : "CreateFileSystem:Windows",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "7MNKJJ33XGRY7JFB" : {
+      "sku" : "7MNKJJ33XGRY7JFB",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "NXJD8KBTG7YXFF7F" : {
+      "sku" : "NXJD8KBTG7YXFF7F",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:SSD",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "22C6NU45ED6TZA9T" : {
+      "sku" : "22C6NU45ED6TZA9T",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage",
+        "operation" : "CreateFileSystem:Windows",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "DQKVH4U3NQYVNZ6E" : {
+      "sku" : "DQKVH4U3NQYVNZ6E",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:SSD",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "PHVZ44MVC6KSTAB3" : {
+      "sku" : "PHVZ44MVC6KSTAB3",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.MAZ:INT_Write",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "requestType" : "Write",
+        "servicename" : "Amazon FSx",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "NEQFBB7RR8GSD2VB" : {
+      "sku" : "NEQFBB7RR8GSD2VB",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ_HA2",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_HA_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "8TYDU8XPGGYA7FNZ" : {
+      "sku" : "8TYDU8XPGGYA7FNZ",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.HDD.40.RC20",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "RC20",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "40"
+      }
+    },
+    "VD8X9XDVSXVJG349" : {
+      "sku" : "VD8X9XDVSXVJG349",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ_HA",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_HA",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "UG7C4K4TRM68R2UH" : {
+      "sku" : "UG7C4K4TRM68R2UH",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage:HDD",
+        "operation" : "CreateFileSystem:Windows",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "H3YNRWQ2PK4XN4BV" : {
+      "sku" : "H3YNRWQ2PK4XN4BV",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ_HA:SSD",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_HA",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "3RBQY994P2V2P7F4" : {
+      "sku" : "3RBQY994P2V2P7F4",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage.MAZ",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "NBVNX9DNZ5P2CX4F" : {
+      "sku" : "NBVNX9DNZ5P2CX4F",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.MAZ:CPoolStdRd",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "requestType" : "Read",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "E3JHA6X39S3E8C7V" : {
+      "sku" : "E3JHA6X39S3E8C7V",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ_2N2:SSD",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_2N-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "VUP9T5TT7S4R7382" : {
+      "sku" : "VUP9T5TT7S4R7382",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:INT_SSDCache",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "SSD",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "SSD cache",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "W4FWDRTGMWYSZAJZ" : {
+      "sku" : "W4FWDRTGMWYSZAJZ",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.MAZ",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "BA598296EGRVKPGU" : {
+      "sku" : "BA598296EGRVKPGU",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ_2N",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "WFHJCNM7MYWA5KAB" : {
+      "sku" : "WFHJCNM7MYWA5KAB",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.MAZ2",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "CGQJXWWN56XTVZJC" : {
+      "sku" : "CGQJXWWN56XTVZJC",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:CPoolStd",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "Capacity pool - Standard",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "CWFT9WYREKCEDGZZ" : {
+      "sku" : "CWFT9WYREKCEDGZZ",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ_2N2",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "RG4Q72WKSZ9AK32M" : {
+      "sku" : "RG4Q72WKSZ9AK32M",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage",
+        "operation" : "CreateFileSystem:Lustre",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "QPFC9SWZVYSK25J4" : {
+      "sku" : "QPFC9SWZVYSK25J4",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "N/A",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "2K2PVNVMAB6NC9UP" : {
+      "sku" : "2K2PVNVMAB6NC9UP",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.500",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "500"
+      }
+    },
+    "62TQNJKM9Y5GSQJQ" : {
+      "sku" : "62TQNJKM9Y5GSQJQ",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.MAZ",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "X5KT8JHPYQQEZNXD" : {
+      "sku" : "X5KT8JHPYQQEZNXD",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "PDUXG84BSR7J6HU9" : {
+      "sku" : "PDUXG84BSR7J6HU9",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.100",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "No",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "100"
+      }
+    },
+    "CMU9RBYV27A8G66T" : {
+      "sku" : "CMU9RBYV27A8G66T",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ_HA2:SSD",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_HA_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "Y58EC7UAHYBP4BBY" : {
+      "sku" : "Y58EC7UAHYBP4BBY",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.1000",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "1000"
+      }
+    },
+    "V3GGY5D9SSB2RNZD" : {
+      "sku" : "V3GGY5D9SSB2RNZD",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ:SSD",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "EXMCN9J9SCNMCF36" : {
+      "sku" : "EXMCN9J9SCNMCF36",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "N7NG4GCNBWDYRWR3" : {
+      "sku" : "N7NG4GCNBWDYRWR3",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:INT_IA",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Infrequent Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "2JBXX2HUCR2N9CN2" : {
+      "sku" : "2JBXX2HUCR2N9CN2",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.HDD.12",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "12"
+      }
+    },
+    "AGG5QG9S3KC7D85E" : {
+      "sku" : "AGG5QG9S3KC7D85E",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "S4HKZZ4TUQK63DK8" : {
+      "sku" : "S4HKZZ4TUQK63DK8",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.MAZ:CPoolStdWr",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "requestType" : "Write",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "CVVTU6SNXDZG5B4B" : {
+      "sku" : "CVVTU6SNXDZG5B4B",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:INT_AIA",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Archive Instant Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "7P443AXE7TV5TME7" : {
+      "sku" : "7P443AXE7TV5TME7",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ_HA2",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_HA_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "RT9UV72JS82TBK8H" : {
+      "sku" : "RT9UV72JS82TBK8H",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "N/A",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "UMGNCB47PPE2Q49R" : {
+      "sku" : "UMGNCB47PPE2Q49R",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ2:SSD",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "K73GPYK2STUVHART" : {
+      "sku" : "K73GPYK2STUVHART",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ_2N2",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "XR3B3U5VPPZ6E6YW" : {
+      "sku" : "XR3B3U5VPPZ6E6YW",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.HDD.12.RC20",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "RC20",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "12"
+      }
+    },
+    "R8RSJK5X2HX72T26" : {
+      "sku" : "R8RSJK5X2HX72T26",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.SAZ2",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "deploymentOption" : "Single-AZ_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "79FV3VMXMRD7XX5M" : {
+      "sku" : "79FV3VMXMRD7XX5M",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.250",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "250"
+      }
+    },
+    "3EWWMVR8KUSHQTSG" : {
+      "sku" : "3EWWMVR8KUSHQTSG",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.MAZ:INT_Read",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "requestType" : "Read",
+        "servicename" : "Amazon FSx",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "ZXUFDJQU3RZG25WX" : {
+      "sku" : "ZXUFDJQU3RZG25WX",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ2:SSD",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_2",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "GB9B5HC7TXVPTKWG" : {
+      "sku" : "GB9B5HC7TXVPTKWG",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "GD8NVJZKGMVRJA7Y" : {
+      "sku" : "GD8NVJZKGMVRJA7Y",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MAZ:INT_FA",
+        "operation" : "CreateFileSystem:OpenZFS",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "OpenZFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Frequent Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "76AFPUSTR667RJZ4" : {
+      "sku" : "76AFPUSTR667RJZ4",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.1000",
+        "operation" : "CreateFileCache:Lustre",
+        "fileCacheType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "throughputCapacity" : "1000"
+      }
+    },
+    "GCPJXNZW9VC227MA" : {
+      "sku" : "GCPJXNZW9VC227MA",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.MAZ2",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ-2",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "22QXZGRUC46HK9XV" : {
+      "sku" : "22QXZGRUC46HK9XV",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.SAZ_2N:CPoolStdRd",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "requestType" : "Read",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "4J3942Y6B6JABX4Z" : {
+      "sku" : "4J3942Y6B6JABX4Z",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.MultiAZ",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "MS2APTU447246QGT" : {
+      "sku" : "MS2APTU447246QGT",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.200",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "No",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "200"
+      }
+    },
+    "5YTYQR3YQVNXTEPK" : {
+      "sku" : "5YTYQR3YQVNXTEPK",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.MultiAZ:HDD",
+        "operation" : "CreateFileSystem:Windows",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "3ATMX2THG9YVHAJ6" : {
+      "sku" : "3ATMX2THG9YVHAJ6",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.HDD.40",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "HDD",
+        "throughputCapacity" : "40"
+      }
+    },
+    "R7VCKBN9NJXDZVS2" : {
+      "sku" : "R7VCKBN9NJXDZVS2",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ_2N:SSD",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "ZFVNMK5HNC6PBZTM" : {
+      "sku" : "ZFVNMK5HNC6PBZTM",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SSD.125",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "currentGeneration" : "Yes",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "SSD",
+        "throughputCapacity" : "125"
+      }
+    },
+    "ZSDAAQSMDYNUKUS9" : {
+      "sku" : "ZSDAAQSMDYNUKUS9",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.MultiAZ",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "934XZU4UVX66PPK5" : {
+      "sku" : "934XZU4UVX66PPK5",
+      "productFamily" : "Request",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.SAZ_2N:CPoolStdWr",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "requestType" : "Write",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "C2FMGQHTZJR3W7RG" : {
+      "sku" : "C2FMGQHTZJR3W7RG",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ProvisionedSSDIOPS.SAZ_2N",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "9XZUN2N3RZKJVVYZ" : {
+      "sku" : "9XZUN2N3RZKJVVYZ",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.SAZ_2N:CPoolStd",
+        "operation" : "CreateFileSystem:ONTAP",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Single-AZ_2N",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "N/A",
+        "storageType" : "Capacity pool - Standard",
+        "throughputCapacity" : "N/A"
+      }
+    },
+    "QCV7AHXZXX9UKQJ2" : {
+      "sku" : "QCV7AHXZXX9UKQJ2",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.MAZ",
+        "operation" : "CreateFileSystem:ONTAP",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "ONTAP",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "6QB6UXGS98T8AHHJ" : {
+      "sku" : "6QB6UXGS98T8AHHJ",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Single-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "H93HK9S7EX88XPSG" : {
+      "sku" : "H93HK9S7EX88XPSG",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-BackupUsage.MultiAZ",
+        "operation" : "CreateFileSystem:Windows",
+        "deploymentOption" : "Multi-AZ",
+        "fileSystemType" : "Windows",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "22QXZGRUC46HK9XV" : {
+        "22QXZGRUC46HK9XV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "22QXZGRUC46HK9XV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "22QXZGRUC46HK9XV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "22QXZGRUC46HK9XV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00040 per 1,000 read requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R7VCKBN9NJXDZVS2" : {
+        "R7VCKBN9NJXDZVS2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R7VCKBN9NJXDZVS2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "R7VCKBN9NJXDZVS2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R7VCKBN9NJXDZVS2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per GB-Month of provisioned ONTAP Single-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NBVNX9DNZ5P2CX4F" : {
+        "NBVNX9DNZ5P2CX4F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NBVNX9DNZ5P2CX4F",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NBVNX9DNZ5P2CX4F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NBVNX9DNZ5P2CX4F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00040 per 1,000 read requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GD8NVJZKGMVRJA7Y" : {
+        "GD8NVJZKGMVRJA7Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GD8NVJZKGMVRJA7Y",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GD8NVJZKGMVRJA7Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GD8NVJZKGMVRJA7Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0230 per GB-Month of OpenZFS Intelligent-Tiering storage in the Frequent Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2K2PVNVMAB6NC9UP" : {
+        "2K2PVNVMAB6NC9UP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2K2PVNVMAB6NC9UP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "2K2PVNVMAB6NC9UP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2K2PVNVMAB6NC9UP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.340 per GB-Month of persistent SSD Lustre storage with 500 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.3400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2JBXX2HUCR2N9CN2" : {
+        "2JBXX2HUCR2N9CN2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2JBXX2HUCR2N9CN2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "2JBXX2HUCR2N9CN2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2JBXX2HUCR2N9CN2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per GB-Month of persistent HDD Lustre storage with 12 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4J3942Y6B6JABX4Z" : {
+        "4J3942Y6B6JABX4Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4J3942Y6B6JABX4Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4J3942Y6B6JABX4Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4J3942Y6B6JABX4Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.500 per MB-per-second-Month of provisioned Multi-AZ Windows File Server throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "4.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NEQFBB7RR8GSD2VB" : {
+        "NEQFBB7RR8GSD2VB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NEQFBB7RR8GSD2VB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NEQFBB7RR8GSD2VB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NEQFBB7RR8GSD2VB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.52 per MBps-Month for provisioned Single-AZ (HA) OpenZFS throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7BCUWZN7JRJAUQAC" : {
+        "7BCUWZN7JRJAUQAC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7BCUWZN7JRJAUQAC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7BCUWZN7JRJAUQAC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7BCUWZN7JRJAUQAC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.140 per GB-Month of provisioned persistent Lustre storage with 50 MB/s per TB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GCPJXNZW9VC227MA" : {
+        "GCPJXNZW9VC227MA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GCPJXNZW9VC227MA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GCPJXNZW9VC227MA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GCPJXNZW9VC227MA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.500 per MBps-Month of provisioned ONTAP Multi-AZ-2 throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E3JHA6X39S3E8C7V" : {
+        "E3JHA6X39S3E8C7V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E3JHA6X39S3E8C7V",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E3JHA6X39S3E8C7V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E3JHA6X39S3E8C7V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per GB-Month of provisioned ONTAP Single-AZ-2 SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UKNG9T36WPKDA96X" : {
+        "UKNG9T36WPKDA96X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UKNG9T36WPKDA96X",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UKNG9T36WPKDA96X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UKNG9T36WPKDA96X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0006 per GB-Month of OpenZFS Intelligent-Tiering storage for monitoring and automation - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3ATMX2THG9YVHAJ6" : {
+        "3ATMX2THG9YVHAJ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3ATMX2THG9YVHAJ6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3ATMX2THG9YVHAJ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3ATMX2THG9YVHAJ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB-Month of persistent HDD Lustre storage with 40 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZSDAAQSMDYNUKUS9" : {
+        "ZSDAAQSMDYNUKUS9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZSDAAQSMDYNUKUS9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZSDAAQSMDYNUKUS9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZSDAAQSMDYNUKUS9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.024 per IOPS-Month of Windows File Server Multi-AZ provisioned SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8TYDU8XPGGYA7FNZ" : {
+        "8TYDU8XPGGYA7FNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8TYDU8XPGGYA7FNZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8TYDU8XPGGYA7FNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8TYDU8XPGGYA7FNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.099 per GB-Month of persistent HDD Lustre storage with 40 MB/s per TiB with SSD cache - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0990000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RT9UV72JS82TBK8H" : {
+        "RT9UV72JS82TBK8H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RT9UV72JS82TBK8H",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RT9UV72JS82TBK8H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RT9UV72JS82TBK8H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.050 per GB-Month of ONTAP backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NXJD8KBTG7YXFF7F" : {
+        "NXJD8KBTG7YXFF7F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NXJD8KBTG7YXFF7F",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NXJD8KBTG7YXFF7F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NXJD8KBTG7YXFF7F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.250 per GB-Month of provisioned ONTAP Multi-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3RBQY994P2V2P7F4" : {
+        "3RBQY994P2V2P7F4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3RBQY994P2V2P7F4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3RBQY994P2V2P7F4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3RBQY994P2V2P7F4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB-Month of OpenZFS Multi-AZ Backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UMGNCB47PPE2Q49R" : {
+        "UMGNCB47PPE2Q49R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UMGNCB47PPE2Q49R",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UMGNCB47PPE2Q49R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UMGNCB47PPE2Q49R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.250 per GB-Month of provisioned ONTAP Multi-AZ-2 SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DQKVH4U3NQYVNZ6E" : {
+        "DQKVH4U3NQYVNZ6E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DQKVH4U3NQYVNZ6E",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DQKVH4U3NQYVNZ6E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DQKVH4U3NQYVNZ6E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.18 per GB-Month of provisioned OpenZFS Multi-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XR3B3U5VPPZ6E6YW" : {
+        "XR3B3U5VPPZ6E6YW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XR3B3U5VPPZ6E6YW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XR3B3U5VPPZ6E6YW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XR3B3U5VPPZ6E6YW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.041 per GB-Month of persistent HDD Lustre storage with 12 MB/s per TiB with SSD cache - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0410000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PHVZ44MVC6KSTAB3" : {
+        "PHVZ44MVC6KSTAB3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PHVZ44MVC6KSTAB3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PHVZ44MVC6KSTAB3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PHVZ44MVC6KSTAB3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0050 per 1,000 write requests to OpenZFS Intelligent-Tiering storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AGG5QG9S3KC7D85E" : {
+        "AGG5QG9S3KC7D85E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AGG5QG9S3KC7D85E",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AGG5QG9S3KC7D85E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AGG5QG9S3KC7D85E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.26 per MBps-Month for provisioned Single-AZ OpenZFS throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "62TQNJKM9Y5GSQJQ" : {
+        "62TQNJKM9Y5GSQJQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "62TQNJKM9Y5GSQJQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "62TQNJKM9Y5GSQJQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "62TQNJKM9Y5GSQJQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.024 per IOPS-Month of OpenZFS Multi-AZ Provisioned SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0240000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "934XZU4UVX66PPK5" : {
+        "934XZU4UVX66PPK5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "934XZU4UVX66PPK5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "934XZU4UVX66PPK5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "934XZU4UVX66PPK5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0050 per 1,000 write requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C2FMGQHTZJR3W7RG" : {
+        "C2FMGQHTZJR3W7RG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C2FMGQHTZJR3W7RG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "C2FMGQHTZJR3W7RG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C2FMGQHTZJR3W7RG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0170 per IOPS-Month of provisioned ONTAP Single-AZ SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VUP9T5TT7S4R7382" : {
+        "VUP9T5TT7S4R7382.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VUP9T5TT7S4R7382",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VUP9T5TT7S4R7382.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VUP9T5TT7S4R7382.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1800 per GB-Month of OpenZFS Intelligent-Tiering Multi-AZ provisioned SSD read cache - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7MNKJJ33XGRY7JFB" : {
+        "7MNKJJ33XGRY7JFB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7MNKJJ33XGRY7JFB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7MNKJJ33XGRY7JFB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7MNKJJ33XGRY7JFB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per IOPS-Month for provisioned OpenZFS Single-AZ SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7P443AXE7TV5TME7" : {
+        "7P443AXE7TV5TME7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7P443AXE7TV5TME7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7P443AXE7TV5TME7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7P443AXE7TV5TME7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per IOPS-Month for provisioned OpenZFS Single-AZ (HA) SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S4HKZZ4TUQK63DK8" : {
+        "S4HKZZ4TUQK63DK8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S4HKZZ4TUQK63DK8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "S4HKZZ4TUQK63DK8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S4HKZZ4TUQK63DK8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0050 per 1,000 write requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QPFC9SWZVYSK25J4" : {
+        "QPFC9SWZVYSK25J4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QPFC9SWZVYSK25J4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QPFC9SWZVYSK25J4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QPFC9SWZVYSK25J4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB-Month for OpenZFS backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZFVNMK5HNC6PBZTM" : {
+        "ZFVNMK5HNC6PBZTM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZFVNMK5HNC6PBZTM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZFVNMK5HNC6PBZTM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZFVNMK5HNC6PBZTM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.145 per GB-Month of persistent SSD Lustre storage with 125 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X5KT8JHPYQQEZNXD" : {
+        "X5KT8JHPYQQEZNXD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X5KT8JHPYQQEZNXD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "X5KT8JHPYQQEZNXD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X5KT8JHPYQQEZNXD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.140 per GB-Month of provisioned Lustre storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VD8X9XDVSXVJG349" : {
+        "VD8X9XDVSXVJG349.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VD8X9XDVSXVJG349",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VD8X9XDVSXVJG349.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VD8X9XDVSXVJG349.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.52 per MBps-Month for provisioned Single-AZ (HA) OpenZFS throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R8RSJK5X2HX72T26" : {
+        "R8RSJK5X2HX72T26.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R8RSJK5X2HX72T26",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8RSJK5X2HX72T26.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R8RSJK5X2HX72T26.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.26 per MBps-Month for provisioned Single-AZ OpenZFS throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BQB5JCA6KYX2XFMW" : {
+        "BQB5JCA6KYX2XFMW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BQB5JCA6KYX2XFMW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BQB5JCA6KYX2XFMW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BQB5JCA6KYX2XFMW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.055 per IOPS-Month of provisioned Lustre Metadata IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "76AFPUSTR667RJZ4" : {
+        "76AFPUSTR667RJZ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "76AFPUSTR667RJZ4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "76AFPUSTR667RJZ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "76AFPUSTR667RJZ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.33 per GB-Month of File Cache Lustre storage with 1000 MB/s/TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "1.3300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E5FGFU8KYGKMRRVC" : {
+        "E5FGFU8KYGKMRRVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E5FGFU8KYGKMRRVC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E5FGFU8KYGKMRRVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E5FGFU8KYGKMRRVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per IOPS-Month for provisioned OpenZFS Single-AZ (HA) SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "79FV3VMXMRD7XX5M" : {
+        "79FV3VMXMRD7XX5M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "79FV3VMXMRD7XX5M",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "79FV3VMXMRD7XX5M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "79FV3VMXMRD7XX5M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.210 per GB-Month of persistent SSD Lustre storage with 250 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CWFT9WYREKCEDGZZ" : {
+        "CWFT9WYREKCEDGZZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CWFT9WYREKCEDGZZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CWFT9WYREKCEDGZZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CWFT9WYREKCEDGZZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0170 per IOPS-Month of provisioned ONTAP Single-AZ-2 SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0170000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W4FWDRTGMWYSZAJZ" : {
+        "W4FWDRTGMWYSZAJZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W4FWDRTGMWYSZAJZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "W4FWDRTGMWYSZAJZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W4FWDRTGMWYSZAJZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.87 per MBps-Month of OpenZFS Multi-AZ Provisioned throughput - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.8700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5B2VYQKCG82UNAKV" : {
+        "5B2VYQKCG82UNAKV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5B2VYQKCG82UNAKV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5B2VYQKCG82UNAKV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5B2VYQKCG82UNAKV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0340 per IOPS-Month of provisioned ONTAP Multi-AZ SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GB9B5HC7TXVPTKWG" : {
+        "GB9B5HC7TXVPTKWG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GB9B5HC7TXVPTKWG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GB9B5HC7TXVPTKWG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GB9B5HC7TXVPTKWG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.012 per IOPS-Month of Windows File Server Single-AZ provisioned SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0120000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MS2APTU447246QGT" : {
+        "MS2APTU447246QGT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MS2APTU447246QGT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MS2APTU447246QGT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MS2APTU447246QGT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.290 per GB-Month of provisioned persistent Lustre storage with 200 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UG7C4K4TRM68R2UH" : {
+        "UG7C4K4TRM68R2UH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UG7C4K4TRM68R2UH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UG7C4K4TRM68R2UH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UG7C4K4TRM68R2UH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.013 per GB-Month of provisioned Windows File Server Single-AZ HDD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7NG4GCNBWDYRWR3" : {
+        "N7NG4GCNBWDYRWR3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7NG4GCNBWDYRWR3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7NG4GCNBWDYRWR3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7NG4GCNBWDYRWR3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0125 per GB-Month of OpenZFS Intelligent-Tiering storage in the Infrequent Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0125000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6QB6UXGS98T8AHHJ" : {
+        "6QB6UXGS98T8AHHJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6QB6UXGS98T8AHHJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6QB6UXGS98T8AHHJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6QB6UXGS98T8AHHJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB-Month of Windows File Server backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZXUFDJQU3RZG25WX" : {
+        "ZXUFDJQU3RZG25WX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZXUFDJQU3RZG25WX",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZXUFDJQU3RZG25WX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZXUFDJQU3RZG25WX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB-Month for provisioned OpenZFS Single-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BA598296EGRVKPGU" : {
+        "BA598296EGRVKPGU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BA598296EGRVKPGU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BA598296EGRVKPGU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BA598296EGRVKPGU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.720 per MBps-Month of provisioned ONTAP Single-AZ throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.7200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CMU9RBYV27A8G66T" : {
+        "CMU9RBYV27A8G66T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CMU9RBYV27A8G66T",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CMU9RBYV27A8G66T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CMU9RBYV27A8G66T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB-Month for provisioned OpenZFS Single-AZ (HA) SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3EWWMVR8KUSHQTSG" : {
+        "3EWWMVR8KUSHQTSG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3EWWMVR8KUSHQTSG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3EWWMVR8KUSHQTSG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3EWWMVR8KUSHQTSG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0004 per 1,000 read requests to OpenZFS Intelligent-Tiering storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7Z67S7SXJMS6RJGU" : {
+        "7Z67S7SXJMS6RJGU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7Z67S7SXJMS6RJGU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7Z67S7SXJMS6RJGU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7Z67S7SXJMS6RJGU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.230 per GB-Month of provisioned Windows File Server Multi-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RG4Q72WKSZ9AK32M" : {
+        "RG4Q72WKSZ9AK32M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RG4Q72WKSZ9AK32M",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RG4Q72WKSZ9AK32M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RG4Q72WKSZ9AK32M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB-Month of FSx for Lustre backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3GGY5D9SSB2RNZD" : {
+        "V3GGY5D9SSB2RNZD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3GGY5D9SSB2RNZD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3GGY5D9SSB2RNZD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3GGY5D9SSB2RNZD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB-Month for provisioned OpenZFS Single-AZ SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H3YNRWQ2PK4XN4BV" : {
+        "H3YNRWQ2PK4XN4BV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H3YNRWQ2PK4XN4BV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "H3YNRWQ2PK4XN4BV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H3YNRWQ2PK4XN4BV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB-Month for provisioned OpenZFS Single-AZ (HA) SSD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H93HK9S7EX88XPSG" : {
+        "H93HK9S7EX88XPSG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H93HK9S7EX88XPSG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "H93HK9S7EX88XPSG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H93HK9S7EX88XPSG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB-Month of Multi-AZ Windows File Server backup storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5YTYQR3YQVNXTEPK" : {
+        "5YTYQR3YQVNXTEPK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5YTYQR3YQVNXTEPK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5YTYQR3YQVNXTEPK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5YTYQR3YQVNXTEPK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.025 per GB-Month of provisioned Windows File Server Multi-AZ HDD storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WFHJCNM7MYWA5KAB" : {
+        "WFHJCNM7MYWA5KAB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WFHJCNM7MYWA5KAB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WFHJCNM7MYWA5KAB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WFHJCNM7MYWA5KAB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0340 per IOPS-Month of provisioned ONTAP Multi-AZ-2 SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0340000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EXMCN9J9SCNMCF36" : {
+        "EXMCN9J9SCNMCF36.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EXMCN9J9SCNMCF36",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EXMCN9J9SCNMCF36.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EXMCN9J9SCNMCF36.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.20 per MB-per-second-Month of provisioned Windows File Server throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "2.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K73GPYK2STUVHART" : {
+        "K73GPYK2STUVHART.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K73GPYK2STUVHART",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "K73GPYK2STUVHART.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K73GPYK2STUVHART.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.600 per MBps-Month of provisioned ONTAP Single-AZ-2 throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "1.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y58EC7UAHYBP4BBY" : {
+        "Y58EC7UAHYBP4BBY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y58EC7UAHYBP4BBY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y58EC7UAHYBP4BBY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y58EC7UAHYBP4BBY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.600 per GB-Month of persistent SSD Lustre storage with 1000 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "22C6NU45ED6TZA9T" : {
+        "22C6NU45ED6TZA9T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "22C6NU45ED6TZA9T",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "22C6NU45ED6TZA9T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "22C6NU45ED6TZA9T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.130 per GB-Month of provisioned Windows File Server storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CVVTU6SNXDZG5B4B" : {
+        "CVVTU6SNXDZG5B4B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CVVTU6SNXDZG5B4B",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CVVTU6SNXDZG5B4B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CVVTU6SNXDZG5B4B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0040 per GB-Month of OpenZFS Intelligent-Tiering storage in the Archive Instant Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9XZUN2N3RZKJVVYZ" : {
+        "9XZUN2N3RZKJVVYZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9XZUN2N3RZKJVVYZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9XZUN2N3RZKJVVYZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9XZUN2N3RZKJVVYZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0219 per GB-Month of ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0219000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QCV7AHXZXX9UKQJ2" : {
+        "QCV7AHXZXX9UKQJ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QCV7AHXZXX9UKQJ2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QCV7AHXZXX9UKQJ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QCV7AHXZXX9UKQJ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.200 per MBps-Month of provisioned ONTAP Multi-AZ throughput capacity - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "1.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CGQJXWWN56XTVZJC" : {
+        "CGQJXWWN56XTVZJC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CGQJXWWN56XTVZJC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CGQJXWWN56XTVZJC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CGQJXWWN56XTVZJC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0438 per GB-Month of ONTAP standard capacity pool storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0438000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PDUXG84BSR7J6HU9" : {
+        "PDUXG84BSR7J6HU9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PDUXG84BSR7J6HU9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PDUXG84BSR7J6HU9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PDUXG84BSR7J6HU9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.190 per GB-Month of provisioned persistent Lustre storage with 100 MB/s per TiB - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4Z8DEN65X89AAWCM" : {
+        "4Z8DEN65X89AAWCM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4Z8DEN65X89AAWCM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4Z8DEN65X89AAWCM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4Z8DEN65X89AAWCM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per IOPS-Month for provisioned OpenZFS Single-AZ SSD IOPS - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "IOPS-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

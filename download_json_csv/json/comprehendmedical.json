@@ -1,0 +1,584 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "comprehendmedical",
+  "version" : "20230209114538",
+  "publicationDate" : "2023-02-09T11:45:38Z",
+  "products" : {
+    "QAE3GJXECFM8ZG6C" : {
+      "sku" : "QAE3GJXECFM8ZG6C",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ComprehendMedical-InferSNOMEDCT",
+        "usagetype" : "USE1-InferSNOMEDCT",
+        "operation" : "InferSNOMEDCT",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "N9TD7F9XBB6CF8FN" : {
+      "sku" : "N9TD7F9XBB6CF8FN",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-DetectEntities",
+        "usagetype" : "USE1-ComprehendMedical-Batching-IAD-Prod",
+        "operation" : "EntitiesDetection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "JWGJEKPG4TTWNCDN" : {
+      "sku" : "JWGJEKPG4TTWNCDN",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-DetectEntities",
+        "usagetype" : "USE1-DetectEntities",
+        "operation" : "DetectEntities",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "BRU4GS6QN8377SE6" : {
+      "sku" : "BRU4GS6QN8377SE6",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-DetectPHI",
+        "usagetype" : "USE1-ComprehendMedical-Batching-IAD-Prod",
+        "operation" : "PHIDetection",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "UNWZCSFZ3K736HVW" : {
+      "sku" : "UNWZCSFZ3K736HVW",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-InferRxNorm",
+        "usagetype" : "USE1-InferRxNorm",
+        "operation" : "InferRxNorm",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "64SQ7Y5FCARG6DHR" : {
+      "sku" : "64SQ7Y5FCARG6DHR",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-InferRxNorm",
+        "usagetype" : "USE1-ComprehendMedical-Batching-IAD-Prod",
+        "operation" : "RxNormInference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "D3YZXYDYCJWNY8AA" : {
+      "sku" : "D3YZXYDYCJWNY8AA",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ComprehendMedical-InferSNOMEDCT",
+        "usagetype" : "USE1-ComprehendMedical-Batching-IAD-Prod",
+        "operation" : "SNOMEDCTInference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "CZWJ32P5S5GDYFMQ" : {
+      "sku" : "CZWJ32P5S5GDYFMQ",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-InferICD10CM",
+        "usagetype" : "USE1-InferICD10CM",
+        "operation" : "InferICD10CM",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "29SZ2ZMFJ8TV6EY7" : {
+      "sku" : "29SZ2ZMFJ8TV6EY7",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-DetectPHI",
+        "usagetype" : "USE1-DetectPHI",
+        "operation" : "DetectPHI",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    },
+    "J76STS5EC7H3A28Z" : {
+      "sku" : "J76STS5EC7H3A28Z",
+      "productFamily" : "Entity Detection",
+      "attributes" : {
+        "servicecode" : "comprehendmedical",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Global-ComprehendMedical-InferRxNorm",
+        "usagetype" : "USE1-ComprehendMedical-Batching-IAD-Prod",
+        "operation" : "ICD10CMInference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Comprehend Medical"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "D3YZXYDYCJWNY8AA" : {
+        "D3YZXYDYCJWNY8AA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D3YZXYDYCJWNY8AA",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "D3YZXYDYCJWNY8AA.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "D3YZXYDYCJWNY8AA.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferSNOMEDCT-Batch at USD 0.00075 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0007500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "D3YZXYDYCJWNY8AA.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "D3YZXYDYCJWNY8AA.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferSNOMEDCT-Batch at USD 0.00375 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0037500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "D3YZXYDYCJWNY8AA.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "D3YZXYDYCJWNY8AA.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferSNOMEDCT-Batch at USD 0.0075 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0075000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "29SZ2ZMFJ8TV6EY7" : {
+        "29SZ2ZMFJ8TV6EY7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "29SZ2ZMFJ8TV6EY7",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of DetectPHI-Sync at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of DetectPHI-Sync at USD 0.0005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "29SZ2ZMFJ8TV6EY7.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of DetectPHI-Sync at USD 0.0014 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J76STS5EC7H3A28Z" : {
+        "J76STS5EC7H3A28Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J76STS5EC7H3A28Z",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "J76STS5EC7H3A28Z.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "J76STS5EC7H3A28Z.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferICD10CM-Batch at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "J76STS5EC7H3A28Z.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "J76STS5EC7H3A28Z.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferICD10CM-Batch at USD 0.0005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "J76STS5EC7H3A28Z.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "J76STS5EC7H3A28Z.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferICD10CM-Batch at USD 0.0005 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N9TD7F9XBB6CF8FN" : {
+        "N9TD7F9XBB6CF8FN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N9TD7F9XBB6CF8FN",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "N9TD7F9XBB6CF8FN.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "N9TD7F9XBB6CF8FN.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of DetectEntities-Batch at USD 0.01 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "N9TD7F9XBB6CF8FN.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "N9TD7F9XBB6CF8FN.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of DetectEntities-Batch at USD 0.001 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "N9TD7F9XBB6CF8FN.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "N9TD7F9XBB6CF8FN.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of DetectEntities-Batch at USD 0.005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QAE3GJXECFM8ZG6C" : {
+        "QAE3GJXECFM8ZG6C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QAE3GJXECFM8ZG6C",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "QAE3GJXECFM8ZG6C.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "QAE3GJXECFM8ZG6C.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferSNOMEDCT-Sync at USD 0.00375 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0037500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QAE3GJXECFM8ZG6C.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "QAE3GJXECFM8ZG6C.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferSNOMEDCT-Sync at USD 0.0075 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0075000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QAE3GJXECFM8ZG6C.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "QAE3GJXECFM8ZG6C.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferSNOMEDCT-Sync at USD 0.00075 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0007500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JWGJEKPG4TTWNCDN" : {
+        "JWGJEKPG4TTWNCDN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JWGJEKPG4TTWNCDN",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "JWGJEKPG4TTWNCDN.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "JWGJEKPG4TTWNCDN.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of DetectEntities-Sync at USD 0.001 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Unit",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JWGJEKPG4TTWNCDN.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "JWGJEKPG4TTWNCDN.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of DetectEntities-Sync at USD 0.005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Unit",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JWGJEKPG4TTWNCDN.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "JWGJEKPG4TTWNCDN.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of DetectEntities-Sync at USD 0.01 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Unit",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BRU4GS6QN8377SE6" : {
+        "BRU4GS6QN8377SE6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BRU4GS6QN8377SE6",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "BRU4GS6QN8377SE6.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "BRU4GS6QN8377SE6.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of DetectPHI-Batch at USD 0.0005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "BRU4GS6QN8377SE6.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "BRU4GS6QN8377SE6.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of DetectPHI-Batch at USD 0.0014 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0014000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "BRU4GS6QN8377SE6.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "BRU4GS6QN8377SE6.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of DetectPHI-Batch at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CZWJ32P5S5GDYFMQ" : {
+        "CZWJ32P5S5GDYFMQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CZWJ32P5S5GDYFMQ",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "CZWJ32P5S5GDYFMQ.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "CZWJ32P5S5GDYFMQ.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferICD10CM-Sync at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "CZWJ32P5S5GDYFMQ.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "CZWJ32P5S5GDYFMQ.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferICD10CM-Sync at USD 0.0005 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "CZWJ32P5S5GDYFMQ.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "CZWJ32P5S5GDYFMQ.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferICD10CM-Sync at USD 0.0005 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UNWZCSFZ3K736HVW" : {
+        "UNWZCSFZ3K736HVW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UNWZCSFZ3K736HVW",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "UNWZCSFZ3K736HVW.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "UNWZCSFZ3K736HVW.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UNWZCSFZ3K736HVW.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "UNWZCSFZ3K736HVW.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UNWZCSFZ3K736HVW.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "UNWZCSFZ3K736HVW.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "64SQ7Y5FCARG6DHR" : {
+        "64SQ7Y5FCARG6DHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "64SQ7Y5FCARG6DHR",
+          "effectiveDate" : "2022-10-01T00:00:00Z",
+          "priceDimensions" : {
+            "64SQ7Y5FCARG6DHR.JRTCKXETXF.45HZTGWUT8" : {
+              "rateCode" : "64SQ7Y5FCARG6DHR.JRTCKXETXF.45HZTGWUT8",
+              "description" : "Between 1M and 2M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+              "beginRange" : "1000000",
+              "endRange" : "2000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "64SQ7Y5FCARG6DHR.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "64SQ7Y5FCARG6DHR.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "First 1M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "64SQ7Y5FCARG6DHR.JRTCKXETXF.VQ39PKQRBK" : {
+              "rateCode" : "64SQ7Y5FCARG6DHR.JRTCKXETXF.VQ39PKQRBK",
+              "description" : "More than 2M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+              "beginRange" : "2000000",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0002500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

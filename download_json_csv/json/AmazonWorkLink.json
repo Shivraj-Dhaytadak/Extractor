@@ -1,0 +1,49 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonWorkLink",
+  "version" : "20220721173205",
+  "publicationDate" : "2022-07-21T17:32:05Z",
+  "products" : {
+    "AY6P25EV4WMKN9N2" : {
+      "sku" : "AY6P25EV4WMKN9N2",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AmazonWorkLink",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkLink-MAU",
+        "operation" : "",
+        "deploymentModel" : "No User Limit",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkLink"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "AY6P25EV4WMKN9N2" : {
+        "AY6P25EV4WMKN9N2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AY6P25EV4WMKN9N2",
+          "effectiveDate" : "2019-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "AY6P25EV4WMKN9N2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AY6P25EV4WMKN9N2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5 per monthly active user (MAU) in the USE1 region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MAU",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

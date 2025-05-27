@@ -1,0 +1,120 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMedicalImaging",
+  "version" : "20240711140016",
+  "publicationDate" : "2024-07-11T14:00:16Z",
+  "products" : {
+    "2UTNXUEVVTAZUKP2" : {
+      "sku" : "2UTNXUEVVTAZUKP2",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMedicalImaging",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Frequent Access",
+        "usagetype" : "USE1-TimedStorage-ActiveByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS HealthImaging"
+      }
+    },
+    "C2KWN57F5P4VD58H" : {
+      "sku" : "C2KWN57F5P4VD58H",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMedicalImaging",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Archive Instant Access",
+        "usagetype" : "USE1-TimedStorage-ArchiveByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS HealthImaging"
+      }
+    },
+    "PDX8VAD4SKXJWQGQ" : {
+      "sku" : "PDX8VAD4SKXJWQGQ",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonMedicalImaging",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Core API",
+        "groupDescription" : "HealthLake Imaging Core APIs",
+        "usagetype" : "USE1-API-Requests-Core",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS HealthImaging"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "C2KWN57F5P4VD58H" : {
+        "C2KWN57F5P4VD58H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C2KWN57F5P4VD58H",
+          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "C2KWN57F5P4VD58H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C2KWN57F5P4VD58H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per GB-month for Archive Instant Access Tier Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2UTNXUEVVTAZUKP2" : {
+        "2UTNXUEVVTAZUKP2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2UTNXUEVVTAZUKP2",
+          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "2UTNXUEVVTAZUKP2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2UTNXUEVVTAZUKP2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.105 per GB-month for Frequent Access Tier Storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PDX8VAD4SKXJWQGQ" : {
+        "PDX8VAD4SKXJWQGQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PDX8VAD4SKXJWQGQ",
+          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "PDX8VAD4SKXJWQGQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PDX8VAD4SKXJWQGQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1,000 Requests for API Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

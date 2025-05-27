@@ -1,0 +1,185 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonLookoutVision",
+  "version" : "20230309234949",
+  "publicationDate" : "2023-03-09T23:49:49Z",
+  "products" : {
+    "42XY8BUAFA2RG6CT" : {
+      "sku" : "42XY8BUAFA2RG6CT",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutVision",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EdgeInference",
+        "operation" : "EdgeInference",
+        "lookoutvisionimage" : "EdgeInference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Vision"
+      }
+    },
+    "PFJMGNRVUE54BBY7" : {
+      "sku" : "PFJMGNRVUE54BBY7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutVision",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Inference",
+        "operation" : "Inference",
+        "lookoutvisionimage" : "Inference",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Vision"
+      }
+    },
+    "U337EXJVVT7VPUDB" : {
+      "sku" : "U337EXJVVT7VPUDB",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutVision",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Training",
+        "operation" : "Training",
+        "lookoutvisionimage" : "Training",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Vision"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "42XY8BUAFA2RG6CT" : {
+        "42XY8BUAFA2RG6CT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "42XY8BUAFA2RG6CT",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "42XY8BUAFA2RG6CT.JRTCKXETXF.V7GB4D473V" : {
+              "rateCode" : "42XY8BUAFA2RG6CT.JRTCKXETXF.V7GB4D473V",
+              "description" : "$100.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "5",
+              "unit" : "InferenceUnits",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "42XY8BUAFA2RG6CT.JRTCKXETXF.FNVAXVYQW3" : {
+              "rateCode" : "42XY8BUAFA2RG6CT.JRTCKXETXF.FNVAXVYQW3",
+              "description" : "$80.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+              "beginRange" : "500",
+              "endRange" : "2500",
+              "unit" : "InferenceUnits",
+              "pricePerUnit" : {
+                "USD" : "80.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "42XY8BUAFA2RG6CT.JRTCKXETXF.HDZQ82Q9XF" : {
+              "rateCode" : "42XY8BUAFA2RG6CT.JRTCKXETXF.HDZQ82Q9XF",
+              "description" : "$100.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+              "beginRange" : "5",
+              "endRange" : "500",
+              "unit" : "InferenceUnits",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "42XY8BUAFA2RG6CT.JRTCKXETXF.A4S8GPRG2S" : {
+              "rateCode" : "42XY8BUAFA2RG6CT.JRTCKXETXF.A4S8GPRG2S",
+              "description" : "$60.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+              "beginRange" : "2500",
+              "endRange" : "Inf",
+              "unit" : "InferenceUnits",
+              "pricePerUnit" : {
+                "USD" : "60.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PFJMGNRVUE54BBY7" : {
+        "PFJMGNRVUE54BBY7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PFJMGNRVUE54BBY7",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "PFJMGNRVUE54BBY7.JRTCKXETXF.JB2EW9SCHB" : {
+              "rateCode" : "PFJMGNRVUE54BBY7.JRTCKXETXF.JB2EW9SCHB",
+              "description" : "$4.0 per hours for Inference:Inference in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "18000",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0666666670"
+              },
+              "appliesTo" : [ ]
+            },
+            "PFJMGNRVUE54BBY7.JRTCKXETXF.T7DGY2BYWK" : {
+              "rateCode" : "PFJMGNRVUE54BBY7.JRTCKXETXF.T7DGY2BYWK",
+              "description" : "$3.2 per hours for Inference:Inference in US East (N. Virginia)",
+              "beginRange" : "198000",
+              "endRange" : "1998000",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0533333330"
+              },
+              "appliesTo" : [ ]
+            },
+            "PFJMGNRVUE54BBY7.JRTCKXETXF.V6DCVP9P83" : {
+              "rateCode" : "PFJMGNRVUE54BBY7.JRTCKXETXF.V6DCVP9P83",
+              "description" : "$3.6 per hours for Inference:Inference in US East (N. Virginia)",
+              "beginRange" : "18000",
+              "endRange" : "198000",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PFJMGNRVUE54BBY7.JRTCKXETXF.68C7VMJH22" : {
+              "rateCode" : "PFJMGNRVUE54BBY7.JRTCKXETXF.68C7VMJH22",
+              "description" : "$2.8 per hours for Inference:Inference in US East (N. Virginia)",
+              "beginRange" : "1998000",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0466666670"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U337EXJVVT7VPUDB" : {
+        "U337EXJVVT7VPUDB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U337EXJVVT7VPUDB",
+          "effectiveDate" : "2023-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "U337EXJVVT7VPUDB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U337EXJVVT7VPUDB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.0 per hours for Training:Training in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0333333330"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,628 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSIoT",
+  "version" : "20240404152152",
+  "publicationDate" : "2024-04-04T15:21:52Z",
+  "products" : {
+    "WPX3ASMYMAXRPX82" : {
+      "sku" : "WPX3ASMYMAXRPX82",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RulesTriggered",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "A26ADVFGN83YQ68F" : {
+      "sku" : "A26ADVFGN83YQ68F",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Solved-Positions",
+        "operation" : "",
+        "isshadow" : "No",
+        "iswebsocket" : "No",
+        "protocol" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "7C9VFJ464CQAFWNJ" : {
+      "sku" : "7C9VFJ464CQAFWNJ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ActionsExecuted",
+        "operation" : "",
+        "eventType" : "Request",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "B2UHQDQ3MZVQFEXE" : {
+      "sku" : "B2UHQDQ3MZVQFEXE",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Sidewalk-Messages",
+        "operation" : "",
+        "protocol" : "Sidewalk",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "F7EYJH653VP4DPZF" : {
+      "sku" : "F7EYJH653VP4DPZF",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-ConnectivitySubscription",
+        "operation" : "",
+        "isshadow" : "Yes",
+        "iswebsocket" : "No",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "2F8JUVRDQDFDR8JH" : {
+      "sku" : "2F8JUVRDQDFDR8JH",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RegistryAndShadowOperations",
+        "operation" : "",
+        "eventType" : "Operation",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "4YPUWUYRUMDBYKZJ" : {
+      "sku" : "4YPUWUYRUMDBYKZJ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-MetricQueries",
+        "operation" : "MetricQueries",
+        "isshadow" : "-",
+        "iswebsocket" : "No",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "88HVJW32F8EF6KYG" : {
+      "sku" : "88HVJW32F8EF6KYG",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ConnectionMinutes",
+        "operation" : "",
+        "protocol" : "MQTT",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "YF3M28EDHB8GHPWR" : {
+      "sku" : "YF3M28EDHB8GHPWR",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-MetricRecords",
+        "operation" : "MetricsRecords",
+        "isshadow" : "-",
+        "iswebsocket" : "-",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "H43KTCYU47NW9YEZ" : {
+      "sku" : "H43KTCYU47NW9YEZ",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Advance-Transport",
+        "operation" : "",
+        "isshadow" : "No",
+        "iswebsocket" : "No",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "MMSFYC4HWXCW85CP" : {
+      "sku" : "MMSFYC4HWXCW85CP",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-FUOTA",
+        "operation" : "",
+        "isshadow" : "-",
+        "iswebsocket" : "-",
+        "protocol" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "7QJFQQCMEVDVQYBG" : {
+      "sku" : "7QJFQQCMEVDVQYBG",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-ConnectivityMessage",
+        "operation" : "",
+        "isshadow" : "No",
+        "iswebsocket" : "Yes",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "PP8GRQ49FFR7BUDX" : {
+      "sku" : "PP8GRQ49FFR7BUDX",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Messages",
+        "operation" : "",
+        "protocol" : "Any",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    },
+    "TQG8QW9HEWX3GVNG" : {
+      "sku" : "TQG8QW9HEWX3GVNG",
+      "productFamily" : "AWSIoT",
+      "attributes" : {
+        "servicecode" : "AWSIoT",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LoRaWAN-Messages",
+        "operation" : "",
+        "protocol" : "LoRaWAN",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS IoT"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MMSFYC4HWXCW85CP" : {
+        "MMSFYC4HWXCW85CP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MMSFYC4HWXCW85CP",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MMSFYC4HWXCW85CP.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "MMSFYC4HWXCW85CP.JRTCKXETXF.925HBHWMHV",
+              "description" : "$0.006 per Tasks for LoRaWAN-FUOTA in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "MMSFYC4HWXCW85CP.JRTCKXETXF.EJNSYSGUMQ" : {
+              "rateCode" : "MMSFYC4HWXCW85CP.JRTCKXETXF.EJNSYSGUMQ",
+              "description" : "$0.003 per Tasks for LoRaWAN-FUOTA in US East (N. Virginia)",
+              "beginRange" : "250000",
+              "endRange" : "Inf",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.0030000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7C9VFJ464CQAFWNJ" : {
+        "7C9VFJ464CQAFWNJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7C9VFJ464CQAFWNJ",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7C9VFJ464CQAFWNJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7C9VFJ464CQAFWNJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million actions executed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ActionsExecuted",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7QJFQQCMEVDVQYBG" : {
+        "7QJFQQCMEVDVQYBG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7QJFQQCMEVDVQYBG",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "7QJFQQCMEVDVQYBG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7QJFQQCMEVDVQYBG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000065 per message to send and receive messages using public LoRaWAN network (Everynet)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000650000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B2UHQDQ3MZVQFEXE" : {
+        "B2UHQDQ3MZVQFEXE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B2UHQDQ3MZVQFEXE",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "B2UHQDQ3MZVQFEXE.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "B2UHQDQ3MZVQFEXE.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$2.30 per million Sidewalk messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000023000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B2UHQDQ3MZVQFEXE.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "B2UHQDQ3MZVQFEXE.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$1.50 per million Sidewalk messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            },
+            "B2UHQDQ3MZVQFEXE.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "B2UHQDQ3MZVQFEXE.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$1.20 per million Sidewalk messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "88HVJW32F8EF6KYG" : {
+        "88HVJW32F8EF6KYG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "88HVJW32F8EF6KYG",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "88HVJW32F8EF6KYG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "88HVJW32F8EF6KYG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per million minutes of connection",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000800"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PP8GRQ49FFR7BUDX" : {
+        "PP8GRQ49FFR7BUDX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PP8GRQ49FFR7BUDX",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.00 per million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$0.80 per million messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PP8GRQ49FFR7BUDX.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "PP8GRQ49FFR7BUDX.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.70 per million messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000007000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WPX3ASMYMAXRPX82" : {
+        "WPX3ASMYMAXRPX82.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WPX3ASMYMAXRPX82",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "WPX3ASMYMAXRPX82.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WPX3ASMYMAXRPX82.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million rules triggered",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "RulesTriggered",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4YPUWUYRUMDBYKZJ" : {
+        "4YPUWUYRUMDBYKZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4YPUWUYRUMDBYKZJ",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "4YPUWUYRUMDBYKZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4YPUWUYRUMDBYKZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000002 per Metric Query",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Calls",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2F8JUVRDQDFDR8JH" : {
+        "2F8JUVRDQDFDR8JH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2F8JUVRDQDFDR8JH",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "2F8JUVRDQDFDR8JH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2F8JUVRDQDFDR8JH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.25 per million Device Shadow and Device Registry Operations",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQG8QW9HEWX3GVNG" : {
+        "TQG8QW9HEWX3GVNG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQG8QW9HEWX3GVNG",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQG8QW9HEWX3GVNG.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "TQG8QW9HEWX3GVNG.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$2.30 per million LoRaWAN messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000023000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQG8QW9HEWX3GVNG.JRTCKXETXF.9UCY5BG95Z" : {
+              "rateCode" : "TQG8QW9HEWX3GVNG.JRTCKXETXF.9UCY5BG95Z",
+              "description" : "$1.50 per million LoRaWAN messages - next 4 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "5000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQG8QW9HEWX3GVNG.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "TQG8QW9HEWX3GVNG.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$1.20 per million LoRaWAN messages - over 5 billion messages/month",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H43KTCYU47NW9YEZ" : {
+        "H43KTCYU47NW9YEZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H43KTCYU47NW9YEZ",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "H43KTCYU47NW9YEZ.JRTCKXETXF.TQJ5Q88RNQ" : {
+              "rateCode" : "H43KTCYU47NW9YEZ.JRTCKXETXF.TQJ5Q88RNQ",
+              "description" : "$0.145 per MB of Advance-Transport usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "52400000",
+              "unit" : "bytes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001380"
+              },
+              "appliesTo" : [ ]
+            },
+            "H43KTCYU47NW9YEZ.JRTCKXETXF.NZTHY7W6NU" : {
+              "rateCode" : "H43KTCYU47NW9YEZ.JRTCKXETXF.NZTHY7W6NU",
+              "description" : "$0.116 per MB of Advance-Transport usage in US East (N. Virginia)",
+              "beginRange" : "52400000",
+              "endRange" : "Inf",
+              "unit" : "bytes",
+              "pricePerUnit" : {
+                "USD" : "0.0000001110"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F7EYJH653VP4DPZF" : {
+        "F7EYJH653VP4DPZF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F7EYJH653VP4DPZF",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "F7EYJH653VP4DPZF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F7EYJH653VP4DPZF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per device per month for subscribing to use public LoRaWAN network (Everynet)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Subscriptions",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YF3M28EDHB8GHPWR" : {
+        "YF3M28EDHB8GHPWR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YF3M28EDHB8GHPWR",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "YF3M28EDHB8GHPWR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YF3M28EDHB8GHPWR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000002 per Metric Record",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Records",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A26ADVFGN83YQ68F" : {
+        "A26ADVFGN83YQ68F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A26ADVFGN83YQ68F",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "A26ADVFGN83YQ68F.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "A26ADVFGN83YQ68F.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.001 per Position for Solved-Positions usage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "A26ADVFGN83YQ68F.JRTCKXETXF.H3BBRCJ78Y" : {
+              "rateCode" : "A26ADVFGN83YQ68F.JRTCKXETXF.H3BBRCJ78Y",
+              "description" : "$0.0008 per Position for Solved-Positions usage in US East (N. Virginia)",
+              "beginRange" : "1000000",
+              "endRange" : "5000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0008000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "A26ADVFGN83YQ68F.JRTCKXETXF.XCXBHCFFQ2" : {
+              "rateCode" : "A26ADVFGN83YQ68F.JRTCKXETXF.XCXBHCFFQ2",
+              "description" : "$0.0007 per Position for Solved-Positions usage in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0007000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

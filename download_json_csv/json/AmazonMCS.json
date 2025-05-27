@@ -1,0 +1,297 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMCS",
+  "version" : "20250204231646",
+  "publicationDate" : "2025-02-04T23:16:46Z",
+  "products" : {
+    "JYGRY8NFBUV7XMMP" : {
+      "sku" : "JYGRY8NFBUV7XMMP",
+      "productFamily" : "PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "MCS-WriteUnits",
+        "groupDescription" : "MCS PayPerRequest Write Request Units",
+        "usagetype" : "WriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "TDJEGGHFGCNR8XA5" : {
+      "sku" : "TDJEGGHFGCNR8XA5",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "MCS-TTL",
+        "groupDescription" : "Time to Live",
+        "usagetype" : "USE1-TTLDeletes",
+        "operation" : "TimeToLiveDelete",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "QH8ZGZQV8WWJFSDH" : {
+      "sku" : "QH8ZGZQV8WWJFSDH",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Point-In-Time-Restore (PITR) Backup Storage",
+        "usagetype" : "USE1-TimedPITRStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "UTFM6BA7NPAN6SDG" : {
+      "sku" : "UTFM6BA7NPAN6SDG",
+      "productFamily" : "PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "MCS-ReadUnits",
+        "groupDescription" : "PayPerRequest Read Request Units",
+        "usagetype" : "ReadRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "Q5ZMWY6PE64HB8AP" : {
+      "sku" : "Q5ZMWY6PE64HB8AP",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Backup Restore Size",
+        "usagetype" : "USE1-RestoreDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "2PMUPQEXZ5CQAER3" : {
+      "sku" : "2PMUPQEXZ5CQAER3",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "volumeType" : "AmazonMCS - Indexed DataStore",
+        "usagetype" : "TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "335AYUQD2E4UTYXJ" : {
+      "sku" : "335AYUQD2E4UTYXJ",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "MCS-ReadUnits",
+        "groupDescription" : "Provisioned Read Units",
+        "usagetype" : "ReadCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    },
+    "9N74X8QS26VA5AP9" : {
+      "sku" : "9N74X8QS26VA5AP9",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonMCS",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "MCS-WriteUnits",
+        "groupDescription" : "Provisioned Write Units",
+        "usagetype" : "WriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Keyspaces (for Apache Cassandra)"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "TDJEGGHFGCNR8XA5" : {
+        "TDJEGGHFGCNR8XA5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TDJEGGHFGCNR8XA5",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TDJEGGHFGCNR8XA5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TDJEGGHFGCNR8XA5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2750 per million TTL deletes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "TTLDeletes",
+              "pricePerUnit" : {
+                "USD" : "0.0000002750"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2PMUPQEXZ5CQAER3" : {
+        "2PMUPQEXZ5CQAER3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2PMUPQEXZ5CQAER3",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "2PMUPQEXZ5CQAER3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2PMUPQEXZ5CQAER3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per GB-Month of storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9N74X8QS26VA5AP9" : {
+        "9N74X8QS26VA5AP9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9N74X8QS26VA5AP9",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "9N74X8QS26VA5AP9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9N74X8QS26VA5AP9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0006500 per hour per unit of provisioned write capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0006500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UTFM6BA7NPAN6SDG" : {
+        "UTFM6BA7NPAN6SDG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UTFM6BA7NPAN6SDG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UTFM6BA7NPAN6SDG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UTFM6BA7NPAN6SDG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.125 per million read request units in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q5ZMWY6PE64HB8AP" : {
+        "Q5ZMWY6PE64HB8AP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q5ZMWY6PE64HB8AP",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q5ZMWY6PE64HB8AP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q5ZMWY6PE64HB8AP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per GB of data restored in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JYGRY8NFBUV7XMMP" : {
+        "JYGRY8NFBUV7XMMP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JYGRY8NFBUV7XMMP",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JYGRY8NFBUV7XMMP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JYGRY8NFBUV7XMMP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.6250 per million write request units in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000006250"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "335AYUQD2E4UTYXJ" : {
+        "335AYUQD2E4UTYXJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "335AYUQD2E4UTYXJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "335AYUQD2E4UTYXJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "335AYUQD2E4UTYXJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001300 per hour per unit of provisioned read capacity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QH8ZGZQV8WWJFSDH" : {
+        "QH8ZGZQV8WWJFSDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QH8ZGZQV8WWJFSDH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QH8ZGZQV8WWJFSDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QH8ZGZQV8WWJFSDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per GB-Month of storage used for PITR backup in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

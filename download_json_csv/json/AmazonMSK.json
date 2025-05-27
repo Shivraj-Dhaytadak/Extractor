@@ -1,0 +1,1522 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonMSK",
+  "version" : "20250514172137",
+  "publicationDate" : "2025-05-14T17:21:37Z",
+  "products" : {
+    "3WWQAXWQEYF3K28K" : {
+      "sku" : "3WWQAXWQEYF3K28K",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Per-GB data ingressed",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Serverless",
+        "usagetype" : "USE1-KafkaServerless-In-Bytes",
+        "operation" : "Serverless",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "PGY7H95GSQZZZ5U3" : {
+      "sku" : "PGY7H95GSQZZZ5U3",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.large",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.large",
+        "memoryGib" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "EAENBG6PQA5U8JTN" : {
+      "sku" : "EAENBG6PQA5U8JTN",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.t3.small",
+        "operation" : "RunBroker",
+        "computeFamily" : "t3.small",
+        "memoryGib" : "2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "G2VJ35UVR5JWH4ZJ" : {
+      "sku" : "G2VJ35UVR5JWH4ZJ",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Cluster-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Serverless",
+        "usagetype" : "USE1-KafkaServerless-ClusterHours",
+        "operation" : "Serverless",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "UB9WVPBDV4Y3WA3Y" : {
+      "sku" : "UB9WVPBDV4Y3WA3Y",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.2xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.2xlarge",
+        "memoryGib" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "YGFEYSTDCSQQADE7" : {
+      "sku" : "YGFEYSTDCSQQADE7",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Per-GB data egressed",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Serverless",
+        "usagetype" : "USE1-KafkaServerless-Out-Bytes",
+        "operation" : "Serverless",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "CBMW8TY4JC6XHKHM" : {
+      "sku" : "CBMW8TY4JC6XHKHM",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.large",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.large",
+        "memoryGib" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "65XV7TSGW9ZJSRYZ" : {
+      "sku" : "65XV7TSGW9ZJSRYZ",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Storage-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Storage",
+        "usagetype" : "USE1-Kafka.Storage.GP2",
+        "operation" : "RunVolume",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka",
+        "storageFamily" : "GP2"
+      }
+    },
+    "VNXUR9X639FQYMS4" : {
+      "sku" : "VNXUR9X639FQYMS4",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.24xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.24xlarge",
+        "memoryGib" : "384",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "4TWECYAMUUGT7JBZ" : {
+      "sku" : "4TWECYAMUUGT7JBZ",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.xlarge",
+        "memoryGib" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "35H7TGY3P6N3R7HC" : {
+      "sku" : "35H7TGY3P6N3R7HC",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.16xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.16xlarge",
+        "memoryGib" : "256",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "59HBRTXVJJUW6ATD" : {
+      "sku" : "59HBRTXVJJUW6ATD",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.8xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.8xlarge",
+        "memoryGib" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "DEB2KUU84KK4HWZ4" : {
+      "sku" : "DEB2KUU84KK4HWZ4",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Storage-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Serverless",
+        "usagetype" : "USE1-KafkaServerless-StorageHours",
+        "operation" : "Serverless",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "R8BPVFMZRZCRJWZV" : {
+      "sku" : "R8BPVFMZRZCRJWZV",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Kafka.Storage.Tiered",
+        "operation" : "TieredStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka",
+        "storageFamily" : "Tiered storage"
+      }
+    },
+    "5J827BX6VMEWA4HY" : {
+      "sku" : "5J827BX6VMEWA4HY",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Per-GB cross-region data replicated",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Replicator",
+        "usagetype" : "USE1-KafkaReplication-Processed-Bytes",
+        "operation" : "CrossRegionSourceLocal",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "8D4GXY6G8W78A9EY" : {
+      "sku" : "8D4GXY6G8W78A9EY",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.4xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.4xlarge",
+        "memoryGib" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "XKYY4SDQMSB96JH8" : {
+      "sku" : "XKYY4SDQMSB96JH8",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Kafka.DataRetrieval.Tiered",
+        "operation" : "TieredStorage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka",
+        "storageFamily" : "Tiered storage-DataRetrieval"
+      }
+    },
+    "NR4E2TGDUNJZTB8H" : {
+      "sku" : "NR4E2TGDUNJZTB8H",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.large",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.large",
+        "memoryGib" : "8",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "DCH94GGKDSKNREE7" : {
+      "sku" : "DCH94GGKDSKNREE7",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.16xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.16xlarge",
+        "memoryGib" : "256",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "CJU2Z3Y35ZUD678Y" : {
+      "sku" : "CJU2Z3Y35ZUD678Y",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Per-GB same-region data replicated",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Replicator",
+        "usagetype" : "USE1-KafkaReplication-Processed-Bytes",
+        "operation" : "SameRegionSource",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "U2E74RX7WAFZRMGV" : {
+      "sku" : "U2E74RX7WAFZRMGV",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.16xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.16xlarge",
+        "memoryGib" : "256",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "Q9WTHNHGZ5CWMY3M" : {
+      "sku" : "Q9WTHNHGZ5CWMY3M",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Express.Storage",
+        "operation" : "Storage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka",
+        "storageFamily" : "Express storage"
+      }
+    },
+    "97XZ2HDSKTRKGXUT" : {
+      "sku" : "97XZ2HDSKTRKGXUT",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.12xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.12xlarge",
+        "memoryGib" : "192",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "2KDEMUGWHBW5Q9QU" : {
+      "sku" : "2KDEMUGWHBW5Q9QU",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Bytes Processed",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Connectivity",
+        "usagetype" : "USE1-Kafka.PrivateConnectivity.BytesProcessed",
+        "operation" : "PrivateConnectivity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "M3GPFWH4GVU6NVX2" : {
+      "sku" : "M3GPFWH4GVU6NVX2",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.8xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.8xlarge",
+        "memoryGib" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "D89CN43NRW2RWV5P" : {
+      "sku" : "D89CN43NRW2RWV5P",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Replicator-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Replicator",
+        "usagetype" : "USE1-KafkaReplication-ReplicatorHours",
+        "operation" : "RunReplicator",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "FJZMCWC2U5VCEYAX" : {
+      "sku" : "FJZMCWC2U5VCEYAX",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.2xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.2xlarge",
+        "memoryGib" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "63SP8EF29DGKVSG2" : {
+      "sku" : "63SP8EF29DGKVSG2",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m5.4xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m5.4xlarge",
+        "memoryGib" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "B8J5J3SDVZU9RGKY" : {
+      "sku" : "B8J5J3SDVZU9RGKY",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "General",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Connect",
+        "usagetype" : "USE1-Kafka.mcu.general",
+        "operation" : "RunConnect",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "MZ6MRJ4P4ZCRNDFA" : {
+      "sku" : "MZ6MRJ4P4ZCRNDFA",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Throughput-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Storage",
+        "usagetype" : "USE1-Kafka.Throughput",
+        "operation" : "RunVolume",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka",
+        "storageFamily" : "General"
+      }
+    },
+    "MUGM8NSRT8XWD6TH" : {
+      "sku" : "MUGM8NSRT8XWD6TH",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.12xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.12xlarge",
+        "memoryGib" : "192",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "6V2ZM93CFJS55ZEH" : {
+      "sku" : "6V2ZM93CFJS55ZEH",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Private connectivity-hours per authentication scheme",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Connectivity",
+        "usagetype" : "USE1-Kafka.PrivateConnectivityHours",
+        "operation" : "PrivateConnectivity",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "86JRD8JMZ6AV2HFU" : {
+      "sku" : "86JRD8JMZ6AV2HFU",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.8xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.8xlarge",
+        "memoryGib" : "128",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "Z3QE8GAEH55NBAZU" : {
+      "sku" : "Z3QE8GAEH55NBAZU",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.xlarge",
+        "memoryGib" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "VA2ZMTG8NCKJRBTS" : {
+      "sku" : "VA2ZMTG8NCKJRBTS",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "group" : "ExpressBroker",
+        "usagetype" : "USE1-Express.m7g.12xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "express.m7g.12xlarge",
+        "memoryGib" : "192",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "KZMVE4VAUDK5RCCR" : {
+      "sku" : "KZMVE4VAUDK5RCCR",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.4xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.4xlarge",
+        "memoryGib" : "64",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "YF6ZWMCTJ9T3E2GP" : {
+      "sku" : "YF6ZWMCTJ9T3E2GP",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.2xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.2xlarge",
+        "memoryGib" : "32",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "BGQVYV74MDANC2T5" : {
+      "sku" : "BGQVYV74MDANC2T5",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Broker-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "group" : "Broker",
+        "usagetype" : "USE1-Kafka.m7g.xlarge",
+        "operation" : "RunBroker",
+        "computeFamily" : "m7g.xlarge",
+        "memoryGib" : "16",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "QBYGMEMD4JK9GSSF" : {
+      "sku" : "QBYGMEMD4JK9GSSF",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Per-GB data ingressed",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "ExpressIngress",
+        "usagetype" : "USE1-Express.In-Bytes",
+        "operation" : "Data-In",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    },
+    "V5CG23U23V2SY36D" : {
+      "sku" : "V5CG23U23V2SY36D",
+      "productFamily" : "Managed Streaming for Apache Kafka (MSK)",
+      "attributes" : {
+        "servicecode" : "AmazonMSK",
+        "description" : "Partition-hours",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Serverless",
+        "usagetype" : "USE1-KafkaServerless-PartitionHours",
+        "operation" : "Serverless",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Streaming for Apache Kafka"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "D89CN43NRW2RWV5P" : {
+        "D89CN43NRW2RWV5P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D89CN43NRW2RWV5P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D89CN43NRW2RWV5P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D89CN43NRW2RWV5P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per hours for MSK Replicator in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.3000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VNXUR9X639FQYMS4" : {
+        "VNXUR9X639FQYMS4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VNXUR9X639FQYMS4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VNXUR9X639FQYMS4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VNXUR9X639FQYMS4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 10.08 per Kafka.m5.24xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "10.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z3QE8GAEH55NBAZU" : {
+        "Z3QE8GAEH55NBAZU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z3QE8GAEH55NBAZU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z3QE8GAEH55NBAZU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z3QE8GAEH55NBAZU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.816 per Express.m7g.xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.8160000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3WWQAXWQEYF3K28K" : {
+        "3WWQAXWQEYF3K28K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3WWQAXWQEYF3K28K",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3WWQAXWQEYF3K28K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3WWQAXWQEYF3K28K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.10 per GB data in for serverless cluster in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q9WTHNHGZ5CWMY3M" : {
+        "Q9WTHNHGZ5CWMY3M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q9WTHNHGZ5CWMY3M",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q9WTHNHGZ5CWMY3M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q9WTHNHGZ5CWMY3M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.1 per GB-Month for storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8D4GXY6G8W78A9EY" : {
+        "8D4GXY6G8W78A9EY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8D4GXY6G8W78A9EY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8D4GXY6G8W78A9EY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8D4GXY6G8W78A9EY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.264 per Express.m7g.4xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.2640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FJZMCWC2U5VCEYAX" : {
+        "FJZMCWC2U5VCEYAX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FJZMCWC2U5VCEYAX",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FJZMCWC2U5VCEYAX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FJZMCWC2U5VCEYAX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.632 per Express.m7g.2xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.6320000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "97XZ2HDSKTRKGXUT" : {
+        "97XZ2HDSKTRKGXUT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "97XZ2HDSKTRKGXUT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "97XZ2HDSKTRKGXUT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "97XZ2HDSKTRKGXUT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 5.04 per Kafka.m5.12xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "5.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PGY7H95GSQZZZ5U3" : {
+        "PGY7H95GSQZZZ5U3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PGY7H95GSQZZZ5U3",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PGY7H95GSQZZZ5U3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PGY7H95GSQZZZ5U3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.408 per Express.m7g.large broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.4080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QBYGMEMD4JK9GSSF" : {
+        "QBYGMEMD4JK9GSSF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QBYGMEMD4JK9GSSF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QBYGMEMD4JK9GSSF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QBYGMEMD4JK9GSSF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.01 per GB of data written to an Express broker in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EAENBG6PQA5U8JTN" : {
+        "EAENBG6PQA5U8JTN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EAENBG6PQA5U8JTN",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EAENBG6PQA5U8JTN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EAENBG6PQA5U8JTN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0456 per Kafka.t3.small broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0456000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4TWECYAMUUGT7JBZ" : {
+        "4TWECYAMUUGT7JBZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4TWECYAMUUGT7JBZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4TWECYAMUUGT7JBZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4TWECYAMUUGT7JBZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.42 per Kafka.m5.xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G2VJ35UVR5JWH4ZJ" : {
+        "G2VJ35UVR5JWH4ZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G2VJ35UVR5JWH4ZJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "G2VJ35UVR5JWH4ZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G2VJ35UVR5JWH4ZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.75 per cluster-hour for serverless cluster in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2KDEMUGWHBW5Q9QU" : {
+        "2KDEMUGWHBW5Q9QU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2KDEMUGWHBW5Q9QU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "2KDEMUGWHBW5Q9QU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2KDEMUGWHBW5Q9QU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.006 per GB data processed for private connectivity in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KZMVE4VAUDK5RCCR" : {
+        "KZMVE4VAUDK5RCCR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KZMVE4VAUDK5RCCR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KZMVE4VAUDK5RCCR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KZMVE4VAUDK5RCCR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.632 per Kafka.m7g.4xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.6320000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MZ6MRJ4P4ZCRNDFA" : {
+        "MZ6MRJ4P4ZCRNDFA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MZ6MRJ4P4ZCRNDFA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MZ6MRJ4P4ZCRNDFA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MZ6MRJ4P4ZCRNDFA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.08 per MiBs/Month for provisioned storage throughput in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "59HBRTXVJJUW6ATD" : {
+        "59HBRTXVJJUW6ATD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "59HBRTXVJJUW6ATD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "59HBRTXVJJUW6ATD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "59HBRTXVJJUW6ATD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.36 per Kafka.m5.8xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.3600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CJU2Z3Y35ZUD678Y" : {
+        "CJU2Z3Y35ZUD678Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CJU2Z3Y35ZUD678Y",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CJU2Z3Y35ZUD678Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CJU2Z3Y35ZUD678Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for MSK Replicator in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R8BPVFMZRZCRJWZV" : {
+        "R8BPVFMZRZCRJWZV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R8BPVFMZRZCRJWZV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8BPVFMZRZCRJWZV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R8BPVFMZRZCRJWZV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.06 per GB-Mo in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5J827BX6VMEWA4HY" : {
+        "5J827BX6VMEWA4HY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5J827BX6VMEWA4HY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5J827BX6VMEWA4HY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5J827BX6VMEWA4HY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for MSK Replicator in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YGFEYSTDCSQQADE7" : {
+        "YGFEYSTDCSQQADE7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YGFEYSTDCSQQADE7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YGFEYSTDCSQQADE7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YGFEYSTDCSQQADE7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.05 per GB data out for serverless cluster in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NR4E2TGDUNJZTB8H" : {
+        "NR4E2TGDUNJZTB8H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NR4E2TGDUNJZTB8H",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NR4E2TGDUNJZTB8H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NR4E2TGDUNJZTB8H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.204 per Kafka.m7g.large broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "86JRD8JMZ6AV2HFU" : {
+        "86JRD8JMZ6AV2HFU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "86JRD8JMZ6AV2HFU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "86JRD8JMZ6AV2HFU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "86JRD8JMZ6AV2HFU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.264 per Kafka.m7g.8xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "3.2640000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U2E74RX7WAFZRMGV" : {
+        "U2E74RX7WAFZRMGV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U2E74RX7WAFZRMGV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "U2E74RX7WAFZRMGV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U2E74RX7WAFZRMGV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 6.528 per Kafka.m7g.16xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "6.5280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YF6ZWMCTJ9T3E2GP" : {
+        "YF6ZWMCTJ9T3E2GP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YF6ZWMCTJ9T3E2GP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YF6ZWMCTJ9T3E2GP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YF6ZWMCTJ9T3E2GP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.816 per Kafka.m7g.2xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.8160000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VA2ZMTG8NCKJRBTS" : {
+        "VA2ZMTG8NCKJRBTS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VA2ZMTG8NCKJRBTS",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VA2ZMTG8NCKJRBTS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VA2ZMTG8NCKJRBTS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 9.792 per Express.m7g.12xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "9.7920000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "35H7TGY3P6N3R7HC" : {
+        "35H7TGY3P6N3R7HC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "35H7TGY3P6N3R7HC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "35H7TGY3P6N3R7HC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "35H7TGY3P6N3R7HC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 13.056 per Express.m7g.16xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "13.0560000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6V2ZM93CFJS55ZEH" : {
+        "6V2ZM93CFJS55ZEH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6V2ZM93CFJS55ZEH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6V2ZM93CFJS55ZEH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6V2ZM93CFJS55ZEH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0225 per private connectivity hour per authentication scheme in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0225000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "63SP8EF29DGKVSG2" : {
+        "63SP8EF29DGKVSG2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "63SP8EF29DGKVSG2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "63SP8EF29DGKVSG2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "63SP8EF29DGKVSG2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.68 per Kafka.m5.4xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "1.6800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BGQVYV74MDANC2T5" : {
+        "BGQVYV74MDANC2T5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BGQVYV74MDANC2T5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BGQVYV74MDANC2T5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BGQVYV74MDANC2T5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.408 per Kafka.m7g.xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.4080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MUGM8NSRT8XWD6TH" : {
+        "MUGM8NSRT8XWD6TH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MUGM8NSRT8XWD6TH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MUGM8NSRT8XWD6TH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MUGM8NSRT8XWD6TH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 4.896 per Kafka.m7g.12xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "4.8960000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B8J5J3SDVZU9RGKY" : {
+        "B8J5J3SDVZU9RGKY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B8J5J3SDVZU9RGKY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "B8J5J3SDVZU9RGKY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B8J5J3SDVZU9RGKY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.110 per MCU-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XKYY4SDQMSB96JH8" : {
+        "XKYY4SDQMSB96JH8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XKYY4SDQMSB96JH8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XKYY4SDQMSB96JH8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XKYY4SDQMSB96JH8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.0015 per GB in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V5CG23U23V2SY36D" : {
+        "V5CG23U23V2SY36D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V5CG23U23V2SY36D",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "V5CG23U23V2SY36D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V5CG23U23V2SY36D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0015 per partition-hour for serverless cluster in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UB9WVPBDV4Y3WA3Y" : {
+        "UB9WVPBDV4Y3WA3Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UB9WVPBDV4Y3WA3Y",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UB9WVPBDV4Y3WA3Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UB9WVPBDV4Y3WA3Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.84 per Kafka.m5.2xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.8400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M3GPFWH4GVU6NVX2" : {
+        "M3GPFWH4GVU6NVX2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M3GPFWH4GVU6NVX2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "M3GPFWH4GVU6NVX2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M3GPFWH4GVU6NVX2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 6.528 per Express.m7g.8xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "6.5280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCH94GGKDSKNREE7" : {
+        "DCH94GGKDSKNREE7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCH94GGKDSKNREE7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCH94GGKDSKNREE7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCH94GGKDSKNREE7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 6.73 per Kafka.m5.16xlarge broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "6.7300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CBMW8TY4JC6XHKHM" : {
+        "CBMW8TY4JC6XHKHM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CBMW8TY4JC6XHKHM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CBMW8TY4JC6XHKHM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CBMW8TY4JC6XHKHM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.21 per Kafka.m5.large broker hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "65XV7TSGW9ZJSRYZ" : {
+        "65XV7TSGW9ZJSRYZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "65XV7TSGW9ZJSRYZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "65XV7TSGW9ZJSRYZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "65XV7TSGW9ZJSRYZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.1 per GB-Month for storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DEB2KUU84KK4HWZ4" : {
+        "DEB2KUU84KK4HWZ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DEB2KUU84KK4HWZ4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DEB2KUU84KK4HWZ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DEB2KUU84KK4HWZ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.10 per GB-Month for serverless cluster storage in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

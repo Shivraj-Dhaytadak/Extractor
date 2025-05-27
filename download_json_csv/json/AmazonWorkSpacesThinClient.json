@@ -1,0 +1,48 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonWorkSpacesThinClient",
+  "version" : "20231127001236",
+  "publicationDate" : "2023-11-27T00:12:36Z",
+  "products" : {
+    "6V8X67MNK8UPEJ76" : {
+      "sku" : "6V8X67MNK8UPEJ76",
+      "productFamily" : "Enterprise Applications",
+      "attributes" : {
+        "servicecode" : "AmazonWorkSpacesThinClient",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Amazon-WorkSpaces-Thin-Client-service",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon WorkSpaces Thin Client"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "6V8X67MNK8UPEJ76" : {
+        "6V8X67MNK8UPEJ76.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6V8X67MNK8UPEJ76",
+          "effectiveDate" : "2023-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "6V8X67MNK8UPEJ76.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6V8X67MNK8UPEJ76.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6 per month per managed thin client device in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

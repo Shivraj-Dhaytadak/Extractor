@@ -1,0 +1,130 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonInspector",
+  "version" : "20250116160645",
+  "publicationDate" : "2025-01-16T16:06:45Z",
+  "products" : {
+    "6UAQHSW4MZ9QNSG6" : {
+      "sku" : "6UAQHSW4MZ9QNSG6",
+      "productFamily" : "Amazon Inspector Network Assessment",
+      "attributes" : {
+        "servicecode" : "AmazonInspector",
+        "description" : "Free Trial Network instance-assessments",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "network-assessments-free",
+        "operation" : "",
+        "freeUsageIncluded" : "250 Network instance-assessments or 90 days",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "S27MKS4G4GBJBPEZ" : {
+      "sku" : "S27MKS4G4GBJBPEZ",
+      "productFamily" : "Amazon Inspector Network Assessment",
+      "attributes" : {
+        "servicecode" : "AmazonInspector",
+        "description" : "Tiered Usage Network instance-assessments",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "network-assessments",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "S27MKS4G4GBJBPEZ" : {
+        "S27MKS4G4GBJBPEZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S27MKS4G4GBJBPEZ",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "S27MKS4G4GBJBPEZ.JRTCKXETXF.9DMZF6E7MY" : {
+              "rateCode" : "S27MKS4G4GBJBPEZ.JRTCKXETXF.9DMZF6E7MY",
+              "description" : "First 250 instance-assessments",
+              "beginRange" : "0",
+              "endRange" : "250",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "S27MKS4G4GBJBPEZ.JRTCKXETXF.6MJTHCY3AS" : {
+              "rateCode" : "S27MKS4G4GBJBPEZ.JRTCKXETXF.6MJTHCY3AS",
+              "description" : "Next 750 instance-assessments",
+              "beginRange" : "250",
+              "endRange" : "1000",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "S27MKS4G4GBJBPEZ.JRTCKXETXF.AXSXEJHBB3" : {
+              "rateCode" : "S27MKS4G4GBJBPEZ.JRTCKXETXF.AXSXEJHBB3",
+              "description" : "Next 4,000 instance-assessments",
+              "beginRange" : "1000",
+              "endRange" : "5000",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "S27MKS4G4GBJBPEZ.JRTCKXETXF.KJSF5Y4MUU" : {
+              "rateCode" : "S27MKS4G4GBJBPEZ.JRTCKXETXF.KJSF5Y4MUU",
+              "description" : "Next 45,000 instance-assessments",
+              "beginRange" : "5000",
+              "endRange" : "50000",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "S27MKS4G4GBJBPEZ.JRTCKXETXF.GK6CZWW823" : {
+              "rateCode" : "S27MKS4G4GBJBPEZ.JRTCKXETXF.GK6CZWW823",
+              "description" : "All other instance-assessments",
+              "beginRange" : "50000",
+              "endRange" : "Inf",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6UAQHSW4MZ9QNSG6" : {
+        "6UAQHSW4MZ9QNSG6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6UAQHSW4MZ9QNSG6",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "6UAQHSW4MZ9QNSG6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6UAQHSW4MZ9QNSG6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Free Trial instance-assessments",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "InstanceAssessments",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

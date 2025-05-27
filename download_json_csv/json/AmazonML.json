@@ -1,0 +1,236 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonML",
+  "version" : "20220315082456",
+  "publicationDate" : "2022-03-15T08:24:56Z",
+  "products" : {
+    "YX2RUJ45TX2S4PHX" : {
+      "sku" : "YX2RUJ45TX2S4PHX",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Prediction-Memory",
+        "groupDescription" : "Reserved capacity required for Machine Learning model - real time only",
+        "usagetype" : "USE1-MegabyteHour10",
+        "operation" : "RealtimeCapacity",
+        "machineLearningProcess" : "Capacity reservation for real-time predictions",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    },
+    "VA3YJSCJS652NDRR" : {
+      "sku" : "VA3YJSCJS652NDRR",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Prediction-Realtime",
+        "groupDescription" : "Generate predictions one at a time in real time",
+        "usagetype" : "USE1-Prediction",
+        "operation" : "RealtimePredict",
+        "machineLearningProcess" : "Real-time predictions",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    },
+    "TXZ2JUMVUW87JGVD" : {
+      "sku" : "TXZ2JUMVUW87JGVD",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Build Machine Learning model",
+        "groupDescription" : "Data Analysis and Model Building",
+        "usagetype" : "USE1-AMLBoxUsage",
+        "operation" : "EvaluateModel",
+        "machineLearningProcess" : "Evaluate ML models",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    },
+    "VYYJMY7MNFF5T4V4" : {
+      "sku" : "VYYJMY7MNFF5T4V4",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Build Machine Learning model",
+        "groupDescription" : "Data Analysis and Model Building",
+        "usagetype" : "USE1-AMLBoxUsage",
+        "operation" : "DataStats",
+        "machineLearningProcess" : "Create data statistics",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    },
+    "A2XNBDMST9XC6QKV" : {
+      "sku" : "A2XNBDMST9XC6QKV",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Build Machine Learning model",
+        "groupDescription" : "Data Analysis and Model Building",
+        "usagetype" : "USE1-AMLBoxUsage",
+        "operation" : "TrainModel",
+        "machineLearningProcess" : "Train ML models",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    },
+    "8N28RPDRAZMW2ZT2" : {
+      "sku" : "8N28RPDRAZMW2ZT2",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonML",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Prediction-Batch",
+        "groupDescription" : "Generate predictions in batch for data records",
+        "usagetype" : "USE1-BatchPredictionChunk",
+        "operation" : "BatchPredict",
+        "machineLearningProcess" : "Batch predictions",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Machine Learning"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "YX2RUJ45TX2S4PHX" : {
+        "YX2RUJ45TX2S4PHX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YX2RUJ45TX2S4PHX",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per 10 MB per hour for real-time prediction capacity reservation",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MB-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VA3YJSCJS652NDRR" : {
+        "VA3YJSCJS652NDRR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VA3YJSCJS652NDRR",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001 per real-time prediction",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Prediction",
+              "pricePerUnit" : {
+                "USD" : "0.0001000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TXZ2JUMVUW87JGVD" : {
+        "TXZ2JUMVUW87JGVD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TXZ2JUMVUW87JGVD",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.42 per compute hour used to evaluate ML models",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VYYJMY7MNFF5T4V4" : {
+        "VYYJMY7MNFF5T4V4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VYYJMY7MNFF5T4V4",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.42 per compute hour used to create data statistics",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A2XNBDMST9XC6QKV" : {
+        "A2XNBDMST9XC6QKV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A2XNBDMST9XC6QKV",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.42 per compute hour used to train ML models",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8N28RPDRAZMW2ZT2" : {
+        "8N28RPDRAZMW2ZT2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8N28RPDRAZMW2ZT2",
+          "effectiveDate" : "2015-08-01T00:00:00Z",
+          "priceDimensions" : {
+            "8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per block of 1,000 batch predictions",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Blocks",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

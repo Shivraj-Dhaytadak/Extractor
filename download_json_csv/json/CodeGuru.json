@@ -1,0 +1,296 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "CodeGuru",
+  "version" : "20230110163615",
+  "publicationDate" : "2023-01-10T16:36:15Z",
+  "products" : {
+    "AQZC7N33W4BCQK5Q" : {
+      "sku" : "AQZC7N33W4BCQK5Q",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AboveThresholdRepositoryAnalysis",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningRepositorySizeAboveThresholdsBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "D7QBPMKS5QSJUYXV" : {
+      "sku" : "D7QBPMKS5QSJUYXV",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LambdaAbovePaidSamplingHours",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningLambdaAbovePaidBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "ZZEHBSDBTNJJHNHA" : {
+      "sku" : "ZZEHBSDBTNJJHNHA",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-LambdaSamplingHours",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningLambdaBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "GDV56EM2TG3F9TVC" : {
+      "sku" : "GDV56EM2TG3F9TVC",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RepositorySizeLowPriceTier",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningRepositorySizeLowPriceTierBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "BD4UCJT7HTKHCKX9" : {
+      "sku" : "BD4UCJT7HTKHCKX9",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-RepositorySizeHighPriceTier",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningRepositorySizeHighPriceTierBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "GSJNTS3JABW637D8" : {
+      "sku" : "GSJNTS3JABW637D8",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AbovePaidSamplingHours",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningFreeBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "DR62NU959EYFA25A" : {
+      "sku" : "DR62NU959EYFA25A",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "usagetype" : "Global-Profiler-Lambda-Sampling-Hour",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningBuildModels",
+        "regionCode" : "",
+        "servicename" : "CodeGuru"
+      }
+    },
+    "3PT2GM7EXQZ62NBF" : {
+      "sku" : "3PT2GM7EXQZ62NBF",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "CodeGuru",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-SamplingHours",
+        "operation" : "",
+        "baseProductReferenceCode" : "MachineLearningBuildModels",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeGuru"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "AQZC7N33W4BCQK5Q" : {
+        "AQZC7N33W4BCQK5Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AQZC7N33W4BCQK5Q",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AQZC7N33W4BCQK5Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AQZC7N33W4BCQK5Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10 per 100K LinesOfCode for repository analysis above caps in associated repositories in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "100K-LinesofCode",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GSJNTS3JABW637D8" : {
+        "GSJNTS3JABW637D8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GSJNTS3JABW637D8",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GSJNTS3JABW637D8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GSJNTS3JABW637D8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per hour for SamplingHours Above Paid Sampling in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3PT2GM7EXQZ62NBF" : {
+        "3PT2GM7EXQZ62NBF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3PT2GM7EXQZ62NBF",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "3PT2GM7EXQZ62NBF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3PT2GM7EXQZ62NBF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per hour for SamplingHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BD4UCJT7HTKHCKX9" : {
+        "BD4UCJT7HTKHCKX9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BD4UCJT7HTKHCKX9",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "BD4UCJT7HTKHCKX9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BD4UCJT7HTKHCKX9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$30 per 100K LinesOfCode for above 100K Lines of Code in associated repositories in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "100K-LinesofCode",
+              "pricePerUnit" : {
+                "USD" : "30.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D7QBPMKS5QSJUYXV" : {
+        "D7QBPMKS5QSJUYXV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D7QBPMKS5QSJUYXV",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "D7QBPMKS5QSJUYXV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D7QBPMKS5QSJUYXV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per hour for Lambda SamplingHours Above Paid Sampling in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DR62NU959EYFA25A" : {
+        "DR62NU959EYFA25A.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "DR62NU959EYFA25A",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "DR62NU959EYFA25A.A429C66SYZ.C2QCTD4VXQ" : {
+              "rateCode" : "DR62NU959EYFA25A.A429C66SYZ.C2QCTD4VXQ",
+              "description" : "Global rate for Profiler-Lambda-Sampling-Hour",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "2266EUVJVB36FSSM", "KZQSZSBDBCEH9FTT", "TPD5BKN3F8ZQ286R", "9GUEZN49S5STY2Q6", "ZZEHBSDBTNJJHNHA", "RSHM8RMW9BHUU7EB", "VUETRQQWYB4E57NA", "86G29QUSZ8VEJ886", "8M58BHGXQ7C3YPXK", "SEFRYKBFUFKNDHEV" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "GDV56EM2TG3F9TVC" : {
+        "GDV56EM2TG3F9TVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GDV56EM2TG3F9TVC",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "GDV56EM2TG3F9TVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GDV56EM2TG3F9TVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10 for the first 100K LinesOfCode in associated repositories in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "100K-LinesofCode",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZZEHBSDBTNJJHNHA" : {
+        "ZZEHBSDBTNJJHNHA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZZEHBSDBTNJJHNHA",
+          "effectiveDate" : "2021-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZZEHBSDBTNJJHNHA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZZEHBSDBTNJJHNHA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per hour for Lambda SamplingHours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

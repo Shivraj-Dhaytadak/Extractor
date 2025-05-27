@@ -1,0 +1,152 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonDetective",
+  "version" : "20230905204124",
+  "publicationDate" : "2023-09-05T20:41:24Z",
+  "products" : {
+    "RFQESDTGDQ675AGA" : {
+      "sku" : "RFQESDTGDQ675AGA",
+      "productFamily" : "Amazon Detective",
+      "attributes" : {
+        "servicecode" : "AmazonDetective",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PreviewLogsAnalyzed-Bytes",
+        "operation" : "",
+        "dataType" : "Logs",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Detective"
+      }
+    },
+    "39YMM87R7C62S2FB" : {
+      "sku" : "39YMM87R7C62S2FB",
+      "productFamily" : "Amazon Detective",
+      "attributes" : {
+        "servicecode" : "AmazonDetective",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PaidDataAnalyzed-Bytes",
+        "operation" : "",
+        "dataType" : "Data-Paid",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Detective"
+      }
+    },
+    "MVF27FZY26RSQWDP" : {
+      "sku" : "MVF27FZY26RSQWDP",
+      "productFamily" : "Amazon Detective",
+      "attributes" : {
+        "servicecode" : "AmazonDetective",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FreeDataAnalyzed-Bytes",
+        "operation" : "",
+        "dataType" : "Data-Free",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Detective"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "MVF27FZY26RSQWDP" : {
+        "MVF27FZY26RSQWDP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVF27FZY26RSQWDP",
+          "effectiveDate" : "2023-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVF27FZY26RSQWDP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVF27FZY26RSQWDP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.00 per GB of data analyzed (free trial) US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RFQESDTGDQ675AGA" : {
+        "RFQESDTGDQ675AGA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RFQESDTGDQ675AGA",
+          "effectiveDate" : "2023-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "RFQESDTGDQ675AGA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RFQESDTGDQ675AGA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB of log data analyzed (Preview) US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "39YMM87R7C62S2FB" : {
+        "39YMM87R7C62S2FB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "39YMM87R7C62S2FB",
+          "effectiveDate" : "2023-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "39YMM87R7C62S2FB.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "39YMM87R7C62S2FB.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "USD 2.00 per GB for the first 1,000GB / month of data analyzed US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "39YMM87R7C62S2FB.JRTCKXETXF.AXSXEJHBB3" : {
+              "rateCode" : "39YMM87R7C62S2FB.JRTCKXETXF.AXSXEJHBB3",
+              "description" : "USD 1.00 per GB for the next 4,000GB / month of data analyzed US East (N.Virginia) region",
+              "beginRange" : "1000",
+              "endRange" : "5000",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "39YMM87R7C62S2FB.JRTCKXETXF.7A9VFYDHVN" : {
+              "rateCode" : "39YMM87R7C62S2FB.JRTCKXETXF.7A9VFYDHVN",
+              "description" : "USD 0.50 per GB for the next 5,000GB / month of data analyzed US East (N.Virginia) region",
+              "beginRange" : "5000",
+              "endRange" : "10000",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "39YMM87R7C62S2FB.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "39YMM87R7C62S2FB.JRTCKXETXF.B536CJ4M58",
+              "description" : "USD 0.25 per GB over 10,000GB / month of data analyzed US East (N.Virginia) region",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

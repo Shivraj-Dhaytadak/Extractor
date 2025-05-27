@@ -1,0 +1,211 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonVerifiedPermissions",
+  "version" : "20240409210741",
+  "publicationDate" : "2024-04-09T21:07:41Z",
+  "products" : {
+    "MC2XEMABTE6H5JWA" : {
+      "sku" : "MC2XEMABTE6H5JWA",
+      "productFamily" : "Verified Permissions",
+      "attributes" : {
+        "servicecode" : "AmazonVerifiedPermissions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CreatePolicy-API-Requests",
+        "operation" : "CreatePolicy",
+        "apitype" : "CreatePolicy",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Verified Permissions"
+      }
+    },
+    "AS5VBVH9NG4EMW59" : {
+      "sku" : "AS5VBVH9NG4EMW59",
+      "productFamily" : "Verified Permissions",
+      "attributes" : {
+        "servicecode" : "AmazonVerifiedPermissions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ListPolicies-API-Requests",
+        "operation" : "ListPolicies",
+        "apitype" : "ListPolicies",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Verified Permissions"
+      }
+    },
+    "6A3PRDECGMACZDY9" : {
+      "sku" : "6A3PRDECGMACZDY9",
+      "productFamily" : "Verified Permissions",
+      "attributes" : {
+        "servicecode" : "AmazonVerifiedPermissions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-UpdatePolicy-API-Requests",
+        "operation" : "UpdatePolicy",
+        "apitype" : "UpdatePolicy",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Verified Permissions"
+      }
+    },
+    "U4UKAHJAWZYV8RVS" : {
+      "sku" : "U4UKAHJAWZYV8RVS",
+      "productFamily" : "Verified Permissions",
+      "attributes" : {
+        "servicecode" : "AmazonVerifiedPermissions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GetPolicy-API-Requests",
+        "operation" : "GetPolicy",
+        "apitype" : "GetPolicy",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Verified Permissions"
+      }
+    },
+    "PAZ4PRQA95CNA9Z3" : {
+      "sku" : "PAZ4PRQA95CNA9Z3",
+      "productFamily" : "Verified Permissions",
+      "attributes" : {
+        "servicecode" : "AmazonVerifiedPermissions",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AuthorizationRequest-API-Requests",
+        "operation" : "AuthorizationRequest",
+        "apitype" : "AuthorizationRequest",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Verified Permissions"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "U4UKAHJAWZYV8RVS" : {
+        "U4UKAHJAWZYV8RVS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4UKAHJAWZYV8RVS",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4UKAHJAWZYV8RVS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4UKAHJAWZYV8RVS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "40 USD per million GetPolicy API requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MC2XEMABTE6H5JWA" : {
+        "MC2XEMABTE6H5JWA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MC2XEMABTE6H5JWA",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "MC2XEMABTE6H5JWA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MC2XEMABTE6H5JWA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "40 USD per million CreatePolicy API requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AS5VBVH9NG4EMW59" : {
+        "AS5VBVH9NG4EMW59.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AS5VBVH9NG4EMW59",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "AS5VBVH9NG4EMW59.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AS5VBVH9NG4EMW59.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "40 USD per million ListPolicies API requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6A3PRDECGMACZDY9" : {
+        "6A3PRDECGMACZDY9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6A3PRDECGMACZDY9",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "6A3PRDECGMACZDY9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6A3PRDECGMACZDY9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "40 USD per million UpdatePolicy API requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PAZ4PRQA95CNA9Z3" : {
+        "PAZ4PRQA95CNA9Z3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PAZ4PRQA95CNA9Z3",
+          "effectiveDate" : "2024-04-01T00:00:00Z",
+          "priceDimensions" : {
+            "PAZ4PRQA95CNA9Z3.JRTCKXETXF.MP7YJSV6WY" : {
+              "rateCode" : "PAZ4PRQA95CNA9Z3.JRTCKXETXF.MP7YJSV6WY",
+              "description" : "150 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "40000000",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0001500000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PAZ4PRQA95CNA9Z3.JRTCKXETXF.F9YYUCZRAZ" : {
+              "rateCode" : "PAZ4PRQA95CNA9Z3.JRTCKXETXF.F9YYUCZRAZ",
+              "description" : "75 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+              "beginRange" : "40000000",
+              "endRange" : "100000000",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000750000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PAZ4PRQA95CNA9Z3.JRTCKXETXF.F83EQNDM5J" : {
+              "rateCode" : "PAZ4PRQA95CNA9Z3.JRTCKXETXF.F83EQNDM5J",
+              "description" : "40 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+              "beginRange" : "100000000",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

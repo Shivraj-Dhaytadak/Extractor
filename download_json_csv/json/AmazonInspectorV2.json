@@ -1,0 +1,717 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonInspectorV2",
+  "version" : "20240422174431",
+  "publicationDate" : "2024-04-22T17:44:31Z",
+  "products" : {
+    "J774X6ZTCC5HKR4X" : {
+      "sku" : "J774X6ZTCC5HKR4X",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-container-image-initial-scan-free-trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "scanType" : "Initial Scan (on-push to ECR)",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "5K5J87YSQ6GQYK6B" : {
+      "sku" : "5K5J87YSQ6GQYK6B",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Code-free-metering",
+        "operation" : "",
+        "freeUsageIncluded" : "Free-metering",
+        "regionCode" : "us-east-1",
+        "scanType" : "Code Scanning",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "S6WMXY88QQE35CVW" : {
+      "sku" : "S6WMXY88QQE35CVW",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 Scanning including continuous vulnerability and network reachability checks",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-free-metering",
+        "operation" : "",
+        "freeUsageIncluded" : "Free-metering",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "Continuous EC2 scans"
+      }
+    },
+    "FCW6KDAPFE9PJH5T" : {
+      "sku" : "FCW6KDAPFE9PJH5T",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Standard-free-metering",
+        "operation" : "",
+        "freeUsageIncluded" : "Free-metering",
+        "regionCode" : "us-east-1",
+        "scanType" : "free-metering",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "GTBTEXY3VEDAVKX2" : {
+      "sku" : "GTBTEXY3VEDAVKX2",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 Scanning including continuous vulnerability and network reachability checks",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Scanning-agentless-free-trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "Agentless vulnerability scans"
+      }
+    },
+    "K8RUGVY9ZFRZF4BN" : {
+      "sku" : "K8RUGVY9ZFRZF4BN",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 Scanning including continuous vulnerability and network reachability checks",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Scanning-agentless",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "Agentless vulnerability scans"
+      }
+    },
+    "BBYRC4BZRVQNAVBJ" : {
+      "sku" : "BBYRC4BZRVQNAVBJ",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Code-Scanning-free-trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "scanType" : "Code Scanning",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "38UG2W4D83TS8QV9" : {
+      "sku" : "38UG2W4D83TS8QV9",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ECR-free-metering",
+        "operation" : "",
+        "freeUsageIncluded" : "Free-metering",
+        "regionCode" : "us-east-1",
+        "scanType" : "free-metering",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "5NQFU67M2H7CRKT2" : {
+      "sku" : "5NQFU67M2H7CRKT2",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container image assessment in Continuous Integration/ Continuous Deployment (CI/CD) pipelines",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CICD-container-image-assessment-free",
+        "operation" : "",
+        "freeUsageIncluded" : "Free",
+        "regionCode" : "us-east-1",
+        "scanType" : "CI/CD scan",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "RXN5NXV9V9KT3CAS" : {
+      "sku" : "RXN5NXV9V9KT3CAS",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container image assessment in Continuous Integration/ Continuous Deployment (CI/CD) pipelines",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CICD-container-image-assessment",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "scanType" : "CI/CD scan",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "DP7EQJY5YTZJAGG8" : {
+      "sku" : "DP7EQJY5YTZJAGG8",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Standard-Scanning-free-trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "scanType" : "Standard Scanning",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "G9G7KPAMSWEQPFST" : {
+      "sku" : "G9G7KPAMSWEQPFST",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 Scanning including continuous vulnerability and network reachability checks",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Scanning",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "Continuous EC2 scans"
+      }
+    },
+    "YWYRRXXJ593P29PQ" : {
+      "sku" : "YWYRRXXJ593P29PQ",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 CIS checks for operating systems (OS)",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-CIS-checks",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "CIS checks"
+      }
+    },
+    "F2ZYE2C6NZY8TR57" : {
+      "sku" : "F2ZYE2C6NZY8TR57",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Standard-Scanning",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "scanType" : "Standard Scanning",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "TYJBDM7FPG7HK2SJ" : {
+      "sku" : "TYJBDM7FPG7HK2SJ",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-container-image-re-scan",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "scanType" : "Automated re-scan",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "YF5EH7PSU6GEQETR" : {
+      "sku" : "YF5EH7PSU6GEQETR",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "EC2 Scanning including continuous vulnerability and network reachability checks",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EC2-Scanning-free-Trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Inspector",
+        "usageVolume" : "Continuous EC2 scans"
+      }
+    },
+    "TX2WZM9TECD4E8R5" : {
+      "sku" : "TX2WZM9TECD4E8R5",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-container-image-re-scan-free-trial",
+        "operation" : "",
+        "freeUsageIncluded" : "15-Days unlimited free trial",
+        "regionCode" : "us-east-1",
+        "scanType" : "Automated re-scan",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "WHH73MFHTF5G9NAM" : {
+      "sku" : "WHH73MFHTF5G9NAM",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Lambda-Code-Scanning",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "scanType" : "Code Scanning",
+        "servicename" : "Amazon Inspector"
+      }
+    },
+    "Y7CM555ZJ4UJKDNZ" : {
+      "sku" : "Y7CM555ZJ4UJKDNZ",
+      "productFamily" : "Amazon Inspector",
+      "attributes" : {
+        "servicecode" : "AmazonInspectorV2",
+        "description" : "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-container-image-initial-scan",
+        "operation" : "",
+        "freeUsageIncluded" : "None",
+        "regionCode" : "us-east-1",
+        "scanType" : "Initial Scan (on-push to ECR)",
+        "servicename" : "Amazon Inspector"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "K8RUGVY9ZFRZF4BN" : {
+        "K8RUGVY9ZFRZF4BN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K8RUGVY9ZFRZF4BN",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "K8RUGVY9ZFRZF4BN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K8RUGVY9ZFRZF4BN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00243 per Instance-hrs for EC2-Scanning-agentless in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0024300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YF5EH7PSU6GEQETR" : {
+        "YF5EH7PSU6GEQETR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YF5EH7PSU6GEQETR",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YF5EH7PSU6GEQETR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YF5EH7PSU6GEQETR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per null for EC2-Scanning-free-Trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DP7EQJY5YTZJAGG8" : {
+        "DP7EQJY5YTZJAGG8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DP7EQJY5YTZJAGG8",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DP7EQJY5YTZJAGG8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DP7EQJY5YTZJAGG8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Hourly for Lambda-Standard-Scanning-free-trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5K5J87YSQ6GQYK6B" : {
+        "5K5J87YSQ6GQYK6B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5K5J87YSQ6GQYK6B",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "5K5J87YSQ6GQYK6B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5K5J87YSQ6GQYK6B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Hourly for Lambda-Code-free-metering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RXN5NXV9V9KT3CAS" : {
+        "RXN5NXV9V9KT3CAS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RXN5NXV9V9KT3CAS",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RXN5NXV9V9KT3CAS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RXN5NXV9V9KT3CAS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per container image assessment in CI/CD in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "resource assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y7CM555ZJ4UJKDNZ" : {
+        "Y7CM555ZJ4UJKDNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y7CM555ZJ4UJKDNZ",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y7CM555ZJ4UJKDNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y7CM555ZJ4UJKDNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per Resource-assessment for container-image-initial-scan in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "38UG2W4D83TS8QV9" : {
+        "38UG2W4D83TS8QV9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "38UG2W4D83TS8QV9",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "38UG2W4D83TS8QV9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "38UG2W4D83TS8QV9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Resource-assessment for ECR-free-metering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WHH73MFHTF5G9NAM" : {
+        "WHH73MFHTF5G9NAM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WHH73MFHTF5G9NAM",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WHH73MFHTF5G9NAM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WHH73MFHTF5G9NAM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00084 per Hourly for Lambda-Code-Scanning in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0008400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BBYRC4BZRVQNAVBJ" : {
+        "BBYRC4BZRVQNAVBJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BBYRC4BZRVQNAVBJ",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BBYRC4BZRVQNAVBJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BBYRC4BZRVQNAVBJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Hourly for Lambda-Code-Scanning-free-trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TYJBDM7FPG7HK2SJ" : {
+        "TYJBDM7FPG7HK2SJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TYJBDM7FPG7HK2SJ",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TYJBDM7FPG7HK2SJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TYJBDM7FPG7HK2SJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per Resource-assessment for container-image-re-scan in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F2ZYE2C6NZY8TR57" : {
+        "F2ZYE2C6NZY8TR57.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F2ZYE2C6NZY8TR57",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "F2ZYE2C6NZY8TR57.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F2ZYE2C6NZY8TR57.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000417 per Hourly for Lambda-Standard-Scanning in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0004170000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S6WMXY88QQE35CVW" : {
+        "S6WMXY88QQE35CVW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S6WMXY88QQE35CVW",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "S6WMXY88QQE35CVW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S6WMXY88QQE35CVW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Instance-hrs for EC2-free-metering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G9G7KPAMSWEQPFST" : {
+        "G9G7KPAMSWEQPFST.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G9G7KPAMSWEQPFST",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "G9G7KPAMSWEQPFST.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G9G7KPAMSWEQPFST.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00174 per Instance-hrs for EC2-Scanning in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0017400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FCW6KDAPFE9PJH5T" : {
+        "FCW6KDAPFE9PJH5T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FCW6KDAPFE9PJH5T",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "FCW6KDAPFE9PJH5T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FCW6KDAPFE9PJH5T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Hourly for Lambda-Standard-free-metering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TX2WZM9TECD4E8R5" : {
+        "TX2WZM9TECD4E8R5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TX2WZM9TECD4E8R5",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TX2WZM9TECD4E8R5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TX2WZM9TECD4E8R5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Resource-assessment for container-image-re-scan-free-trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GTBTEXY3VEDAVKX2" : {
+        "GTBTEXY3VEDAVKX2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GTBTEXY3VEDAVKX2",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "GTBTEXY3VEDAVKX2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GTBTEXY3VEDAVKX2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Instance-hrs for EC2-Scanning-agentless in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J774X6ZTCC5HKR4X" : {
+        "J774X6ZTCC5HKR4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J774X6ZTCC5HKR4X",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "J774X6ZTCC5HKR4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J774X6ZTCC5HKR4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Resource-assessment for container-image-initial-scan-free-trial in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YWYRRXXJ593P29PQ" : {
+        "YWYRRXXJ593P29PQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YWYRRXXJ593P29PQ",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YWYRRXXJ593P29PQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YWYRRXXJ593P29PQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per instance per assessment for CIS checks in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Resource-assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5NQFU67M2H7CRKT2" : {
+        "5NQFU67M2H7CRKT2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5NQFU67M2H7CRKT2",
+          "effectiveDate" : "2024-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "5NQFU67M2H7CRKT2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5NQFU67M2H7CRKT2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per container image assessment in CI/CD in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "resource assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

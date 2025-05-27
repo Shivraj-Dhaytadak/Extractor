@@ -1,0 +1,3756 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonLocationService",
+  "version" : "20241228142520",
+  "publicationDate" : "2024-12-28T14:25:20Z",
+  "products" : {
+    "GFEPV4DVASYTQRV2" : {
+      "sku" : "GFEPV4DVASYTQRV2",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAM-Esri-Transaction",
+        "operation" : "",
+        "pricingplan" : "MobileAssetManagement",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Additional transactions"
+      }
+    },
+    "ESKASYMSMZ2M3JBZ" : {
+      "sku" : "ESKASYMSMZ2M3JBZ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-GeofenceList",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence list requests"
+      }
+    },
+    "F2MKCQE7BVNDJG9Y" : {
+      "sku" : "F2MKCQE7BVNDJG9Y",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Core",
+        "operation" : "CalculateRoutes",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated (Core)"
+      }
+    },
+    "BHX4JX923VV3U2V7" : {
+      "sku" : "BHX4JX923VV3U2V7",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Stored",
+        "operation" : "SearchText",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Text request (Stored)"
+      }
+    },
+    "VRRDNMYX2HMC75RC" : {
+      "sku" : "VRRDNMYX2HMC75RC",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAT-Esri-Transaction",
+        "operation" : "",
+        "pricingplan" : "MobileAssetTracking",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Additional transactions"
+      }
+    },
+    "YUU6NMX7PJBEUTEE" : {
+      "sku" : "YUU6NMX7PJBEUTEE",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Premium",
+        "operation" : "OptimizeWaypoints",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Optimize Waypoint request (Premium)"
+      }
+    },
+    "CP4GWZKJDUWXGXJE" : {
+      "sku" : "CP4GWZKJDUWXGXJE",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-ReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded"
+      }
+    },
+    "KGN49PCYYN2YXNQ5" : {
+      "sku" : "KGN49PCYYN2YXNQ5",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Premium",
+        "operation" : "CalculateIsolines",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Isoline calculated (Premium)"
+      }
+    },
+    "TQCATNJRC2MWMJTX" : {
+      "sku" : "TQCATNJRC2MWMJTX",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-PositionWrite",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Positions written"
+      }
+    },
+    "FNMETG8AQAPZACCG" : {
+      "sku" : "FNMETG8AQAPZACCG",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Advanced",
+        "operation" : "CalculateRouteMatrix",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Total routes calculated (Advanced)"
+      }
+    },
+    "QV38V37EXXDJ5B2K" : {
+      "sku" : "QV38V37EXXDJ5B2K",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-Geocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded"
+      }
+    },
+    "BS4PQ8WGQECXY2XR" : {
+      "sku" : "BS4PQ8WGQECXY2XR",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Advanced",
+        "operation" : "OptimizeWaypoints",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Optimize Waypoint request (Basic)"
+      }
+    },
+    "JQXU9WPW65X4M97R" : {
+      "sku" : "JQXU9WPW65X4M97R",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "GetPlace",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "GetPlace request (Advanced)"
+      }
+    },
+    "UYVXR3EKCTNBGQZD" : {
+      "sku" : "UYVXR3EKCTNBGQZD",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-StoredGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded (stored results)"
+      }
+    },
+    "YGF49ZUJZDPN88RT" : {
+      "sku" : "YGF49ZUJZDPN88RT",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StoredReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded (stored results)"
+      }
+    },
+    "3XW4U62F447UGZEU" : {
+      "sku" : "3XW4U62F447UGZEU",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Label",
+        "operation" : "Suggest",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Suggest request (Label)"
+      }
+    },
+    "6S7KNDG2YSYWX2JD" : {
+      "sku" : "6S7KNDG2YSYWX2JD",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "GetPlace",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "GetPlace request (Core)"
+      }
+    },
+    "RB5JQRFVNGGBP5PQ" : {
+      "sku" : "RB5JQRFVNGGBP5PQ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resources created, read, updated, or deleted"
+      }
+    },
+    "J7SC5MKBCBZ45FUY" : {
+      "sku" : "J7SC5MKBCBZ45FUY",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Stored",
+        "operation" : "ReverseGeocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Reverse Geocode request (Stored)"
+      }
+    },
+    "RRWVDWC4FNA662WR" : {
+      "sku" : "RRWVDWC4FNA662WR",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Stored",
+        "operation" : "SearchNearby",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Nearby request (Stored)"
+      }
+    },
+    "GE3D82UJMK3P52YM" : {
+      "sku" : "GE3D82UJMK3P52YM",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "Geocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Geocode request (Core)"
+      }
+    },
+    "R3A7Q9B2437S2J4W" : {
+      "sku" : "R3A7Q9B2437S2J4W",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Route",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated"
+      }
+    },
+    "RMCU4TUR3YHP3KVT" : {
+      "sku" : "RMCU4TUR3YHP3KVT",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PositionWrite",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Positions written"
+      }
+    },
+    "GURJQKVJCB5QN9GZ" : {
+      "sku" : "GURJQKVJCB5QN9GZ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceList",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resource list requests"
+      }
+    },
+    "CD2TRTGS5RCJCU5D" : {
+      "sku" : "CD2TRTGS5RCJCU5D",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Label",
+        "operation" : "Autocomplete",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Autocomplete request (Label)"
+      }
+    },
+    "EACQ8YXRGRPDDN7M" : {
+      "sku" : "EACQ8YXRGRPDDN7M",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "SearchNearby",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Nearby request (Core)"
+      }
+    },
+    "HWFVK367T3G5BT5N" : {
+      "sku" : "HWFVK367T3G5BT5N",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "Geocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Geocode request (Advanced)"
+      }
+    },
+    "6UE97T3MZ36DEVN5" : {
+      "sku" : "6UE97T3MZ36DEVN5",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PositionRead",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Position read requests"
+      }
+    },
+    "DPRP85XW48BE328N" : {
+      "sku" : "DPRP85XW48BE328N",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-MapTile",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tiles retrieved (vector or raster)"
+      }
+    },
+    "V48UUP9TWF727PZP" : {
+      "sku" : "V48UUP9TWF727PZP",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Stored",
+        "operation" : "Geocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Geocode request (Stored)"
+      }
+    },
+    "WMSXEQ3PVV4VH3HP" : {
+      "sku" : "WMSXEQ3PVV4VH3HP",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-PositionVerify",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Position integrity evaluated"
+      }
+    },
+    "BZHQZ4NB5B2HVM6V" : {
+      "sku" : "BZHQZ4NB5B2HVM6V",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resource create, read, update, delete"
+      }
+    },
+    "4BQDD9YDNVZKG8TX" : {
+      "sku" : "4BQDD9YDNVZKG8TX",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Premium",
+        "operation" : "SnapToRoads",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Snap to Road request (Premium)"
+      }
+    },
+    "AGXBM85HDCW9SDKU" : {
+      "sku" : "AGXBM85HDCW9SDKU",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "Suggest",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Suggest request (Core)"
+      }
+    },
+    "ENWJZ83MQ9QBNCBU" : {
+      "sku" : "ENWJZ83MQ9QBNCBU",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Suggest",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses Suggested"
+      }
+    },
+    "ZW85D22FP6D3RCY6" : {
+      "sku" : "ZW85D22FP6D3RCY6",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-Geocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded"
+      }
+    },
+    "RGTU4QTHVVSBU24A" : {
+      "sku" : "RGTU4QTHVVSBU24A",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-DeviceDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Devices deleted"
+      }
+    },
+    "VNJHYG9AZ99R5RT9" : {
+      "sku" : "VNJHYG9AZ99R5RT9",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAM-Here-Transaction",
+        "operation" : "",
+        "pricingplan" : "MobileAssetManagement",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Additional transactions"
+      }
+    },
+    "MVX2DPF9AFDCWT2A" : {
+      "sku" : "MVX2DPF9AFDCWT2A",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Premium",
+        "operation" : "CalculateRoutes",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated (Premium)"
+      }
+    },
+    "SPB4BNN2USBUGZJ4" : {
+      "sku" : "SPB4BNN2USBUGZJ4",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-ReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded"
+      }
+    },
+    "AGXNBVQSXMUKTAUK" : {
+      "sku" : "AGXNBVQSXMUKTAUK",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Maps-Tiles",
+        "operation" : "GetTile",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tile request"
+      }
+    },
+    "EYF9TQ7P5XH85BW7" : {
+      "sku" : "EYF9TQ7P5XH85BW7",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-StoredReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded (stored results)"
+      }
+    },
+    "NK5XU8RPQYZNKA6S" : {
+      "sku" : "NK5XU8RPQYZNKA6S",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-MapTile",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tiles retrieved (vector or raster)"
+      }
+    },
+    "PNRBZDNWMX8J2Z7X" : {
+      "sku" : "PNRBZDNWMX8J2Z7X",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-MapTile",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tiles retrieved (vector or raster)"
+      }
+    },
+    "QJM5Q65D3GB7BNRK" : {
+      "sku" : "QJM5Q65D3GB7BNRK",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAT-Esri-Assets",
+        "operation" : "",
+        "pricingplan" : "MobileAssetTracking",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Asset per provider per month"
+      }
+    },
+    "W5N4HZKS8XCH49HS" : {
+      "sku" : "W5N4HZKS8XCH49HS",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Maps-Core",
+        "operation" : "GetStaticMap",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Static map request"
+      }
+    },
+    "SUWZY4ZFD32EQVGR" : {
+      "sku" : "SUWZY4ZFD32EQVGR",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-StoredReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded (stored results)"
+      }
+    },
+    "4E4EJZXHSVMJJCDX" : {
+      "sku" : "4E4EJZXHSVMJJCDX",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-StoredGeocode",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded (stored results)"
+      }
+    },
+    "9J6EA39FY8HNBBDU" : {
+      "sku" : "9J6EA39FY8HNBBDU",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-PositionEvaluation",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Positions evaluated"
+      }
+    },
+    "ZEK5MZ5SS5XS9KVC" : {
+      "sku" : "ZEK5MZ5SS5XS9KVC",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-Geocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded"
+      }
+    },
+    "WJC63CMSKXJ7FBD2" : {
+      "sku" : "WJC63CMSKXJ7FBD2",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-Suggest",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses Suggested"
+      }
+    },
+    "TMECM7GTM3SV68ZB" : {
+      "sku" : "TMECM7GTM3SV68ZB",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DeviceDelete",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Devices deleted"
+      }
+    },
+    "KGXFFZ3Y6YM7UPRQ" : {
+      "sku" : "KGXFFZ3Y6YM7UPRQ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "SearchNearby",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Nearby request (Advanced)"
+      }
+    },
+    "WQ35R2U47MU8M7CQ" : {
+      "sku" : "WQ35R2U47MU8M7CQ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-OpenData-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "OpenData",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resources created, read, updated, or deleted"
+      }
+    },
+    "P5949KMSUYUYB3UX" : {
+      "sku" : "P5949KMSUYUYB3UX",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-EventForecast",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence event forecast requested"
+      }
+    },
+    "X9F46ZXT7U73YKV5" : {
+      "sku" : "X9F46ZXT7U73YKV5",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-PositionRead",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Position read requests"
+      }
+    },
+    "Z83SXBYKZE9MFDAM" : {
+      "sku" : "Z83SXBYKZE9MFDAM",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "ReverseGeocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Reverse Geocode request (Advanced)"
+      }
+    },
+    "FZK5N7ZAVPCCAVSJ" : {
+      "sku" : "FZK5N7ZAVPCCAVSJ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Advanced",
+        "operation" : "CalculateRoutes",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated (Advanced)"
+      }
+    },
+    "Y6PFCWHXU4BCB7M9" : {
+      "sku" : "Y6PFCWHXU4BCB7M9",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAM-Esri-Assets",
+        "operation" : "",
+        "pricingplan" : "MobileAssetManagement",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Asset per provider per month"
+      }
+    },
+    "EHAHW5RK77PSJ2VV" : {
+      "sku" : "EHAHW5RK77PSJ2VV",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GeofenceList",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence list requests"
+      }
+    },
+    "BAXD76D4XYJF8KJS" : {
+      "sku" : "BAXD76D4XYJF8KJS",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAT-Here-Transaction",
+        "operation" : "",
+        "pricingplan" : "MobileAssetTracking",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Additional transactions"
+      }
+    },
+    "7WRRUX9UVY7947QA" : {
+      "sku" : "7WRRUX9UVY7947QA",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-StoredReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded (stored results)"
+      }
+    },
+    "KDRNGZX78QMRTNQZ" : {
+      "sku" : "KDRNGZX78QMRTNQZ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-Route",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated"
+      }
+    },
+    "ZGZSPE697XEZFCYD" : {
+      "sku" : "ZGZSPE697XEZFCYD",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "Suggest",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Suggest request (Advanced)"
+      }
+    },
+    "8BQFJ3BZRS9QD427" : {
+      "sku" : "8BQFJ3BZRS9QD427",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-Route",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated"
+      }
+    },
+    "53XMUYJHJ9THPR9Z" : {
+      "sku" : "53XMUYJHJ9THPR9Z",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAM-Here-Assets",
+        "operation" : "",
+        "pricingplan" : "MobileAssetManagement",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Asset per provider per month"
+      }
+    },
+    "EUBNHQTCBNWUEHDD" : {
+      "sku" : "EUBNHQTCBNWUEHDD",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Advanced",
+        "operation" : "SnapToRoads",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Snap to Road request (Basic)"
+      }
+    },
+    "FNTUTC2M9Z7WX9NA" : {
+      "sku" : "FNTUTC2M9Z7WX9NA",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-ReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded"
+      }
+    },
+    "88W69NBUSHEB72U9" : {
+      "sku" : "88W69NBUSHEB72U9",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ReverseGeocode",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Positions reverse-geocoded"
+      }
+    },
+    "HEEDZAB5HQ7SMWCF" : {
+      "sku" : "HEEDZAB5HQ7SMWCF",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GeofenceMonth",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence-months"
+      }
+    },
+    "5CXA93P42TSDNXCB" : {
+      "sku" : "5CXA93P42TSDNXCB",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-StoredGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded (stored results)"
+      }
+    },
+    "T97HWZZ727S3HC84" : {
+      "sku" : "T97HWZZ727S3HC84",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EventForecast",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence event forecast requested"
+      }
+    },
+    "TS3FKT8B99EFFWU6" : {
+      "sku" : "TS3FKT8B99EFFWU6",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resources created, read, updated, or deleted"
+      }
+    },
+    "W72SXXKBC453ZRJK" : {
+      "sku" : "W72SXXKBC453ZRJK",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-GeofenceMonth",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofence-months"
+      }
+    },
+    "R2EFYM3AXY25PRHE" : {
+      "sku" : "R2EFYM3AXY25PRHE",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Advanced",
+        "operation" : "SearchText",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Text request (Advanced)"
+      }
+    },
+    "VSYF5976A4G75QXZ" : {
+      "sku" : "VSYF5976A4G75QXZ",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Core",
+        "operation" : "CalculateRouteMatrix",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Total routes calculated (Core)"
+      }
+    },
+    "NRP6GJGTTFTDNCMG" : {
+      "sku" : "NRP6GJGTTFTDNCMG",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Stored",
+        "operation" : "GetPlace",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "GetPlace request (Stored)"
+      }
+    },
+    "T2Z468W73GZCWXYF" : {
+      "sku" : "T2Z468W73GZCWXYF",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-GeofenceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofences created, deleted or described"
+      }
+    },
+    "AJGG25CMD23QWZU9" : {
+      "sku" : "AJGG25CMD23QWZU9",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-GeofenceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Geofences created, deleted or described"
+      }
+    },
+    "CZTTHQAB6YRTQ53V" : {
+      "sku" : "CZTTHQAB6YRTQ53V",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "SearchText",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Search Text request (Core)"
+      }
+    },
+    "Q8DNMB4JQABAK27B" : {
+      "sku" : "Q8DNMB4JQABAK27B",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Routes-Advanced",
+        "operation" : "CalculateIsolines",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Isoline calculated (Basic)"
+      }
+    },
+    "GN6JQ453E9YS7SM9" : {
+      "sku" : "GN6JQ453E9YS7SM9",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-OpenData-MapTile",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "OpenData",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tiles retrieved (vector or raster)"
+      }
+    },
+    "CHAP5Q659C64V84A" : {
+      "sku" : "CHAP5Q659C64V84A",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "ReverseGeocode",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Reverse Geocode request (Core)"
+      }
+    },
+    "MHEA2F7M246XSURF" : {
+      "sku" : "MHEA2F7M246XSURF",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Geocode",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded"
+      }
+    },
+    "AZP6TBP54385UT49" : {
+      "sku" : "AZP6TBP54385UT49",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-StoredGeocode",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses geocoded (stored results)"
+      }
+    },
+    "9PEDJJWYSN652DGR" : {
+      "sku" : "9PEDJJWYSN652DGR",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MAT-Here-Assets",
+        "operation" : "",
+        "pricingplan" : "MobileAssetTracking",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "All",
+        "type" : "Asset per provider per month"
+      }
+    },
+    "C8JCJG3R5H9A7Z5A" : {
+      "sku" : "C8JCJG3R5H9A7Z5A",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PositionEvaluation",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Geofencing",
+        "type" : "Positions evaluated"
+      }
+    },
+    "VEQJ5975GUUQM4EW" : {
+      "sku" : "VEQJ5975GUUQM4EW",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-PositionVerify",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Tracking",
+        "type" : "Position integrity evaluated"
+      }
+    },
+    "TDYEZ9FEQQM6TGH7" : {
+      "sku" : "TDYEZ9FEQQM6TGH7",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Default-Places-Core",
+        "operation" : "Autocomplete",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Default",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Autocomplete request (Core)"
+      }
+    },
+    "HYTBUCDFWXSXKCYN" : {
+      "sku" : "HYTBUCDFWXSXKCYN",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Esri-Suggest",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Esri",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses Suggested"
+      }
+    },
+    "KDVVB3NMTEA6D7R2" : {
+      "sku" : "KDVVB3NMTEA6D7R2",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resources created, read, updated, or deleted"
+      }
+    },
+    "YMGPYH2UF3CP6YZU" : {
+      "sku" : "YMGPYH2UF3CP6YZU",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Here-Route",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "HERE",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Routing",
+        "type" : "Routes calculated"
+      }
+    },
+    "HH2RZDD4RQE9CUGW" : {
+      "sku" : "HH2RZDD4RQE9CUGW",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-MapTile",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Maps",
+        "type" : "Map tiles retrieved (vector or raster)"
+      }
+    },
+    "4ZTPRG52M9RPVHHC" : {
+      "sku" : "4ZTPRG52M9RPVHHC",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ResourceCreateReadUpdateDelete",
+        "operation" : "",
+        "pricingplan" : "None",
+        "provider" : "None",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Service Resources",
+        "type" : "Resources created, read, updated, or deleted"
+      }
+    },
+    "T4HB58P6P4T3FSKC" : {
+      "sku" : "T4HB58P6P4T3FSKC",
+      "productFamily" : "AmazonLocationService",
+      "attributes" : {
+        "servicecode" : "AmazonLocationService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Usage-Grab-Suggest",
+        "operation" : "",
+        "pricingplan" : "RequestBasedUsage",
+        "provider" : "Grab",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Location Service",
+        "subservice" : "Places",
+        "type" : "Addresses Suggested"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "EACQ8YXRGRPDDN7M" : {
+        "EACQ8YXRGRPDDN7M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EACQ8YXRGRPDDN7M",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "EACQ8YXRGRPDDN7M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EACQ8YXRGRPDDN7M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Search Nearby request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MVX2DPF9AFDCWT2A" : {
+        "MVX2DPF9AFDCWT2A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVX2DPF9AFDCWT2A",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVX2DPF9AFDCWT2A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVX2DPF9AFDCWT2A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Routes calculated (Premium) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AGXNBVQSXMUKTAUK" : {
+        "AGXNBVQSXMUKTAUK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AGXNBVQSXMUKTAUK",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AGXNBVQSXMUKTAUK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AGXNBVQSXMUKTAUK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per thousand Map tile request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CD2TRTGS5RCJCU5D" : {
+        "CD2TRTGS5RCJCU5D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CD2TRTGS5RCJCU5D",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "CD2TRTGS5RCJCU5D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CD2TRTGS5RCJCU5D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand Autocomplete request (Label) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QJM5Q65D3GB7BNRK" : {
+        "QJM5Q65D3GB7BNRK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QJM5Q65D3GB7BNRK",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "QJM5Q65D3GB7BNRK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QJM5Q65D3GB7BNRK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per device for Mobile Asset Tracking using Esri in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z83SXBYKZE9MFDAM" : {
+        "Z83SXBYKZE9MFDAM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z83SXBYKZE9MFDAM",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z83SXBYKZE9MFDAM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z83SXBYKZE9MFDAM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Reverse Geocode request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AGXBM85HDCW9SDKU" : {
+        "AGXBM85HDCW9SDKU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AGXBM85HDCW9SDKU",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AGXBM85HDCW9SDKU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AGXBM85HDCW9SDKU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Suggest request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CP4GWZKJDUWXGXJE" : {
+        "CP4GWZKJDUWXGXJE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CP4GWZKJDUWXGXJE",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "CP4GWZKJDUWXGXJE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CP4GWZKJDUWXGXJE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KDVVB3NMTEA6D7R2" : {
+        "KDVVB3NMTEA6D7R2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KDVVB3NMTEA6D7R2",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KDVVB3NMTEA6D7R2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KDVVB3NMTEA6D7R2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KGN49PCYYN2YXNQ5" : {
+        "KGN49PCYYN2YXNQ5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KGN49PCYYN2YXNQ5",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KGN49PCYYN2YXNQ5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KGN49PCYYN2YXNQ5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Isoline calculated (Premium) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J7SC5MKBCBZ45FUY" : {
+        "J7SC5MKBCBZ45FUY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J7SC5MKBCBZ45FUY",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "J7SC5MKBCBZ45FUY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J7SC5MKBCBZ45FUY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Reverse Geocode request (Stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EYF9TQ7P5XH85BW7" : {
+        "EYF9TQ7P5XH85BW7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EYF9TQ7P5XH85BW7",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "EYF9TQ7P5XH85BW7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EYF9TQ7P5XH85BW7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TS3FKT8B99EFFWU6" : {
+        "TS3FKT8B99EFFWU6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TS3FKT8B99EFFWU6",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TS3FKT8B99EFFWU6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TS3FKT8B99EFFWU6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HH2RZDD4RQE9CUGW" : {
+        "HH2RZDD4RQE9CUGW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HH2RZDD4RQE9CUGW",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HH2RZDD4RQE9CUGW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HH2RZDD4RQE9CUGW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per thousand map tiles in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PNRBZDNWMX8J2Z7X" : {
+        "PNRBZDNWMX8J2Z7X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PNRBZDNWMX8J2Z7X",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "PNRBZDNWMX8J2Z7X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PNRBZDNWMX8J2Z7X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per thousand map tiles in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EHAHW5RK77PSJ2VV" : {
+        "EHAHW5RK77PSJ2VV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EHAHW5RK77PSJ2VV",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "EHAHW5RK77PSJ2VV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EHAHW5RK77PSJ2VV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand GeofenceList requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BS4PQ8WGQECXY2XR" : {
+        "BS4PQ8WGQECXY2XR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BS4PQ8WGQECXY2XR",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "BS4PQ8WGQECXY2XR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BS4PQ8WGQECXY2XR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Optimize Waypoint request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C8JCJG3R5H9A7Z5A" : {
+        "C8JCJG3R5H9A7Z5A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C8JCJG3R5H9A7Z5A",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "C8JCJG3R5H9A7Z5A.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "C8JCJG3R5H9A7Z5A.JRTCKXETXF.925HBHWMHV",
+              "description" : "$0.16 per thousand - first 250K positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0001600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "C8JCJG3R5H9A7Z5A.JRTCKXETXF.M2ZD2WYMEE" : {
+              "rateCode" : "C8JCJG3R5H9A7Z5A.JRTCKXETXF.M2ZD2WYMEE",
+              "description" : "$0.07 per thousand - next 23M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "2000000",
+              "endRange" : "25000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000700000"
+              },
+              "appliesTo" : [ ]
+            },
+            "C8JCJG3R5H9A7Z5A.JRTCKXETXF.YZ8GSG8HAE" : {
+              "rateCode" : "C8JCJG3R5H9A7Z5A.JRTCKXETXF.YZ8GSG8HAE",
+              "description" : "$0.06 per thousand - over 25M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "25000000",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "C8JCJG3R5H9A7Z5A.JRTCKXETXF.P3RYFGMPAM" : {
+              "rateCode" : "C8JCJG3R5H9A7Z5A.JRTCKXETXF.P3RYFGMPAM",
+              "description" : "$0.11 per thousand - next 1.75M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "250000",
+              "endRange" : "2000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0001100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W72SXXKBC453ZRJK" : {
+        "W72SXXKBC453ZRJK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W72SXXKBC453ZRJK",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "W72SXXKBC453ZRJK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W72SXXKBC453ZRJK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand geofence-months in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Geofence-month",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TMECM7GTM3SV68ZB" : {
+        "TMECM7GTM3SV68ZB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TMECM7GTM3SV68ZB",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TMECM7GTM3SV68ZB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TMECM7GTM3SV68ZB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand devices deleted in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8BQFJ3BZRS9QD427" : {
+        "8BQFJ3BZRS9QD427.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8BQFJ3BZRS9QD427",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "8BQFJ3BZRS9QD427.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8BQFJ3BZRS9QD427.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WQ35R2U47MU8M7CQ" : {
+        "WQ35R2U47MU8M7CQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WQ35R2U47MU8M7CQ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WQ35R2U47MU8M7CQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WQ35R2U47MU8M7CQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TDYEZ9FEQQM6TGH7" : {
+        "TDYEZ9FEQQM6TGH7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TDYEZ9FEQQM6TGH7",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TDYEZ9FEQQM6TGH7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TDYEZ9FEQQM6TGH7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Autocomplete request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EUBNHQTCBNWUEHDD" : {
+        "EUBNHQTCBNWUEHDD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EUBNHQTCBNWUEHDD",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "EUBNHQTCBNWUEHDD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EUBNHQTCBNWUEHDD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Snap to Road request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NK5XU8RPQYZNKA6S" : {
+        "NK5XU8RPQYZNKA6S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NK5XU8RPQYZNKA6S",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NK5XU8RPQYZNKA6S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NK5XU8RPQYZNKA6S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per thousand map tiles in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T2Z468W73GZCWXYF" : {
+        "T2Z468W73GZCWXYF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T2Z468W73GZCWXYF",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "T2Z468W73GZCWXYF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T2Z468W73GZCWXYF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand geofences created, read, updated, or deleted in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Geofence",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZW85D22FP6D3RCY6" : {
+        "ZW85D22FP6D3RCY6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZW85D22FP6D3RCY6",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZW85D22FP6D3RCY6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZW85D22FP6D3RCY6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WMSXEQ3PVV4VH3HP" : {
+        "WMSXEQ3PVV4VH3HP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WMSXEQ3PVV4VH3HP",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WMSXEQ3PVV4VH3HP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WMSXEQ3PVV4VH3HP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per thousand position integrity evaluated in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VSYF5976A4G75QXZ" : {
+        "VSYF5976A4G75QXZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VSYF5976A4G75QXZ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VSYF5976A4G75QXZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VSYF5976A4G75QXZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand total routes calculated from Calculate Route Matrix (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KGXFFZ3Y6YM7UPRQ" : {
+        "KGXFFZ3Y6YM7UPRQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KGXFFZ3Y6YM7UPRQ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KGXFFZ3Y6YM7UPRQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KGXFFZ3Y6YM7UPRQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Search Nearby request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VEQJ5975GUUQM4EW" : {
+        "VEQJ5975GUUQM4EW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VEQJ5975GUUQM4EW",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VEQJ5975GUUQM4EW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VEQJ5975GUUQM4EW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per thousand position integrity evaluated in US East (N.Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3XW4U62F447UGZEU" : {
+        "3XW4U62F447UGZEU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3XW4U62F447UGZEU",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "3XW4U62F447UGZEU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3XW4U62F447UGZEU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand Suggest request (Label) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZEK5MZ5SS5XS9KVC" : {
+        "ZEK5MZ5SS5XS9KVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZEK5MZ5SS5XS9KVC",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZEK5MZ5SS5XS9KVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZEK5MZ5SS5XS9KVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T4HB58P6P4T3FSKC" : {
+        "T4HB58P6P4T3FSKC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T4HB58P6P4T3FSKC",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "T4HB58P6P4T3FSKC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T4HB58P6P4T3FSKC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6S7KNDG2YSYWX2JD" : {
+        "6S7KNDG2YSYWX2JD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6S7KNDG2YSYWX2JD",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "6S7KNDG2YSYWX2JD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6S7KNDG2YSYWX2JD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand GetPlace request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P5949KMSUYUYB3UX" : {
+        "P5949KMSUYUYB3UX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P5949KMSUYUYB3UX",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "P5949KMSUYUYB3UX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P5949KMSUYUYB3UX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.75 per thousand geofence event forecast requested in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0017500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R2EFYM3AXY25PRHE" : {
+        "R2EFYM3AXY25PRHE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R2EFYM3AXY25PRHE",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "R2EFYM3AXY25PRHE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R2EFYM3AXY25PRHE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Search Text request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7WRRUX9UVY7947QA" : {
+        "7WRRUX9UVY7947QA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7WRRUX9UVY7947QA",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "7WRRUX9UVY7947QA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7WRRUX9UVY7947QA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RB5JQRFVNGGBP5PQ" : {
+        "RB5JQRFVNGGBP5PQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RB5JQRFVNGGBP5PQ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RB5JQRFVNGGBP5PQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RB5JQRFVNGGBP5PQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y6PFCWHXU4BCB7M9" : {
+        "Y6PFCWHXU4BCB7M9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y6PFCWHXU4BCB7M9",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y6PFCWHXU4BCB7M9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y6PFCWHXU4BCB7M9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$15.00 per device for Mobile Asset Management using Esri in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X9F46ZXT7U73YKV5" : {
+        "X9F46ZXT7U73YKV5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X9F46ZXT7U73YKV5",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "X9F46ZXT7U73YKV5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X9F46ZXT7U73YKV5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand PositionRead requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5CXA93P42TSDNXCB" : {
+        "5CXA93P42TSDNXCB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5CXA93P42TSDNXCB",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "5CXA93P42TSDNXCB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5CXA93P42TSDNXCB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6UE97T3MZ36DEVN5" : {
+        "6UE97T3MZ36DEVN5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6UE97T3MZ36DEVN5",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "6UE97T3MZ36DEVN5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6UE97T3MZ36DEVN5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand PositionRead requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YMGPYH2UF3CP6YZU" : {
+        "YMGPYH2UF3CP6YZU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YMGPYH2UF3CP6YZU",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "YMGPYH2UF3CP6YZU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YMGPYH2UF3CP6YZU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand routes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZGZSPE697XEZFCYD" : {
+        "ZGZSPE697XEZFCYD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZGZSPE697XEZFCYD",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZGZSPE697XEZFCYD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZGZSPE697XEZFCYD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Suggest request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W5N4HZKS8XCH49HS" : {
+        "W5N4HZKS8XCH49HS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W5N4HZKS8XCH49HS",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "W5N4HZKS8XCH49HS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W5N4HZKS8XCH49HS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Static map request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VNJHYG9AZ99R5RT9" : {
+        "VNJHYG9AZ99R5RT9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VNJHYG9AZ99R5RT9",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VNJHYG9AZ99R5RT9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VNJHYG9AZ99R5RT9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per thousand transactions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Transaction",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WJC63CMSKXJ7FBD2" : {
+        "WJC63CMSKXJ7FBD2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WJC63CMSKXJ7FBD2",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WJC63CMSKXJ7FBD2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WJC63CMSKXJ7FBD2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SUWZY4ZFD32EQVGR" : {
+        "SUWZY4ZFD32EQVGR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SUWZY4ZFD32EQVGR",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "SUWZY4ZFD32EQVGR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SUWZY4ZFD32EQVGR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KDRNGZX78QMRTNQZ" : {
+        "KDRNGZX78QMRTNQZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KDRNGZX78QMRTNQZ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KDRNGZX78QMRTNQZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KDRNGZX78QMRTNQZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand routes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FNTUTC2M9Z7WX9NA" : {
+        "FNTUTC2M9Z7WX9NA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FNTUTC2M9Z7WX9NA",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "FNTUTC2M9Z7WX9NA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FNTUTC2M9Z7WX9NA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JQXU9WPW65X4M97R" : {
+        "JQXU9WPW65X4M97R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JQXU9WPW65X4M97R",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "JQXU9WPW65X4M97R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JQXU9WPW65X4M97R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand GetPlace request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V48UUP9TWF727PZP" : {
+        "V48UUP9TWF727PZP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V48UUP9TWF727PZP",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "V48UUP9TWF727PZP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V48UUP9TWF727PZP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Geocode request (Stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GN6JQ453E9YS7SM9" : {
+        "GN6JQ453E9YS7SM9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GN6JQ453E9YS7SM9",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GN6JQ453E9YS7SM9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GN6JQ453E9YS7SM9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per thousand map tiles in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000350000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HEEDZAB5HQ7SMWCF" : {
+        "HEEDZAB5HQ7SMWCF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HEEDZAB5HQ7SMWCF",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HEEDZAB5HQ7SMWCF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HEEDZAB5HQ7SMWCF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand geofence-months in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Geofence-month",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YGF49ZUJZDPN88RT" : {
+        "YGF49ZUJZDPN88RT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YGF49ZUJZDPN88RT",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "YGF49ZUJZDPN88RT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YGF49ZUJZDPN88RT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ENWJZ83MQ9QBNCBU" : {
+        "ENWJZ83MQ9QBNCBU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ENWJZ83MQ9QBNCBU",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ENWJZ83MQ9QBNCBU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ENWJZ83MQ9QBNCBU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BAXD76D4XYJF8KJS" : {
+        "BAXD76D4XYJF8KJS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BAXD76D4XYJF8KJS",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "BAXD76D4XYJF8KJS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BAXD76D4XYJF8KJS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per thousand transactions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Transaction",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BZHQZ4NB5B2HVM6V" : {
+        "BZHQZ4NB5B2HVM6V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BZHQZ4NB5B2HVM6V",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "BZHQZ4NB5B2HVM6V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BZHQZ4NB5B2HVM6V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CZTTHQAB6YRTQ53V" : {
+        "CZTTHQAB6YRTQ53V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CZTTHQAB6YRTQ53V",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "CZTTHQAB6YRTQ53V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CZTTHQAB6YRTQ53V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Search Text request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9PEDJJWYSN652DGR" : {
+        "9PEDJJWYSN652DGR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9PEDJJWYSN652DGR",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "9PEDJJWYSN652DGR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9PEDJJWYSN652DGR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per device for Mobile Asset Tracking using HERE in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "53XMUYJHJ9THPR9Z" : {
+        "53XMUYJHJ9THPR9Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "53XMUYJHJ9THPR9Z",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "53XMUYJHJ9THPR9Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "53XMUYJHJ9THPR9Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$15.00 per device for Mobile Asset Management using HERE in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T97HWZZ727S3HC84" : {
+        "T97HWZZ727S3HC84.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T97HWZZ727S3HC84",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "T97HWZZ727S3HC84.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T97HWZZ727S3HC84.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.75 per thousand geofence event forecast requested in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0017500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FZK5N7ZAVPCCAVSJ" : {
+        "FZK5N7ZAVPCCAVSJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FZK5N7ZAVPCCAVSJ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "FZK5N7ZAVPCCAVSJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FZK5N7ZAVPCCAVSJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Routes calculated (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GFEPV4DVASYTQRV2" : {
+        "GFEPV4DVASYTQRV2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GFEPV4DVASYTQRV2",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GFEPV4DVASYTQRV2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GFEPV4DVASYTQRV2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per thousand transactions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Transaction",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RMCU4TUR3YHP3KVT" : {
+        "RMCU4TUR3YHP3KVT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RMCU4TUR3YHP3KVT",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RMCU4TUR3YHP3KVT.JRTCKXETXF.V7AV46D3WC" : {
+              "rateCode" : "RMCU4TUR3YHP3KVT.JRTCKXETXF.V7AV46D3WC",
+              "description" : "$0.025 per thousand - next 45M positions written in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "50000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RMCU4TUR3YHP3KVT.JRTCKXETXF.ECJTRKSV3C" : {
+              "rateCode" : "RMCU4TUR3YHP3KVT.JRTCKXETXF.ECJTRKSV3C",
+              "description" : "$0.0125 per thousand - over 50M positions written in US East (N. Virginia)",
+              "beginRange" : "50000000",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000125000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RMCU4TUR3YHP3KVT.JRTCKXETXF.7QPESV7X43" : {
+              "rateCode" : "RMCU4TUR3YHP3KVT.JRTCKXETXF.7QPESV7X43",
+              "description" : "$0.035 per thousand - next 4.5M positions written in US East (N. Virginia)",
+              "beginRange" : "500000",
+              "endRange" : "5000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000350000"
+              },
+              "appliesTo" : [ ]
+            },
+            "RMCU4TUR3YHP3KVT.JRTCKXETXF.X52V2NUPYZ" : {
+              "rateCode" : "RMCU4TUR3YHP3KVT.JRTCKXETXF.X52V2NUPYZ",
+              "description" : "$0.05 per thousand - first 500K positions written in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "500000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BHX4JX923VV3U2V7" : {
+        "BHX4JX923VV3U2V7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BHX4JX923VV3U2V7",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "BHX4JX923VV3U2V7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BHX4JX923VV3U2V7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Search Text request (Stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9J6EA39FY8HNBBDU" : {
+        "9J6EA39FY8HNBBDU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9J6EA39FY8HNBBDU",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "9J6EA39FY8HNBBDU.JRTCKXETXF.YZ8GSG8HAE" : {
+              "rateCode" : "9J6EA39FY8HNBBDU.JRTCKXETXF.YZ8GSG8HAE",
+              "description" : "$0.06 per thousand - over 25M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "25000000",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9J6EA39FY8HNBBDU.JRTCKXETXF.M2ZD2WYMEE" : {
+              "rateCode" : "9J6EA39FY8HNBBDU.JRTCKXETXF.M2ZD2WYMEE",
+              "description" : "$0.07 per thousand - next 23M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "2000000",
+              "endRange" : "25000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000700000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9J6EA39FY8HNBBDU.JRTCKXETXF.925HBHWMHV" : {
+              "rateCode" : "9J6EA39FY8HNBBDU.JRTCKXETXF.925HBHWMHV",
+              "description" : "$0.16 per thousand - first 250K positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "250000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0001600000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9J6EA39FY8HNBBDU.JRTCKXETXF.P3RYFGMPAM" : {
+              "rateCode" : "9J6EA39FY8HNBBDU.JRTCKXETXF.P3RYFGMPAM",
+              "description" : "$0.11 per thousand - next 1.75M positions evaluated against a geofence collection in US East (N. Virginia)",
+              "beginRange" : "250000",
+              "endRange" : "2000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0001100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4E4EJZXHSVMJJCDX" : {
+        "4E4EJZXHSVMJJCDX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4E4EJZXHSVMJJCDX",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "4E4EJZXHSVMJJCDX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4E4EJZXHSVMJJCDX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FNMETG8AQAPZACCG" : {
+        "FNMETG8AQAPZACCG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FNMETG8AQAPZACCG",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "FNMETG8AQAPZACCG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FNMETG8AQAPZACCG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand total routes calculated from Calculate Route Matrix (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VRRDNMYX2HMC75RC" : {
+        "VRRDNMYX2HMC75RC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VRRDNMYX2HMC75RC",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VRRDNMYX2HMC75RC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VRRDNMYX2HMC75RC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.06 per thousand transactions in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Transaction",
+              "pricePerUnit" : {
+                "USD" : "0.0000600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CHAP5Q659C64V84A" : {
+        "CHAP5Q659C64V84A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CHAP5Q659C64V84A",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "CHAP5Q659C64V84A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CHAP5Q659C64V84A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Reverse Geocode request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HWFVK367T3G5BT5N" : {
+        "HWFVK367T3G5BT5N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HWFVK367T3G5BT5N",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HWFVK367T3G5BT5N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HWFVK367T3G5BT5N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Geocode request (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AJGG25CMD23QWZU9" : {
+        "AJGG25CMD23QWZU9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJGG25CMD23QWZU9",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJGG25CMD23QWZU9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJGG25CMD23QWZU9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand geofences created, read, updated, or deleted in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Geofence",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SPB4BNN2USBUGZJ4" : {
+        "SPB4BNN2USBUGZJ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SPB4BNN2USBUGZJ4",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "SPB4BNN2USBUGZJ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SPB4BNN2USBUGZJ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4BQDD9YDNVZKG8TX" : {
+        "4BQDD9YDNVZKG8TX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4BQDD9YDNVZKG8TX",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "4BQDD9YDNVZKG8TX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4BQDD9YDNVZKG8TX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Snap to Road request (Premium) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HYTBUCDFWXSXKCYN" : {
+        "HYTBUCDFWXSXKCYN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HYTBUCDFWXSXKCYN",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HYTBUCDFWXSXKCYN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HYTBUCDFWXSXKCYN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NRP6GJGTTFTDNCMG" : {
+        "NRP6GJGTTFTDNCMG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NRP6GJGTTFTDNCMG",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NRP6GJGTTFTDNCMG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NRP6GJGTTFTDNCMG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand GetPlace request (Stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q8DNMB4JQABAK27B" : {
+        "Q8DNMB4JQABAK27B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q8DNMB4JQABAK27B",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q8DNMB4JQABAK27B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q8DNMB4JQABAK27B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.50 per thousand Isoline calculated (Advanced) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RGTU4QTHVVSBU24A" : {
+        "RGTU4QTHVVSBU24A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RGTU4QTHVVSBU24A",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RGTU4QTHVVSBU24A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RGTU4QTHVVSBU24A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand devices deleted in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Devices",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MHEA2F7M246XSURF" : {
+        "MHEA2F7M246XSURF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MHEA2F7M246XSURF",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "MHEA2F7M246XSURF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MHEA2F7M246XSURF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RRWVDWC4FNA662WR" : {
+        "RRWVDWC4FNA662WR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RRWVDWC4FNA662WR",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RRWVDWC4FNA662WR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RRWVDWC4FNA662WR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Search Nearby request (Stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AZP6TBP54385UT49" : {
+        "AZP6TBP54385UT49.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AZP6TBP54385UT49",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AZP6TBP54385UT49.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AZP6TBP54385UT49.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TQCATNJRC2MWMJTX" : {
+        "TQCATNJRC2MWMJTX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TQCATNJRC2MWMJTX",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TQCATNJRC2MWMJTX.JRTCKXETXF.ECJTRKSV3C" : {
+              "rateCode" : "TQCATNJRC2MWMJTX.JRTCKXETXF.ECJTRKSV3C",
+              "description" : "$0.0125 per thousand - over 50M positions written in US East (N. Virginia)",
+              "beginRange" : "50000000",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000125000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQCATNJRC2MWMJTX.JRTCKXETXF.V7AV46D3WC" : {
+              "rateCode" : "TQCATNJRC2MWMJTX.JRTCKXETXF.V7AV46D3WC",
+              "description" : "$0.025 per thousand - next 45M positions written in US East (N. Virginia)",
+              "beginRange" : "5000000",
+              "endRange" : "50000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000250000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQCATNJRC2MWMJTX.JRTCKXETXF.7QPESV7X43" : {
+              "rateCode" : "TQCATNJRC2MWMJTX.JRTCKXETXF.7QPESV7X43",
+              "description" : "$0.035 per thousand - next 4.5M positions written in US East (N. Virginia)",
+              "beginRange" : "500000",
+              "endRange" : "5000000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000350000"
+              },
+              "appliesTo" : [ ]
+            },
+            "TQCATNJRC2MWMJTX.JRTCKXETXF.X52V2NUPYZ" : {
+              "rateCode" : "TQCATNJRC2MWMJTX.JRTCKXETXF.X52V2NUPYZ",
+              "description" : "$0.05 per thousand - first 500K positions written in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "500000",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GURJQKVJCB5QN9GZ" : {
+        "GURJQKVJCB5QN9GZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GURJQKVJCB5QN9GZ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GURJQKVJCB5QN9GZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GURJQKVJCB5QN9GZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource list requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F2MKCQE7BVNDJG9Y" : {
+        "F2MKCQE7BVNDJG9Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F2MKCQE7BVNDJG9Y",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "F2MKCQE7BVNDJG9Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F2MKCQE7BVNDJG9Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Routes calculated (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UYVXR3EKCTNBGQZD" : {
+        "UYVXR3EKCTNBGQZD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UYVXR3EKCTNBGQZD",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "UYVXR3EKCTNBGQZD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UYVXR3EKCTNBGQZD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R3A7Q9B2437S2J4W" : {
+        "R3A7Q9B2437S2J4W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R3A7Q9B2437S2J4W",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "R3A7Q9B2437S2J4W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R3A7Q9B2437S2J4W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand routes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GE3D82UJMK3P52YM" : {
+        "GE3D82UJMK3P52YM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GE3D82UJMK3P52YM",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GE3D82UJMK3P52YM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GE3D82UJMK3P52YM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand Geocode request (Core) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "88W69NBUSHEB72U9" : {
+        "88W69NBUSHEB72U9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "88W69NBUSHEB72U9",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "88W69NBUSHEB72U9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "88W69NBUSHEB72U9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Position",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DPRP85XW48BE328N" : {
+        "DPRP85XW48BE328N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DPRP85XW48BE328N",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "DPRP85XW48BE328N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DPRP85XW48BE328N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Map Tile",
+              "pricePerUnit" : {
+                "USD" : "0.0000400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QV38V37EXXDJ5B2K" : {
+        "QV38V37EXXDJ5B2K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QV38V37EXXDJ5B2K",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "QV38V37EXXDJ5B2K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QV38V37EXXDJ5B2K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Address",
+              "pricePerUnit" : {
+                "USD" : "0.0005000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YUU6NMX7PJBEUTEE" : {
+        "YUU6NMX7PJBEUTEE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YUU6NMX7PJBEUTEE",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "YUU6NMX7PJBEUTEE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YUU6NMX7PJBEUTEE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per thousand Optimize Waypoint request (Premium) in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Route",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ESKASYMSMZ2M3JBZ" : {
+        "ESKASYMSMZ2M3JBZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ESKASYMSMZ2M3JBZ",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ESKASYMSMZ2M3JBZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ESKASYMSMZ2M3JBZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per thousand GeofenceList requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4ZTPRG52M9RPVHHC" : {
+        "4ZTPRG52M9RPVHHC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4ZTPRG52M9RPVHHC",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "4ZTPRG52M9RPVHHC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4ZTPRG52M9RPVHHC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

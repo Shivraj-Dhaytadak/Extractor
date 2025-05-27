@@ -1,0 +1,3981 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonOmics",
+  "version" : "20250307155042",
+  "publicationDate" : "2025-03-07T15:50:42Z",
+  "products" : {
+    "AP845NWVGBMQ3DJ7" : {
+      "sku" : "AP845NWVGBMQ3DJ7",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto50X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 50X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "ZV56CVBDVN7NY7A3" : {
+      "sku" : "ZV56CVBDVN7NY7A3",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWGSforupto32x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Germline FASTQ WGS for up to 32x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "RS4VE88K6Y9XE2PW" : {
+      "sku" : "RS4VE88K6Y9XE2PW",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-scRNAseqwithKallistoBUStools-v1.0-run",
+        "operation" : "",
+        "publisher" : "nf-core",
+        "ready2runWorkflowName" : "scRNAseq with KallistoBUStools",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "4VFB6ZN2JFNGMDP7" : {
+      "sku" : "4VFB6ZN2JFNGMDP7",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "48 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "C8XGARZPCS3UNWYD" : {
+      "sku" : "C8XGARZPCS3UNWYD",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "OmicsStorage-API-GetRequest",
+        "groupDescription" : "Get requests",
+        "usagetype" : "USE1-OmicsStorage:API-GetRequest",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "6CKE6CWRJ7QX74HD" : {
+      "sku" : "6CKE6CWRJ7QX74HD",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x150-v1.0-run",
+        "operation" : "",
+        "publisher" : "Element Biosciences",
+        "ready2runWorkflowName" : "Bases2Fastq for 2x150",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "WB4J33A4XQJH5YCR" : {
+      "sku" : "WB4J33A4XQJH5YCR",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-ESMFoldforupto800residues-v1.0-run",
+        "operation" : "",
+        "publisher" : "Meta Research",
+        "ready2runWorkflowName" : "ESMFold for up to 800 residues",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "CDPVD8G7YKYNFZQN" : {
+      "sku" : "CDPVD8G7YKYNFZQN",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x75-v1.0-run",
+        "operation" : "",
+        "publisher" : "Element Biosciences",
+        "ready2runWorkflowName" : "Bases2Fastq for 2x75",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "UZ885JDCKY89ZNSD" : {
+      "sku" : "UZ885JDCKY89ZNSD",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.12xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "96 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "X8H2USCUMUR8C7GH" : {
+      "sku" : "X8H2USCUMUR8C7GH",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.4xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "B9NYGKZRKEK5T57A" : {
+      "sku" : "B9NYGKZRKEK5T57A",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "MNM5Q5US5XSVPPCG" : {
+      "sku" : "MNM5Q5US5XSVPPCG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto50X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline DeepVariant WGS for up to 50X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "XJP2692MX3S2UWDG" : {
+      "sku" : "XJP2692MX3S2UWDG",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AnalyticsType:Annotation-Bytes-hour",
+        "operation" : "",
+        "analyticsType" : "Datastore",
+        "datastoreType" : "Annotation",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "WGYT5YB5AQ6G2QNH" : {
+      "sku" : "WGYT5YB5AQ6G2QNH",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "768 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.24xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "MFYJY8H99HUJMRDH" : {
+      "sku" : "MFYJY8H99HUJMRDH",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "4 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.large-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.large",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "ZNQQ4HPA36P8F5NC" : {
+      "sku" : "ZNQQ4HPA36P8F5NC",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.4xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "37UYQXUJUA4QBPT4" : {
+      "sku" : "37UYQXUJUA4QBPT4",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "OmicsStorage-API-S3GetRequest",
+        "groupDescription" : "S3 Get Request",
+        "usagetype" : "USE1-OmicsStorage:API-S3GetRequest",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "KJ5C72AXUHQDD4SF" : {
+      "sku" : "KJ5C72AXUHQDD4SF",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWESforupto300x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Germline FASTQ WES for up to 300x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "H6JNMKCRCXHF83NV" : {
+      "sku" : "H6JNMKCRCXHF83NV",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.24xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "96 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "F9M7KJE8TS3HGWFD" : {
+      "sku" : "F9M7KJE8TS3HGWFD",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.2xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "16 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "2PPPGX85Z5H55XRT" : {
+      "sku" : "2PPPGX85Z5H55XRT",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.2xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "YMYAJ8NENN6UATVC" : {
+      "sku" : "YMYAJ8NENN6UATVC",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto50X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 50X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "WWMD9DPTEGWN2RFE" : {
+      "sku" : "WWMD9DPTEGWN2RFE",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonLongReadforONT-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon LongRead for ONT",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "UWKBMPAF59V3CAZN" : {
+      "sku" : "UWKBMPAF59V3CAZN",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Archive",
+        "usagetype" : "USE1-StorageClass:Archive-Gigabase-hour",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "36BSS9T3RBYMWSPZ" : {
+      "sku" : "36BSS9T3RBYMWSPZ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.8xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "RSQZVB6BP2TQJ5XS" : {
+      "sku" : "RSQZVB6BP2TQJ5XS",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.16xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "16 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "7S3UF4DGW3AKT4E3" : {
+      "sku" : "7S3UF4DGW3AKT4E3",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "512 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.16xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "C2B247A3FMWC8VQE" : {
+      "sku" : "C2B247A3FMWC8VQE",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-AlphaFoldfor601-1200residues-v1.0-run",
+        "operation" : "",
+        "publisher" : "DeepMind",
+        "ready2runWorkflowName" : "AlphaFold for 601-1200 residues",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "BNJTWVU7E89QWYSQ" : {
+      "sku" : "BNJTWVU7E89QWYSQ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.8xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "BQPZZ23Q3XW8H56D" : {
+      "sku" : "BQPZZ23Q3XW8H56D",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.16xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "4VPS3VK5X8G52V78" : {
+      "sku" : "4VPS3VK5X8G52V78",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.8xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "48 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "B9AQPJG926MSBN4P" : {
+      "sku" : "B9AQPJG926MSBN4P",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "768 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.24xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "192 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "MM8JHPV5M36NA2XJ" : {
+      "sku" : "MM8JHPV5M36NA2XJ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.24xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "W3APKXSHBRUYCQ5B" : {
+      "sku" : "W3APKXSHBRUYCQ5B",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.4xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "5SFVHVD67BCMP8SX" : {
+      "sku" : "5SFVHVD67BCMP8SX",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.4xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "48 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "E946Y5UGNNRNSU4G" : {
+      "sku" : "E946Y5UGNNRNSU4G",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "8 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "CS2SB37SQVGWB89H" : {
+      "sku" : "CS2SB37SQVGWB89H",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto30X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks FQ2BAM WGS for up to 30X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "8278X26KCGA2BCE4" : {
+      "sku" : "8278X26KCGA2BCE4",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-AlphaFoldforupto600residues-v1.0-run",
+        "operation" : "",
+        "publisher" : "DeepMind",
+        "ready2runWorkflowName" : "AlphaFold for up to 600 residues",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "639V5F6GBVFND7W5" : {
+      "sku" : "639V5F6GBVFND7W5",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.12xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "96 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "ES4BHKMXGYENDRE3" : {
+      "sku" : "ES4BHKMXGYENDRE3",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto5X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 5X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "BSSTYJE424UMN5PG" : {
+      "sku" : "BSSTYJE424UMN5PG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto30X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline DeepVariant WGS for up to 30X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "EAHUPF7VFRFUKGYG" : {
+      "sku" : "EAHUPF7VFRFUKGYG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.large-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.large",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "XAEVRU3GN52KAGSX" : {
+      "sku" : "XAEVRU3GN52KAGSX",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonSomaticWES-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Somatic WES",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "45759GRPBPS6VFRX" : {
+      "sku" : "45759GRPBPS6VFRX",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "192",
+        "memory" : "1,536 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.48xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.48xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "REB8RCB5VB3CNF6X" : {
+      "sku" : "REB8RCB5VB3CNF6X",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.2xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "JEE39CTXZ5XFSAXQ" : {
+      "sku" : "JEE39CTXZ5XFSAXQ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "96 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.12xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "H2QRF6DP7V6MNV38" : {
+      "sku" : "H2QRF6DP7V6MNV38",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto30X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 30X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "DX6RRQDY9FUWYP7N" : {
+      "sku" : "DX6RRQDY9FUWYP7N",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.16xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "VJSPB2VM29GDP3RK" : {
+      "sku" : "VJSPB2VM29GDP3RK",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "OmicsStorage-API-S3ListRequest",
+        "groupDescription" : "S3 List Request",
+        "usagetype" : "USE1-OmicsStorage:API-S3ListRequest",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "SAT6QHPTKZDWTDQB" : {
+      "sku" : "SAT6QHPTKZDWTDQB",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksSomaticMutect2WGSforupto50X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Somatic Mutect2 WGS for up to 50X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "GA49S76QEZRKYU96" : {
+      "sku" : "GA49S76QEZRKYU96",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.12xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "VU335VRUFJXTBV69" : {
+      "sku" : "VU335VRUFJXTBV69",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-GATK-BPGermlinefq2vcffor30xgenome-v1.0-run",
+        "operation" : "",
+        "publisher" : "Broad Institute",
+        "ready2runWorkflowName" : "GATK-BP Germline fq2vcf for 30x genome",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "9MB6VXGYSR9CEPBG" : {
+      "sku" : "9MB6VXGYSR9CEPBG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "2",
+        "memory" : "8 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.large-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.large",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "3W9EGFFWKC8FYU4Y" : {
+      "sku" : "3W9EGFFWKC8FYU4Y",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AnalyticsType:Variant-Bytes-hour",
+        "operation" : "",
+        "analyticsType" : "Datastore",
+        "datastoreType" : "Variant",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "ASECS9EY4F242JCC" : {
+      "sku" : "ASECS9EY4F242JCC",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "512 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.32xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.32xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "FW9B4ZZYEV5QZFC3" : {
+      "sku" : "FW9B4ZZYEV5QZFC3",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Private-RunStorage-GB-hour",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourceType" : "Run Storage",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "RXMUE78E3XFVQEM6" : {
+      "sku" : "RXMUE78E3XFVQEM6",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.32xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.32xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "N7NKNK5P24RUMHE7" : {
+      "sku" : "N7NKNK5P24RUMHE7",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto5X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 5X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "79ZKR7Z483ZPRMDG" : {
+      "sku" : "79ZKR7Z483ZPRMDG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "NQCKAKX3UMXDGDRH" : {
+      "sku" : "NQCKAKX3UMXDGDRH",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.2xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "Q9SHYWZG7AQBED6B" : {
+      "sku" : "Q9SHYWZG7AQBED6B",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "128",
+        "memory" : "1,024 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.32xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.32xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "46ZJYK6KZK2Q96KA" : {
+      "sku" : "46ZJYK6KZK2Q96KA",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.8xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "MWP8E3BW254DSGCN" : {
+      "sku" : "MWP8E3BW254DSGCN",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWESforupto100x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Germline FASTQ WES for up to 100x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "ZKWHHC8S3ZYGP3TG" : {
+      "sku" : "ZKWHHC8S3ZYGP3TG",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-GATK-BPSomaticWESbam2vcf-v1.0-run",
+        "operation" : "",
+        "publisher" : "Broad Institute",
+        "ready2runWorkflowName" : "GATK-BP Somatic WES bam2vcf",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "D392A73B4G3VS626" : {
+      "sku" : "D392A73B4G3VS626",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.8xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "16 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "5AX86SX2H3D5GJZJ" : {
+      "sku" : "5AX86SX2H3D5GJZJ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.2xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "WTG7DSTX272B5Q9R" : {
+      "sku" : "WTG7DSTX272B5Q9R",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.24xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "96 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "DRXQETW86KXWA4YZ" : {
+      "sku" : "DRXQETW86KXWA4YZ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-UltimaGenomicsDeepVariantforupto40x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Ultima Genomics",
+        "ready2runWorkflowName" : "Ultima Genomics DeepVariant for up to 40x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "E43JGQCN5D8A6D4V" : {
+      "sku" : "E43JGQCN5D8A6D4V",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.8xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "J729WPVVRAFGC5KK" : {
+      "sku" : "J729WPVVRAFGC5KK",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "512 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.16xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "48 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "ZJ93ZKEB5BDWPG4U" : {
+      "sku" : "ZJ93ZKEB5BDWPG4U",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "96",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.24xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.24xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "57KM44VKG5QHFAZS" : {
+      "sku" : "57KM44VKG5QHFAZS",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-scRNAseqwithSTARsolo-v1.0-run",
+        "operation" : "",
+        "publisher" : "nf-core",
+        "ready2runWorkflowName" : "scRNAseq with STARsolo",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "V7C37UQ8CWH5VTB7" : {
+      "sku" : "V7C37UQ8CWH5VTB7",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto5X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks FQ2BAM WGS for up to 5X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "BVFPS9PDE4A2BMZJ" : {
+      "sku" : "BVFPS9PDE4A2BMZJ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-scRNAseqwithSalmonAlevin-fry-v1.0-run",
+        "operation" : "",
+        "publisher" : "nf-core",
+        "ready2runWorkflowName" : "scRNAseq with Salmon Alevin-fry",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "295F2GBYPPU3N7XM" : {
+      "sku" : "295F2GBYPPU3N7XM",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto50X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks FQ2BAM WGS for up to 50X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "6RW3UX2RN48PAWK4" : {
+      "sku" : "6RW3UX2RN48PAWK4",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonGermlineBAMWESforupto300x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Germline BAM WES for up to 300x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "QGMPVCJBWGMKNC52" : {
+      "sku" : "QGMPVCJBWGMKNC52",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto5X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline DeepVariant WGS for up to 5X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "QFM5UPEHBY37RVXB" : {
+      "sku" : "QFM5UPEHBY37RVXB",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "192",
+        "memory" : "768 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.48xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.48xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "6AUCNXHSFZQQYNSV" : {
+      "sku" : "6AUCNXHSFZQQYNSV",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.8xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.8xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "9A3JPBMEBX8B44GS" : {
+      "sku" : "9A3JPBMEBX8B44GS",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonGermlineBAMWGSforupto32x-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Germline BAM WGS for up to 32x",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "M8TPZJQ6JTYKBH5V" : {
+      "sku" : "M8TPZJQ6JTYKBH5V",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "16 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "GWNS84NFER3TC2YM" : {
+      "sku" : "GWNS84NFER3TC2YM",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g5.4xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g5.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "B44CXBSCQQHUBTFW" : {
+      "sku" : "B44CXBSCQQHUBTFW",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-GATK-BPfq2bam-v1.0-run",
+        "operation" : "",
+        "publisher" : "Broad Institute",
+        "ready2runWorkflowName" : "GATK-BP fq2bam",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "GXUBFSRJDPDQ7MSA" : {
+      "sku" : "GXUBFSRJDPDQ7MSA",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.12xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "8XVKZNTAZ9ATEAQK" : {
+      "sku" : "8XVKZNTAZ9ATEAQK",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.2xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "JTABN7G47CMM9P2J" : {
+      "sku" : "JTABN7G47CMM9P2J",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-GATK-BPGermlinebam2vcffor30xgenome-v1.0-run",
+        "operation" : "",
+        "publisher" : "Broad Institute",
+        "ready2runWorkflowName" : "GATK-BP Germline bam2vcf for 30x genome",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "RPP4VWRCCD7TAWJE" : {
+      "sku" : "RPP4VWRCCD7TAWJE",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "256 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.16xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "79JB6W858MU7EC66" : {
+      "sku" : "79JB6W858MU7EC66",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "8",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.2xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "48 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.2xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "GQVMAT74C9XBX7JR" : {
+      "sku" : "GQVMAT74C9XBX7JR",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "128 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.16xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.16xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "TN3BJ4UCAVWUWRNE" : {
+      "sku" : "TN3BJ4UCAVWUWRNE",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonSomaticWGS-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon Somatic WGS",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "S87YPSUDC86RKHAJ" : {
+      "sku" : "S87YPSUDC86RKHAJ",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-SentieonLongReadforPacBioHiFi-v1.0-run",
+        "operation" : "",
+        "publisher" : "Sentieon, Inc.",
+        "ready2runWorkflowName" : "Sentieon LongRead for PacBio HiFi",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "JDU8TZGCBMHXSDAY" : {
+      "sku" : "JDU8TZGCBMHXSDAY",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "192",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.c.48xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Compute Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.c.48xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "EVZ3BPDGRZSHCT8R" : {
+      "sku" : "EVZ3BPDGRZSHCT8R",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "192 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.12xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "64 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "DYD438VYVFXXZ9V6" : {
+      "sku" : "DYD438VYVFXXZ9V6",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.m.4xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Standard Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.m.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "SH8GCRSQSJB4MCYV" : {
+      "sku" : "SH8GCRSQSJB4MCYV",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "16 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6.xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "24 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "NGJB2EHNUY2UGDAH" : {
+      "sku" : "NGJB2EHNUY2UGDAH",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "16",
+        "memory" : "64 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g4dn.4xlarge-hours",
+        "operation" : "",
+        "gpu" : "1",
+        "gpuMemory" : "16 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g4dn.4xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "U6SVEXMQW8H657QB" : {
+      "sku" : "U6SVEXMQW8H657QB",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto30X-v1.0-run",
+        "operation" : "",
+        "publisher" : "NVIDIA Corporation",
+        "ready2runWorkflowName" : "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 30X",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "6RM5HJM5GTE2UTEK" : {
+      "sku" : "6RM5HJM5GTE2UTEK",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Active",
+        "usagetype" : "USE1-StorageClass:Active-Gigabase-hour",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics"
+      }
+    },
+    "4T6ZD7MDAP9X8QBD" : {
+      "sku" : "4T6ZD7MDAP9X8QBD",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Private-DynamicRunStorage-Bytes-hour",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "resourceType" : "Dynamic Run Storage",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "VH95GGE4TPQGA7T5" : {
+      "sku" : "VH95GGE4TPQGA7T5",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x300-v1.0-run",
+        "operation" : "",
+        "publisher" : "Element Biosciences",
+        "ready2runWorkflowName" : "Bases2Fastq for 2x300",
+        "ready2runWorkflowVersion" : "1.0",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Ready2Run"
+      }
+    },
+    "EXTFJSQS3KG8DGCR" : {
+      "sku" : "EXTFJSQS3KG8DGCR",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "48",
+        "memory" : "384 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.g6e.12xlarge-hours",
+        "operation" : "",
+        "gpu" : "4",
+        "gpuMemory" : "192 GiB",
+        "omicsInstanceType" : "Accelerated Computing",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.g6e.12xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    },
+    "FFXC2M8XRS8U26R6" : {
+      "sku" : "FFXC2M8XRS8U26R6",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonOmics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "4",
+        "memory" : "32 GiB",
+        "usagetype" : "USE1-WorkflowType:Private-omics.r.xlarge-hours",
+        "operation" : "",
+        "omicsInstanceType" : "Memory Optimized Instances",
+        "regionCode" : "us-east-1",
+        "resourceType" : "omics.r.xlarge",
+        "servicename" : "Amazon Omics",
+        "workflowType" : "Private"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "WTG7DSTX272B5Q9R" : {
+        "WTG7DSTX272B5Q9R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WTG7DSTX272B5Q9R",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WTG7DSTX272B5Q9R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WTG7DSTX272B5Q9R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.9944 per Instance-hr for omics.g5.24xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "10.9944000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S87YPSUDC86RKHAJ" : {
+        "S87YPSUDC86RKHAJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S87YPSUDC86RKHAJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "S87YPSUDC86RKHAJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S87YPSUDC86RKHAJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.50 per Sentieon Long Read for PacBio HiFi-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "7.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XJP2692MX3S2UWDG" : {
+        "XJP2692MX3S2UWDG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XJP2692MX3S2UWDG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "XJP2692MX3S2UWDG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XJP2692MX3S2UWDG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB-month for annotation store in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EXTFJSQS3KG8DGCR" : {
+        "EXTFJSQS3KG8DGCR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EXTFJSQS3KG8DGCR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "EXTFJSQS3KG8DGCR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EXTFJSQS3KG8DGCR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$14.1651 per Instance-hr for omics.g6e.12xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "14.1651000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BQPZZ23Q3XW8H56D" : {
+        "BQPZZ23Q3XW8H56D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BQPZZ23Q3XW8H56D",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BQPZZ23Q3XW8H56D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BQPZZ23Q3XW8H56D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.1472 per omics.m.16xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "4.1472000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8XVKZNTAZ9ATEAQK" : {
+        "8XVKZNTAZ9ATEAQK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8XVKZNTAZ9ATEAQK",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "8XVKZNTAZ9ATEAQK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8XVKZNTAZ9ATEAQK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.5184 per omics.m.2xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5184000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4T6ZD7MDAP9X8QBD" : {
+        "4T6ZD7MDAP9X8QBD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4T6ZD7MDAP9X8QBD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "4T6ZD7MDAP9X8QBD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4T6ZD7MDAP9X8QBD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0004110 per GB-hour for dynamic run storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0004110000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5SFVHVD67BCMP8SX" : {
+        "5SFVHVD67BCMP8SX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5SFVHVD67BCMP8SX",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "5SFVHVD67BCMP8SX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5SFVHVD67BCMP8SX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.0557 per Instance-hr for omics.g6e.4xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "4.0557000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JEE39CTXZ5XFSAXQ" : {
+        "JEE39CTXZ5XFSAXQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JEE39CTXZ5XFSAXQ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JEE39CTXZ5XFSAXQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JEE39CTXZ5XFSAXQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.754 per omics.c.12xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.7540000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FFXC2M8XRS8U26R6" : {
+        "FFXC2M8XRS8U26R6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FFXC2M8XRS8U26R6",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "FFXC2M8XRS8U26R6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FFXC2M8XRS8U26R6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.3402 per omics.r.xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.3402000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "45759GRPBPS6VFRX" : {
+        "45759GRPBPS6VFRX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "45759GRPBPS6VFRX",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "45759GRPBPS6VFRX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "45759GRPBPS6VFRX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$17.1461 per Instance-hr for omics.r.48xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "17.1461000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DYD438VYVFXXZ9V6" : {
+        "DYD438VYVFXXZ9V6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DYD438VYVFXXZ9V6",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DYD438VYVFXXZ9V6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DYD438VYVFXXZ9V6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.0368 per omics.m.4xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0368000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EVZ3BPDGRZSHCT8R" : {
+        "EVZ3BPDGRZSHCT8R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EVZ3BPDGRZSHCT8R",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "EVZ3BPDGRZSHCT8R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EVZ3BPDGRZSHCT8R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.2812 per omics.g4dn.12xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "5.2812000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KJ5C72AXUHQDD4SF" : {
+        "KJ5C72AXUHQDD4SF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KJ5C72AXUHQDD4SF",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "KJ5C72AXUHQDD4SF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KJ5C72AXUHQDD4SF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.00 per Sentieon Germline FASTQ WES for up to 300x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "3.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "37UYQXUJUA4QBPT4" : {
+        "37UYQXUJUA4QBPT4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "37UYQXUJUA4QBPT4",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "37UYQXUJUA4QBPT4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "37UYQXUJUA4QBPT4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0004 per 1000 Requests forOmicsStorage:API-S3GetRequest in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EAHUPF7VFRFUKGYG" : {
+        "EAHUPF7VFRFUKGYG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EAHUPF7VFRFUKGYG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "EAHUPF7VFRFUKGYG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EAHUPF7VFRFUKGYG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1701 per omics.r.large-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1701000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M8TPZJQ6JTYKBH5V" : {
+        "M8TPZJQ6JTYKBH5V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M8TPZJQ6JTYKBH5V",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "M8TPZJQ6JTYKBH5V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M8TPZJQ6JTYKBH5V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.7101 per omics.g4dn.xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7101000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QGMPVCJBWGMKNC52" : {
+        "QGMPVCJBWGMKNC52.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QGMPVCJBWGMKNC52",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QGMPVCJBWGMKNC52.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QGMPVCJBWGMKNC52.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.31 per NVIDIA Parabricks Germline DeepVariant WGS for up to 5X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "2.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MFYJY8H99HUJMRDH" : {
+        "MFYJY8H99HUJMRDH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MFYJY8H99HUJMRDH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MFYJY8H99HUJMRDH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MFYJY8H99HUJMRDH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1148 per omics.c.large-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1148000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UZ885JDCKY89ZNSD" : {
+        "UZ885JDCKY89ZNSD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UZ885JDCKY89ZNSD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UZ885JDCKY89ZNSD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UZ885JDCKY89ZNSD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.6572 per omics.g5.12xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "7.6572000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ES4BHKMXGYENDRE3" : {
+        "ES4BHKMXGYENDRE3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ES4BHKMXGYENDRE3",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ES4BHKMXGYENDRE3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ES4BHKMXGYENDRE3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.39 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 5X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.3900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "639V5F6GBVFND7W5" : {
+        "639V5F6GBVFND7W5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "639V5F6GBVFND7W5",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "639V5F6GBVFND7W5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "639V5F6GBVFND7W5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.2122 per Instance-hr for omics.g6.12xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "6.2122000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BSSTYJE424UMN5PG" : {
+        "BSSTYJE424UMN5PG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BSSTYJE424UMN5PG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BSSTYJE424UMN5PG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BSSTYJE424UMN5PG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$11.12 per NVIDIA Parabricks Germline DeepVariant WGS for up to 30X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "11.1200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MNM5Q5US5XSVPPCG" : {
+        "MNM5Q5US5XSVPPCG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MNM5Q5US5XSVPPCG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MNM5Q5US5XSVPPCG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MNM5Q5US5XSVPPCG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$18.76 per NVIDIA Parabricks Germline DeepVariant WGS for up to 50X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "18.7600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GXUBFSRJDPDQ7MSA" : {
+        "GXUBFSRJDPDQ7MSA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GXUBFSRJDPDQ7MSA",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "GXUBFSRJDPDQ7MSA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GXUBFSRJDPDQ7MSA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.0824 per omics.r.12xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "4.0824000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DX6RRQDY9FUWYP7N" : {
+        "DX6RRQDY9FUWYP7N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DX6RRQDY9FUWYP7N",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DX6RRQDY9FUWYP7N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DX6RRQDY9FUWYP7N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.5296 per Instance-hr for omics.g5.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "5.5296000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ASECS9EY4F242JCC" : {
+        "ASECS9EY4F242JCC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ASECS9EY4F242JCC",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ASECS9EY4F242JCC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ASECS9EY4F242JCC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.2944 per Instance-hr for omics.m.32xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "8.2944000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C8XGARZPCS3UNWYD" : {
+        "C8XGARZPCS3UNWYD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C8XGARZPCS3UNWYD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "C8XGARZPCS3UNWYD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C8XGARZPCS3UNWYD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1000 Requests for OmicsStorage:API-GetRequest in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BVFPS9PDE4A2BMZJ" : {
+        "BVFPS9PDE4A2BMZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BVFPS9PDE4A2BMZJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BVFPS9PDE4A2BMZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BVFPS9PDE4A2BMZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.56 per scRNAseq with Salmon Alevin-fry-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.5600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AP845NWVGBMQ3DJ7" : {
+        "AP845NWVGBMQ3DJ7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AP845NWVGBMQ3DJ7",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "AP845NWVGBMQ3DJ7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AP845NWVGBMQ3DJ7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$14.74 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 50X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "14.7400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FW9B4ZZYEV5QZFC3" : {
+        "FW9B4ZZYEV5QZFC3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FW9B4ZZYEV5QZFC3",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "FW9B4ZZYEV5QZFC3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FW9B4ZZYEV5QZFC3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001918 per GB-hour for run storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Hours",
+              "pricePerUnit" : {
+                "USD" : "0.0001918000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "79JB6W858MU7EC66" : {
+        "79JB6W858MU7EC66.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "79JB6W858MU7EC66",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "79JB6W858MU7EC66.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "79JB6W858MU7EC66.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.0268 per Instance-hr for omics.g6e.2xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "3.0268000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BNJTWVU7E89QWYSQ" : {
+        "BNJTWVU7E89QWYSQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BNJTWVU7E89QWYSQ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "BNJTWVU7E89QWYSQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BNJTWVU7E89QWYSQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.3048 per omics.g5.8xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "3.3048000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9MB6VXGYSR9CEPBG" : {
+        "9MB6VXGYSR9CEPBG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9MB6VXGYSR9CEPBG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "9MB6VXGYSR9CEPBG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9MB6VXGYSR9CEPBG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1296 per omics.m.large-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1296000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7S3UF4DGW3AKT4E3" : {
+        "7S3UF4DGW3AKT4E3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7S3UF4DGW3AKT4E3",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "7S3UF4DGW3AKT4E3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7S3UF4DGW3AKT4E3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.4432 per omics.r.16xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "5.4432000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJSPB2VM29GDP3RK" : {
+        "VJSPB2VM29GDP3RK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJSPB2VM29GDP3RK",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJSPB2VM29GDP3RK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJSPB2VM29GDP3RK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per 1000 Requests forOmicsStorage:API-S3ListRequest in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "57KM44VKG5QHFAZS" : {
+        "57KM44VKG5QHFAZS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "57KM44VKG5QHFAZS",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "57KM44VKG5QHFAZS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "57KM44VKG5QHFAZS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.31 per scRNAseq with STARsolo-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "5.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RXMUE78E3XFVQEM6" : {
+        "RXMUE78E3XFVQEM6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RXMUE78E3XFVQEM6",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RXMUE78E3XFVQEM6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RXMUE78E3XFVQEM6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$7.344 per Instance-hr for omics.c.32xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "7.3440000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GA49S76QEZRKYU96" : {
+        "GA49S76QEZRKYU96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GA49S76QEZRKYU96",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "GA49S76QEZRKYU96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GA49S76QEZRKYU96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.1104 per omics.m.12xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "3.1104000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GQVMAT74C9XBX7JR" : {
+        "GQVMAT74C9XBX7JR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GQVMAT74C9XBX7JR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "GQVMAT74C9XBX7JR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GQVMAT74C9XBX7JR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.672 per omics.c.16xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "3.6720000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RPP4VWRCCD7TAWJE" : {
+        "RPP4VWRCCD7TAWJE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RPP4VWRCCD7TAWJE",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RPP4VWRCCD7TAWJE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RPP4VWRCCD7TAWJE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.5857 per Instance-hr for omics.g6.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "4.5857000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E946Y5UGNNRNSU4G" : {
+        "E946Y5UGNNRNSU4G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E946Y5UGNNRNSU4G",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "E946Y5UGNNRNSU4G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E946Y5UGNNRNSU4G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2295 per omics.c.xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2295000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CS2SB37SQVGWB89H" : {
+        "CS2SB37SQVGWB89H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CS2SB37SQVGWB89H",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "CS2SB37SQVGWB89H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CS2SB37SQVGWB89H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.68 per NVIDIA Parabricks FQ2BAM WGS for up to 30X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "5.6800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZV56CVBDVN7NY7A3" : {
+        "ZV56CVBDVN7NY7A3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZV56CVBDVN7NY7A3",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZV56CVBDVN7NY7A3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZV56CVBDVN7NY7A3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.00 per Sentieon Germline FASTQ WGS for up to 32x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "4.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N7NKNK5P24RUMHE7" : {
+        "N7NKNK5P24RUMHE7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N7NKNK5P24RUMHE7",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "N7NKNK5P24RUMHE7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N7NKNK5P24RUMHE7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.15 per NVIDIA Parabricks Germline Haplotype Caller WGS for up to 5X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GWNS84NFER3TC2YM" : {
+        "GWNS84NFER3TC2YM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWNS84NFER3TC2YM",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWNS84NFER3TC2YM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWNS84NFER3TC2YM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.1924 per omics.g5.4xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.1924000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E43JGQCN5D8A6D4V" : {
+        "E43JGQCN5D8A6D4V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E43JGQCN5D8A6D4V",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "E43JGQCN5D8A6D4V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E43JGQCN5D8A6D4V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.0736 per omics.m.8xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.0736000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QFM5UPEHBY37RVXB" : {
+        "QFM5UPEHBY37RVXB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QFM5UPEHBY37RVXB",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "QFM5UPEHBY37RVXB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QFM5UPEHBY37RVXB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$13.0637 per Instance-hr for omics.m.48xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "13.0637000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5AX86SX2H3D5GJZJ" : {
+        "5AX86SX2H3D5GJZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5AX86SX2H3D5GJZJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "5AX86SX2H3D5GJZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5AX86SX2H3D5GJZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.459 per omics.c.2xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4590000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D392A73B4G3VS626" : {
+        "D392A73B4G3VS626.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D392A73B4G3VS626",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "D392A73B4G3VS626.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D392A73B4G3VS626.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.9376 per omics.g4dn.8xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.9376000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "295F2GBYPPU3N7XM" : {
+        "295F2GBYPPU3N7XM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "295F2GBYPPU3N7XM",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "295F2GBYPPU3N7XM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "295F2GBYPPU3N7XM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9.60 per NVIDIA Parabricks FQ2BAM WGS for up to 50X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "9.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4VFB6ZN2JFNGMDP7" : {
+        "4VFB6ZN2JFNGMDP7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4VFB6ZN2JFNGMDP7",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "4VFB6ZN2JFNGMDP7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4VFB6ZN2JFNGMDP7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.5124 per Instance-hr for omics.g6e.xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.5124000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3W9EGFFWKC8FYU4Y" : {
+        "3W9EGFFWKC8FYU4Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3W9EGFFWKC8FYU4Y",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "3W9EGFFWKC8FYU4Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3W9EGFFWKC8FYU4Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.035 per GB-month for variant store in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VU335VRUFJXTBV69" : {
+        "VU335VRUFJXTBV69.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VU335VRUFJXTBV69",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "VU335VRUFJXTBV69.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VU335VRUFJXTBV69.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per GATK-BP Germline fq2vcf for 30x genome-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XAEVRU3GN52KAGSX" : {
+        "XAEVRU3GN52KAGSX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XAEVRU3GN52KAGSX",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "XAEVRU3GN52KAGSX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XAEVRU3GN52KAGSX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.50 per Sentieon Somatic WES-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "4.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NGJB2EHNUY2UGDAH" : {
+        "NGJB2EHNUY2UGDAH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NGJB2EHNUY2UGDAH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "NGJB2EHNUY2UGDAH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NGJB2EHNUY2UGDAH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.6254 per omics.g4dn.4xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6254000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WWMD9DPTEGWN2RFE" : {
+        "WWMD9DPTEGWN2RFE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WWMD9DPTEGWN2RFE",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WWMD9DPTEGWN2RFE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WWMD9DPTEGWN2RFE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.78 per Sentieon Long Read for ONT-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.7800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "36BSS9T3RBYMWSPZ" : {
+        "36BSS9T3RBYMWSPZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "36BSS9T3RBYMWSPZ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "36BSS9T3RBYMWSPZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "36BSS9T3RBYMWSPZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.7216 per omics.r.8xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.7216000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SH8GCRSQSJB4MCYV" : {
+        "SH8GCRSQSJB4MCYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SH8GCRSQSJB4MCYV",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "SH8GCRSQSJB4MCYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SH8GCRSQSJB4MCYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.0865 per Instance-hr for omics.g6.xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0865000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DRXQETW86KXWA4YZ" : {
+        "DRXQETW86KXWA4YZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DRXQETW86KXWA4YZ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "DRXQETW86KXWA4YZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DRXQETW86KXWA4YZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.00 per Ultima Genomics DeepVariant for up to 40x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "2.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "79ZKR7Z483ZPRMDG" : {
+        "79ZKR7Z483ZPRMDG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "79ZKR7Z483ZPRMDG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "79ZKR7Z483ZPRMDG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "79ZKR7Z483ZPRMDG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.3581 per omics.g5.xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.3581000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U6SVEXMQW8H657QB" : {
+        "U6SVEXMQW8H657QB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U6SVEXMQW8H657QB",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "U6SVEXMQW8H657QB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U6SVEXMQW8H657QB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.50 per NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 30X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "6.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZJ93ZKEB5BDWPG4U" : {
+        "ZJ93ZKEB5BDWPG4U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZJ93ZKEB5BDWPG4U",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZJ93ZKEB5BDWPG4U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZJ93ZKEB5BDWPG4U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.508 per omics.c.24xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "5.5080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WGYT5YB5AQ6G2QNH" : {
+        "WGYT5YB5AQ6G2QNH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WGYT5YB5AQ6G2QNH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WGYT5YB5AQ6G2QNH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WGYT5YB5AQ6G2QNH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.1648 per omics.r.24xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "8.1648000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H2QRF6DP7V6MNV38" : {
+        "H2QRF6DP7V6MNV38.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H2QRF6DP7V6MNV38",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "H2QRF6DP7V6MNV38.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H2QRF6DP7V6MNV38.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.84 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 30X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "8.8400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RSQZVB6BP2TQJ5XS" : {
+        "RSQZVB6BP2TQJ5XS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RSQZVB6BP2TQJ5XS",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RSQZVB6BP2TQJ5XS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RSQZVB6BP2TQJ5XS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.8752 per Instance-hr for omics.g4dn.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "5.8752000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H6JNMKCRCXHF83NV" : {
+        "H6JNMKCRCXHF83NV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H6JNMKCRCXHF83NV",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "H6JNMKCRCXHF83NV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H6JNMKCRCXHF83NV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9.0115 per Instance-hr for omics.g6.24xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "9.0115000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J729WPVVRAFGC5KK" : {
+        "J729WPVVRAFGC5KK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J729WPVVRAFGC5KK",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "J729WPVVRAFGC5KK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J729WPVVRAFGC5KK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.2292 per Instance-hr for omics.g6e.16xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "10.2292000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MWP8E3BW254DSGCN" : {
+        "MWP8E3BW254DSGCN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MWP8E3BW254DSGCN",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MWP8E3BW254DSGCN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MWP8E3BW254DSGCN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.57 per Sentieon Germline FASTQ WES for up to 100x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "0.5700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MM8JHPV5M36NA2XJ" : {
+        "MM8JHPV5M36NA2XJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MM8JHPV5M36NA2XJ",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "MM8JHPV5M36NA2XJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MM8JHPV5M36NA2XJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.2208 per omics.m.24xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "6.2208000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "REB8RCB5VB3CNF6X" : {
+        "REB8RCB5VB3CNF6X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "REB8RCB5VB3CNF6X",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "REB8RCB5VB3CNF6X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "REB8RCB5VB3CNF6X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.6362 per omics.g5.2xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.6362000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6RW3UX2RN48PAWK4" : {
+        "6RW3UX2RN48PAWK4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6RW3UX2RN48PAWK4",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "6RW3UX2RN48PAWK4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6RW3UX2RN48PAWK4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.98 per Sentieon Germline BAM WES for up to 300x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "0.9800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W3APKXSHBRUYCQ5B" : {
+        "W3APKXSHBRUYCQ5B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W3APKXSHBRUYCQ5B",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "W3APKXSHBRUYCQ5B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W3APKXSHBRUYCQ5B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.3608 per omics.r.4xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.3608000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B9AQPJG926MSBN4P" : {
+        "B9AQPJG926MSBN4P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B9AQPJG926MSBN4P",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "B9AQPJG926MSBN4P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B9AQPJG926MSBN4P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20.3385 per Instance-hr for omics.g6e.24xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "20.3385000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X8H2USCUMUR8C7GH" : {
+        "X8H2USCUMUR8C7GH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X8H2USCUMUR8C7GH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "X8H2USCUMUR8C7GH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X8H2USCUMUR8C7GH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.918 per omics.c.4xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q9SHYWZG7AQBED6B" : {
+        "Q9SHYWZG7AQBED6B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q9SHYWZG7AQBED6B",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q9SHYWZG7AQBED6B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q9SHYWZG7AQBED6B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.8864 per Instance-hr for omics.r.32xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "10.8864000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6CKE6CWRJ7QX74HD" : {
+        "6CKE6CWRJ7QX74HD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6CKE6CWRJ7QX74HD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "6CKE6CWRJ7QX74HD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6CKE6CWRJ7QX74HD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.62 per Bases2Fastq for 2x150-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "2.6200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZKWHHC8S3ZYGP3TG" : {
+        "ZKWHHC8S3ZYGP3TG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZKWHHC8S3ZYGP3TG",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZKWHHC8S3ZYGP3TG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZKWHHC8S3ZYGP3TG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.68 per GATK-BP Somatic WES bam2vcf-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "4.6800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C2B247A3FMWC8VQE" : {
+        "C2B247A3FMWC8VQE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C2B247A3FMWC8VQE",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "C2B247A3FMWC8VQE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C2B247A3FMWC8VQE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$9.00 per AlphaFold for up to 601-1200 residues-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "9.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SAT6QHPTKZDWTDQB" : {
+        "SAT6QHPTKZDWTDQB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SAT6QHPTKZDWTDQB",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "SAT6QHPTKZDWTDQB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SAT6QHPTKZDWTDQB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$3.50 per NVIDIA Parabricks Somatic Mutect2 WGS for up to 50X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "3.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VH95GGE4TPQGA7T5" : {
+        "VH95GGE4TPQGA7T5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VH95GGE4TPQGA7T5",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "VH95GGE4TPQGA7T5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VH95GGE4TPQGA7T5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.57 per Bases2Fastq for 2x300-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "2.5700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TN3BJ4UCAVWUWRNE" : {
+        "TN3BJ4UCAVWUWRNE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TN3BJ4UCAVWUWRNE",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "TN3BJ4UCAVWUWRNE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TN3BJ4UCAVWUWRNE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.05 per Sentieon Somatic WGS-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "8.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YMYAJ8NENN6UATVC" : {
+        "YMYAJ8NENN6UATVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YMYAJ8NENN6UATVC",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "YMYAJ8NENN6UATVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YMYAJ8NENN6UATVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.50 per NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 50X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "10.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZNQQ4HPA36P8F5NC" : {
+        "ZNQQ4HPA36P8F5NC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZNQQ4HPA36P8F5NC",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZNQQ4HPA36P8F5NC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZNQQ4HPA36P8F5NC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.7863 per Instance-hr for omics.g6.4xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.7863000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8278X26KCGA2BCE4" : {
+        "8278X26KCGA2BCE4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8278X26KCGA2BCE4",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "8278X26KCGA2BCE4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8278X26KCGA2BCE4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.00 per AlphaFold for up to 600 residues-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "6.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4VPS3VK5X8G52V78" : {
+        "4VPS3VK5X8G52V78.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4VPS3VK5X8G52V78",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "4VPS3VK5X8G52V78.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4VPS3VK5X8G52V78.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$6.1136 per Instance-hr for omics.g6e.8xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "6.1136000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6AUCNXHSFZQQYNSV" : {
+        "6AUCNXHSFZQQYNSV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6AUCNXHSFZQQYNSV",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "6AUCNXHSFZQQYNSV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6AUCNXHSFZQQYNSV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.836 per omics.c.8xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.8360000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2PPPGX85Z5H55XRT" : {
+        "2PPPGX85Z5H55XRT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2PPPGX85Z5H55XRT",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "2PPPGX85Z5H55XRT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2PPPGX85Z5H55XRT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.6804 per omics.r.2xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6804000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NQCKAKX3UMXDGDRH" : {
+        "NQCKAKX3UMXDGDRH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NQCKAKX3UMXDGDRH",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "NQCKAKX3UMXDGDRH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NQCKAKX3UMXDGDRH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.3198 per Instance-hr for omics.g6.2xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.3198000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F9M7KJE8TS3HGWFD" : {
+        "F9M7KJE8TS3HGWFD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F9M7KJE8TS3HGWFD",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "F9M7KJE8TS3HGWFD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F9M7KJE8TS3HGWFD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.0152 per omics.g4dn.2xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0152000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CDPVD8G7YKYNFZQN" : {
+        "CDPVD8G7YKYNFZQN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CDPVD8G7YKYNFZQN",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "CDPVD8G7YKYNFZQN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CDPVD8G7YKYNFZQN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.84 per Bases2Fastq for 2x75-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "0.8400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B9NYGKZRKEK5T57A" : {
+        "B9NYGKZRKEK5T57A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B9NYGKZRKEK5T57A",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "B9NYGKZRKEK5T57A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B9NYGKZRKEK5T57A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2592 per omics.m.xlarge-hour in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2592000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B44CXBSCQQHUBTFW" : {
+        "B44CXBSCQQHUBTFW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B44CXBSCQQHUBTFW",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "B44CXBSCQQHUBTFW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B44CXBSCQQHUBTFW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$8.00 per GATK-BP fq2bam-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "8.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6RM5HJM5GTE2UTEK" : {
+        "6RM5HJM5GTE2UTEK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6RM5HJM5GTE2UTEK",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "6RM5HJM5GTE2UTEK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6RM5HJM5GTE2UTEK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005769 per Gigabase-month for active storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabase-month",
+              "pricePerUnit" : {
+                "USD" : "0.0057690000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UWKBMPAF59V3CAZN" : {
+        "UWKBMPAF59V3CAZN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UWKBMPAF59V3CAZN",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "UWKBMPAF59V3CAZN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UWKBMPAF59V3CAZN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001154 per Gigabase-month for archive storage in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabase-month",
+              "pricePerUnit" : {
+                "USD" : "0.0011540000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "46ZJYK6KZK2Q96KA" : {
+        "46ZJYK6KZK2Q96KA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "46ZJYK6KZK2Q96KA",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "46ZJYK6KZK2Q96KA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "46ZJYK6KZK2Q96KA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.7194 per Instance-hr for omics.g6.8xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "2.7194000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RS4VE88K6Y9XE2PW" : {
+        "RS4VE88K6Y9XE2PW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RS4VE88K6Y9XE2PW",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "RS4VE88K6Y9XE2PW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RS4VE88K6Y9XE2PW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.10 per scRNAseq with KallistoBUStools-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WB4J33A4XQJH5YCR" : {
+        "WB4J33A4XQJH5YCR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WB4J33A4XQJH5YCR",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "WB4J33A4XQJH5YCR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WB4J33A4XQJH5YCR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ESMFold for up to 800 residues-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JTABN7G47CMM9P2J" : {
+        "JTABN7G47CMM9P2J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JTABN7G47CMM9P2J",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JTABN7G47CMM9P2J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JTABN7G47CMM9P2J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.58 per GATK-BP Germline bam2vcf for 30x genome-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "4.5800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JDU8TZGCBMHXSDAY" : {
+        "JDU8TZGCBMHXSDAY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JDU8TZGCBMHXSDAY",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "JDU8TZGCBMHXSDAY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JDU8TZGCBMHXSDAY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$11.5668 per Instance-hr for omics.c.48xlarge in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Instance-hrs",
+              "pricePerUnit" : {
+                "USD" : "11.5668000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V7C37UQ8CWH5VTB7" : {
+        "V7C37UQ8CWH5VTB7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V7C37UQ8CWH5VTB7",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "V7C37UQ8CWH5VTB7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V7C37UQ8CWH5VTB7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.88 per NVIDIA Parabricks FQ2BAM WGS for up to 5X-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "0.8800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9A3JPBMEBX8B44GS" : {
+        "9A3JPBMEBX8B44GS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9A3JPBMEBX8B44GS",
+          "effectiveDate" : "2025-02-01T00:00:00Z",
+          "priceDimensions" : {
+            "9A3JPBMEBX8B44GS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9A3JPBMEBX8B44GS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.71 per Sentieon Germline BAM WGS for up to 32x-run in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Run",
+              "pricePerUnit" : {
+                "USD" : "1.7100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

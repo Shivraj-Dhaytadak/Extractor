@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCostExplorer",
+  "version" : "20230110161742",
+  "publicationDate" : "2023-01-10T16:17:42Z",
+  "products" : {
+    "BX68HKNBJP73AFBV" : {
+      "sku" : "BX68HKNBJP73AFBV",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AWSCostExplorer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-APIRequest",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "requestType" : "Reporting",
+        "servicename" : "AWS Cost Explorer"
+      }
+    },
+    "JBUNT4MSRCD5R5P5" : {
+      "sku" : "JBUNT4MSRCD5R5P5",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AWSCostExplorer",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-CostDataStorage",
+        "operation" : "CostDataStorage",
+        "granularity" : "All",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Cost Explorer"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "BX68HKNBJP73AFBV" : {
+        "BX68HKNBJP73AFBV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BX68HKNBJP73AFBV",
+          "effectiveDate" : "2019-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "BX68HKNBJP73AFBV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BX68HKNBJP73AFBV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per API Request",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JBUNT4MSRCD5R5P5" : {
+        "JBUNT4MSRCD5R5P5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JBUNT4MSRCD5R5P5",
+          "effectiveDate" : "2019-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "JBUNT4MSRCD5R5P5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JBUNT4MSRCD5R5P5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per 1,000 UsageRecord-month of stored Granular Cost Data Usage-records",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "UsageRecord-month",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

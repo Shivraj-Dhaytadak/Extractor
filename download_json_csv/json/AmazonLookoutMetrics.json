@@ -1,0 +1,93 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonLookoutMetrics",
+  "version" : "20230413160417",
+  "publicationDate" : "2023-04-13T16:04:17Z",
+  "products" : {
+    "8UYNCWKT4QEGS9DY" : {
+      "sku" : "8UYNCWKT4QEGS9DY",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonLookoutMetrics",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "groupDescription" : "Anomaly Detection - Price per metric",
+        "usagetype" : "USE1-ANOMALY_DETECTION",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Lookout for Metrics"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "8UYNCWKT4QEGS9DY" : {
+        "8UYNCWKT4QEGS9DY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8UYNCWKT4QEGS9DY",
+          "effectiveDate" : "2021-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "8UYNCWKT4QEGS9DY.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "8UYNCWKT4QEGS9DY.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "$0.75 per Metrics for ANOMALY_DETECTION in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Metrics",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8UYNCWKT4QEGS9DY.JRTCKXETXF.AXSXEJHBB3" : {
+              "rateCode" : "8UYNCWKT4QEGS9DY.JRTCKXETXF.AXSXEJHBB3",
+              "description" : "$0.50 per Metrics for ANOMALY_DETECTION in US East (N. Virginia)",
+              "beginRange" : "1000",
+              "endRange" : "5000",
+              "unit" : "Metrics",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8UYNCWKT4QEGS9DY.JRTCKXETXF.MH7VAUM9HY" : {
+              "rateCode" : "8UYNCWKT4QEGS9DY.JRTCKXETXF.MH7VAUM9HY",
+              "description" : "$0.25 per Metrics for ANOMALY_DETECTION in US East (N. Virginia)",
+              "beginRange" : "5000",
+              "endRange" : "20000",
+              "unit" : "Metrics",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8UYNCWKT4QEGS9DY.JRTCKXETXF.32Y483M53K" : {
+              "rateCode" : "8UYNCWKT4QEGS9DY.JRTCKXETXF.32Y483M53K",
+              "description" : "$0.10 per Metrics for ANOMALY_DETECTION in US East (N. Virginia)",
+              "beginRange" : "20000",
+              "endRange" : "50000",
+              "unit" : "Metrics",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "8UYNCWKT4QEGS9DY.JRTCKXETXF.GK6CZWW823" : {
+              "rateCode" : "8UYNCWKT4QEGS9DY.JRTCKXETXF.GK6CZWW823",
+              "description" : "$0.05 per Metrics for ANOMALY_DETECTION in US East (N. Virginia)",
+              "beginRange" : "50000",
+              "endRange" : "Inf",
+              "unit" : "Metrics",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

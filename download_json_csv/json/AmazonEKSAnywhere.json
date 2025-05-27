@@ -1,0 +1,86 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonEKSAnywhere",
+  "version" : "20250521130621",
+  "publicationDate" : "2025-05-21T13:06:21Z",
+  "products" : {
+    "4XXPFXSSMCAEK2FY" : {
+      "sku" : "4XXPFXSSMCAEK2FY",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonEKSAnywhere",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "Other",
+        "usagetype" : "USE1-AmazonEKSAnywhereSubscription-monthly-36month:perCluster",
+        "operation" : "",
+        "licenseType" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon EKS Anywhere",
+        "term" : "36month"
+      }
+    },
+    "TMHASPJR8STR27TN" : {
+      "sku" : "TMHASPJR8STR27TN",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "AmazonEKSAnywhere",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "Other",
+        "usagetype" : "USE1-AmazonEKSAnywhereSubscription-monthly-12month:perCluster",
+        "operation" : "",
+        "licenseType" : "Cluster",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon EKS Anywhere",
+        "term" : "12month"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "TMHASPJR8STR27TN" : {
+        "TMHASPJR8STR27TN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TMHASPJR8STR27TN",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TMHASPJR8STR27TN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TMHASPJR8STR27TN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "EKS Anywhere Enterprise Subscription cluster license usage (1-year term) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "licenses",
+              "pricePerUnit" : {
+                "USD" : "2000.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4XXPFXSSMCAEK2FY" : {
+        "4XXPFXSSMCAEK2FY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4XXPFXSSMCAEK2FY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4XXPFXSSMCAEK2FY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4XXPFXSSMCAEK2FY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "EKS Anywhere Enterprise Subscription cluster license usage (3-year term) ",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "licenses",
+              "pricePerUnit" : {
+                "USD" : "1500.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

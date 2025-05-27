@@ -1,0 +1,275 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSDirectoryService",
+  "version" : "20250512044836",
+  "publicationDate" : "2025-05-12T04:48:36Z",
+  "products" : {
+    "UVHNF2MJFQ33WD3P" : {
+      "sku" : "UVHNF2MJFQ33WD3P",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Std-SharedMsftAD-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Standard",
+        "directoryType" : "Shared Microsoft AD",
+        "directoryTypeDescription" : "Shared AWS Directory Service for Microsoft Active Directory",
+        "pricingUnit" : "Hrs",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "49ACAWWVPGY2ART7" : {
+      "sku" : "49ACAWWVPGY2ART7",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "MicrosoftAD-DC-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Enterprise",
+        "directoryType" : "Microsoft AD",
+        "directoryTypeDescription" : "AWS Directory Service for Microsoft Active Directory (Microsoft AD)",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "3XJDETHRTQEK9292" : {
+      "sku" : "3XJDETHRTQEK9292",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Large-ADConnector-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Large",
+        "directoryType" : "AD Connector",
+        "directoryTypeDescription" : "AD Connector",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "Y37AF8B9KPK4U7H9" : {
+      "sku" : "Y37AF8B9KPK4U7H9",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Small-Directory-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Small",
+        "directoryType" : "Simple AD or AD Connector",
+        "directoryTypeDescription" : "Simple AD or AD Connector",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "B5TPNMW495J3JFRG" : {
+      "sku" : "B5TPNMW495J3JFRG",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "SharedMsftAD-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Enterprise",
+        "directoryType" : "Shared Microsoft AD",
+        "directoryTypeDescription" : "Shared AWS Directory Service for Microsoft Active Directory",
+        "pricingUnit" : "Hrs",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "NSE7CEP2RZKQCE44" : {
+      "sku" : "NSE7CEP2RZKQCE44",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Large-SimpleAD-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Large",
+        "directoryType" : "Simple AD",
+        "directoryTypeDescription" : "Simple AD",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    },
+    "4JRCBXUEMA8C4MGV" : {
+      "sku" : "4JRCBXUEMA8C4MGV",
+      "productFamily" : "AWS Directory Service",
+      "attributes" : {
+        "servicecode" : "AWSDirectoryService",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "Std-MicrosoftAD-DC-Usage",
+        "operation" : "Hourly",
+        "directorySize" : "Standard",
+        "directoryType" : "Microsoft AD",
+        "directoryTypeDescription" : "AWS Directory Service for Microsoft Active Directory (Microsoft AD)",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Directory Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "4JRCBXUEMA8C4MGV" : {
+        "4JRCBXUEMA8C4MGV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4JRCBXUEMA8C4MGV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4JRCBXUEMA8C4MGV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4JRCBXUEMA8C4MGV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.060 per hour for Microsoft AD (Standard Edition) domain controllers in the US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UVHNF2MJFQ33WD3P" : {
+        "UVHNF2MJFQ33WD3P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UVHNF2MJFQ33WD3P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UVHNF2MJFQ33WD3P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UVHNF2MJFQ33WD3P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0180 per hour per account to which a Microsoft AD (Standard) directory is shared in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y37AF8B9KPK4U7H9" : {
+        "Y37AF8B9KPK4U7H9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y37AF8B9KPK4U7H9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y37AF8B9KPK4U7H9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y37AF8B9KPK4U7H9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per hour for a small directory in the US East (Northern Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "49ACAWWVPGY2ART7" : {
+        "49ACAWWVPGY2ART7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "49ACAWWVPGY2ART7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "49ACAWWVPGY2ART7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "49ACAWWVPGY2ART7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.2 per hour for a Microsoft AD directory controller in the US East (Northern Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NSE7CEP2RZKQCE44" : {
+        "NSE7CEP2RZKQCE44.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NSE7CEP2RZKQCE44",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NSE7CEP2RZKQCE44.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NSE7CEP2RZKQCE44.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per hour for a large Simple AD directory in the US East (Northern Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B5TPNMW495J3JFRG" : {
+        "B5TPNMW495J3JFRG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B5TPNMW495J3JFRG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "B5TPNMW495J3JFRG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B5TPNMW495J3JFRG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0600 per hour per account to which a Microsoft AD (Enterprise) directory is shared in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3XJDETHRTQEK9292" : {
+        "3XJDETHRTQEK9292.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3XJDETHRTQEK9292",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3XJDETHRTQEK9292.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3XJDETHRTQEK9292.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per hour for a large AD Connector directory in the US East (Northern Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

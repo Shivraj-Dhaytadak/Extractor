@@ -1,0 +1,84 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonIVSChat",
+  "version" : "20241211154214",
+  "publicationDate" : "2024-12-11T15:42:14Z",
+  "products" : {
+    "QZ6KSEQRVFUVR49T" : {
+      "sku" : "QZ6KSEQRVFUVR49T",
+      "productFamily" : "Interactive Video Service - Live",
+      "attributes" : {
+        "servicecode" : "AmazonIVSChat",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "us-east-1-Messaging-Deliveries",
+        "operation" : "",
+        "messageType" : "Deliveries",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon IVS Chat"
+      }
+    },
+    "DWMXZPVSFM9WUFWP" : {
+      "sku" : "DWMXZPVSFM9WUFWP",
+      "productFamily" : "Interactive Video Service - Live",
+      "attributes" : {
+        "servicecode" : "AmazonIVSChat",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "us-east-1-Messaging-Requests",
+        "operation" : "",
+        "messageType" : "Requests",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon IVS Chat"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "DWMXZPVSFM9WUFWP" : {
+        "DWMXZPVSFM9WUFWP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DWMXZPVSFM9WUFWP",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "DWMXZPVSFM9WUFWP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DWMXZPVSFM9WUFWP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00056 per messaging request in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0005600000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QZ6KSEQRVFUVR49T" : {
+        "QZ6KSEQRVFUVR49T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QZ6KSEQRVFUVR49T",
+          "effectiveDate" : "2024-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "QZ6KSEQRVFUVR49T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QZ6KSEQRVFUVR49T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000008 per messaging delivery in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0000080000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

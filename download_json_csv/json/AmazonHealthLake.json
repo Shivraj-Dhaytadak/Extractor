@@ -1,0 +1,262 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonHealthLake",
+  "version" : "20240927002819",
+  "publicationDate" : "2024-09-27T00:28:19Z",
+  "products" : {
+    "97PC79QEJ44UZU5D" : {
+      "sku" : "97PC79QEJ44UZU5D",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FHIRDataExport",
+        "operation" : "FHIRDataExport",
+        "datatype" : "FHIR-R4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake"
+      }
+    },
+    "Y46XK48X83PQBJ9P" : {
+      "sku" : "Y46XK48X83PQBJ9P",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-IntegratedMedicalNLP",
+        "operation" : "IntegratedMedicalNLP",
+        "inputtype" : "Text",
+        "nlpclass" : "Standard",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake"
+      }
+    },
+    "QABBYXHX4425V6J7" : {
+      "sku" : "QABBYXHX4425V6J7",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-AdvancedDataStorage",
+        "operation" : "AdvancedDataStorage",
+        "datatype" : "Storage",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake",
+        "storageclass" : "FHIR-Index"
+      }
+    },
+    "UNFGZ55D2PPAJ766" : {
+      "sku" : "UNFGZ55D2PPAJ766",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FHIRQueries",
+        "operation" : "FHIRQueries",
+        "bundle" : "Default",
+        "querytype" : "FHIR-R4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake"
+      }
+    },
+    "2Q3Z98GXDST6VY4W" : {
+      "sku" : "2Q3Z98GXDST6VY4W",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FHIRDataStorage",
+        "operation" : "FHIRDataStorage",
+        "datatype" : "FHIR-R4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake",
+        "storageclass" : "FHIR-R4"
+      }
+    },
+    "ND4TPJTQ3XBCWZYV" : {
+      "sku" : "ND4TPJTQ3XBCWZYV",
+      "productFamily" : "Machine Learning",
+      "attributes" : {
+        "servicecode" : "AmazonHealthLake",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-FHIRDataStore",
+        "operation" : "FHIRDataStore",
+        "datatype" : "FHIR-R4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon HealthLake",
+        "storageclass" : "FHIR-R4"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "97PC79QEJ44UZU5D" : {
+        "97PC79QEJ44UZU5D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "97PC79QEJ44UZU5D",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "97PC79QEJ44UZU5D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "97PC79QEJ44UZU5D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.19 per GB for FHIRDataExport",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ND4TPJTQ3XBCWZYV" : {
+        "ND4TPJTQ3XBCWZYV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ND4TPJTQ3XBCWZYV",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "ND4TPJTQ3XBCWZYV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ND4TPJTQ3XBCWZYV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.27 per hour for FHIR R4 DataStore",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2Q3Z98GXDST6VY4W" : {
+        "2Q3Z98GXDST6VY4W.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2Q3Z98GXDST6VY4W",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "2Q3Z98GXDST6VY4W.JRTCKXETXF.DGNP37V5JW" : {
+              "rateCode" : "2Q3Z98GXDST6VY4W.JRTCKXETXF.DGNP37V5JW",
+              "description" : "First 10 GB-mo of FHIRDataStorage is free",
+              "beginRange" : "0",
+              "endRange" : "10",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2Q3Z98GXDST6VY4W.JRTCKXETXF.XCQWNNXBHR" : {
+              "rateCode" : "2Q3Z98GXDST6VY4W.JRTCKXETXF.XCQWNNXBHR",
+              "description" : "$0.25 per GB-mo of FHIRDataStorage",
+              "beginRange" : "10",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y46XK48X83PQBJ9P" : {
+        "Y46XK48X83PQBJ9P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y46XK48X83PQBJ9P",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y46XK48X83PQBJ9P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y46XK48X83PQBJ9P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per 100-character unit for IntegratedMedicalNLP",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UNFGZ55D2PPAJ766" : {
+        "UNFGZ55D2PPAJ766.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UNFGZ55D2PPAJ766",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "UNFGZ55D2PPAJ766.JRTCKXETXF.DCVF9UBGH9" : {
+              "rateCode" : "UNFGZ55D2PPAJ766.JRTCKXETXF.DCVF9UBGH9",
+              "description" : "First 2,520,000 FHIRQueries are free",
+              "beginRange" : "0",
+              "endRange" : "2520000",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UNFGZ55D2PPAJ766.JRTCKXETXF.75Z7YZYRPB" : {
+              "rateCode" : "UNFGZ55D2PPAJ766.JRTCKXETXF.75Z7YZYRPB",
+              "description" : "$0.015 per 10K FHIRQueries",
+              "beginRange" : "2520000",
+              "endRange" : "Inf",
+              "unit" : "Queries",
+              "pricePerUnit" : {
+                "USD" : "0.0000015000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QABBYXHX4425V6J7" : {
+        "QABBYXHX4425V6J7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QABBYXHX4425V6J7",
+          "effectiveDate" : "2024-09-01T00:00:00Z",
+          "priceDimensions" : {
+            "QABBYXHX4425V6J7.JRTCKXETXF.DGNP37V5JW" : {
+              "rateCode" : "QABBYXHX4425V6J7.JRTCKXETXF.DGNP37V5JW",
+              "description" : "First 10 GB-mo of FHIR and Index data storage is free",
+              "beginRange" : "0",
+              "endRange" : "10",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QABBYXHX4425V6J7.JRTCKXETXF.XCQWNNXBHR" : {
+              "rateCode" : "QABBYXHX4425V6J7.JRTCKXETXF.XCQWNNXBHR",
+              "description" : "$0.37 per GB-mo of FHIR and Index data storage",
+              "beginRange" : "10",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.3700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

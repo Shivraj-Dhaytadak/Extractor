@@ -1,0 +1,154 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSLakeFormation",
+  "version" : "20250116153341",
+  "publicationDate" : "2025-01-16T15:33:41Z",
+  "products" : {
+    "WCE4VRKHX859ZKUG" : {
+      "sku" : "WCE4VRKHX859ZKUG",
+      "productFamily" : "AWS Lake Formation",
+      "attributes" : {
+        "servicecode" : "AWSLakeFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Filtering",
+        "usagetype" : "USE1-Scanned-Bytes",
+        "operation" : "Filtering",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Lake Formation"
+      }
+    },
+    "9RH5HU2SM5N2W4EB" : {
+      "sku" : "9RH5HU2SM5N2W4EB",
+      "productFamily" : "AWS Lake Formation",
+      "attributes" : {
+        "servicecode" : "AWSLakeFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Storage-Optimizer-data-processing",
+        "usagetype" : "USE1-Bytes-Processed",
+        "operation" : "LF-Storage-Optimizer",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Lake Formation"
+      }
+    },
+    "E3TCAX75N8TGS7J4" : {
+      "sku" : "E3TCAX75N8TGS7J4",
+      "productFamily" : "AWS Lake Formation",
+      "attributes" : {
+        "servicecode" : "AWSLakeFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "LF-API-requests",
+        "usagetype" : "USE1-API-Requests",
+        "operation" : "LF-API-Requests",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Lake Formation"
+      }
+    },
+    "WFWQARHTEC2NHARH" : {
+      "sku" : "WFWQARHTEC2NHARH",
+      "productFamily" : "AWS Lake Formation",
+      "attributes" : {
+        "servicecode" : "AWSLakeFormation",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "LF-metadata-objects",
+        "usagetype" : "USE1-Metadata-Objects",
+        "operation" : "LF-MetadataObjects",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Lake Formation"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "E3TCAX75N8TGS7J4" : {
+        "E3TCAX75N8TGS7J4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E3TCAX75N8TGS7J4",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "E3TCAX75N8TGS7J4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E3TCAX75N8TGS7J4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per 1M API Requests for API-Requests:LF-API-Requests in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "API Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WFWQARHTEC2NHARH" : {
+        "WFWQARHTEC2NHARH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WFWQARHTEC2NHARH",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "WFWQARHTEC2NHARH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WFWQARHTEC2NHARH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per 100k Objects for Metadata-Objects:LF-MetadataObjects in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Objects",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WCE4VRKHX859ZKUG" : {
+        "WCE4VRKHX859ZKUG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WCE4VRKHX859ZKUG",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "WCE4VRKHX859ZKUG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WCE4VRKHX859ZKUG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.25 per TB for Scanned-Bytes:Filtering in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0021972660"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9RH5HU2SM5N2W4EB" : {
+        "9RH5HU2SM5N2W4EB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9RH5HU2SM5N2W4EB",
+          "effectiveDate" : "2024-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "9RH5HU2SM5N2W4EB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9RH5HU2SM5N2W4EB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.25 per TB for Bytes-Processed:LF-Storage-Optimizer in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0021972660"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,591 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonGlacier",
+  "version" : "20221116002454",
+  "publicationDate" : "2022-11-16T00:24:54Z",
+  "products" : {
+    "EG3DVFEZB6HNZXY2" : {
+      "sku" : "EG3DVFEZB6HNZXY2",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Provisioned-Capacity",
+        "feeDescription" : "Fee for Provisioned Retrieval Request Capacity",
+        "usagetype" : "ProvisionedCapacityUnit",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "M2MGBWT25Q3VB45M" : {
+      "sku" : "M2MGBWT25Q3VB45M",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Bulk-Select-Scanned",
+        "feeDescription" : "Fee for Select Data Scanned using Bulk tier",
+        "usagetype" : "Bulk-Select-Scanned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "NBWZCXUY4QX6RSG6" : {
+      "sku" : "NBWZCXUY4QX6RSG6",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "availability" : "N/A",
+        "volumeType" : "Amazon Glacier (Standard)",
+        "usagetype" : "TimedStorage-ByteHrs",
+        "operation" : "",
+        "durability" : "99.999999999%",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "RR5B38YAAJRNMSTH" : {
+      "sku" : "RR5B38YAAJRNMSTH",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Glacier-Tier2",
+        "groupDescription" : "Bulk UPLOAD or RETRIEVAL requests",
+        "usagetype" : "Requests-Tier2",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "PHG6MUKRZRTAQR67" : {
+      "sku" : "PHG6MUKRZRTAQR67",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-PeakRestore",
+        "feeDescription" : "Pro-rated fee for retrieving greater than 5% of data stored",
+        "usagetype" : "Peak-Retrieval-Bytes-Delta",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "MFYFY7VHET5GTVDG" : {
+      "sku" : "MFYFY7VHET5GTVDG",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Standard-Select-Scanned",
+        "feeDescription" : "Fee for Select Data Scanned using Standard tier",
+        "usagetype" : "Std-Select-Scanned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "XJNJ5T2E77GA4WJR" : {
+      "sku" : "XJNJ5T2E77GA4WJR",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Expedited-Retrieval",
+        "feeDescription" : "Fee for Expedited Retrieval of data stored",
+        "usagetype" : "Expedited-Retrieval-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "WTZTBHJWK9C8AXTY" : {
+      "sku" : "WTZTBHJWK9C8AXTY",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Expedited-Select-Scanned",
+        "feeDescription" : "Fee for Select Data Scanned using Expedited tier",
+        "usagetype" : "Exp-Select-Scanned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "F29KHPRJU8V3J8NG" : {
+      "sku" : "F29KHPRJU8V3J8NG",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Bulk-Retrieval",
+        "feeDescription" : "Fee for Bulk Retrieval of data stored",
+        "usagetype" : "Bulk-Retrieval-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "8XZNV32BAFDEV6W6" : {
+      "sku" : "8XZNV32BAFDEV6W6",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Standard-Select-Returned",
+        "feeDescription" : "Fee for Select Data Returned using Standard tier",
+        "usagetype" : "Std-Select-Returned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "Z9QR6FVBYAFGFFPN" : {
+      "sku" : "Z9QR6FVBYAFGFFPN",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Glacier-Tier1",
+        "groupDescription" : "UPLOAD and RETRIEVAL Requests",
+        "usagetype" : "Requests-Tier1",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "VUX4Q8XUDNRT83G2" : {
+      "sku" : "VUX4Q8XUDNRT83G2",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-EarlyDelete",
+        "feeDescription" : "Pro-rated fee for deleting items prior to 90 days",
+        "usagetype" : "EarlyDelete-ByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "QY634BY5A7KM6AGT" : {
+      "sku" : "QY634BY5A7KM6AGT",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Glacier-Tier3",
+        "groupDescription" : "Expedited UPLOAD or RETRIEVAL requests",
+        "usagetype" : "Requests-Tier3",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "S29JWAREEQ9N3VG2" : {
+      "sku" : "S29JWAREEQ9N3VG2",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Standard-Retrieval",
+        "feeDescription" : "Fee for Standard Retrieval of data stored",
+        "usagetype" : "Standard-Retrieval-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "AJRCKNQRBKGAVM6J" : {
+      "sku" : "AJRCKNQRBKGAVM6J",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Expedited-Select-Returned",
+        "feeDescription" : "Fee for Select Data Returned using Expedited tier",
+        "usagetype" : "Exp-Select-Returned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    },
+    "8VV3YHZC4XYUUMZM" : {
+      "sku" : "8VV3YHZC4XYUUMZM",
+      "productFamily" : "Fee",
+      "attributes" : {
+        "servicecode" : "AmazonGlacier",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "Glacier-Bulk-Select-Returned",
+        "feeDescription" : "Fee for Select Data Returned using Bulk tier",
+        "usagetype" : "Bulk-Select-Returned-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Glacier"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "Z9QR6FVBYAFGFFPN" : {
+        "Z9QR6FVBYAFGFFPN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z9QR6FVBYAFGFFPN",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z9QR6FVBYAFGFFPN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z9QR6FVBYAFGFFPN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 1,000 Requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EG3DVFEZB6HNZXY2" : {
+        "EG3DVFEZB6HNZXY2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EG3DVFEZB6HNZXY2",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "EG3DVFEZB6HNZXY2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EG3DVFEZB6HNZXY2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$100 per Provisioned Capacity Unit",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Units",
+              "pricePerUnit" : {
+                "USD" : "100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XJNJ5T2E77GA4WJR" : {
+        "XJNJ5T2E77GA4WJR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XJNJ5T2E77GA4WJR",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "XJNJ5T2E77GA4WJR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XJNJ5T2E77GA4WJR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB - Expedited retrieval fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F29KHPRJU8V3J8NG" : {
+        "F29KHPRJU8V3J8NG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F29KHPRJU8V3J8NG",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "F29KHPRJU8V3J8NG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F29KHPRJU8V3J8NG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Bulk retrieval fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "M2MGBWT25Q3VB45M" : {
+        "M2MGBWT25Q3VB45M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "M2MGBWT25Q3VB45M",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "M2MGBWT25Q3VB45M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "M2MGBWT25Q3VB45M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.001 per GB - Bulk Select Data Scanned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QY634BY5A7KM6AGT" : {
+        "QY634BY5A7KM6AGT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QY634BY5A7KM6AGT",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "QY634BY5A7KM6AGT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QY634BY5A7KM6AGT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per Expedited request",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MFYFY7VHET5GTVDG" : {
+        "MFYFY7VHET5GTVDG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MFYFY7VHET5GTVDG",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "MFYFY7VHET5GTVDG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MFYFY7VHET5GTVDG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per GB - Standard Select Data Scanned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8XZNV32BAFDEV6W6" : {
+        "8XZNV32BAFDEV6W6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8XZNV32BAFDEV6W6",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "8XZNV32BAFDEV6W6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8XZNV32BAFDEV6W6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB - Standard Select Data Returned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NBWZCXUY4QX6RSG6" : {
+        "NBWZCXUY4QX6RSG6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NBWZCXUY4QX6RSG6",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NBWZCXUY4QX6RSG6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NBWZCXUY4QX6RSG6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0036 per GB / month - Storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0036000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VUX4Q8XUDNRT83G2" : {
+        "VUX4Q8XUDNRT83G2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VUX4Q8XUDNRT83G2",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "VUX4Q8XUDNRT83G2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VUX4Q8XUDNRT83G2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0036 per GB-month for Early Delete",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0036000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WTZTBHJWK9C8AXTY" : {
+        "WTZTBHJWK9C8AXTY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WTZTBHJWK9C8AXTY",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WTZTBHJWK9C8AXTY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WTZTBHJWK9C8AXTY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - Expedited Select Data Scanned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S29JWAREEQ9N3VG2" : {
+        "S29JWAREEQ9N3VG2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S29JWAREEQ9N3VG2",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "S29JWAREEQ9N3VG2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S29JWAREEQ9N3VG2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB - Standard retrieval fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RR5B38YAAJRNMSTH" : {
+        "RR5B38YAAJRNMSTH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RR5B38YAAJRNMSTH",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RR5B38YAAJRNMSTH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RR5B38YAAJRNMSTH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per 1,000 - Bulk requests",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AJRCKNQRBKGAVM6J" : {
+        "AJRCKNQRBKGAVM6J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJRCKNQRBKGAVM6J",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJRCKNQRBKGAVM6J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJRCKNQRBKGAVM6J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB - Expedited Select Data Returned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8VV3YHZC4XYUUMZM" : {
+        "8VV3YHZC4XYUUMZM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8VV3YHZC4XYUUMZM",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "8VV3YHZC4XYUUMZM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8VV3YHZC4XYUUMZM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0025 per GB - Bulk Select Data Returned Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0025000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PHG6MUKRZRTAQR67" : {
+        "PHG6MUKRZRTAQR67.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PHG6MUKRZRTAQR67",
+          "effectiveDate" : "2021-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "PHG6MUKRZRTAQR67.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PHG6MUKRZRTAQR67.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0067 per GB - Retrieval Fee",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0067000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

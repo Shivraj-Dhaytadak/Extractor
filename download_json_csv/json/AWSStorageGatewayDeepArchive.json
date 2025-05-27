@@ -1,0 +1,159 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSStorageGatewayDeepArchive",
+  "version" : "20250314181607",
+  "publicationDate" : "2025-03-14T18:16:07Z",
+  "products" : {
+    "EVM5333D7DYRVXYB" : {
+      "sku" : "EVM5333D7DYRVXYB",
+      "productFamily" : "StorageGateway-Deep Archive-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGatewayDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-DA-MoveFee",
+        "feeDescription" : "Fee for moving a tape between Glacier and Deep Archive",
+        "usagetype" : "Gateway:VTS-Move-Bytes-DA",
+        "operation" : "TapeBytes",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway Deep Archive"
+      }
+    },
+    "W9BJX8BY2XY6CYRQ" : {
+      "sku" : "W9BJX8BY2XY6CYRQ",
+      "productFamily" : "StorageGateway-Deep Archive-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGatewayDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-TapeDARetrieval",
+        "feeDescription" : "Fee for retrieving virtual tape from Deep Archive",
+        "usagetype" : "USE1-Retrieval-Bytes-DA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway Deep Archive"
+      }
+    },
+    "P3575PPM4FZJBZJJ" : {
+      "sku" : "P3575PPM4FZJBZJJ",
+      "productFamily" : "StorageGateway-Deep Archive-Fee",
+      "attributes" : {
+        "servicecode" : "AWSStorageGatewayDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "feeCode" : "StorageGateway-DA-EarlyDeleteFee",
+        "feeDescription" : "Pro-rated fee for deleting an archived virtual tape prior to 180 days",
+        "usagetype" : "Gateway:VTS-EarlyDelete-DA",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway Deep Archive"
+      }
+    },
+    "9Z8FKVD8HAWXF746" : {
+      "sku" : "9Z8FKVD8HAWXF746",
+      "productFamily" : "StorageGateway-Deep Archive",
+      "attributes" : {
+        "servicecode" : "AWSStorageGatewayDeepArchive",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "storageClass" : "Deep Archive",
+        "usagetype" : "Gateway:VTS-Storage-DA",
+        "operation" : "",
+        "maximumCapacity" : "2.5 TB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Storage Gateway Deep Archive",
+        "storageDescription" : "Virtual Tape in Library"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "W9BJX8BY2XY6CYRQ" : {
+        "W9BJX8BY2XY6CYRQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W9BJX8BY2XY6CYRQ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "W9BJX8BY2XY6CYRQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W9BJX8BY2XY6CYRQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB virtual tape retrieval fee for standard retrieval from Glacier Deep Archive",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EVM5333D7DYRVXYB" : {
+        "EVM5333D7DYRVXYB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EVM5333D7DYRVXYB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "EVM5333D7DYRVXYB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EVM5333D7DYRVXYB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0032 per GB virtual tape fee for moving tape between S3 Glacier and Glacier Deep Archive",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0032000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P3575PPM4FZJBZJJ" : {
+        "P3575PPM4FZJBZJJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P3575PPM4FZJBZJJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "P3575PPM4FZJBZJJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P3575PPM4FZJBZJJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00099 per GB-Mo prorated for virtual tape deleted before 180 days from Glacier Deep Archive",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0009900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9Z8FKVD8HAWXF746" : {
+        "9Z8FKVD8HAWXF746.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9Z8FKVD8HAWXF746",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "9Z8FKVD8HAWXF746.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9Z8FKVD8HAWXF746.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00099 per GB-month of virtual tape storage used in Glacier Deep Archive",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0009900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}
