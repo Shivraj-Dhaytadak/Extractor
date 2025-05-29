@@ -1,0 +1,489 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonApiGateway",
+  "version" : "20250310215126",
+  "publicationDate" : "2025-03-10T21:51:26Z",
+  "products" : {
+    "FC2TWT2UEPTBKVBX" : {
+      "sku" : "FC2TWT2UEPTBKVBX",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "HTTP API Requests",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayHttpRequest",
+        "operation" : "ApiGatewayHttpApi",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "HR8QBS8NGUVDR2ZB" : {
+      "sku" : "HR8QBS8NGUVDR2ZB",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:1.55GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "1.6",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "XC8EYNF27C969ZNB" : {
+      "sku" : "XC8EYNF27C969ZNB",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:13.5GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "13.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "UTA8VPBNDBWNCNMC" : {
+      "sku" : "UTA8VPBNDBWNCNMC",
+      "productFamily" : "WebSocket",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "WebSocket Connection Minutes",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayMinute",
+        "operation" : "ApiGatewayWebSocket",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "KZ8T3FFM6P4CHEZJ" : {
+      "sku" : "KZ8T3FFM6P4CHEZJ",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:118GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "118",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "P5PA7D9G3SVJPMPX" : {
+      "sku" : "P5PA7D9G3SVJPMPX",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:237GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "237",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "G64PE2ARES5K9G3A" : {
+      "sku" : "G64PE2ARES5K9G3A",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:6.05GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "6.1",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "3Y5E3ETY2M5CMHYP" : {
+      "sku" : "3Y5E3ETY2M5CMHYP",
+      "productFamily" : "WebSocket",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "WebSocket Messages",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayMessage",
+        "operation" : "ApiGatewayWebSocket",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "CXYUE7KWK5ZR38DE" : {
+      "sku" : "CXYUE7KWK5ZR38DE",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:0.5GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "0.5",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "KKDZ3TFSXUSMCZ3A" : {
+      "sku" : "KKDZ3TFSXUSMCZ3A",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "API calls received",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayRequest",
+        "operation" : "ApiGatewayRequest",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "HVHJ6AS99ERSASY7" : {
+      "sku" : "HVHJ6AS99ERSASY7",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:28.4GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "28.4",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "VJ6SGAA4TFVXGQK8" : {
+      "sku" : "VJ6SGAA4TFVXGQK8",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ApiGatewayCacheUsage:58.2GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "58.2",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "3Y5E3ETY2M5CMHYP" : {
+        "3Y5E3ETY2M5CMHYP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3Y5E3ETY2M5CMHYP",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "3Y5E3ETY2M5CMHYP.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "3Y5E3ETY2M5CMHYP.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1/million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3Y5E3ETY2M5CMHYP.JRTCKXETXF.AGD8ADSNTG" : {
+              "rateCode" : "3Y5E3ETY2M5CMHYP.JRTCKXETXF.AGD8ADSNTG",
+              "description" : "$0.8/million messages - over 1 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HVHJ6AS99ERSASY7" : {
+        "HVHJ6AS99ERSASY7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HVHJ6AS99ERSASY7",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HVHJ6AS99ERSASY7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HVHJ6AS99ERSASY7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 28.4GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P5PA7D9G3SVJPMPX" : {
+        "P5PA7D9G3SVJPMPX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P5PA7D9G3SVJPMPX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "P5PA7D9G3SVJPMPX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P5PA7D9G3SVJPMPX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 237GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.8000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XC8EYNF27C969ZNB" : {
+        "XC8EYNF27C969ZNB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XC8EYNF27C969ZNB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "XC8EYNF27C969ZNB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XC8EYNF27C969ZNB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 13.5GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FC2TWT2UEPTBKVBX" : {
+        "FC2TWT2UEPTBKVBX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FC2TWT2UEPTBKVBX",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "FC2TWT2UEPTBKVBX.JRTCKXETXF.9NXBCPDZYR" : {
+              "rateCode" : "FC2TWT2UEPTBKVBX.JRTCKXETXF.9NXBCPDZYR",
+              "description" : "$1/million requests - API Gateway HTTP API (first 300 million)",
+              "beginRange" : "0",
+              "endRange" : "300000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FC2TWT2UEPTBKVBX.JRTCKXETXF.Y5DREYKEMT" : {
+              "rateCode" : "FC2TWT2UEPTBKVBX.JRTCKXETXF.Y5DREYKEMT",
+              "description" : "$0.9/million requests - API Gateway HTTP API (more than 300 million)",
+              "beginRange" : "300000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000009000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UTA8VPBNDBWNCNMC" : {
+        "UTA8VPBNDBWNCNMC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UTA8VPBNDBWNCNMC",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "UTA8VPBNDBWNCNMC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UTA8VPBNDBWNCNMC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25/million connection minutes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000002500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VJ6SGAA4TFVXGQK8" : {
+        "VJ6SGAA4TFVXGQK8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VJ6SGAA4TFVXGQK8",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VJ6SGAA4TFVXGQK8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VJ6SGAA4TFVXGQK8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 58.2GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HR8QBS8NGUVDR2ZB" : {
+        "HR8QBS8NGUVDR2ZB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HR8QBS8NGUVDR2ZB",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "HR8QBS8NGUVDR2ZB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HR8QBS8NGUVDR2ZB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 1.55GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0380000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CXYUE7KWK5ZR38DE" : {
+        "CXYUE7KWK5ZR38DE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CXYUE7KWK5ZR38DE",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "CXYUE7KWK5ZR38DE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CXYUE7KWK5ZR38DE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 0.5GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KZ8T3FFM6P4CHEZJ" : {
+        "KZ8T3FFM6P4CHEZJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KZ8T3FFM6P4CHEZJ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KZ8T3FFM6P4CHEZJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KZ8T3FFM6P4CHEZJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 118GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G64PE2ARES5K9G3A" : {
+        "G64PE2ARES5K9G3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G64PE2ARES5K9G3A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "G64PE2ARES5K9G3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G64PE2ARES5K9G3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 6.05GB - US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KKDZ3TFSXUSMCZ3A" : {
+        "KKDZ3TFSXUSMCZ3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KKDZ3TFSXUSMCZ3A",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.QS4VQ8N7FD" : {
+              "rateCode" : "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.QS4VQ8N7FD",
+              "description" : "$3.50/million requests - first 333 million requests/month",
+              "beginRange" : "0",
+              "endRange" : "333000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000035000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.DRE2JBTXBV" : {
+              "rateCode" : "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.DRE2JBTXBV",
+              "description" : "$2.80/million requests - next 667 million requests/month",
+              "beginRange" : "333000000",
+              "endRange" : "1000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000028000"
+              },
+              "appliesTo" : [ ]
+            },
+            "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.J4SY3H5SUC" : {
+              "rateCode" : "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.J4SY3H5SUC",
+              "description" : "$2.38/million requests - next 19 billion requests/month",
+              "beginRange" : "1000000000",
+              "endRange" : "20000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000023800"
+              },
+              "appliesTo" : [ ]
+            },
+            "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.KVC36CKCEW" : {
+              "rateCode" : "KKDZ3TFSXUSMCZ3A.JRTCKXETXF.KVC36CKCEW",
+              "description" : "$1.51/million requests - over 20 billion requests/month",
+              "beginRange" : "20000000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000015100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Requests",
+      "groupDescription": "Invocation call for a Lambda function",
+      "usagetype": "Global-Request",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Requests Free Tier - 1,000,000 Requests",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration-ARM",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s for ARM",
+      "usagetype": "Lambda-GB-Second-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute for ARM - US East (Northern Virginia)-Tier-1",
+    "beginRange": "0",
+    "endRange": "7500000000",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000133334"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration-ARM",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s for ARM",
+      "usagetype": "Lambda-GB-Second-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute for ARM - US East (Northern Virginia)-Tier-2",
+    "beginRange": "7500000000",
+    "endRange": "18750000000",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000120001"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration-ARM",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s for ARM",
+      "usagetype": "Lambda-GB-Second-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute for ARM - US East (Northern Virginia)-Tier-3",
+    "beginRange": "18750000000",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000106667"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration-Provisioned",
+      "groupDescription": "Invocation duration, during provisioned period, weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-Provisioned-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute (Provisioned) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000097222"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Storage-Duration",
+      "groupDescription": "Invocation duration weighted by ephemeral storage assigned to function, measured in GB-s",
+      "usagetype": "Lambda-Storage-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Ephemeral Storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000309"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Storage-Duration-ARM",
+      "groupDescription": "Invocation duration weighted by ephemeral storage assigned to function, measured in GB-s for ARM",
+      "usagetype": "Lambda-Storage-GB-Second-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Ephemeral Storage for ARM - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000309"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Processed-Bytes-ARM",
+      "groupDescription": "Processed bytes for a streamed response from a Lambda function invocation for ARM",
+      "usagetype": "Lambda-Streaming-Response-Processed-Bytes-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "$0.008 per GiB for Lambda-Streaming-Response-Processed-Bytes-ARM in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Processed-Gigabytes",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Global-Lambda-GB-Second",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Compute Free Tier - 400,000 GB-Seconds",
+    "beginRange": "0",
+    "endRange": "400000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Processed-Bytes",
+      "groupDescription": "Processed bytes for a streamed response from a Lambda function invocation",
+      "usagetype": "Lambda-Streaming-Response-Processed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "$0.008 per GiB for of Lambda-Streaming-Response-Processed-Bytes usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Processed-Gigabytes",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Requests-ARM",
+      "groupDescription": "Invocation call for a Lambda function for ARM",
+      "usagetype": "Request-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Requests for ARM - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration-Provisioned-ARM",
+      "groupDescription": "Invocation duration, during provisioned period, weighted by memory assigned to function, measured in GB-s for ARM",
+      "usagetype": "Lambda-Provisioned-GB-Second-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute (Provisioned) for ARM - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000077778"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Requests",
+      "groupDescription": "Invocation call for a Lambda function",
+      "usagetype": "Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Requests - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Provisioned-Concurrency-ARM",
+      "groupDescription": "Concurrency weighted by memory assigned to function over the period for which it is provisioned, measured in GB-s for ARM",
+      "usagetype": "Lambda-Provisioned-Concurrency-ARM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Provisioned Concurrency for ARM - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000033334"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Event-Poller-Unit-Duration",
+      "groupDescription": "Duration weighted by Event Poller Units consumed by Provisioned mode for ESM, measured in Event-Poller-Unit-Hours",
+      "usagetype": "Lambda-Event-Poller-Unit-Hour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "$0.185 per Event-Poller-Unit-Hour for Lambda-Event-Poller-Unit-Hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Event-Poller-Unit-Hours",
+    "pricePerUnit": {
+      "USD": "0.1850000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Processed-Bytes",
+      "groupDescription": "Processed bytes for a streamed response from a Lambda function invocation",
+      "usagetype": "Global-Lambda-Streaming-Response-Processed-Bytes",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS Lambda"
+    },
+    "description": "Global rate for Lambda-Streaming-Response-Processed-Bytes",
+    "beginRange": "0",
+    "endRange": "100",
+    "unit": "Processed-Gigabytes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Edge-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-Edge-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda Edge - Total Compute - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000500100"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Edge-Requests",
+      "groupDescription": "Invocation call for a Lambda function",
+      "usagetype": "Lambda-Edge-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda Edge - Total Requests - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-SnapStart-Cache",
+      "groupDescription": "Duration a snapshot is cached for, weighted by memory and disk assigned to function, measured in GB-S",
+      "usagetype": "Lambda-SnapStart-Cached-GB-S",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "USD 0.0000015046 per GB-Second for Lambda-SnapStart-Cached-GB-S usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000015046"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Provisioned-Concurrency",
+      "groupDescription": "Concurrency weighted by memory assigned to function over the period for which it is provisioned, measured in GB-s",
+      "usagetype": "Lambda-Provisioned-Concurrency",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Provisioned Concurrency - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000041667"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-SnapStart-Restore",
+      "groupDescription": "Snapshot GB restored, measured in GB of memory and disk assigned to function",
+      "usagetype": "Lambda-SnapStart-Restored-GB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "USD 0.0001397998 per GB for Lambda-SnapStart-Restored-GB usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0001397998"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute - US East (Northern Virginia)-Tier-1",
+    "beginRange": "0",
+    "endRange": "6000000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000166667"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute - US East (Northern Virginia)-Tier-2",
+    "beginRange": "6000000000",
+    "endRange": "15000000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AWSLambda",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lambda"
+    },
+    "description": "AWS Lambda - Total Compute - US East (Northern Virginia)-Tier-3",
+    "beginRange": "15000000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000133334"
+    }
+  }
+]
