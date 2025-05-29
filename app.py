@@ -128,19 +128,30 @@ if not services:
 initial_state = PricingState(queue=services, completed=[])
 final_state = cost_runner.invoke(initial_state)
 
-# Display table
+# Display table and total cost summary inside an expander
 if final_state["completed"]:
-    st.subheader("🔍 Extracted AWS Services")
-    st.subheader("💰 Cost Summary")
-    df = pd.DataFrame([
-        {
-            "Service": s.name,
-            "Cost (Monthly USD)": f"${s.cost:.2f}",
-            "Cost (Yearly USD)": f"${s.cost * 12:.2f}",
-            "Account Context": s.account_context,
-            "Count": s.count
-        }
-        for s in final_state["completed"]
-    ])
-    df.index = range(1, len(df) + 1)  # Set index to start from 1
-    st.dataframe(df, use_container_width=True)
+    st.subheader("Total Cost Summary")
+    total_monthly = sum(s.cost for s in final_state["completed"])
+    total_yearly = total_monthly * 12
+    total_df = pd.DataFrame({
+        "Cost Type": ["Monthly Total", "Yearly Total"],
+        "Cost": [f"${total_monthly:.2f}", f"${total_yearly:.2f}"]
+    })
+    total_df.index = range(1, len(total_df) + 1)  
+    st.dataframe(total_df, use_container_width=True)
+    with st.expander("View Detailed Cost Breakdown", expanded=False):
+        st.subheader("Extracted AWS Services")
+        df = pd.DataFrame([
+            {
+                "Service": s.name,
+                "Cost (Monthly USD)": f"${s.cost:.2f}",
+                "Cost (Yearly USD)": f"${s.cost * 12:.2f}",
+                "Account Context": s.account_context,
+                "Count": s.count
+            }
+            for s in final_state["completed"]
+        ])
+        df.index = range(1, len(df) + 1)  
+        st.dataframe(df, use_container_width=True)
+
+        
