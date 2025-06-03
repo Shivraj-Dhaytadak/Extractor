@@ -6,7 +6,7 @@ import base64
 import time
 from io import BytesIO
 import pandas as pd
-from typing import List, Literal , TypedDict , Optional , Dict, Any
+from typing import List, Literal , TypedDict , Optional
 import os
 from pydantic import BaseModel
 from langchain_ollama.chat_models import ChatOllama
@@ -54,16 +54,13 @@ class PricingState(TypedDict):
 # -------------------------
 # 2. Pricing Logic
 # -------------------------
-def compute_cost_lambda(config: Dict[str, Any]) -> Cost:
-    """Compute the cost for AWS Lambda based on the provided configuration."""
+def compute_cost_lambda():
     dirname = os.path.dirname(__file__)
     json_path = os.path.join(dirname, "lambda.json")
     with open(json_path, "r", encoding="utf-8") as f:
         contents = f.read()
-    user_desc = config.get("description", "10 million requests per month")
     msg_lambda = HumanMessage(content=[
-    {"type": "text", "text": "Given the AWS Lambda service, compute the cost based on the following Configuration: "
-            f"{user_desc}. "
+    {"type": "text", "text": "Given the AWS Lambda service, compute the cost based on the following assumptions: 10 million requests per month "
             "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
             "Provide a detailed breakdown of the cost calculations. Additionally, include your internal chain-of-thought "
             "explanation as part of the result."},
@@ -146,6 +143,8 @@ st.set_page_config(page_title="AWS Arch + Cost Analyzer", layout="centered")
 st.title("📊 AWS Architecture & Cost Analyzer")
 
 uploaded = st.file_uploader("Upload AWS diagram (PNG/JPG)", type=["png", "jpg", "jpeg"])
+config_file = st.file_uploader("Upload Service Configuration (JSON)", type=["json"])
+
 if not uploaded:
     st.info("Please upload an architecture diagram.")
     st.stop()
@@ -180,30 +179,19 @@ with st.spinner("Extracting services..."):
     services = [s for s in diagram.services if s.type == "AWS service"]
     st.success(f"Found {len(services)} AWS services.")
 
+# Parse config file and assign to services
+if config_file is not None:
+    import json
+    config_data = json.load(config_file)
+    # Assume config_data is a dict with service names as keys
+    for s in services:
+        if s.name in config_data:
+            # Attach config to service (add a config attribute dynamically)
+            setattr(s, 'config', config_data[s.name])
+
 if not services:
     st.info("No AWS services found in the image.")
     st.stop()
-
-
-# Assume 'services' is the list of extracted services
-if 'service_inputs' not in st.session_state:
-    st.session_state.service_inputs = {}
-
-for service in services:
-    with st.expander(f"Configure {service.name}"):
-        with st.form(key=f"form_{service.name}"):
-            # Example input fields; customize as needed
-            region = st.selectbox("Region", ["us-east-1", "us-west-2"], key=f"region_{service.name}")
-            usage = st.number_input("Monthly Usage (e.g., requests, GB)", min_value=0, key=f"usage_{service.name}")
-            submit = st.form_submit_button("Save Configuration")
-            
-            if submit:
-                st.session_state.service_inputs[service.name] = {
-                    "region": region,
-                    "usage": usage
-                }
-                st.success(f"Configuration for {service.name} saved.")
-
 
 # Run LangGraph
 initial_state = PricingState(queue=services, completed=[])
