@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "AWS Firewall",
+    "attributes": {
+      "servicecode": "AWSNetworkFirewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Advanced-Inspection-Endpoint-Hour",
+      "operation": "Operation:Metering",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Network Firewall",
+      "subcategory": "Endpoint-Advanced"
+    },
+    "description": "$0.380 per endpoint hour for Advanced Inspection Endpoint Hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Firewall",
+    "attributes": {
+      "servicecode": "AWSNetworkFirewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Endpoint-Hour",
+      "operation": "Operation:Metering",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Network Firewall",
+      "subcategory": "Endpoint"
+    },
+    "description": "$0.395 per endpoint hour for AWS Network Firewall in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3950000000"
+    }
+  },
+  {
+    "productFamily": "AWS Firewall",
+    "attributes": {
+      "servicecode": "AWSNetworkFirewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Traffic-GB-Processed",
+      "operation": "Operation:NormalUsage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Network Firewall",
+      "subcategory": "Throughput"
+    },
+    "description": "$0.065 per GB processed by AWS Network Firewall in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "AWS Firewall",
+    "attributes": {
+      "servicecode": "AWSNetworkFirewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Advanced-Inspection-Traffic-GB-Processed",
+      "operation": "Operation:NormalUsage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Network Firewall",
+      "subcategory": "Throughput-Advanced"
+    },
+    "description": "$0 per GB processed for Advanced Inspection Traffic GB Processed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

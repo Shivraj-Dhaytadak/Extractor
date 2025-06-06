@@ -1,0 +1,158 @@
+[
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Std-MicrosoftAD-DC-Usage",
+      "operation": "Hourly",
+      "directorySize": "Standard",
+      "directoryType": "Microsoft AD",
+      "directoryTypeDescription": "AWS Directory Service for Microsoft Active Directory (Microsoft AD)",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "$0.060 per hour for Microsoft AD (Standard Edition) domain controllers in the US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Std-SharedMsftAD-Usage",
+      "operation": "Hourly",
+      "directorySize": "Standard",
+      "directoryType": "Shared Microsoft AD",
+      "directoryTypeDescription": "Shared AWS Directory Service for Microsoft Active Directory",
+      "pricingUnit": "Hrs",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "USD 0.0180 per hour per account to which a Microsoft AD (Standard) directory is shared in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Small-Directory-Usage",
+      "operation": "Hourly",
+      "directorySize": "Small",
+      "directoryType": "Simple AD or AD Connector",
+      "directoryTypeDescription": "Simple AD or AD Connector",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "$0.05 per hour for a small directory in the US East (Northern Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "MicrosoftAD-DC-Usage",
+      "operation": "Hourly",
+      "directorySize": "Enterprise",
+      "directoryType": "Microsoft AD",
+      "directoryTypeDescription": "AWS Directory Service for Microsoft Active Directory (Microsoft AD)",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "$0.2 per hour for a Microsoft AD directory controller in the US East (Northern Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Large-SimpleAD-Usage",
+      "operation": "Hourly",
+      "directorySize": "Large",
+      "directoryType": "Simple AD",
+      "directoryTypeDescription": "Simple AD",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "$0.15 per hour for a large Simple AD directory in the US East (Northern Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "SharedMsftAD-Usage",
+      "operation": "Hourly",
+      "directorySize": "Enterprise",
+      "directoryType": "Shared Microsoft AD",
+      "directoryTypeDescription": "Shared AWS Directory Service for Microsoft Active Directory",
+      "pricingUnit": "Hrs",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "USD 0.0600 per hour per account to which a Microsoft AD (Enterprise) directory is shared in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Directory Service",
+    "attributes": {
+      "servicecode": "AWSDirectoryService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Large-ADConnector-Usage",
+      "operation": "Hourly",
+      "directorySize": "Large",
+      "directoryType": "AD Connector",
+      "directoryTypeDescription": "AD Connector",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Directory Service"
+    },
+    "description": "$0.15 per hour for a large AD Connector directory in the US East (Northern Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  }
+]

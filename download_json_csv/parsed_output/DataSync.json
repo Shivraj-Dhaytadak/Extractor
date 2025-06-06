@@ -1,0 +1,63 @@
+[
+  {
+    "productFamily": "AWS DataSync",
+    "attributes": {
+      "servicecode": "AWSDataSync",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Transferred-Bytes",
+      "operation": "",
+      "productSchemaDescription": "Data transferred",
+      "regionCode": "us-east-1",
+      "servicename": "AWS DataSync"
+    },
+    "description": "$0.0125 per GB copied in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "AWS DataSync",
+    "attributes": {
+      "servicecode": "AWSDataSync",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Executions-Enhanced",
+      "operation": "Sync",
+      "regionCode": "us-east-1",
+      "servicename": "AWS DataSync",
+      "taskMode": "Enhanced",
+      "taskType": "Sync"
+    },
+    "description": "$0.55 per task execution using Enhanced mode in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Task-Executions",
+    "pricePerUnit": {
+      "USD": "0.5500000000"
+    }
+  },
+  {
+    "productFamily": "AWS DataSync",
+    "attributes": {
+      "servicecode": "AWSDataSync",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Transferred-Bytes-Enhanced",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS DataSync",
+      "taskMode": "Enhanced"
+    },
+    "description": "$0.015 per GB copied for tasks using Enhanced mode in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB ",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  }
+]

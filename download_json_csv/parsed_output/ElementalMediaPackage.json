@@ -1,0 +1,62 @@
+[
+  {
+    "productFamily": "Packaging Data Transfer",
+    "attributes": {
+      "servicecode": "AWSElementalMediaPackage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "Ingest",
+      "usagetype": "USE1-EMP-ingest-bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaPackage"
+    },
+    "description": "$0.03 per GB of Ingest",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Packaging Data Transfer",
+    "attributes": {
+      "servicecode": "AWSElementalMediaPackage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "VOD-Origination-Packaging",
+      "usagetype": "USE1-EMP-vod-origin-pkg-bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaPackage"
+    },
+    "description": "$0.05 per GB VOD Origination/Packaging",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Packaging Data Transfer",
+    "attributes": {
+      "servicecode": "AWSElementalMediaPackage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "Origination-Packaging",
+      "usagetype": "USE1-EMP-origin-packaging-bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaPackage"
+    },
+    "description": "$0.05 per GB Origination/Packaging",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  }
+]

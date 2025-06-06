@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AWSDeepRacer",
+      "description": "RL Service Jobs - Standard",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ServiceUse-Train-Evaluate-Job",
+      "operation": "RLServiceJobs-Standard",
+      "regionCode": "us-east-1",
+      "servicename": "AWS DeepRacer"
+    },
+    "description": "$3.50 per hour for training or evaluation jobs",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.5000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AWSDeepRacer",
+      "description": "Storage Service - TimedStorage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedStorage-GigabyteHrs",
+      "operation": "StorageService-TimedStorage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS DeepRacer"
+    },
+    "description": "$0.023 per GB-month of storage used",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  }
+]

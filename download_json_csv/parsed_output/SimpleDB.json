@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "Database Utilization",
+    "attributes": {
+      "servicecode": "AmazonSimpleDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "Amazon SimpleDB - Standard",
+      "usagetype": "BoxUsage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon SimpleDB"
+    },
+    "description": "$0.14 per Compute-Hour consumed beyond first 25 free hours per month",
+    "beginRange": "25",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Database Utilization",
+    "attributes": {
+      "servicecode": "AmazonSimpleDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "Amazon SimpleDB - Standard",
+      "usagetype": "BoxUsage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon SimpleDB"
+    },
+    "description": "$0.00 per Compute-Hour consumed first 25 hours per month",
+    "beginRange": "0",
+    "endRange": "25",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonSimpleDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon SimpleDB - Standard",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon SimpleDB"
+    },
+    "description": "$0.25 per GB-Month of storage used beyond first 1 free GB-Month",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonSimpleDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon SimpleDB - Standard",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon SimpleDB"
+    },
+    "description": "$0.00 per GB-Month of storage for first 1 GB-Month",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

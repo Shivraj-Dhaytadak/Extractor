@@ -1,0 +1,296 @@
+[
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Pro Subscription",
+      "groupDescription": "Number of Amazon Q Business Pro subscriptions in the service",
+      "usagetype": "USE1-Amazon-Q-Business-Pro-Month",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "USD20.0 per month per user for Amazon Q Business Pro - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "20.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Pro Subscription",
+      "groupDescription": "Number of Amazon Q Business Pro subscriptions in the service (free trial)",
+      "usagetype": "USE1-Amazon-Q-Business-Pro-Free-Trial",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "USD0.0 per month per user for Amazon Q Business Pro (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lite Subscription",
+      "groupDescription": "Number of Amazon Q Business Lite subscriptions in the service (free trial)",
+      "usagetype": "USE1-Amazon-Q-Business-Lite-Free-Trial",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "USD0.0 per month per user for Amazon Q Business Lite (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Image",
+      "groupDescription": "Image Analysis",
+      "usagetype": "USE1-GenerateImageDescription",
+      "operation": "BatchPutDocument",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.003 per Count for Amazon Q Business Image Index in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Business Starter Index",
+      "groupDescription": "Q Business Starter Index hours",
+      "usagetype": "USE1-Q-Business-Starter-Index",
+      "operation": "Q-Business-Starter-Index",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.14 per hour per Amazon Q Business starter Index unit for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lite Subscription",
+      "groupDescription": "Number of Amazon Q Business Lite subscriptions in the service",
+      "usagetype": "USE1-Amazon-Q-Business-Lite-Month",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "USD3.0 per month per user for Amazon Q Business Lite - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Index",
+      "groupDescription": "Index",
+      "usagetype": "USE1-AmazonQ-Index",
+      "operation": "AmazonQ-Index",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.14 per hour per Amazon Q Business starter Index unit for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Business Enterprise Index",
+      "groupDescription": "Q Business Enterprise Index hours(free)",
+      "usagetype": "USE1-Q-Business-Enterprise-Index-free",
+      "operation": "Q-Business-Enterprise-Index",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0 per hour for Amazon Q Business enterprise Index free trial for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Audio",
+      "groupDescription": "Audio Analysis",
+      "usagetype": "USE1-GenerateAudioDescription",
+      "operation": "BatchPutDocument",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.006 per minute for Amazon Q Business Audio Index in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Video",
+      "groupDescription": "Video Analysis",
+      "usagetype": "USE1-GenerateVideoDescription",
+      "operation": "BatchPutDocument",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.05 per minute for Amazon Q Business Video Index in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Business Starter Index",
+      "groupDescription": "Q Business Starter Index hours(free)",
+      "usagetype": "USE1-Q-Business-Starter-Index-free",
+      "operation": "Q-Business-Starter-Index",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0 per hour for Amazon Q Business starter Index free trial for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Business Enterprise Index",
+      "groupDescription": "Q Business Enterprise Index hours",
+      "usagetype": "USE1-Q-Business-Enterprise-Index",
+      "operation": "Q-Business-Enterprise-Index",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.264 per hour per Amazon Q Business enterprise Index unit for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2640000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Developer Pro",
+      "groupDescription": "Number Amazon Q Developer monthly subscriptions",
+      "usagetype": "USE1-Amazon-Q-Developer-Pro-subscription-monthly",
+      "operation": "number-q-dev-subscriptions",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "USD19.00 per month per user for Amazon Q Developer Pro - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "19.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Q",
+    "attributes": {
+      "servicecode": "AmazonQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Index-Enterprise",
+      "groupDescription": "Enterprise Index",
+      "usagetype": "USE1-AmazonQ-Index-Enterprise",
+      "operation": "AmazonQ-Index-Enterprise",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Q"
+    },
+    "description": "$0.264 per hour per Amazon Q Business enterprise Index unit for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2640000000"
+    }
+  }
+]

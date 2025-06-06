@@ -1,0 +1,68 @@
+[
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AWSMDC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MDCRack-T1-Cont-Monthly",
+      "operation": "",
+      "configuration": "T1ContUse",
+      "contractLength": "1-12months",
+      "designVersion": "1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Modular Data Center"
+    },
+    "description": "$8139.66 dollars for MDCRack T1 Cont Use Monthly in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "dollars",
+    "pricePerUnit": {
+      "USD": "8139.6600000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AWSMDC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MDCRack-T1-Cont",
+      "operation": "",
+      "configuration": "T1ContUse",
+      "contractLength": "1 Year",
+      "designVersion": "1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Modular Data Center"
+    },
+    "description": "$97676 dollars for MDCRack T1 Cont Use in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "dollars",
+    "pricePerUnit": {
+      "USD": "97676.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AWSMDC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ExpRack",
+      "operation": "",
+      "configuration": "1",
+      "contractLength": "1",
+      "designVersion": "1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Modular Data Center"
+    },
+    "description": "USD154458.0 per dollars for ExpRack in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "dollars",
+    "pricePerUnit": {
+      "USD": "154458.0000000000"
+    }
+  }
+]

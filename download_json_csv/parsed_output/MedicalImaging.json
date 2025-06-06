@@ -1,0 +1,63 @@
+[
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonMedicalImaging",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Archive Instant Access",
+      "usagetype": "USE1-TimedStorage-ArchiveByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS HealthImaging"
+    },
+    "description": "$0.006 per GB-month for Archive Instant Access Tier Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonMedicalImaging",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Frequent Access",
+      "usagetype": "USE1-TimedStorage-ActiveByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS HealthImaging"
+    },
+    "description": "$0.105 per GB-month for Frequent Access Tier Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.1050000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonMedicalImaging",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Core API",
+      "groupDescription": "HealthLake Imaging Core APIs",
+      "usagetype": "USE1-API-Requests-Core",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS HealthImaging"
+    },
+    "description": "$0.005 per 1,000 Requests for API Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  }
+]

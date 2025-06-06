@@ -1,0 +1,140 @@
+[
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "LoadBalancing",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "LoadBalancing",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of ELB in IAD - First 100 TB",
+    "beginRange": "0",
+    "endRange": "102400",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "LoadBalancing",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "LoadBalancing",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of ELB in IAD - Next 400 TB",
+    "beginRange": "102400",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "LoadBalancing",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "LoadBalancing",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of ELB in IAD - Above 500 TB",
+    "beginRange": "512000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "ShieldProtectionEIP",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "ShieldProtectionEIP",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of EIP in IAD - First 100 TB",
+    "beginRange": "0",
+    "endRange": "102400",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "ShieldProtectionEIP",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "ShieldProtectionEIP",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of EIP in IAD - Next 400 TB",
+    "beginRange": "102400",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Shield-DataTransfer",
+    "attributes": {
+      "servicecode": "AWSShield",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataTransfer-Shield-Bytes",
+      "operation": "ShieldProtectionEIP",
+      "fromRegionCode": "us-east-1",
+      "resourceType": "ShieldProtectionEIP",
+      "servicename": "AWS Shield",
+      "toRegionCode": ""
+    },
+    "description": "Shield Data Transfer Out of EIP in IAD - Above 500 TB",
+    "beginRange": "512000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  }
+]

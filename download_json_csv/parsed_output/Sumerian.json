@@ -1,0 +1,65 @@
+[
+  {
+    "productFamily": "AR & VR",
+    "attributes": {
+      "servicecode": "AmazonSumerian",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Binary-Size-In-Bytes",
+      "operation": "BinaryStorage",
+      "eventType": "Storage",
+      "offer": "Basic Publishing",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Sumerian"
+    },
+    "description": "$0.06 per GB per month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-mo",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "AR & VR",
+    "attributes": {
+      "servicecode": "AmazonSumerian",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Binary-Data-Transfer-Bytes",
+      "operation": "LoadBinaryInPublishedScene",
+      "eventType": "Publishing",
+      "offer": "Basic Publishing",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Sumerian"
+    },
+    "description": "$0.38 per GB per month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.3800000000"
+    }
+  },
+  {
+    "productFamily": "AR & VR",
+    "attributes": {
+      "servicecode": "AmazonSumerian",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Binary-Data-Transfer-Bytes",
+      "operation": "LoadBinaryInDraftScene",
+      "eventType": "Editing",
+      "offer": "Basic Publishing",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Sumerian"
+    },
+    "description": "$0.38 per GB per month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.3800000000"
+    }
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Recommender Hours Metadata",
+      "usagetype": "USE1-RecommenderHoursMetadata",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "1"
+    },
+    "description": "$0.1 per hour as additional metadata charge",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommender Hours",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Recommender Hours",
+      "usagetype": "USE1-RecommenderHours-Tier3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "3"
+    },
+    "description": "$0.018 per recommender hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommender Hours",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize additional recommendation requests",
+      "usagetype": "USE1-Recommendations-Tier2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "2"
+    },
+    "description": "$0.0417 per 1000 recommendations",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000417000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize additional recommendations metadata",
+      "usagetype": "USE1-RecommendationsMetadata",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "1"
+    },
+    "description": "$0.0167 per 1,000 recommendations as additional metadata charge",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000167000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Inference",
+      "usagetype": "USE1-BatchInference",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.067 per 1,000 Recommendations",
+    "beginRange": "0",
+    "endRange": "20000000",
+    "unit": "Batch Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000670000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Inference",
+      "usagetype": "USE1-BatchInference",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.058 per 1,000 Recommendations",
+    "beginRange": "20000000",
+    "endRange": "200000000",
+    "unit": "Batch Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000580000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Inference",
+      "usagetype": "USE1-BatchInference",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.050 per 1,000 Recommendations",
+    "beginRange": "200000000",
+    "endRange": "Inf",
+    "unit": "Batch Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Recommender Hours",
+      "usagetype": "USE1-RecommenderHours-Tier4",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "4"
+    },
+    "description": "$0.005 per recommender hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommender Hours",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Segments",
+      "usagetype": "USE1-BatchSegment-Tier4",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "4"
+    },
+    "description": "$0.001 per 1k users in customer dataset for each segment generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Segment",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Data",
+      "usagetype": "USE1-DataIngestion",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.05 per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Content Generation",
+      "usagetype": "USE1-BatchInferenceContentGen",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$1 per theme from content generator",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Recommendations",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Segments",
+      "usagetype": "USE1-BatchSegment-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "1"
+    },
+    "description": "$0.016 per 1k users in customer dataset for each segment generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Segment",
+    "pricePerUnit": {
+      "USD": "0.0160000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Segments",
+      "usagetype": "USE1-BatchSegment-Tier2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "2"
+    },
+    "description": "$0.008 per 1k users in customer dataset for each segment generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Segment",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Real-Time Inference V2",
+      "usagetype": "USE1-RealTimeRecommendationsV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.15 per 1,000 Recommendation Requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Real Time Recommendation Requests",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Real-Time Inference Metadata",
+      "usagetype": "USE1-RealTimeRecsMetadata",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.0167 per 1,000 recommendations as additional metadata charge",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Real Time Recommendation Requests",
+    "pricePerUnit": {
+      "USD": "0.0000167000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Recommender Hours",
+      "usagetype": "USE1-RecommenderHours-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "1"
+    },
+    "description": "$0.375 per recommender hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommender Hours",
+    "pricePerUnit": {
+      "USD": "0.3750000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Segments",
+      "usagetype": "USE1-BatchSegment-Tier3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "3"
+    },
+    "description": "$0.004 per 1k users in customer dataset for each segment generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Segment",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize additional recommendation requests",
+      "usagetype": "USE1-Recommendations-Tier3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "3"
+    },
+    "description": "$0.0208 per 1000 recommendations",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000208000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Real-Time Inference",
+      "usagetype": "USE1-RealTimeRecommendations",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.0556 per 1,000 Recommendation Requests",
+    "beginRange": "0",
+    "endRange": "72000000",
+    "unit": "Real Time Recommendation Requests",
+    "pricePerUnit": {
+      "USD": "0.0000555550"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Real-Time Inference",
+      "usagetype": "USE1-RealTimeRecommendations",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.0278 per 1,000 Recommendation Requests",
+    "beginRange": "72000000",
+    "endRange": "720000000",
+    "unit": "Real Time Recommendation Requests",
+    "pricePerUnit": {
+      "USD": "0.0000277770"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Real-Time Inference",
+      "usagetype": "USE1-RealTimeRecommendations",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.0139 per 1,000 Recommendation Requests",
+    "beginRange": "720000000",
+    "endRange": "Inf",
+    "unit": "Real Time Recommendation Requests",
+    "pricePerUnit": {
+      "USD": "0.0000138880"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Training",
+      "usagetype": "USE1-TrainingHour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.24 per Training Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TrainingHour",
+    "pricePerUnit": {
+      "USD": "0.2400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize PR V2 Training",
+      "usagetype": "USE1-PersonalizedRankingTrainV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.002 per 1,000 Interactions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Interactions",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize additional recommendation requests",
+      "usagetype": "USE1-Recommendations-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "1"
+    },
+    "description": "$0.0833 per 1000 recommendations",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0000833000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize UP V2 Training",
+      "usagetype": "USE1-UserPersonalizationTrainV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.002 per 1,000 Interactions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Interactions",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Batch Inference V2",
+      "usagetype": "USE1-BatchInferenceV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize"
+    },
+    "description": "$0.15 per 1,000 Recommendation Requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Batch Recommendations",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonPersonalize",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "groupDescription": "Pricing for Amazon Personalize Recommender Hours",
+      "usagetype": "USE1-RecommenderHours-Tier2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Personalize",
+      "tier": "2"
+    },
+    "description": "$0.045 per recommender hour ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Recommender Hours",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  }
+]

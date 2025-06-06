@@ -1,0 +1,777 @@
+[
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "4",
+      "memory": "32",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r5.xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.509 per Enhanced High Memory dax.r5.xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5090000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "64",
+      "memory": "512",
+      "networkPerformance": "20 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r7i.16xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$8.137 per Enhanced High Memory r7i.16xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "8.1370000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "48",
+      "memory": "384",
+      "networkPerformance": "12 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r5.12xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$6.117 per Enhanced High Memory dax.r5.12xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.1170000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "t3.medium",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "4",
+      "networkPerformance": "Low to Moderate",
+      "usagetype": "USE1-NodeUsage:dax.t3.medium",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.080 per Enhanced High Memory t3.medium node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "8",
+      "memory": "64",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r5.2xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$1.017 per Enhanced High Memory  dax.r5.2xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0170000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "32",
+      "memory": "256",
+      "networkPerformance": "10 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r7i.8xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$4.069 per Enhanced High Memory r7i.8xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.0690000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r3.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "4",
+      "memory": "30.5",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r3.xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.537 per Enhanced High Memory r3.xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5370000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "6",
+      "memory": "64",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r7i.2xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$1.017 per Enhanced High Memory r7i.2xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0170000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "64",
+      "memory": "512",
+      "networkPerformance": "20 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r5.16xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$8.137 per Enhanced High Memory dax.r5.16xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "8.1370000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "4",
+      "memory": "30.5",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r4.xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.537 per Enhanced High Memory r4.xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5370000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r3.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "32",
+      "memory": "244",
+      "networkPerformance": "10 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r3.8xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$4.295 per Enhanced High Memory r3.8xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.2950000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "16",
+      "memory": "128",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r7i.4xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$2.034 per Enhanced High Memory r7i.4xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.0340000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "48",
+      "memory": "384",
+      "networkPerformance": "12 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r7i.12xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$6.117 per Enhanced High Memory r7i.12xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.1170000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r3.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "16",
+      "memory": "122",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r3.4xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$2.148 per Enhanced High Memory r3.4xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.1480000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "15.25",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r4.large",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.269 per Enhanced High Memory r4.large node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2690000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.24xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "96",
+      "memory": "768",
+      "networkPerformance": "25 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r7i.24xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$12.234 per Enhanced High Memory r7i.24xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "12.2340000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "16",
+      "memory": "128",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r5.4xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$2.034 per Enhanced High Memory dax.r5.4xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.0340000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "t3.small",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "2",
+      "networkPerformance": "Low to Moderate",
+      "usagetype": "USE1-NodeUsage:dax.t3.small",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.040 per Enhanced High Memory t3.small node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.24xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "96",
+      "memory": "768",
+      "networkPerformance": "25 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r5.24xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$12.234 per Enhanced High Memory dax.r5.24xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "12.2340000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "16",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r5.large",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.255 per Enhanced High Memory dax.r5.large node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2550000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "32",
+      "memory": "244",
+      "networkPerformance": "10 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r4.8xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$4.295 per Enhanced High Memory r4.8xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.2950000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "64",
+      "memory": "488",
+      "networkPerformance": "20 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r4.16xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$8.590 per Enhanced High Memory r4.16xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "8.5900000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r3.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "15.25",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r3.large",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.269 per Enhanced High Memory r3.large node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2690000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "t2.medium",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "4",
+      "networkPerformance": "Low to Moderate",
+      "usagetype": "USE1-NodeUsage:dax.t2.medium",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.080 per Enhanced High Memory t2.medium node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "8",
+      "memory": "61",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r4.2xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$1.074 per Enhanced High Memory r4.2xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0740000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "4",
+      "memory": "32",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r7i.xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.509 per Enhanced High Memory r7i.xlarge node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5090000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r4.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "16",
+      "memory": "122",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r4.4xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$2.148 per Enhanced High Memory r4.4xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.1480000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "t2.small",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "1",
+      "memory": "2",
+      "networkPerformance": "Low to Moderate",
+      "usagetype": "USE1-NodeUsage:dax.t2.small",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.040 per Enhanced High Memory t2.small node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r5.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "32",
+      "memory": "256",
+      "networkPerformance": "10 Gigabit",
+      "usagetype": "USE1-NodeUsage:dax.r5.8xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$4.069 per Enhanced High Memory dax.r5.8xlarge node-hour (or partial hour) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.0690000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r3.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "8",
+      "memory": "61",
+      "networkPerformance": "High",
+      "usagetype": "USE1-NodeUsage:dax.r3.2xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$1.074 per Enhanced High Memory r3.2xlarge node-hour (or partial hour) running DAX",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0740000000"
+    }
+  },
+  {
+    "productFamily": "DAX",
+    "attributes": {
+      "servicecode": "AmazonDAX",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "r7i.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "DAX",
+      "vcpu": "2",
+      "memory": "16",
+      "networkPerformance": "Moderate",
+      "usagetype": "USE1-NodeUsage:dax.r7i.large",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "DynamoDB Accelerator (DAX)"
+    },
+    "description": "$0.255 per Enhanced High Memory r7i.large node-hour (or partial hour) running DAX in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2550000000"
+    }
+  }
+]

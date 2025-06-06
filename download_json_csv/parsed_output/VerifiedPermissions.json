@@ -1,0 +1,142 @@
+[
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GetPolicy-API-Requests",
+      "operation": "GetPolicy",
+      "apitype": "GetPolicy",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "40 USD per million GetPolicy API requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CreatePolicy-API-Requests",
+      "operation": "CreatePolicy",
+      "apitype": "CreatePolicy",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "40 USD per million CreatePolicy API requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ListPolicies-API-Requests",
+      "operation": "ListPolicies",
+      "apitype": "ListPolicies",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "40 USD per million ListPolicies API requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UpdatePolicy-API-Requests",
+      "operation": "UpdatePolicy",
+      "apitype": "UpdatePolicy",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "40 USD per million UpdatePolicy API requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AuthorizationRequest-API-Requests",
+      "operation": "AuthorizationRequest",
+      "apitype": "AuthorizationRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "150 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "40000000",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AuthorizationRequest-API-Requests",
+      "operation": "AuthorizationRequest",
+      "apitype": "AuthorizationRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "75 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+    "beginRange": "40000000",
+    "endRange": "100000000",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000750000"
+    }
+  },
+  {
+    "productFamily": "Verified Permissions",
+    "attributes": {
+      "servicecode": "AmazonVerifiedPermissions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AuthorizationRequest-API-Requests",
+      "operation": "AuthorizationRequest",
+      "apitype": "AuthorizationRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Verified Permissions"
+    },
+    "description": "40 USD per million Authorization Requests for Amazon Verified Permissions in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  }
+]

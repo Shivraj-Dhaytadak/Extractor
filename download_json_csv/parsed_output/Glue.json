@@ -1,0 +1,342 @@
+[
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Data Catalog Requests global",
+      "usagetype": "Global-Catalog-Request",
+      "operation": "Request",
+      "regionCode": "",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0 for AWS Glue Data Catalog requests under the free tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ZETL Ingestion",
+      "usagetype": "USE1-zeroETL-App-IngestionVolume-GB",
+      "operation": "zeroETL-App-IngestionVolume",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$1.50 per GB of AWS Glue data ingestion from any application, billed per MB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data catalog crawler run",
+      "usagetype": "USE1-Crawler-DPU-Hour",
+      "operation": "CrawlerRun",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Data Processing Unit-Hour for AWS Glue crawler",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ZETL Compute",
+      "usagetype": "USE1-zeroETL-Lakehouse-Compute-DPU-Hour",
+      "operation": "zeroETL-Lakehouse-Compute",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per AWS Glue DPU Hour for compute to process zero-ETL data written to Amazon S3",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Brew interactive sessions",
+      "usagetype": "USE1-DBrew-Sessions",
+      "operation": "Session",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$1 per session for AWS Glue DataBrew interactive sessions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Sessions",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Job run",
+      "usagetype": "USE1-ETL-Flex-DPU-Hour",
+      "operation": "FlexJobrun",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.29 per Data Processing Unit-Hour for AWS Glue Flex ETL job",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.2900000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Interactive Session",
+      "usagetype": "USE1-GlueInteractiveSession-DPU-Hour",
+      "operation": "GlueInteractiveSession",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Data Processing Unit-Hour for AWS Glue interactive sessions and job notebooks",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Development endpoint",
+      "usagetype": "USE1-DEVED-DPU-Hour",
+      "operation": "StartDevEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Data Processing Unit-Hour for AWS Glue development endpoints",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data lake optimization job run",
+      "usagetype": "USE1-Optimization-DPU-Hour",
+      "operation": "OptimizationJobRun",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Data Processing Unit-Hour for optimizing Iceberg tables with compaction.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Brew Job run",
+      "usagetype": "USE1-DBrew-Node-Hour",
+      "operation": "Job",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.48 per node hour for AWS Glue DataBrew jobs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.4800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Ray Job run",
+      "usagetype": "USE1-ETL-MemOptimized-DPU-Hour",
+      "operation": "Jobrun",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Memory optimized Data Processing Unit-Hour for AWS Glue for Ray job",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "M-DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Ray Interactive Session",
+      "usagetype": "USE1-GlueInteractiveSession-MemOptimized-DPU-Hour",
+      "operation": "GlueInteractiveSession",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Memory optimized Data Processing Unit-Hour for AWS Glue for Ray interactive sessions and job notebooks",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "M-DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Data Catalog storage global",
+      "usagetype": "Global-Catalog-Storage",
+      "operation": "Storage",
+      "regionCode": "",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0 for AWS Glue Data Catalog storage under the free tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Obj-Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ETL Job run",
+      "usagetype": "USE1-ETL-DPU-Hour",
+      "operation": "Jobrun",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0.44 per Data Processing Unit-Hour for AWS Glue ETL job",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data catalog requests",
+      "usagetype": "USE1-Catalog-Request",
+      "operation": "Request",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$1 per 1,000,000 requests for AWS Glue Data Catalog request",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data catalog storage",
+      "usagetype": "USE1-Catalog-Storage",
+      "operation": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$1 per 100,000 objects per month for AWS Glue Data Catalog storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Obj-Month",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AWS Glue",
+    "attributes": {
+      "servicecode": "AWSGlue",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Brew free interactive sessions",
+      "usagetype": "USE1-DBrew-FreeSessions",
+      "operation": "Session",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue"
+    },
+    "description": "$0 for AWS Glue DataBrew interactive sessions under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Sessions",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

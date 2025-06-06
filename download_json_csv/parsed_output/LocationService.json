@@ -1,0 +1,2463 @@
+[
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "SearchNearby",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Nearby request (Core)"
+    },
+    "description": "$0.50 per thousand Search Nearby request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Premium",
+      "operation": "CalculateRoutes",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated (Premium)"
+    },
+    "description": "$4.00 per thousand Routes calculated (Premium) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Maps-Tiles",
+      "operation": "GetTile",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tile request"
+    },
+    "description": "$0.04 per thousand Map tile request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Label",
+      "operation": "Autocomplete",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Autocomplete request (Label)"
+    },
+    "description": "$0.20 per thousand Autocomplete request (Label) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAT-Esri-Assets",
+      "operation": "",
+      "pricingplan": "MobileAssetTracking",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Asset per provider per month"
+    },
+    "description": "$1.50 per device for Mobile Asset Tracking using Esri in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "ReverseGeocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Reverse Geocode request (Advanced)"
+    },
+    "description": "$1.50 per thousand Reverse Geocode request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "Suggest",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Suggest request (Core)"
+    },
+    "description": "$0.50 per thousand Suggest request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-ReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded"
+    },
+    "description": "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resources created, read, updated, or deleted"
+    },
+    "description": "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Premium",
+      "operation": "CalculateIsolines",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Isoline calculated (Premium)"
+    },
+    "description": "$4.00 per thousand Isoline calculated (Premium) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Stored",
+      "operation": "ReverseGeocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Reverse Geocode request (Stored)"
+    },
+    "description": "$4.00 per thousand Reverse Geocode request (Stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-StoredReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded (stored results)"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resources created, read, updated, or deleted"
+    },
+    "description": "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MapTile",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tiles retrieved (vector or raster)"
+    },
+    "description": "$0.04 per thousand map tiles in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-MapTile",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tiles retrieved (vector or raster)"
+    },
+    "description": "$0.04 per thousand map tiles in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GeofenceList",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence list requests"
+    },
+    "description": "$0.05 per thousand GeofenceList requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Advanced",
+      "operation": "OptimizeWaypoints",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Optimize Waypoint request (Basic)"
+    },
+    "description": "$1.50 per thousand Optimize Waypoint request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.16 per thousand - first 250K positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "250000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0001600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.07 per thousand - next 23M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "2000000",
+    "endRange": "25000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.06 per thousand - over 25M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "25000000",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.11 per thousand - next 1.75M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "250000",
+    "endRange": "2000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0001100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-GeofenceMonth",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence-months"
+    },
+    "description": "$0.20 per thousand geofence-months in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Geofence-month",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DeviceDelete",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Devices deleted"
+    },
+    "description": "$0.05 per thousand devices deleted in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-Route",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-OpenData-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "OpenData",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resources created, read, updated, or deleted"
+    },
+    "description": "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "Autocomplete",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Autocomplete request (Core)"
+    },
+    "description": "$0.50 per thousand Autocomplete request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Advanced",
+      "operation": "SnapToRoads",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Snap to Road request (Basic)"
+    },
+    "description": "$1.50 per thousand Snap to Road request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-MapTile",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tiles retrieved (vector or raster)"
+    },
+    "description": "$0.04 per thousand map tiles in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-GeofenceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofences created, deleted or described"
+    },
+    "description": "$0.05 per thousand geofences created, read, updated, or deleted in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Geofence",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-Geocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded"
+    },
+    "description": "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionVerify",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Position integrity evaluated"
+    },
+    "description": "$1.00 per thousand position integrity evaluated in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Core",
+      "operation": "CalculateRouteMatrix",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Total routes calculated (Core)"
+    },
+    "description": "$0.50 per thousand total routes calculated from Calculate Route Matrix (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "SearchNearby",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Nearby request (Advanced)"
+    },
+    "description": "$1.50 per thousand Search Nearby request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionVerify",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Position integrity evaluated"
+    },
+    "description": "$1.00 per thousand position integrity evaluated in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Label",
+      "operation": "Suggest",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Suggest request (Label)"
+    },
+    "description": "$0.20 per thousand Suggest request (Label) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-Geocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded"
+    },
+    "description": "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-Suggest",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses Suggested"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "GetPlace",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "GetPlace request (Core)"
+    },
+    "description": "$0.50 per thousand GetPlace request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-EventForecast",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence event forecast requested"
+    },
+    "description": "$1.75 per thousand geofence event forecast requested in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0017500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "SearchText",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Text request (Advanced)"
+    },
+    "description": "$1.50 per thousand Search Text request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-StoredReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resources created, read, updated, or deleted"
+    },
+    "description": "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAM-Esri-Assets",
+      "operation": "",
+      "pricingplan": "MobileAssetManagement",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Asset per provider per month"
+    },
+    "description": "$15.00 per device for Mobile Asset Management using Esri in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionRead",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Position read requests"
+    },
+    "description": "$0.05 per thousand PositionRead requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-StoredGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionRead",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Position read requests"
+    },
+    "description": "$0.05 per thousand PositionRead requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-Route",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated"
+    },
+    "description": "$0.50 per thousand routes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "Suggest",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Suggest request (Advanced)"
+    },
+    "description": "$1.50 per thousand Suggest request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Maps-Core",
+      "operation": "GetStaticMap",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Static map request"
+    },
+    "description": "$0.50 per thousand Static map request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAM-Here-Transaction",
+      "operation": "",
+      "pricingplan": "MobileAssetManagement",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Additional transactions"
+    },
+    "description": "$0.06 per thousand transactions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Transaction",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-Suggest",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses Suggested"
+    },
+    "description": "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-StoredReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-Route",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated"
+    },
+    "description": "$0.50 per thousand routes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Here-ReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded"
+    },
+    "description": "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "GetPlace",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "GetPlace request (Advanced)"
+    },
+    "description": "$1.50 per thousand GetPlace request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Stored",
+      "operation": "Geocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Geocode request (Stored)"
+    },
+    "description": "$4.00 per thousand Geocode request (Stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-OpenData-MapTile",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "OpenData",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tiles retrieved (vector or raster)"
+    },
+    "description": "$0.035 per thousand map tiles in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000350000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GeofenceMonth",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence-months"
+    },
+    "description": "$0.20 per thousand geofence-months in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Geofence-month",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StoredReverseGeocode",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand positions reverse geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Suggest",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses Suggested"
+    },
+    "description": "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAT-Here-Transaction",
+      "operation": "",
+      "pricingplan": "MobileAssetTracking",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Additional transactions"
+    },
+    "description": "$0.06 per thousand transactions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Transaction",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resource create, read, update, delete"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "SearchText",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Text request (Core)"
+    },
+    "description": "$0.50 per thousand Search Text request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAT-Here-Assets",
+      "operation": "",
+      "pricingplan": "MobileAssetTracking",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Asset per provider per month"
+    },
+    "description": "$1.50 per device for Mobile Asset Tracking using HERE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAM-Here-Assets",
+      "operation": "",
+      "pricingplan": "MobileAssetManagement",
+      "provider": "HERE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Asset per provider per month"
+    },
+    "description": "$15.00 per device for Mobile Asset Management using HERE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EventForecast",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence event forecast requested"
+    },
+    "description": "$1.75 per thousand geofence event forecast requested in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0017500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Advanced",
+      "operation": "CalculateRoutes",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated (Advanced)"
+    },
+    "description": "$1.50 per thousand Routes calculated (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAM-Esri-Transaction",
+      "operation": "",
+      "pricingplan": "MobileAssetManagement",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Additional transactions"
+    },
+    "description": "$0.06 per thousand transactions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Transaction",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionWrite",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.025 per thousand - next 45M positions written in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "50000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionWrite",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.0125 per thousand - over 50M positions written in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000125000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionWrite",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.035 per thousand - next 4.5M positions written in US East (N. Virginia)",
+    "beginRange": "500000",
+    "endRange": "5000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000350000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PositionWrite",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.05 per thousand - first 500K positions written in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "500000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Stored",
+      "operation": "SearchText",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Text request (Stored)"
+    },
+    "description": "$4.00 per thousand Search Text request (Stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.06 per thousand - over 25M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "25000000",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.07 per thousand - next 23M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "2000000",
+    "endRange": "25000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.16 per thousand - first 250K positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "250000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0001600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionEvaluation",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Positions evaluated"
+    },
+    "description": "$0.11 per thousand - next 1.75M positions evaluated against a geofence collection in US East (N. Virginia)",
+    "beginRange": "250000",
+    "endRange": "2000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0001100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StoredGeocode",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Advanced",
+      "operation": "CalculateRouteMatrix",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Total routes calculated (Advanced)"
+    },
+    "description": "$1.50 per thousand total routes calculated from Calculate Route Matrix (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MAT-Esri-Transaction",
+      "operation": "",
+      "pricingplan": "MobileAssetTracking",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "All",
+      "type": "Additional transactions"
+    },
+    "description": "$0.06 per thousand transactions in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Transaction",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "ReverseGeocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Reverse Geocode request (Core)"
+    },
+    "description": "$0.50 per thousand Reverse Geocode request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Advanced",
+      "operation": "Geocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Geocode request (Advanced)"
+    },
+    "description": "$1.50 per thousand Geocode request (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GeofenceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofences created, deleted or described"
+    },
+    "description": "$0.05 per thousand geofences created, read, updated, or deleted in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Geofence",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-ReverseGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Premium",
+      "operation": "SnapToRoads",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Snap to Road request (Premium)"
+    },
+    "description": "$4.00 per thousand Snap to Road request (Premium) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-Suggest",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses Suggested"
+    },
+    "description": "$0.20 per thousand addresses suggested in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Stored",
+      "operation": "GetPlace",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "GetPlace request (Stored)"
+    },
+    "description": "$4.00 per thousand GetPlace request (Stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Advanced",
+      "operation": "CalculateIsolines",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Isoline calculated (Basic)"
+    },
+    "description": "$1.50 per thousand Isoline calculated (Advanced) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-DeviceDelete",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Devices deleted"
+    },
+    "description": "$0.05 per thousand devices deleted in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Geocode",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded"
+    },
+    "description": "$0.50 per thousand addresses geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Stored",
+      "operation": "SearchNearby",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Search Nearby request (Stored)"
+    },
+    "description": "$4.00 per thousand Search Nearby request (Stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Esri-StoredGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Esri",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded (stored results)"
+    },
+    "description": "$4.00 per thousand addresses geocoded (results stored) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionWrite",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.0125 per thousand - over 50M positions written in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000125000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionWrite",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.025 per thousand - next 45M positions written in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "50000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionWrite",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.035 per thousand - next 4.5M positions written in US East (N. Virginia)",
+    "beginRange": "500000",
+    "endRange": "5000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000350000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-PositionWrite",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Tracking",
+      "type": "Positions written"
+    },
+    "description": "$0.05 per thousand - first 500K positions written in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "500000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ResourceList",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resource list requests"
+    },
+    "description": "$0.01 per thousand resource list requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Core",
+      "operation": "CalculateRoutes",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated (Core)"
+    },
+    "description": "$0.50 per thousand Routes calculated (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-StoredGeocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded (stored results)"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Route",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Routes calculated"
+    },
+    "description": "$0.50 per thousand routes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Places-Core",
+      "operation": "Geocode",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Geocode request (Core)"
+    },
+    "description": "$0.50 per thousand Geocode request (Core) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ReverseGeocode",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Positions reverse-geocoded"
+    },
+    "description": "$0.50 per thousand positions reverse geocoded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-MapTile",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Maps",
+      "type": "Map tiles retrieved (vector or raster)"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Map Tile",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Grab-Geocode",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Grab",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Places",
+      "type": "Addresses geocoded"
+    },
+    "description": "ERROR! Please Contact AWS Support Immediately: support.console.aws.amazon.com",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Address",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Default-Routes-Premium",
+      "operation": "OptimizeWaypoints",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "Default",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Routing",
+      "type": "Optimize Waypoint request (Premium)"
+    },
+    "description": "$4.00 per thousand Optimize Waypoint request (Premium) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Route",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-GeofenceList",
+      "operation": "",
+      "pricingplan": "RequestBasedUsage",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Geofencing",
+      "type": "Geofence list requests"
+    },
+    "description": "$0.05 per thousand GeofenceList requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AmazonLocationService",
+    "attributes": {
+      "servicecode": "AmazonLocationService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ResourceCreateReadUpdateDelete",
+      "operation": "",
+      "pricingplan": "None",
+      "provider": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Location Service",
+      "subservice": "Service Resources",
+      "type": "Resources created, read, updated, or deleted"
+    },
+    "description": "$0.01 per thousand resource create, read, update, or delete requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  }
+]

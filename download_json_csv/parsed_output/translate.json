@@ -1,0 +1,109 @@
+[
+  {
+    "productFamily": "Text Translation",
+    "attributes": {
+      "servicecode": "translate",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TextTranslationJob",
+      "operation": "TextTranslationJob",
+      "inputMode": "Text",
+      "outputMode": "Text",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Translate"
+    },
+    "description": "$0.000015 per Character for TextTranslationJob:TextTranslationJob in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Character",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Text Translation",
+    "attributes": {
+      "servicecode": "translate",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranslateDocument-Office",
+      "operation": "TranslateDocument",
+      "filetype": "Office",
+      "inputMode": "Text",
+      "outputMode": "Text",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Translate"
+    },
+    "description": "$0.000030 per Character for TranslateDocument:TranslateDocument in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Character",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  },
+  {
+    "productFamily": "Text Translation",
+    "attributes": {
+      "servicecode": "translate",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranslateDocument",
+      "operation": "TranslateDocument",
+      "filetype": "Basic",
+      "inputMode": "Text",
+      "outputMode": "Text",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Translate"
+    },
+    "description": "$0.000015 per Character for TranslateDocument:TranslateDocument in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Character",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Text Translation",
+    "attributes": {
+      "servicecode": "translate",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranslateText",
+      "operation": "TranslateText",
+      "inputMode": "Text",
+      "outputMode": "Text",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Translate"
+    },
+    "description": "Processed translation request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Character",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Text Translation",
+    "attributes": {
+      "servicecode": "translate",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ActiveCustomTranslationJob",
+      "operation": "ActiveCustomTranslationJob",
+      "inputMode": "Text",
+      "outputMode": "Text",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Translate"
+    },
+    "description": "$0.00006 per Character for ActiveCustomTranslationJob:ActiveCustomTranslationJob in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Character",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  }
+]

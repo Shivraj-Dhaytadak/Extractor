@@ -1,0 +1,550 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-SBE-compute-Service-Ship",
+      "operation": "",
+      "1yearPrice": "29200",
+      "3yearPrice": "60225",
+      "deviceDescription": "Snowball Edge Compute Optimized with EC2 Compute Instances",
+      "extraDayFee": "125",
+      "freeDays": "10",
+      "jobFee": "1250",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "Snowball Edge Compute Optimized Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Jobs",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowball-Edge-Service-Ship",
+      "operation": "",
+      "deviceDescription": "Snowball Edge Storage Optimized Data Transfer Only",
+      "extraDayFee": "30",
+      "freeDays": "10",
+      "jobFee": "300",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowball Edge SO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge"
+    },
+    "description": "Snowball Edge Storage Optimized Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-SO-V35S-Service-Ship",
+      "operation": "",
+      "deviceDescription": "Snowball Edge Storage Optimized 210TB - Data Transfer Only",
+      "extraDayFee": "250",
+      "freeDays": "15",
+      "jobFee": "3200",
+      "jobnshipp": "Monthly",
+      "platosnowballtype": "Snowball Edge SO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge_V3_5S"
+    },
+    "description": "Snowball Edge Storage Optimized 210TB Service and Ship Fee - Us-east-1 - N.Vriginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-Monthly-Rental",
+      "operation": "",
+      "jobnshipp": "Monthly",
+      "platosnowballtype": "Snowcone",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Snowcone"
+    },
+    "description": "$150 per Job per month for Snowcone",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "150.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-Service-Ship",
+      "operation": "",
+      "deviceDescription": "Snowcone",
+      "extraDayFee": "6",
+      "freeDays": "5",
+      "jobFee": "60",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowcone",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Snowcone"
+    },
+    "description": "Snowcone Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-CO-104vCPU-MonthlyFee",
+      "operation": "",
+      "jobnshipp": "Monthly_104",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "$5,038 per Job per month for Snowball Edge Compute Optimized with 104 vCPU",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "5038.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-CO-104vCPU-1YearFee",
+      "operation": "",
+      "jobnshipp": "Yearly_104",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "$37,960 per Job per year for Snowball Edge Compute Optimized with 104 vCPU",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "37960.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-SO-V35S-1YearFee",
+      "operation": "",
+      "deviceDescription": "Snowball Edge Storage Optimized 210TB-Yearly",
+      "extraDayFee": "0",
+      "freeDays": "0",
+      "jobFee": "97268",
+      "jobnshipp": "Annual",
+      "platosnowballtype": "Snowball Edge SO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge_V3_5S"
+    },
+    "description": "$97268 per job per year Snowball Edge Storage Optimized 210TB  - Us-east-1 - N.Vriginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "97268.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-S3SnowEdgeCompute-MonthlyFee",
+      "operation": "",
+      "jobnshipp": "Monthly",
+      "platosnowballtype": "does not apply",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "does not apply"
+    },
+    "description": "$0.01 per GB per month for S3 compatible storage on Snow",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-SSD-Service-Ship",
+      "operation": "",
+      "jobnshipp": "Separate",
+      "platosnowballtype": "Snowcone",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Snowcone SSD"
+    },
+    "description": "Snowcone SSD Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-SBE-EC2-Service-Ship",
+      "operation": "",
+      "1yearPrice": "15330",
+      "3yearPrice": "38325",
+      "deviceDescription": "Snowball Edge Storage Optimized with EC2 Compute Instances",
+      "extraDayFee": "50",
+      "freeDays": "10",
+      "jobFee": "500",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge with EC2"
+    },
+    "description": "Snowball Edge Storage Optimized with EC2 Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "group": "Data Transfer",
+      "groupDescription": "Snowball Data Transfer Charge",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "Snowball-Data-Transfer-Charge",
+      "operation": "",
+      "fromRegionCode": "us-east-1",
+      "platosnowballtype": "Snowball Edge SO",
+      "servicename": "AWS Import/Export Snowball",
+      "toRegionCode": ""
+    },
+    "description": "Snowball Service Data Export Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-SO-V35S-MonthlyFee",
+      "operation": "",
+      "deviceDescription": "Snowball Edge Storage Optimized 210TB-Monthly",
+      "extraDayFee": "0",
+      "freeDays": "0",
+      "jobFee": "9885",
+      "jobnshipp": "MonthlyE_104",
+      "platosnowballtype": "Snowball Edge SO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge_V3_5S"
+    },
+    "description": "$9885 per job per month for Snowball Edge Storage Optimized 210TB - Us-east-1 - N.Vriginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "9885.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Snowball-Service-Fee-N-Shipping",
+      "operation": "",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowball Edge SO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Standard"
+    },
+    "description": "Snowball Service and Ship Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-CO-52vCPU-MonthlyFee",
+      "operation": "",
+      "jobnshipp": "Monthly_52",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "$3,875 per Job per month for Snowball Edge Compute Optimized with 52 vCPU",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "3875.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-Storage-ReplaceJobFee",
+      "operation": "",
+      "jobFee": "500",
+      "jobnshipp": "Replacement",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge with EC2"
+    },
+    "description": "Replacement job fee for Snowball Edge Storage Optimized with EC2",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Jobs",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-CO-52vCPU-1YearFee",
+      "operation": "",
+      "jobnshipp": "Yearly_52",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "$29,200 per Job per year for Snowball Edge Compute Optimized with 52 vCPU",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "29200.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-SSD-Monthly-Rental",
+      "operation": "",
+      "jobnshipp": "Monthly",
+      "platosnowballtype": "Snowcone",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Snowcone SSD"
+    },
+    "description": "$400 per Job per month for Snowcone SSD",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "400.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-SO-Service-Ship-100TB",
+      "operation": "",
+      "deviceDescription": "Snowball Edge Storage Optimized up to 100TB Data Transfer",
+      "extraDayFee": "250",
+      "freeDays": "15",
+      "jobFee": "1800",
+      "jobnshipp": "Combined",
+      "platosnowballtype": "Snowball Edge SO - 210TB",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "Edge_V3_5S"
+    },
+    "description": "Snowball Edge Storage Optimized up to 100TB Service and Ship Fee-us-east-1-iAD",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "job",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-S3SnowEdgeCompute-1YearFee",
+      "operation": "",
+      "jobnshipp": "Annual",
+      "platosnowballtype": "does not apply",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "does not apply"
+    },
+    "description": "$0.12 per GB per year for S3 compatible storage on Snow",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1200000000"
+    }
+  },
+  {
+    "productFamily": "Snowball Device",
+    "attributes": {
+      "servicecode": "IngestionServiceSnowball",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Service and Shipping",
+      "groupDescription": "Snowball Service Fee per Job and Shipping",
+      "usagetype": "IAD-SBE-Compute-ReplaceJobFee",
+      "operation": "",
+      "jobFee": "1250",
+      "jobnshipp": "Replacement",
+      "platosnowballtype": "Snowball Edge CO",
+      "regionCode": "us-east-1",
+      "releaseType": "Full Launch",
+      "servicename": "AWS Import/Export Snowball",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "Replacement job fee for Snowball Edge Compute Optimized",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Jobs",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  }
+]

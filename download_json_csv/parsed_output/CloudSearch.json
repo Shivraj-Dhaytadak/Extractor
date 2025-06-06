@@ -1,0 +1,846 @@
+[
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.large",
+      "usagetype": "SearchInstance:search.previousgeneration.large",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.236 per search.previousgeneration.large instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2360000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m1.small",
+      "usagetype": "SearchInstance:m1.small",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.m1.small instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.2xlarge",
+      "usagetype": "SearchInstance:search.previousgeneration.2xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.613 per search.previousgeneration.2xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6130000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DocumentBatchUpload",
+      "groupDescription": "Document batches uploaded to your search domain",
+      "usagetype": "DocumentBatchUpload",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.10 per 1000 document batch upload requests running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.large",
+      "usagetype": "SearchInstance:search.large",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.188 per search.large instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1880000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.4xlarge",
+      "usagetype": "SearchInstance:m2.4xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$1.225 per search.m2.4xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2250000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.large",
+      "usagetype": "SearchInstance:m3.large",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.188 per search.m3.large instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1880000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DocumentBatchUpload",
+      "groupDescription": "Document batches uploaded to your search domain",
+      "usagetype": "DocumentBatchUpload",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.10 per 1000 document batch upload requests running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.xlarge",
+      "usagetype": "SearchInstance:search.previousgeneration.xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.306 per search.previousgeneration.xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3060000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IndexDocuments",
+      "groupDescription": "IndexDocuments request to rebuild the index",
+      "usagetype": "IndexDocuments",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.98 per GB processed by IndexDocuments requests running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9800000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.medium",
+      "usagetype": "SearchInstance:search.medium",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.094 per search.medium instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0940000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.xlarge",
+      "usagetype": "SearchInstance:m3.xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.376 per search.m3.xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3760000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.small",
+      "usagetype": "SearchInstance:search.previousgeneration.small",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.previousgeneration.small instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.2xlarge",
+      "usagetype": "SearchInstance:m2.2xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.613 per search.m2.2xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6130000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.2xlarge",
+      "usagetype": "SearchInstance:search.2xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.752 per search.2xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7520000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.xlarge",
+      "usagetype": "SearchInstance:m2.xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.306 per search.m2.xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3060000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m1.large",
+      "usagetype": "SearchInstance:m1.large",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.236 per search.m1.large instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2360000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.xlarge",
+      "usagetype": "SearchInstance:m2.xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.306 per search.m2.xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3060000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m1.small",
+      "usagetype": "SearchInstance:m1.small",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.m1.small instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.large",
+      "usagetype": "SearchInstance:m3.large",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.188 per search.m3.large instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1880000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m1.large",
+      "usagetype": "SearchInstance:m1.large",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.236 per search.m1.large instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2360000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.small",
+      "usagetype": "SearchInstance:search.previousgeneration.small",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.previousgeneration.small instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.2xlarge",
+      "usagetype": "SearchInstance:m2.2xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.613 per search.m2.2xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6130000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.small",
+      "usagetype": "SearchInstance:search.small",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.small instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.xlarge",
+      "usagetype": "SearchInstance:search.previousgeneration.xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.306 per search.previousgeneration.xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3060000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.xlarge",
+      "usagetype": "SearchInstance:m3.xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.376 per search.m3.xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3760000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.large",
+      "usagetype": "SearchInstance:search.previousgeneration.large",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.236 per search.previousgeneration.large instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2360000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.xlarge",
+      "usagetype": "SearchInstance:search.xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.376 per search.xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3760000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.medium",
+      "usagetype": "SearchInstance:m3.medium",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.094 per search.m3.medium instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0940000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.xlarge",
+      "usagetype": "SearchInstance:search.xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.376 per search.xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3760000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.medium",
+      "usagetype": "SearchInstance:m3.medium",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.094 per search.m3.medium instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0940000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m2.4xlarge",
+      "usagetype": "SearchInstance:m2.4xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$1.225 per search.m2.4xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2250000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IndexDocuments",
+      "groupDescription": "IndexDocuments request to rebuild the index",
+      "usagetype": "IndexDocuments",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.98 per GB processed by IndexDocuments requests running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9800000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.2xlarge",
+      "usagetype": "SearchInstance:search.2xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.752 per search.2xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7520000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.2xlarge",
+      "usagetype": "SearchInstance:m3.2xlarge",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.752 per search.m3.2xlarge instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7520000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.small",
+      "usagetype": "SearchInstance:search.small",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.059 per search.small instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0590000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.medium",
+      "usagetype": "SearchInstance:search.medium",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.094 per search.medium instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0940000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "m3.2xlarge",
+      "usagetype": "SearchInstance:m3.2xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.752 per search.m3.2xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7520000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.large",
+      "usagetype": "SearchInstance:search.large",
+      "operation": "CSDomain:001",
+      "cloudSearchVersion": "2011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.188 per search.large instance-hour (or partial hour) running CloudSearch 2011",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1880000000"
+    }
+  },
+  {
+    "productFamily": "Search Instance",
+    "attributes": {
+      "servicecode": "AmazonCloudSearch",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "search.previousgeneration.2xlarge",
+      "usagetype": "SearchInstance:search.previousgeneration.2xlarge",
+      "operation": "CSDomain:002",
+      "cloudSearchVersion": "2013",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudSearch"
+    },
+    "description": "$0.613 per search.previousgeneration.2xlarge instance-hour (or partial hour) running CloudSearch 2013",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6130000000"
+    }
+  }
+]

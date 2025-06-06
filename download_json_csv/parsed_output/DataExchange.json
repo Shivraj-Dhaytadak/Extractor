@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AWSDataExchange",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "volumeType": "Standard",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Exchange"
+    },
+    "description": "USD 0.023 per GB - storage/month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "AWS Data Exchange",
+    "attributes": {
+      "servicecode": "AWSDataExchange",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedActiveDataGrant-Hrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Exchange"
+    },
+    "description": "$.04167 per Active Data Grant/hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DataGrant-Hr",
+    "pricePerUnit": {
+      "USD": "0.0416700000"
+    }
+  }
+]

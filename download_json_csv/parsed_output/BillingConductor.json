@@ -1,0 +1,145 @@
+[
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Free-Proforma-Accounts",
+      "operation": "accounts-computed",
+      "accounts": "free-proforma-accounts",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$0.00 for accounts within a proforma billing group during free trial",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Accounts",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ABC- Pro Forma Billing Records",
+      "groupDescription": "ABC- Pro forma Billing Records",
+      "usagetype": "USE1-ProFormaBillingRecords",
+      "operation": "records-computed",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$0.00 per Pro forma billing record generated",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ABC- Pro Forma Billing Records",
+      "groupDescription": "ABC- Pro forma Billing Records",
+      "usagetype": "USE1-ProFormaBillingRecords",
+      "operation": "records-computed",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$0.15 per 1,000 Pro forma billing records generated",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ABC-Custom Line Items",
+      "groupDescription": "ABC- Custom Line Items",
+      "usagetype": "USE1-CustomLineItems",
+      "operation": "line-item-created",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$0.00 per custom line item generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Proforma-Accounts",
+      "operation": "accounts-computed",
+      "accounts": "proforma-accounts",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$8.25 per month for each account within a proforma billing group for the first 500 accounts",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "Accounts",
+    "pricePerUnit": {
+      "USD": "8.2500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Proforma-Accounts",
+      "operation": "accounts-computed",
+      "accounts": "proforma-accounts",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$6.75 per month for each account within a proforma billing group for the next 1500 accounts",
+    "beginRange": "500",
+    "endRange": "2000",
+    "unit": "Accounts",
+    "pricePerUnit": {
+      "USD": "6.7500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Billing Conductor",
+    "attributes": {
+      "servicecode": "AWSBillingConductor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Proforma-Accounts",
+      "operation": "accounts-computed",
+      "accounts": "proforma-accounts",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Billing Conductor"
+    },
+    "description": "$5.25 per month for each account within a proforma billing group beyond 2000 accounts",
+    "beginRange": "2000",
+    "endRange": "Inf",
+    "unit": "Accounts",
+    "pricePerUnit": {
+      "USD": "5.2500000000"
+    }
+  }
+]

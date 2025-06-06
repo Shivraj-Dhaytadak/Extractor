@@ -1,0 +1,128 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Training",
+      "groupDescription": "Hourly cost for training",
+      "usagetype": "Global-Training-Hours-L4E",
+      "operation": "Training",
+      "regionCode": "",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.00 per hour of training",
+    "beginRange": "0",
+    "endRange": "250",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Ingestion",
+      "groupDescription": "One time charge per GB",
+      "usagetype": "Global-Ingestion-GB-L4E",
+      "operation": "Ingestion",
+      "regionCode": "",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.00 per GB ingested",
+    "beginRange": "0",
+    "endRange": "50",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Inference",
+      "groupDescription": "hourly cost for inferencing",
+      "usagetype": "Global-Inference-Hours-L4E",
+      "operation": "Scheduled-Inference",
+      "regionCode": "",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.00 per hour of scheduled inference",
+    "beginRange": "0",
+    "endRange": "168",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Training",
+      "groupDescription": "Hourly cost for training",
+      "usagetype": "USE1-Training-Hours-L4E",
+      "operation": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.24 per hour of training",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2400000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Inference",
+      "groupDescription": "hourly cost for inferencing",
+      "usagetype": "USE1-Inference-Hours-L4E",
+      "operation": "Scheduled-Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.25 per hour of scheduled inference",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutEquipment",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Ingestion",
+      "groupDescription": "One time charge per GB",
+      "usagetype": "USE1-Ingestion-GB-L4E",
+      "operation": "Ingestion",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Equipment"
+    },
+    "description": "$0.20 per GB ingested",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Traces Retrieved",
+      "groupDescription": "Number of X-Ray traces accessed and retrieved from the AWS X-Ray service",
+      "usagetype": "USE1-XRay-TracesAccessed",
+      "operation": "XRay-Traces-Retrieved",
+      "regionCode": "us-east-1",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Total Traces Accessed - US East (North Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "traces",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Traces Stored",
+      "groupDescription": "Number of X-Ray traces stored in the AWS X-Ray service",
+      "usagetype": "USE1-XRay-TracesStored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Total Traces Stored - US East (North Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "traces",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Traces Accessed",
+      "groupDescription": "Number of X-Ray traces accessed from the AWS X-Ray service",
+      "usagetype": "Global-XRay-TracesAccessed",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Traces Accessed Free Tier - 1,000,000 traces",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "traces",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Traces Stored Insights",
+      "groupDescription": "Number of X-Ray insights traces stored in the AWS X-Ray service",
+      "usagetype": "USE1-XRay-InsightsTracesStored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Total Insights Traces Processed - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Traces",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Traces Stored",
+      "groupDescription": "Number of X-Ray traces stored in the AWS X-Ray service",
+      "usagetype": "Global-XRay-TracesStored",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Traces Stored Free Tier - 100,000 traces",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Traces",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSXRay",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Traces Scanned",
+      "groupDescription": "Number of X-Ray traces accessed and scanned from the AWS X-Ray service",
+      "usagetype": "USE1-XRay-TracesAccessed",
+      "operation": "XRay-Traces-Scanned",
+      "regionCode": "us-east-1",
+      "servicename": "AWS X-Ray"
+    },
+    "description": "AWS X-Ray - Total Traces Accessed - US East (North Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "traces",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  }
+]

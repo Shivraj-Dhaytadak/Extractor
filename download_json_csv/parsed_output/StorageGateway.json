@@ -1,0 +1,176 @@
+[
+  {
+    "productFamily": "StorageGateway-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-TapeGlacierRetrieval",
+      "feeDescription": "Fee for retrieving virtual tape from Glacier",
+      "usagetype": "USE1-Retrieval-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "version": "Current"
+    },
+    "description": "$0.01 per GB virtual tape retrieval fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Instance",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeDescription": "Fixed fee for every hour or partial hour that your accelerator runs",
+      "usagetype": "USE1-Gateway-Hrs",
+      "operation": "FileFSxWindowsGatewaySoftware",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway"
+    },
+    "description": "$0.69 per hours for Gateway-Hrs:FileFSxWindowsGatewaySoftware in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.6900000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-TapeEarlyDeleteFee",
+      "feeDescription": "Pro-rated fee for deleting an archived virtual tape prior to 90 days",
+      "usagetype": "Gateway:VTS-EarlyDelete",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "version": "Current"
+    },
+    "description": "$0.0036 per GB-month virtual tape early deletion fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0036000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Storage",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Glacier",
+      "usagetype": "Gateway:VTS-Storage",
+      "operation": "",
+      "maximumCapacity": "2.5 TB",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "storageDescription": "Virtual Tape in Library"
+    },
+    "description": "$0.0036 per GB-month of archived virtual tape storage used",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0036000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Storage",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Standard",
+      "usagetype": "Gateway:VTL-Storage",
+      "operation": "",
+      "maximumCapacity": "2.5 TB",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "storageDescription": "Virtual Tape in Library"
+    },
+    "description": "$0.023 per GB-month of virtual tape storage used",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-UploadedBytes",
+      "feeDescription": "Fee for uploaded bytes into Storage Gateway",
+      "usagetype": "USE1-Uploaded-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "version": "Current"
+    },
+    "description": "$0.01 per GB - first 12.2 TB / month data written by your gateway to AWS storage",
+    "beginRange": "0",
+    "endRange": "12500",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-UploadedBytes",
+      "feeDescription": "Fee for uploaded bytes into Storage Gateway",
+      "usagetype": "USE1-Uploaded-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "version": "Current"
+    },
+    "description": "$0.00 per GB - data written by your gateway to AWS storage / month over 12.2 TB",
+    "beginRange": "12500",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Storage",
+    "attributes": {
+      "servicecode": "AWSStorageGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Standard",
+      "usagetype": "Gateway:VolumeUsage",
+      "operation": "",
+      "maximumCapacity": "32 TB",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway",
+      "storageDescription": "Volume - Cached"
+    },
+    "description": "$0.023 per GB-month of volume storage used",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  }
+]

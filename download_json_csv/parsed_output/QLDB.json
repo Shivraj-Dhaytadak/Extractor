@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "QLDB Storage",
+    "attributes": {
+      "servicecode": "AmazonQLDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Indexed-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Quantum Ledger Database",
+      "storageType": "Indexed Storage"
+    },
+    "description": "$0.250 per GB-month for indexed storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "QLDB IOs",
+    "attributes": {
+      "servicecode": "AmazonQLDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Write-IO-Request",
+      "operation": "",
+      "ioRequestType": "Write I/O Request",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Quantum Ledger Database"
+    },
+    "description": "$0.700 per million write IO requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOs",
+    "pricePerUnit": {
+      "USD": "0.0000007000"
+    }
+  },
+  {
+    "productFamily": "QLDB Storage",
+    "attributes": {
+      "servicecode": "AmazonQLDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Journal-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Quantum Ledger Database",
+      "storageType": "Journal Storage"
+    },
+    "description": "$0.030 per GB-month for journal storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "QLDB IOs",
+    "attributes": {
+      "servicecode": "AmazonQLDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Read-IO-Request",
+      "operation": "",
+      "ioRequestType": "Read I/O Request",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Quantum Ledger Database"
+    },
+    "description": "$0.136 per million read IO requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOs",
+    "pricePerUnit": {
+      "USD": "0.0000001360"
+    }
+  }
+]

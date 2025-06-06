@@ -1,0 +1,167 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MCS-TTL",
+      "groupDescription": "Time to Live",
+      "usagetype": "USE1-TTLDeletes",
+      "operation": "TimeToLiveDelete",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.2750 per million TTL deletes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TTLDeletes",
+    "pricePerUnit": {
+      "USD": "0.0000002750"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "AmazonMCS - Indexed DataStore",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.25 per GB-Month of storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MCS-WriteUnits",
+      "groupDescription": "Provisioned Write Units",
+      "usagetype": "WriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.0006500 per hour per unit of provisioned write capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "WriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0006500000"
+    }
+  },
+  {
+    "productFamily": "PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MCS-ReadUnits",
+      "groupDescription": "PayPerRequest Read Request Units",
+      "usagetype": "ReadRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.125 per million read request units in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReadRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000001250"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Backup Restore Size",
+      "usagetype": "USE1-RestoreDataSize-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.15 per GB of data restored in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MCS-WriteUnits",
+      "groupDescription": "MCS PayPerRequest Write Request Units",
+      "usagetype": "WriteRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.6250 per million write request units in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "WriteRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000006250"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MCS-ReadUnits",
+      "groupDescription": "Provisioned Read Units",
+      "usagetype": "ReadCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.0001300 per hour per unit of provisioned read capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReadCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0001300000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Point-In-Time-Restore (PITR) Backup Storage",
+      "usagetype": "USE1-TimedPITRStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Keyspaces (for Apache Cassandra)"
+    },
+    "description": "$0.20 per GB-Month of storage used for PITR backup in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  }
+]

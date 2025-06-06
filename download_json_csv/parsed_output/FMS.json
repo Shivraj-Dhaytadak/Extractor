@@ -1,0 +1,275 @@
+[
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Security-Group",
+      "operation": "Usage-Audit",
+      "awsresource": "FMS-SG-UsageAudit",
+      "platoprotectionpolicytype": "Policy-Security-Group",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Security-Group:Usage-Audit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Network-Firewall",
+      "operation": "Network-Firewall",
+      "awsresource": "FMS-Network-Firewall",
+      "platoprotectionpolicytype": "Policy-Network-Firewall",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100 per Month for Policy-Network-Firewall:Network-Firewall in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-WAF",
+      "operation": "WAF",
+      "awsresource": "WAF",
+      "platoprotectionpolicytype": "Policy-WAF",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-WAF:WAF in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Network-Acl-Common",
+      "operation": "Network-Acl-Common",
+      "awsresource": "FMS-NACL-Common",
+      "platoprotectionpolicytype": "Policy-NACL",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Network-ACL:Common in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-DNS-Firewall",
+      "operation": "DNS-Firewall",
+      "awsresource": "FMS-DNSFirewall",
+      "platoprotectionpolicytype": "Policy-DNS-Firewall",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100 per Months for Policy-DNS-Firewall:DNS-Firewall in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Months",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Fortinet",
+      "operation": "Fortinet",
+      "awsresource": "FMS-Fortinet",
+      "platoprotectionpolicytype": "Policy-Fortinet",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Fortinet:Fortinet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Import-Network-Firewall",
+      "operation": "Import-Network-Firewall",
+      "awsresource": "FMS-NFW-Import-Policy",
+      "platoprotectionpolicytype": "Policy-Network-Firewall",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Import-Network-Firewall:Import-Network-Firewall in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Shield",
+      "operation": "Shield",
+      "awsresource": "FMS",
+      "platoprotectionpolicytype": "Policy-Shield",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Shield:Shield in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-PaloAlto",
+      "operation": "PaloAlto",
+      "awsresource": "FMS-PaloAlto",
+      "platoprotectionpolicytype": "Policy-PaloAlto",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Months for Policy-PaloAlto:PaloAlto in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Months",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy",
+      "operation": "",
+      "awsresource": "ElasticLoadBalancing",
+      "platoprotectionpolicytype": "Policy",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "Firewall Manager Policy in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-WAF",
+      "operation": "WAFv2",
+      "awsresource": "FIrewallManagerPolicy",
+      "platoprotectionpolicytype": "Policy-WAF",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-WAF:WAFv2 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Security-Group",
+      "operation": "Common",
+      "awsresource": "FMS-SG-Common",
+      "platoprotectionpolicytype": "Policy-Security-Group",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Security-Group:Common in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Firewall Manager Policy",
+    "attributes": {
+      "servicecode": "AWSFMS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Policy-Security-Group",
+      "operation": "Content-Audit",
+      "awsresource": "FMS-SG-ContentAudit",
+      "platoprotectionpolicytype": "Policy-Security-Group",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Firewall Manager"
+    },
+    "description": "$100.0 per Month for Policy-Security-Group:Content-Audit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  }
+]

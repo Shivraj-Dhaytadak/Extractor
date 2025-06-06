@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSCostExplorer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APIRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "requestType": "Reporting",
+      "servicename": "AWS Cost Explorer"
+    },
+    "description": "$0.01 per API Request",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AWSCostExplorer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CostDataStorage",
+      "operation": "CostDataStorage",
+      "granularity": "All",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cost Explorer"
+    },
+    "description": "$0.01 per 1,000 UsageRecord-month of stored Granular Cost Data Usage-records",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsageRecord-month",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnector-RetrieveBytes",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "Retrieve-Bytes",
+      "execution": "Data-Transfer",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.40 USD per GB retrieved over SFTP to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.4000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "FTP:EFS",
+      "data": "FTP-None-EFS",
+      "endpoint": "FTP-Hours-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for FTP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "SFTP:EFS",
+      "data": "SFTP-Download-EFS",
+      "endpoint": "SFTP-None-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over SFTP from EFS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "SFTP:EFS",
+      "data": "SFTP-None-EFS",
+      "endpoint": "SFTP-Hours-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for SFTP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "FTPS:EFS",
+      "data": "FTPS-None",
+      "endpoint": "FTPS-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over FTPS to EFS in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "FTP:S3",
+      "data": "PGP-Decrypt-S3",
+      "endpoint": "FTP-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer for SFTP",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DOWNLOAD",
+      "operation": "",
+      "data": "SFTP-DATA-DOWNLOADS",
+      "endpoint": "SFTP-NONE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GB - SFTP Data Download fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-StartRemoteDelete",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-RemoteDelete",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.001 per connector call for ConnectorCall-RemoteDelete in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InboundLargeMessages",
+      "operation": "AS2-HTTP:S3",
+      "data": "AS2-Inbound-Large-Messages",
+      "endpoint": "AS2-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.01 per 50 MB chunk for receiving large messages over AS2-HTTP to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Message",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnector-SendBytes",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "Send-Bytes",
+      "execution": "Data-Transfer",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.40 USD per GB sent over SFTP from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.4000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-OutboundLargeMessages",
+      "operation": "AS2-HTTP:S3",
+      "data": "AS2-Outbound-Large-Messages",
+      "endpoint": "AS2-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.01 per 50 MB chunk for sending large messages over AS2-HTTP from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Message",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "FTPS:S3",
+      "data": "FTPS-None",
+      "endpoint": "FTPS-Protocol-Hours",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for FTPS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-StartDirectoryListing",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-DirectoryListing",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.001 USD per connector call for directory listing in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "FTP:EFS",
+      "data": "PGP-Decrypt-EFS",
+      "endpoint": "FTP-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-SendFilePath",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-SendFile",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.001 USD per connector call for file transfer in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "SFTP:S3",
+      "data": "SFTP-Upload-Bytes",
+      "endpoint": "SFTP-NONE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over SFTP to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "FTPS:S3",
+      "data": "FTPS-Upload-Bytes",
+      "endpoint": "FTPS-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over FTPS to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "FTP:EFS",
+      "data": "FTP-None",
+      "endpoint": "FTP-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over FTP from EFS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "FTPS:EFS",
+      "data": "FTPS-None-EFS",
+      "endpoint": "FTPS-Hours-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for FTPS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-StartRemoteMove",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-RemoteMove",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.001 per connector call for ConnectorCall-RemoteMove in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "SFTP:S3",
+      "data": "PGP-Decrypt-S3",
+      "endpoint": "SFTP-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-RetrieveFilePath",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-RetrieveFile",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.001 USD per connector call for file transfer in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "FTP:S3",
+      "data": "FTP-Upload-Bytes",
+      "endpoint": "FTP-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over FTP to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer for SFTP",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ENDPOINT",
+      "operation": "",
+      "data": "SFTP-DATA",
+      "endpoint": "SFTP-Endpoint",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$.30 per hour - SFTP Endpoint fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "FTPS:EFS",
+      "data": "FTPS-Upload-EFS",
+      "endpoint": "FTPS-None-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over FTPS to EFS in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "SFTP:EFS",
+      "data": "PGP-Decrypt-EFS",
+      "endpoint": "SFTP-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SFTPConnectorCall-StartLargeDirectoryListing",
+      "operation": "SFTP:S3",
+      "connectorType": "SFTP connector",
+      "data": "None",
+      "execution": "ConnectorCall-LargeDirectoryListing",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "0.001 USD per connector call per 1000 items chunk for large directory listing in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "FTP:S3",
+      "data": "FTP-None",
+      "endpoint": "FTP-Protocol-Hours",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for FTP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "SFTP:S3",
+      "data": "SFTP-NONE",
+      "endpoint": "SFTP-Protocol-Hours",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3 per Hour for SFTP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "FTPS:EFS",
+      "data": "PGP-Decrypt-EFS",
+      "endpoint": "FTPS-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "SFTP:S3",
+      "data": "SFTP-Download-Bytes",
+      "endpoint": "SFTP-NONE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over SFTP from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DecryptBytes-PGP",
+      "operation": "FTPS:S3",
+      "data": "PGP-Decrypt-S3",
+      "endpoint": "FTPS-Upload",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.10 per GB for PGP decryption in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InboundMessages",
+      "operation": "AS2-HTTP:S3",
+      "data": "AS2-Inbound-Messages",
+      "endpoint": "AS2-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.01/message for receiving messages over AS2-HTTP to S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Message",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProtocolHours",
+      "operation": "AS2-HTTP:S3",
+      "data": "AS2-None",
+      "endpoint": "AS2-Hours",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.3/hour for AS2:HTTP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-OutboundMessages",
+      "operation": "AS2-HTTP:S3",
+      "data": "AS2-Outbound-Messages",
+      "endpoint": "AS2-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.01/message for sending messages over AS2-HTTP from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Message",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "SFTP:EFS",
+      "data": "SFTP-Upload-EFS",
+      "endpoint": "SFTP-None-EFS",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over SFTP to EFS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "FTPS:S3",
+      "data": "FTPS-Download-Bytes",
+      "endpoint": "FTPS-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over FTPS from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WebAppHours",
+      "operation": "HTTPS:S3",
+      "endpoint": "HTTPS-Hours-S3",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.50 per Hour per Web App Unit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DownloadBytes",
+      "operation": "FTP:S3",
+      "data": "FTP-Download-Bytes",
+      "endpoint": "FTP-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte downloaded over FTP from S3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer Family",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UploadBytes",
+      "operation": "FTP:EFS",
+      "data": "FTP-Upload-EFS",
+      "endpoint": "FTP-None",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GigaByte uploaded over FTP to EFS in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Transfer for SFTP",
+    "attributes": {
+      "servicecode": "AWSTransfer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UPLOAD",
+      "operation": "",
+      "data": "SFTP-DATA",
+      "endpoint": "SFTP-NONE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Transfer Family"
+    },
+    "description": "$0.04 per GB - SFTP Data Upload fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  }
+]

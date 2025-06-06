@@ -1,0 +1,5037 @@
+[
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Text-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Embeddings G1 Text"
+    },
+    "description": "$5.1 per hour for TitanEmbeddingsG1-Text-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "5.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-Custom-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$16.85 per hour for TitanImageGeneratorG1-ProvisionedThroughput-Custom-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "16.8500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-3-70B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00036 per 1K input tokens for Llama 3.3 70B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-SensitiveInformationPolicyFreeUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "SensitiveInfoFree",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0 per 1K text units for SensitiveInformationPolicyUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Llama",
+      "architectureName": "Llama",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model/Month Storage for Llama architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-T2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorV2-T2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-AudioMinutesProcessed-AddOnFields",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Audio Custom Ad-on Fields",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0005 per Fields per Minute Processed for USE1-DataAutomation-Custom-AudioMinutesProcessed-AddOnFields in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Fields per Minute Processed",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Lite"
+    },
+    "description": "$0.0004 per 1K tokens for TitanTextG1-Lite-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-T2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.012 per image for TitanImageGeneratorV2-T2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Premier"
+    },
+    "description": "$0.0005 per 1K tokens for TitanTextG1-Premier-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-I2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.008 per image for TitanImageGeneratorV2-I2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-AudioMinutesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Audio Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.009 per Minutes Processed for USE1-DataAutomation-Custom-AudioMinutesProcessed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0090000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-Custom-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$23.4 per hour for TitanImageGeneratorG1-ProvisionedThroughput-Custom-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "23.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Standard-AudioMinutesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Audio Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.006 charged per audio minute for standard output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-speech-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Speech Understanding input token",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0034 per 1K tokens for USE1-NovaSonic-speech-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$1.95 per Model/month for TitanEmbeddingsG1-Image-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Qwen2",
+      "architectureName": "Qwen2",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit per Min for Inference for Qwen2 architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2VL-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Qwen2VL",
+      "architectureName": "Qwen2VL",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit per Min for Inference for Qwen2VL architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Claude3Sonnet-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Claude 3 Sonnet",
+      "provider": "Anthropic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00300 per 1K tokens for Claude3Sonnet-input-tokens inUS East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-VideoMinutesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Video Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.084 per Minutes Processed for USE1-DataAutomation-Custom-VideoMinutesProcessed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0840000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mixtral-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Mixtral",
+      "architectureName": "Mixtral",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for Mixtral architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BedrockFlows-v1-invokeFlow",
+      "operation": "BedrockFlows-v1-invokeFlow",
+      "feature": "Flow Execution",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.035 per 1K node transitions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node transition",
+    "pricePerUnit": {
+      "USD": "0.0000350000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$16.2 per hour for TitanImageGeneratorG1-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "16.2000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-PagesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Documents Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.04 charged per page for custom output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Pages Processed",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-70B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": ".0035 per 1K output tokens for Llama 3 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0035000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-SensitiveInformationPolicyPaidUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "GuardrailSensitiveInfo",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.1 per 1K text units for SensitiveInformationPolicyPaidUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-T2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom T2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.022 per image for TitanImageGeneratorG1-Custom-T2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-input-tokens-latency-optimized",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Pro Latency Optimized",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.001 per 1K tokens for USE1-NovaPro-input-tokens-latency-optimized in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Express"
+    },
+    "description": "$0.0002 per 1K tokens for TitanTextG1-Express-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-Custom-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$23.4 per hour for TitanImageGeneratorV2-ProvisionedThroughput-Custom-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "23.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-T2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom T2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.018 per image for TitanImageGeneratorG1-Custom-T2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Scout-17B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 4 Scout 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00017 per 1K input tokens for Llama 4 Scout 17B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001700000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0136 per 1K tokens for USE1-NovaSonic-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0136000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Standard-ImagesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Images Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.003 charged per image for standard output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Express"
+    },
+    "description": "$0.0006 per 1K tokens for TitanTextG1-Express-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$16.2 per hour for TitanImageGeneratorV2-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "16.2000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Maverick-17B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 4 Maverick 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00097 per 1K output tokens for Llama 4 Maverick 17B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0009700000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaReel-T2V-Medfps-HDRes",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2V Medium fps HD Resolution",
+      "model": "Nova Reel",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.08 USD per secs of Nova Reel in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "video",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-I2I-2048-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 2048 Premium",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.08 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2-5-VL-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Qwen2_5VL",
+      "architectureName": "Qwen2_5VL",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit per Min for Inference for Qwen2_5VL architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.0016 per 1K tokens for Nova Pro-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0016000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingV2-Text-input-tokens-batch",
+      "operation": "",
+      "feature": "BatchInference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "TitanEmbeddingsV2-Text-input"
+    },
+    "description": "$0.00001 per 1K tokens for TitanEmbeddingV2-Text-input-tokens-batch in US East",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-ContextualGroundingPolicyUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "ContextualGrounding",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.1 per 1K text units for ContextualGroundingPolicyUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00003 per 1K tokens for Nova Lite-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "model": "Nova Micro",
+      "modelUnit": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$108.15 perhour for -NovaMicro-ProvisionedThroughput-NoCommit-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "108.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-3-70B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00036 per 1K output tokens for Llama 3.3 70B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-I2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorG1-I2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-I2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Premium",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.06 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPremier-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Premier",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0025 per 1K tokens for USE1-NovaPremier-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0025000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GenerateSQL-StructuredRetrieve",
+      "operation": "GenerateSQL-StructuredRetrieve",
+      "feature": "Generate SQL - Structured Data Retrieval",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$2 per 1000 requests for GenerateQuery API to generate SQL for Structured Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-ContentPolicyImageUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "ContentPolicyImage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.75 per 1K Images Processed for ContentPolicyImageUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0007500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-input-image-batch",
+      "operation": "",
+      "feature": "BatchInference",
+      "inferenceType": "Input image",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$0.00003 per image for TitanEmbeddingsG1-Image-input-image-batch in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.008 per 1K tokens for Nova Pro-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Lite"
+    },
+    "description": "$7.1 per hour for TitanTextG1-Lite-ProvisionedThroughput-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "7.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APO-v1-optimizePrompt",
+      "operation": "APO-v1-optimizePrompt",
+      "feature": "Automatic Prompt Optimization",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.03 per 1K tokens for USE1-APO-v1-optimizePrompt in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.005 per Images Processed for TitanImageGeneratorG1-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "model": "Nova Canvas",
+      "modelUnit": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$108.15 per hour for USE1-NovaCanvas-ProvisionedThroughput-NoCommit-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "108.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Lite"
+    },
+    "description": "$0.0002 per 1K tokens for TitanTextG1-Lite-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.005 per Images processed for USE1-NovaCanvas-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images processed",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-output-tokens-latency-optimized",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 70B Latency Optimized",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0009 per 1K output tokens for Llama 3.1 70B Latency Optimized in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0009000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-cache-read-input-token-count",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Prompt cache read input tokens",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00000875 per 1K cache read input tokens of Nova Micro in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000087500"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "model": "Nova Lite",
+      "modelUnit": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$54.08 per hour for NovaLite-ProvisionedThroughput-6month-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "54.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-8B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00011 per 1K input tokens for Llama 3.1 8B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001100000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-11B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.2 11B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00016 per 1K input tokens for Llama 3.2 11B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-3-70B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K output tokens for Llama 3.3 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-T2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Standard",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.04 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-I2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorG1-I2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Express"
+    },
+    "description": "$1.95 per Model/month for TitanTextG1-Express-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00036 per 1K output tokens for Llama 3.1 70B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-ProvisionedThroughput-Custom-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "titan text g1 premier"
+    },
+    "description": "$27.95 per hour for TitanTextG1-Premier-ProvisionedThroughput-custom-1month-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "27.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-T2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom T2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.02 per image for TitanImageGeneratorG1-Custom-T2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Scout-17B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 4 Scout 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00066 per 1K output tokens for Llama 4 Scout 17B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0006600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Maverick-17B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 4 Maverick 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00012 per 1K input tokens for Llama 4 Maverick 17B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Claude2.0-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Claude 2.0",
+      "provider": "Anthropic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00800 per 1K tokens for Claude2.0-input-tokens inUS East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-70B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": ".00265 per 1K input tokens for Llama 3 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0026500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Lite"
+    },
+    "description": "$0.00015 per 1K tokens for TitanTextG1-Lite-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.0008 per 1K tokens for Nova Pro-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-8B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00011 per 1K output tokens for Llama 3.1 8B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001100000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-T2I-2048-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 2048 Premium",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.08 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Prompt-Routing-requests",
+      "operation": "",
+      "feature": "Prompt Router",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.00 per Per 1000 requests for USE1-Prompt-Routing-requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Per 1000 requests",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-90B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.2 90B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K input tokens for Llama 3.2 90B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0034 per 1K tokens for USE1-NovaSonic-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K output tokens for Llama 3.1 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Express"
+    },
+    "description": "$0.008 per 1K tokens for TitanTextG1-Express-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DeepSeek-R1-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "R1",
+      "provider": "DeepSeek",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0054 per 1K output tokens for R1 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0054000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "model": "Nova Micro",
+      "modelUnit": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$98.32 per hour for NovaMicro-ProvisionedThroughput-1months-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "98.3200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Express"
+    },
+    "description": "$18.4 per hour for TitanTextG1-Express-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "18.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mixtral8x7B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Mixtral 8x7B",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0007 per 1K tokens for Mixtral 8x7B output tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Express"
+    },
+    "description": "$20.5 per hour for TitanTextG1-Express-ProvisionedThroughput-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "20.5000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-I2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Standard",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.04 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-I2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom I2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.018 per image for TitanImageGeneratorG1-Custom-I2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-1B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.2 1B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00010 per 1K output tokens for Llama 3.2 1B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mixtral8x7B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Mixtral 8x7B",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00045 per 1K tokens for Mixtral 8x7B input tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0004500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-T2I-2048-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 2048 Standard",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.06 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.005 per Images Processed for TitanImageGeneratorV2-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.002 per 1K tokens for Nova Lite-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-I2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom I2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.02 per image for TitanImageGeneratorG1-Custom-I2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "model": "Nova Lite",
+      "modelUnit": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$108.15 per hour for -NovaLite-ProvisionedThroughput-NoCommit-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "108.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.0032 per 1K tokens for Nova Pro-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0032000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Standard-PagesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Documents Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.01 charged per page for standard output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Pages Processed",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-T2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.012 per image for TitanImageGeneratorG1-T2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-8B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00022 per 1K input tokens for Llama 3.1 8B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DeepSeek-R1-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "R1",
+      "provider": "DeepSeek",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00135 per 1K input tokens for R1 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0013500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-T2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorG1-T2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2-5-VL-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Qwen2_5VL",
+      "architectureName": "Qwen2_5VL",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit per Month for Storage for Qwen2_5VL architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-TopicPolicyUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "GuardrailTopic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$.15 per 1K text units for TopicPolicyUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPremier-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Premier",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00125 per 1K tokens for USE1-NovaPremier-input-tokens-batch in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0012500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00036 per 1K input tokens for Llama 3.1 70B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralSmall-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Mistral Small",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.003 per 1K tokens for Mistral Small input tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-WordPolicyUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "GuardrailWordPolicy",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0 per 1K text units for WordPolicyUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-1B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.2 1B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00010 per 1K input tokens for Llama 3.2 1B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Scout-17B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 4 Scout 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.000085 per 1K input tokens for Llama 4 Scout 17B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000850000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-output-tokens-latency-optimized",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Pro Latency Optimized",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.004 per 1K tokens for USE1-NovaPro-output-tokens-latency-optimized in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-T2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorV2-T2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-I2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.012 per image for TitanImageGeneratorV2-I2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-I2I-2048-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 2048 Standard",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.06 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-text-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Text Input Token",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00006 per 1K tokens for USE1-NovaSonic-text-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$1.95 per Model/month for TitanImageGeneratorV2-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.00014 per 1K tokens for Nova Micro-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mistral7B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Mistral 7B",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00015 per 1K tokens for Mistral 7B input tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Maverick-17B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 4 Maverick 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.000485 per 1K output tokens for Llama 4 Maverick 17B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0004850000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Qwen2",
+      "architectureName": "Qwen2",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit per Month for Storage for Qwen2 architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-text-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Text output token",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00024 per 1K tokens for USE1-NovaSonic-text-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-T2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.008 per image for TitanImageGeneratorG1-T2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00006 per 1K tokens for Nova Lite-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Embeddings G1 Image"
+    },
+    "description": "$8.45 per hour for TitanEmbeddingsG1-Image-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "8.4500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "model": "Nova Lite",
+      "modelUnit": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$98.32 per hour for NovaLite-ProvisionedThroughput-1months-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "98.3200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-I2I-1024-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorV2-I2I-1024-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-Custom-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$21 per hour for TitanImageGeneratorG1-ProvisionedThroughput-Custom-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "21.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Text-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Text"
+    },
+    "description": "$0.0001 per 1K tokens for TitanEmbeddingsG1-Text-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MLlama-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "MLlama",
+      "architectureName": "Multimodal Llama",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit/Month Storage for Multimodal Llama architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "model": "Nova Canvas",
+      "modelUnit": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$54.08 per hour for USE1-NovaCanvas-ProvisionedThroughput-6months-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "54.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$13 per hour for TitanImageGeneratorG1-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "13.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-input-image",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input image",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$0.00006 per image for TitanEmbeddingsG1-Image-input-image in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$13 per hour for TitanImageGeneratorV2-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "13.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Premier"
+    },
+    "description": "$1.95 per Model/month for TitanTextG1-Premier-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Maverick-17B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 4 Maverick 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00024 per 1K input tokens for Llama 4 Maverick 17B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$1.95 per Model/month for TitanImageGeneratorG1-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Lite"
+    },
+    "description": "$5.1 per hour for TitanTextG1-Lite-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "5.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-input-tokens-batch",
+      "operation": "",
+      "feature": "BatchInference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$0.0004 per 1K tokens for TitanEmbeddingsG1-Image-input-tokens-batch in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$23.4 per hour for TitanImageGeneratorV2-ProvisionedThroughput-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "23.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Claude2.1-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Claude 2.1",
+      "provider": "Anthropic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00800 per 1K tokens for Claude2.1-input-tokens inUS East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-8B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00022 per 1K output tokens for Llama 3.1 8B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Model/month for Nova Micro in us-east-1(N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralLarge-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Mistral Large",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.012 per 1K tokens for Mistral Large output tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-I2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom I2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.022 per image for TitanImageGeneratorG1-Custom-I2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Lite"
+    },
+    "description": "$1.95 per Model/month for TitanTextG1-Lite-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-90B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.2 90B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K output tokens for Llama 3.2 90B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MLlama-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "MLlama",
+      "architectureName": "Multimodal Llama",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for Multimodal Llama architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Premier"
+    },
+    "description": "$0.0015 per 1K tokens for TitanTextG1-Premier-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Text G1 Premier"
+    },
+    "description": "$0.028 per 1K tokens for TitanTextG1-Premier-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0280000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "model": "Nova Micro",
+      "modelUnit": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$54.08 per hour for NovaMicro-ProvisionedThroughput-6month-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "54.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama4-Scout-17B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 4 Scout 17B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00033 per 1K output tokens for Llama 4 Scout 17B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003300000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-PagesProcessed-AddOnFields",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Documents Custom Ad-on Fields",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0005 per additional field above 30 fields, charged per page for custom output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Fields per Page Processed",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.0000175 per 1K tokens for Nova Micro-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000175000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Standard-VideoMinutesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Video Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.05 charged per video minute for standard output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-405B-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.1 405B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0012 per 1K output tokens for Llama 3.1 405B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0012000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Model/month for Nova Pro in us-east-1(N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralSmall-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Mistral Small",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.001 per 1K tokens for Mistral Small input tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00012 per 1K tokens for Nova Lite-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-T2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 1024 Premium",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.06 USD of Nova Canvas in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GPTBigCode-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "GPT_BigCode",
+      "architectureName": "GPTBigCode",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit/Month Storage for GPTBigCode architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mistral-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Mistral",
+      "architectureName": "Mistral",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit/Month Storage for Mistral architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00024 per 1K tokens for Nova Lite-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Llama",
+      "architectureName": "Llama",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for Llama architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-T2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom T2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.02 per image for TitanImageGeneratorG1-Custom-T2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Embeddings G1 Image"
+    },
+    "description": "$9.38 per hour for TitanEmbeddingsG1-Image-ProvisionedThroughput-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "9.3800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-T2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorG1-T2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-8B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0003 per 1K input tokens for Llama 3 8B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0003000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-ProvisionedThroughput-Custom-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "titan text g1 premier"
+    },
+    "description": "$32.25 per hour for TitanTextG1-Premier-ProvisionedThroughput-custom-NoCommit-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "32.2500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-11B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.2 11B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00016 per 1K output tokens for Llama 3.2 11B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001600000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-Custom-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$16.85 per hour for TitanImageGeneratorV2-ProvisionedThroughput-Custom-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "16.8500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mistral7B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Mistral 7B",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0002 per 1K tokens for Mistral 7B output tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "model": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Model/month for USE1-NovaCanvas-Customization-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-3-70B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.3 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K input tokens for Llama 3.3 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-T2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "T2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.008 per image for TitanImageGeneratorV2-T2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-cache-read-input-token-count",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Prompt cache read input tokens",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0002 per 1K cache read input tokens of Nova Pro in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-3B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.2 3B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00015 per 1K input tokens for Llama 3.2 3B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-VideoMinutesProcessed-AddOnFields",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Video Custom Ad-on Fields",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0005 per Fields per Minute Processed for USE1-DataAutomation-Custom-VideoMinutesProcessed-AddOnFields in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Fields per Minute Processed",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GPTBigCode-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "GPT_BigCode",
+      "architectureName": "GPTBigCode",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for GPTBigCode architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-I2I-1024-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 1024 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.012 per image for TitanImageGeneratorG1-I2I-1024-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanText-Premier-ProvisionedThroughput-Custom-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "titan text g1 premier"
+    },
+    "description": "$16.38 per hour for TitanTextG1-Premier-ProvisionedThroughput-custom-6months-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "16.3800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Claude3Haiku-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Claude 3 Haiku",
+      "provider": "Anthropic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00025 per 1K tokens for Claude3Haiku-input-tokens inUS East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.000035 per 1K tokens for Nova Micro-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000350000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Lite-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Lite"
+    },
+    "description": "$6.4 per hour for TitanTextG1-Lite-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "6.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "model": "Nova Pro",
+      "modelUnit": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$108.15 per hour for -NovaPro-ProvisionedThroughput-NoCommit-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "108.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$0.0002 per Images Processed for TitanEmbeddingsG1-Image-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Embeddings G1 Image"
+    },
+    "description": "$0.0008 per 1K tokens for TitanEmbeddingsG1-Image-input-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-ProvisionedThroughput-NoCommit-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - no commit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator G1"
+    },
+    "description": "$0 per hour for TitanImageGeneratorG1-ProvisionedThroughput-NoCommit-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingV2-Text-input-tokens",
+      "operation": "InvokeModelInference",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "TitanEmbeddingsV2-Text-input"
+    },
+    "description": "$0.00002 per 1K tokens for TitanEmbeddingsV2-Text-input-tokens in US East",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralLarge-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Mistral Large",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.004 per 1K tokens for Mistral Large input tokens in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-ImagesProcessed-AddOnFields",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Images Custom Ad-on Fields",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0005 per additional field above 30 fields, charged per image",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Fields per Image Processed",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Guardrail-ContentPolicyUnitsConsumed",
+      "operation": "ApplyGuardrail",
+      "policyType": "GuardrailContent",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.15 per 1K text units for ContentPolicyUnitsConsumed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TextUnit",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Flan-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Flan",
+      "architectureName": "Flan",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model/Month Storage for Flan architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanTextG1-Express-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Text G1 Express"
+    },
+    "description": "$14.8 per hour for TitanTextG1-Express-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "14.8000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-cache-read-input-token-count",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Prompt cache read input tokens",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.000015 per 1K cache read input tokens of Nova Lite in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-8B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3 8B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": ".0006 per 1K output tokens for Llama 3 8B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ClaudeInstant-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Claude Instant",
+      "provider": "Anthropic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00080 per 1K tokens for ClaudeInstant-input-tokens inUS East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Qwen2VL-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Qwen2VL",
+      "architectureName": "Qwen2VL",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit per Month for Storage for Qwen2VL architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-I2I-512-Standard",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 512 Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.008 per image for TitanImageGeneratorG1-I2I-512-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataAutomation-Custom-ImagesProcessed",
+      "operation": "InvokeDataAutomationAsync",
+      "feature": "Images Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.005 charged per image for custom output",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-input-tokens-latency-optimized",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 70B Latency Optimized",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0009 per 1K input tokens for Llama 3.1 70B Latency Optimized in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0009000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.0004 per 1K tokens for Nova Pro-input-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-I2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator V2"
+    },
+    "description": "$0.01 per image for TitanImageGeneratorV2-I2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mixtral-CustomModelImport-Storage-v1:0",
+      "operation": "",
+      "architecture": "Mixtral",
+      "architectureName": "Mixtral",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Custom Model Unit/Month Storage for Mixtral architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Mistral-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Mistral",
+      "architectureName": "Mistral",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for Mistral architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorG1-Custom-I2I-512-Premium",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Custom I2I 512 Premium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModel": "Titan Image Generator G1"
+    },
+    "description": "$0.02 per image for TitanImageGeneratorG1-Custom-I2I-512-Premium in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "image",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaLite-Customization-Storage",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Storage",
+      "model": "Nova Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$1.95 per Model/month for Nova Lite in us-east-1(N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Model/month",
+    "pricePerUnit": {
+      "USD": "1.9500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$ 0.00007per 1K tokens for Nova Micro-output-tokens in us-east-1 (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-2-3B-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Llama 3.2 3B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00015 per 1K output tokens for Llama 3.2 3B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-405B-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 405B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0012 per 1K input tokens for Llama 3.1 405B in US East (N. Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0012000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaMicro-Customization-Training",
+      "operation": "",
+      "feature": "Model Customization",
+      "featureType": "Training",
+      "model": "Nova Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.001 per 1K tokens for Nova Micro-Customization-Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Llama3-1-70B-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Llama 3.1 70B",
+      "provider": "Meta",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00072 per 1K input tokens for Llama 3.1 70B in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "model": "Nova Pro",
+      "modelUnit": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$54.08 per hour  for NovaPro-ProvisionedThroughput-6month-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "54.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanImageGeneratorV2-ProvisionedThroughput-Custom-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - Custom - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Image Generator V2"
+    },
+    "description": "$21 per hour for TitanImageGeneratorV2-ProvisionedThroughput-Custom-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "21.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralSmall-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Mistral Small",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0015 per 1K tokens for Mistral Small input tokens in US East (N.Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPremier-output-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Premier",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.00625 per 1K tokens for USE1-NovaPremier-output-tokens-batch in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0062500000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Image-ProvisionedThroughput-6months-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 6 months",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Embeddings G1 Image"
+    },
+    "description": "$6.75 per hour for TitanEmbeddingsG1-Image-ProvisionedThroughput-6months-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "6.7500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MistralSmall-input-tokens-batch",
+      "operation": "",
+      "feature": "Batch Inference",
+      "inferenceType": "Input tokens",
+      "model": "Mistral Small",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0005 per 1K tokens for Mistral Small input tokens in US East (N.Virginia) for Batch",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaSonic-speech-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Speech Understanding output token",
+      "model": "Nova Sonic",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0136 per 1K tokens for USE1-NovaSonic-speech-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0136000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPro-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "model": "Nova Pro",
+      "modelUnit": "Nova Pro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$98.32 per hour for NovaPro-ProvisionedThroughput-1months-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "98.3200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaReel-I2V-Medfps-HDRes",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "I2V Medium fps HD Resolution",
+      "model": "Nova Reel",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "0.08 USD per secs of Nova Reel in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "video",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Flan-CustomModelImport-Inference-v1:0",
+      "operation": "",
+      "architecture": "Flan",
+      "architectureName": "Flan",
+      "customModelUnitVersion": "v1.0",
+      "feature": "Custom Model Import",
+      "featureType": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0785 per Custom Model Unit/Minute Inference for Flan architecture models in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Custom Model Unit per Min",
+    "pricePerUnit": {
+      "USD": "0.0785000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaPremier-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Nova Premier",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.0125 per 1K tokens for USE1-NovaPremier-output-tokens in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PixtralLarge2502-output-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Output tokens",
+      "model": "Pixtral Large 25.02",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.006 per 1K output tokens for Pixtral Large 25.02 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NovaCanvas-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "model": "Nova Canvas",
+      "modelUnit": "Nova Canvas",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$98.32 per hour for USE1-NovaCanvas-ProvisionedThroughput-1month-ModelUnits in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "98.3200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TitanEmbeddingsG1-Text-ProvisionedThroughput-1month-ModelUnits",
+      "operation": "",
+      "feature": "Provisioned Throughput Inference - 1 month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock",
+      "titanModelUnit": "Titan Embeddings G1 Text"
+    },
+    "description": "$6.4 per hour for TitanEmbeddingsG1-Text-ProvisionedThroughput-1month-ModelUnit in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "6.4000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Bedrock",
+    "attributes": {
+      "servicecode": "AmazonBedrock",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PixtralLarge2502-input-tokens",
+      "operation": "",
+      "feature": "On-demand Inference",
+      "inferenceType": "Input tokens",
+      "model": "Pixtral Large 25.02",
+      "provider": "Mistral",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Bedrock"
+    },
+    "description": "$0.002 per 1K input tokens for Pixtral Large 25.02 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1K tokens",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  }
+]

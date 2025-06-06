@@ -1,0 +1,149 @@
+[
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "SWF-OpenWorkflowDays",
+      "groupDescription": "Number of billable 24-hour periods the workflow was running",
+      "usagetype": "Global-AggregateWorkflowDays",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0 for first 30,000 open and retained workflow days (24 hr period), free tier",
+    "beginRange": "0",
+    "endRange": "30000",
+    "unit": "Workflow-days",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "SWF-InitiatedActions",
+      "groupDescription": "Number of tasks scheduled, signals received, markers set and timers setup",
+      "usagetype": "Global-AggregateInitiatedActions",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0 for first 10,000 tasks, signals, timers and markers (free tier)",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "Tasks,signals,markers,timers",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SWF-ClosedRetainedWorkflowDays",
+      "groupDescription": "Number of calendar days workflow is retained",
+      "usagetype": "ClosedRetainedWorkflowDays",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0.000005 per 24 hr period that a workflow execution is retained above the free tier",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Workflow-days",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SWF-OpenWorkflowDays",
+      "groupDescription": "Number of billable 24-hour periods the workflow was running",
+      "usagetype": "OpenWorkflowDays",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0.000005 per 24 hr period that a workflow execution is open above the free tier",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Workflow-days",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SWF-InitiatedWorkflows",
+      "groupDescription": "Number of workflow executions initiated",
+      "usagetype": "InitiatedWorkflows",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0.0001 per workflow execution above the free tier",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Workflow executions",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SWF-InitiatedActions",
+      "groupDescription": "Number of tasks scheduled, signals received, markers set and timers setup",
+      "usagetype": "InitiatedActions",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0.000025 per task, signal, marker or timer above the free tier",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Tasks,signals,markers,timers",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Amazon Simple Workflow",
+    "attributes": {
+      "servicecode": "AmazonSWF",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "SWF-InitiatedWorkflows",
+      "groupDescription": "Number of workflow executions initiated",
+      "usagetype": "Global-AggregateInitiatedWorkflows",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Simple Workflow Service"
+    },
+    "description": "$0 for first 1,000 workflow executions (free tier)",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "Workflow executions",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

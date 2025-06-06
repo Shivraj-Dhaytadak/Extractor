@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoTThingsGraph",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Deployments",
+      "usagetype": "USE1-Edge-Deployment",
+      "operation": "Deployment",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Things Graph"
+    },
+    "description": "$0.0095 per flow deployed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Deployments",
+    "pricePerUnit": {
+      "USD": "0.0095000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoTThingsGraph",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Steps Executed",
+      "usagetype": "USE1-Cloud-Workflows",
+      "operation": "StepExecuted",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Things Graph"
+    },
+    "description": "$0.000045 per StepExecuted after free tier US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Steps",
+    "pricePerUnit": {
+      "USD": "0.0000450000"
+    }
+  }
+]

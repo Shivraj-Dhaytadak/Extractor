@@ -1,0 +1,182 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-HD-capacity-minutes",
+      "operation": "",
+      "licenseType": "SDK Capacity",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$0.0001 per minutes for Chime-SDK-FHD-capacity-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-amazonchime-meetings",
+      "operation": "",
+      "licenseType": "Meetings",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$3 per AmazonChime_Meetings_Active_Host_Days for amazonchime-meetings in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "AmazonChime_Meetings_Active_Host_Days",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeVoiceConnector",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SMA-DialIn-KR-tollfree-mins",
+      "operation": "",
+      "calltype": "SMA Toll-Free",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "tocountry": "South Korea",
+      "transactionType": "AWS"
+    },
+    "description": "$0.063195 per minutes for SMA-DialIn-KR-tollfree-mins in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0631950000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-attendee-minutes",
+      "operation": "",
+      "licenseType": "sdk",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$0.0017 per minutes for Chime-SDK-attendee-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0017000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeVoiceConnector",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SMA-DialIn-KR-tollfree-numberscharge",
+      "operation": "",
+      "fromcountry": "South Korea",
+      "numbertype": "DDI",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$19.5 per NumberMonths for SMA-DialIn-KR-tollfree-numberscharge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "NumberMonths",
+    "pricePerUnit": {
+      "USD": "19.5000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ChimeMeetings-Free",
+      "operation": "",
+      "licenseType": "ActiveHostsFree",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$0.0 per Sessions for ChimeMeetings-Free in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Sessions",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeVoiceConnector",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SMA-DialOut-KR-minutes",
+      "operation": "",
+      "calltype": "SMA Outbound",
+      "fromcountry": "Worldwide",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "tocountry": "South Korea",
+      "transactionType": "AWS"
+    },
+    "description": "$0.033150 per minutes for SMA-DialOut-KR-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0331500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChimeServices",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-HD-attendee-minutes",
+      "operation": "",
+      "licenseType": "FHD SDK",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Services",
+      "transactionType": "AWS"
+    },
+    "description": "$0.0034 per minutes for Chime-SDK-FHD-attendee-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  }
+]

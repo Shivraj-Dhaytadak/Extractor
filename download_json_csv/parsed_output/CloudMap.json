@@ -1,0 +1,62 @@
+[
+  {
+    "productFamily": "AWS Cloud Map",
+    "attributes": {
+      "servicecode": "AWSCloudMap",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Cloud-Map-API-Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud Map",
+      "type": "API calls"
+    },
+    "description": "$1.00 per million API calls",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CloudMapAPICall",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWS Cloud Map",
+    "attributes": {
+      "servicecode": "AWSCloudMap",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Cloud-Map-Resources",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud Map",
+      "type": "Resource-Month"
+    },
+    "description": "$0.10 per resource-month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CloudMapResource",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Cloud Map",
+    "attributes": {
+      "servicecode": "AWSCloudMap",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Cloud-Map-DIR-API-Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud Map",
+      "type": "DIR-API-Calls"
+    },
+    "description": "$1.00 per million API calls",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CloudMapAPICall",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  }
+]

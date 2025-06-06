@@ -1,0 +1,1050 @@
+[
+  {
+    "productFamily": "Custom Entities",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Entities",
+      "groupDescription": "Processes Custom Entity model training request",
+      "usagetype": "USE1-EntityRecognizer-Time",
+      "operation": "EntityRecognizer",
+      "platofeaturetype": "EntityRecognizer-Time",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Entity model training request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0008330000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-ContainsPiiEntities",
+      "groupDescription": "Processes Contains PII in text requests",
+      "usagetype": "USE1-ContainsPiiEntities",
+      "operation": "ContainsPiiEntities",
+      "platofeaturetype": "ContainsPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.000002 per Unit for ContainsPiiEntities:ContainsPiiEntities in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-ContainsPiiEntities",
+      "groupDescription": "Processes Contains PII in text requests",
+      "usagetype": "USE1-ContainsPiiEntities",
+      "operation": "ContainsPiiEntities",
+      "platofeaturetype": "ContainsPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.000001 per Unit for ContainsPiiEntities:ContainsPiiEntities in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-ContainsPiiEntities",
+      "groupDescription": "Processes Contains PII in text requests",
+      "usagetype": "USE1-ContainsPiiEntities",
+      "operation": "ContainsPiiEntities",
+      "platofeaturetype": "ContainsPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.0000005 per Unit for ContainsPiiEntities:ContainsPiiEntities in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "100000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-ContainsPiiEntities",
+      "groupDescription": "Processes Contains PII in text requests",
+      "usagetype": "USE1-ContainsPiiEntities",
+      "operation": "ContainsPiiEntities",
+      "platofeaturetype": "ContainsPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.0000001 per Unit for ContainsPiiEntities:ContainsPiiEntities in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "Custom Entities",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Entities",
+      "groupDescription": "Processes Custom Entity model storage request",
+      "usagetype": "USE1-EntityRecognizer-Storage",
+      "operation": "EntityRecognizer",
+      "platofeaturetype": "EntityRecognizer-Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Entity model storage request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Custom Entities",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Entities",
+      "groupDescription": "Processes Sync custom entities text request",
+      "usagetype": "USE1-Endpoint-Time",
+      "operation": "DetectEntities",
+      "platofeaturetype": "Endpoint-Time",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.0005 per Unit for Endpoint-Time:DetectEntities in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Dominant Language Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-LanguageDetection",
+      "groupDescription": "Processes Language Detection text request",
+      "usagetype": "USE1-DetectDominantLanguage",
+      "operation": "DetectDominantLanguage",
+      "platofeaturetype": "DetectDominantLanguage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Language Detection text requests in us-east-1 - Upto 10M",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Dominant Language Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-LanguageDetection",
+      "groupDescription": "Processes Language Detection text request",
+      "usagetype": "USE1-DetectDominantLanguage",
+      "operation": "DetectDominantLanguage",
+      "platofeaturetype": "DetectDominantLanguage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Language Detection text requests in us-east-1 - Upto 50M",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Dominant Language Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-LanguageDetection",
+      "groupDescription": "Processes Language Detection text request",
+      "usagetype": "USE1-DetectDominantLanguage",
+      "operation": "DetectDominantLanguage",
+      "platofeaturetype": "DetectDominantLanguage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Language Detection text requests in us-east-1 - Over 50M",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Prompt safety classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-prompt-safety-classification",
+      "groupDescription": "Comprehend prompt safety classifier for text",
+      "usagetype": "USE1-DocClassification-PromptSafety",
+      "operation": "DocClassification",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD1.0E-4 per Unit for DocClassification:PromptSafety in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Prompt safety classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-prompt-safety-classification",
+      "groupDescription": "Comprehend prompt safety classifier for text",
+      "usagetype": "USE1-DocClassification-PromptSafety",
+      "operation": "DocClassification",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5.0E-5 per Unit for DocClassification:PromptSafety in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Prompt safety classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-prompt-safety-classification",
+      "groupDescription": "Comprehend prompt safety classifier for text",
+      "usagetype": "USE1-DocClassification-PromptSafety",
+      "operation": "DocClassification",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD2.5E-5 per Unit for DocClassification:PromptSafety in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "100000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Prompt safety classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-prompt-safety-classification",
+      "groupDescription": "Comprehend prompt safety classifier for text",
+      "usagetype": "USE1-DocClassification-PromptSafety",
+      "operation": "DocClassification",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5E-6 per Unit for DocClassification:PromptSafety in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SentimentAnalysis",
+      "groupDescription": "Processes Sentiment Analysis text request",
+      "usagetype": "USE1-DetectSentiment",
+      "operation": "DetectSentiment",
+      "platofeaturetype": "DetectSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Sentiment Analysis text requests in us-east-1 - Upto 10M",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SentimentAnalysis",
+      "groupDescription": "Processes Sentiment Analysis text request",
+      "usagetype": "USE1-DetectSentiment",
+      "operation": "DetectSentiment",
+      "platofeaturetype": "DetectSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Sentiment Analysis text requests in us-east-1 - Upto 50M",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SentimentAnalysis",
+      "groupDescription": "Processes Sentiment Analysis text request",
+      "usagetype": "USE1-DetectSentiment",
+      "operation": "DetectSentiment",
+      "platofeaturetype": "DetectSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Sentiment Analysis text requests in us-east-1 - Over 50M",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Topic Modeling",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectTopic",
+      "groupDescription": "Processes Topic Detection text request",
+      "usagetype": "USE1-DetectTopics-1MB",
+      "operation": "DetectTopics",
+      "platofeaturetype": "DetectTopics-1MB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Topic Detection text request in us-east-1 - 1MB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Custom Classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Classification",
+      "groupDescription": "Processes Custom Classification model training request",
+      "usagetype": "USE1-DocClassifier-Time",
+      "operation": "DocClassifier",
+      "platofeaturetype": "DocClassifier-Time",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Classification model training request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0008330000"
+    }
+  },
+  {
+    "productFamily": "Topic Modeling",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectTopic-PerMB",
+      "groupDescription": "Processes Topic Detection text request",
+      "usagetype": "USE1-DetectTopics-PerMB",
+      "operation": "DetectTopics",
+      "platofeaturetype": "DetectTopics-PerMB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Topic Detection text request in us-east-1 - PerMB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MB",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "Custom Classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Classification",
+      "groupDescription": "Processes Sync custom classification text request",
+      "usagetype": "USE1-Endpoint-Time",
+      "operation": "DocClassification",
+      "platofeaturetype": "Endpoint-Time",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.0005 per Unit for Endpoint-Time:DocClassification in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-TargetedSentiment",
+      "groupDescription": "Process Targeted Sentiment text request",
+      "usagetype": "USE1-DetectTgtSentiment",
+      "operation": "DetectTgtSentiment",
+      "platofeaturetype": "DetectTgtSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD 1.0E-4 per Unit for DetectTgtSentiment:DetectTgtSentiment in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-TargetedSentiment",
+      "groupDescription": "Process Targeted Sentiment text request",
+      "usagetype": "USE1-DetectTgtSentiment",
+      "operation": "DetectTgtSentiment",
+      "platofeaturetype": "DetectTgtSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD 5.0E-5 per Unit for DetectTgtSentiment:DetectTgtSentiment in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Sentiment Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend-TargetedSentiment",
+      "groupDescription": "Process Targeted Sentiment text request",
+      "usagetype": "USE1-DetectTgtSentiment",
+      "operation": "DetectTgtSentiment",
+      "platofeaturetype": "DetectTgtSentiment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD 2.5E-5 per Unit for DetectTgtSentiment:DetectTgtSentiment in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Custom Classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Classification",
+      "groupDescription": "Processes Custom Classification text request",
+      "usagetype": "USE1-DocClassification-Custom",
+      "operation": "DocClassification",
+      "platofeaturetype": "DocClassification-Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Classification text request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Key Phrases Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-KeyPhrases",
+      "groupDescription": "Processes Key Phrase detection text request",
+      "usagetype": "USE1-DetectKeyPhrases",
+      "operation": "DetectKeyPhrases",
+      "platofeaturetype": "DetectKeyPhrases",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Key Phrase detection text requests in us-east-1 - Upto 10M",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Key Phrases Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-KeyPhrases",
+      "groupDescription": "Processes Key Phrase detection text request",
+      "usagetype": "USE1-DetectKeyPhrases",
+      "operation": "DetectKeyPhrases",
+      "platofeaturetype": "DetectKeyPhrases",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Key Phrase detection text requests in us-east-1 - Upto 50M",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Key Phrases Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-KeyPhrases",
+      "groupDescription": "Processes Key Phrase detection text request",
+      "usagetype": "USE1-DetectKeyPhrases",
+      "operation": "DetectKeyPhrases",
+      "platofeaturetype": "DetectKeyPhrases",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Key Phrase detection text requests in us-east-1 - Over 50M",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Topic Modeling",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectTopic-Fixed",
+      "groupDescription": "Processes Topic Detection text request",
+      "usagetype": "USE1-DetectTopics-Fixed",
+      "operation": "DetectTopics",
+      "platofeaturetype": "DetectTopics-Fixed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Topic Detection text request in us-east-1 - Fixed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Custom Entities",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Entities",
+      "groupDescription": "Processes Custom Entity text request",
+      "usagetype": "USE1-DetectEntities-Custom",
+      "operation": "DetectEntities",
+      "platofeaturetype": "DetectEntities-Custom",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Entity text request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-EntityAnalysis",
+      "groupDescription": "Processes Entity Analysis text request",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "platofeaturetype": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Entity Analysis text requests in us-east-1 - Upto 10M",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-EntityAnalysis",
+      "groupDescription": "Processes Entity Analysis text request",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "platofeaturetype": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Entity Analysis text requests in us-east-1 - Upto 50M",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-EntityAnalysis",
+      "groupDescription": "Processes Entity Analysis text request",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "platofeaturetype": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Entity Analysis text requests in us-east-1 - Over 50M",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectEvents",
+      "groupDescription": "Processes Event Analysis text request",
+      "usagetype": "USE1-DetectEvents",
+      "operation": "DetectEvents",
+      "platofeaturetype": "DetectEvents",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.003 per Unit for DetectEvents:DetectEvents in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectEvents",
+      "groupDescription": "Processes Event Analysis text request",
+      "usagetype": "USE1-DetectEvents",
+      "operation": "DetectEvents",
+      "platofeaturetype": "DetectEvents",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.0015 per Unit for DetectEvents:DetectEvents in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectEvents",
+      "groupDescription": "Processes Event Analysis text request",
+      "usagetype": "USE1-DetectEvents",
+      "operation": "DetectEvents",
+      "platofeaturetype": "DetectEvents",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "$0.00075 per Unit for DetectEvents:DetectEvents in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0007500000"
+    }
+  },
+  {
+    "productFamily": "Syntax Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SyntaxAnalysis",
+      "groupDescription": "Processes Syntax Analysis text request",
+      "usagetype": "USE1-DetectSyntax",
+      "operation": "DetectSyntax",
+      "platofeaturetype": "DetectSyntax",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Syntax Analysis text requests in us-east-1 - Upto 10M",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Syntax Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SyntaxAnalysis",
+      "groupDescription": "Processes Syntax Analysis text request",
+      "usagetype": "USE1-DetectSyntax",
+      "operation": "DetectSyntax",
+      "platofeaturetype": "DetectSyntax",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Syntax Analysis text requests in us-east-1 - Upto 50M",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Syntax Analysis",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-SyntaxAnalysis",
+      "groupDescription": "Processes Syntax Analysis text request",
+      "usagetype": "USE1-DetectSyntax",
+      "operation": "DetectSyntax",
+      "platofeaturetype": "DetectSyntax",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Syntax Analysis text requests in us-east-1 - Over 50M",
+    "beginRange": "50000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000125000"
+    }
+  },
+  {
+    "productFamily": "Custom Classification",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "comprehend - Custom Classification",
+      "groupDescription": "Processes Custom Classification model storage request",
+      "usagetype": "USE1-DocClassifier-Storage",
+      "operation": "DocClassifier",
+      "platofeaturetype": "DocClassifier-Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "Processes Custom Classification model storage request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectPiiEntities",
+      "groupDescription": "Processes PII Analysis in text request",
+      "usagetype": "USE1-DetectPiiEntities",
+      "operation": "DetectPiiEntities",
+      "platofeaturetype": "DetectPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD1.0E-4 per Unit for DetectPiiEntities:DetectPiiEntities in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectPiiEntities",
+      "groupDescription": "Processes PII Analysis in text request",
+      "usagetype": "USE1-DetectPiiEntities",
+      "operation": "DetectPiiEntities",
+      "platofeaturetype": "DetectPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5.0E-5 per Unit for DetectPiiEntities:DetectPiiEntities in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectPiiEntities",
+      "groupDescription": "Processes PII Analysis in text request",
+      "usagetype": "USE1-DetectPiiEntities",
+      "operation": "DetectPiiEntities",
+      "platofeaturetype": "DetectPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD2.5E-5 per Unit for DetectPiiEntities:DetectPiiEntities in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "100000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-Comprehend-DetectPiiEntities",
+      "groupDescription": "Processes PII Analysis in text request",
+      "usagetype": "USE1-DetectPiiEntities",
+      "operation": "DetectPiiEntities",
+      "platofeaturetype": "DetectPiiEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5E-6 per Unit for DetectPiiEntities:DetectPiiEntities in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Toxicity detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend Toxicity Detection",
+      "groupDescription": "Comprehend toxicity detection for text segments",
+      "usagetype": "USE1-DetectToxicContent",
+      "operation": "DetectToxicContent",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD1.0E-4 per Unit for DetectToxicContent:DetectToxicContent in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Toxicity detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend Toxicity Detection",
+      "groupDescription": "Comprehend toxicity detection for text segments",
+      "usagetype": "USE1-DetectToxicContent",
+      "operation": "DetectToxicContent",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5.0E-5 per Unit for DetectToxicContent:DetectToxicContent in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Toxicity detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend Toxicity Detection",
+      "groupDescription": "Comprehend toxicity detection for text segments",
+      "usagetype": "USE1-DetectToxicContent",
+      "operation": "DetectToxicContent",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD2.5E-5 per Unit for DetectToxicContent:DetectToxicContent in US East (N. Virginia)",
+    "beginRange": "50000000",
+    "endRange": "100000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Toxicity detection",
+    "attributes": {
+      "servicecode": "comprehend",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Comprehend Toxicity Detection",
+      "groupDescription": "Comprehend toxicity detection for text segments",
+      "usagetype": "USE1-DetectToxicContent",
+      "operation": "DetectToxicContent",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Comprehend"
+    },
+    "description": "USD5E-6 per Unit for DetectToxicContent:DetectToxicContent in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  }
+]

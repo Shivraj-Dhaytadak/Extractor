@@ -1,0 +1,62 @@
+[
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AWSAppFabric",
+      "description": "Standard User",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StandardUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS AppFabric"
+    },
+    "description": "$3 per User per Month up to 30 apps (StandardUser) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AWSAppFabric",
+      "description": "Additional App per User",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AdditionalAppUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS AppFabric"
+    },
+    "description": "$0.05 per App per User per Month above 30 apps (AdditionalAppUser) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UserApp-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AWSAppFabric",
+      "description": "Free Trial",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeTrialUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS AppFabric"
+    },
+    "description": "$0.0 per User up to 100 users for 30 days (FreeTrialUser) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

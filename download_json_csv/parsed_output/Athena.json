@@ -1,0 +1,64 @@
+[
+  {
+    "productFamily": "Athena Queries",
+    "attributes": {
+      "servicecode": "AmazonAthena",
+      "description": "Charged for total data scanned per query with a minimum 10MB for each successful or cancelled queries",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataScannedInTB",
+      "operation": "",
+      "freeQueryTypes": "Data definition queries (DDL), Failed Queries and statements used to create or load partitions",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Athena"
+    },
+    "description": "5.00 USD per Terabytes for DataScannedInTB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Terabytes",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Athena Queries",
+    "attributes": {
+      "servicecode": "AmazonAthena",
+      "description": "Data Processing Units (DPU) in hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ReservedCapacityInDPUHours",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Athena"
+    },
+    "description": "0.30 USD per DPU-Hour for ReservedCapacityInDPUHours in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Athena Spark",
+    "attributes": {
+      "servicecode": "AmazonAthena",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CodeExecutionInDPUHours",
+      "operation": "Spark_Execution",
+      "nodeSize": "1",
+      "nodeType": "NA",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Athena"
+    },
+    "description": "0.35 USD per DPU-Hour for CodeExecutionInDPUHours:Spark_Execution in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DPU-Hour",
+    "pricePerUnit": {
+      "USD": "0.3500000000"
+    }
+  }
+]

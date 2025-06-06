@@ -1,0 +1,24 @@
+[
+  {
+    "productFamily": "SimSpace Weaver Compute Instance",
+    "attributes": {
+      "servicecode": "SimSpaceWeaver",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-sim-c5-24xlarge",
+      "operation": "RunSim",
+      "appslots": "17",
+      "regionCode": "us-east-1",
+      "servicename": "AWS SimSpace Weaver",
+      "siminstancefamily": "Compute",
+      "siminstancetype": "sim.c5.24xlarge"
+    },
+    "description": "$6.08 per hour for sim-c5-24xlarge:RunSim in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "6.0800000000"
+    }
+  }
+]

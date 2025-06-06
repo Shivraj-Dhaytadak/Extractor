@@ -34,17 +34,19 @@ class Service(BaseModel):
     account_context: str
     count: int
     relations: List[Relation]
+    config: Optional[dict] = None  # Add config field
 
 class Diagram(BaseModel):
     services: List[Service]
 
 class PricingService(Service):
     cost: float
-    explanation: Optional[str] = None 
+    explanation: Optional[List[str]] = None 
+    # config is inherited from Service
 
 class Cost(BaseModel):
-    cost : float
-    explanation : Optional[str] = None
+    cost: float
+    explanation: Optional[List[str]] = None
 
 class PricingState(TypedDict):
     queue: List[Service]
@@ -54,31 +56,33 @@ class PricingState(TypedDict):
 # -------------------------
 # 2. Pricing Logic
 # -------------------------
-def compute_cost_lambda():
+def compute_cost_lambda(config=None):
     dirname = os.path.dirname(__file__)
     json_path = os.path.join(dirname, "lambda.json")
     with open(json_path, "r", encoding="utf-8") as f:
         contents = f.read()
+    # Use config if provided
+    config_text = f"\nConfig: {config}" if config else ""
     msg_lambda = HumanMessage(content=[
-    {"type": "text", "text": "Given the AWS Lambda service, compute the cost based on the following assumptions: 10 million requests per month "
-            "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
-            "Provide a detailed breakdown of the cost calculations. Additionally, include your internal chain-of-thought "
-            "explanation as part of the result."},
-    # {"type": "text", "text": "1. 1 million requests per month\n2. 400,000 GB-seconds of compute time per month\n3. $0.20 per million requests\n4. $0.00001667 per GB-second"}
-    { "type": "text", "text": f"Calculate the total monthly cost and provide a breakdown of the calculations. use the json given : {contents}"},
+        {"type": "text", "text": f"Given the AWS Lambda service, compute the cost based on the following configutation {config_text} "
+                "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
+                "Provide a detailed breakdown of the cost calculations. Additionally, include your internal chain-of-thought "
+                "explanation as part of the result."},
+        {"type": "text", "text": f"Calculate the total monthly cost and provide a breakdown of the calculations. use the json given : {contents}"},
     ])
 
     response = gemini.with_structured_output(Cost).invoke([msg_lambda])
     print(response.cost)
     return response
 
-def compute_cost_s3():
+def compute_cost_s3(config=None):
     dirname = os.path.dirname(__file__)
     json_path = os.path.join(dirname, "s3.json")
     with open(json_path, "r", encoding="utf-8") as f:
         contents = f.read()
+    config_text = f"\nConfig: {config}" if config else ""
     msg_s3 = HumanMessage(content=[
-        {"type": "text", "text": "Given the AWS S3 service, compute the cost based 10 GB storage and 1000 Get requests per month."
+        {"type": "text", "text": f"Given the AWS S3 service, compute the cost based given data : {config_text}."
             "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
             "Provide a detailed breakdown of the cost calculations. Additionally, include your internal chain-of-thought "
             "explanation as part of the result."},
@@ -88,13 +92,14 @@ def compute_cost_s3():
     print(response.cost)
     return response
 
-def compute_cost_api_gateway():
+def compute_cost_api_gateway(config=None):
     dirname = os.path.dirname(__file__)
     json_path = os.path.join(dirname, "apigateway.json")
     with open(json_path, "r", encoding="utf-8") as f:
         contents = f.read()
+    config_text = f"\nConfig: {config}" if config else ""
     msg_api = HumanMessage(content=[
-        {"type": "text", "text": "You are an expert in AWS pricing. Given the AWS API Gateway service and a usage of 10 Million Messages per month, "
+        {"type": "text", "text": f"You are an expert in AWS pricing. Given the AWS API Gateway service compute the cost based on given data :{config_text}"
             "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
             "Provide a detailed breakdown of the cost calculations. Additionally, include your internal chain-of-thought "
             "explanation as part of the result."},
@@ -106,12 +111,13 @@ def compute_cost_api_gateway():
 
 def compute_cost(service: Service):
     name = service.name.lower()
+    config = getattr(service, 'config', None)
     if "lambda" in name:
-        return compute_cost_lambda()
+        return compute_cost_lambda(config)
     elif "s3" in name:
-        return compute_cost_s3()
+        return compute_cost_s3(config)
     elif "api gateway" in name:
-        return compute_cost_api_gateway()
+        return compute_cost_api_gateway(config)
     else:
         return 0.0
 
@@ -123,7 +129,7 @@ def cost_node(state: PricingState) -> PricingState:
     cost = compute_cost(current)
     new = PricingService(**current.model_dump(), 
                           cost=cost.cost, 
-                          explanation=cost.explanation or "No explanation provided")
+                          explanation=cost.explanation or ["No explanation provided"])
     return PricingState(queue=rest, completed=state["completed"] + [new])
 
 # -------------------------
@@ -139,6 +145,7 @@ cost_runner = graph.compile()
 # -------------------------
 # 4. Streamlit UI
 # -------------------------
+
 st.set_page_config(page_title="AWS Arch + Cost Analyzer", layout="centered")
 st.title("📊 AWS Architecture & Cost Analyzer")
 
@@ -179,7 +186,6 @@ with st.spinner("Extracting services..."):
     services = [s for s in diagram.services if s.type == "AWS service"]
     st.success(f"Found {len(services)} AWS services.")
 
-# Parse config file and assign to services
 if config_file is not None:
     import json
     config_data = json.load(config_file)

@@ -1,0 +1,862 @@
+[
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SummaryCallAnalyticsTranscribe",
+      "operation": "SummaryCallAnalyticsTranscribe",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics Summarization"
+    },
+    "description": "USD per second for CallAnalytics:Summarization in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SummaryCallAnalyticsTranscribe",
+      "operation": "SummaryCallAnalyticsTranscribe",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics Summarization"
+    },
+    "description": "USD per second for CallAnalytics:Summarization  in US East (N. Virginia), 250K to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SummaryCallAnalyticsTranscribe",
+      "operation": "SummaryCallAnalyticsTranscribe",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics Summarization"
+    },
+    "description": "USD per second for CallAnalytics:Summarization  in US East (N. Virginia), 1M to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000183333"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SummaryCallAnalyticsTranscribe",
+      "operation": "SummaryCallAnalyticsTranscribe",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics Summarization"
+    },
+    "description": "USD per second for CallAnalytics:Summarization in US East (N. Virginia), 5M min+",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ToxicityDetectionTranscribeAudio",
+      "operation": "ToxicityDetectionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Toxicity Detection"
+    },
+    "description": "$0.00006 per seconds for ToxicityDetectionTranscribeAudio:ToxicityDetectionTranscribeAudio in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000600000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ToxicityDetectionTranscribeAudio",
+      "operation": "ToxicityDetectionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Toxicity Detection"
+    },
+    "description": "$0.0000375 per seconds for ToxicityDetectionTranscribeAudio:ToxicityDetectionTranscribeAudio in US East (N. Virginia)",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000375000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ToxicityDetectionTranscribeAudio",
+      "operation": "ToxicityDetectionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Toxicity Detection"
+    },
+    "description": "$0.000025 per seconds for ToxicityDetectionTranscribeAudio:ToxicityDetectionTranscribeAudio in US East (N. Virginia)",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ToxicityDetectionTranscribeAudio",
+      "operation": "ToxicityDetectionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Toxicity Detection"
+    },
+    "description": "$0.00002 per seconds for ToxicityDetectionTranscribeAudio:ToxicityDetectionTranscribeAudio in US East (N. Virginia)",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeAudio",
+      "operation": "RedactionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "USD per Second for RedactionTranscribeAudio:RedactionTranscribeAudio in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "Second",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeAudio",
+      "operation": "RedactionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "USD per Second for RedactionTranscribeAudio:RedactionTranscribeAudio in US East (N. Virginia), 250K min to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "Second",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeAudio",
+      "operation": "RedactionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "USD per Second for RedactionTranscribeAudio:RedactionTranscribeAudio in US East (N. Virginia), 1M min to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "Second",
+    "pricePerUnit": {
+      "USD": "0.0000170000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeAudio",
+      "operation": "RedactionTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "USD per Second for RedactionTranscribeAudio:RedactionTranscribeAudio in US East (N. Virginia), 5M min +",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "Second",
+    "pricePerUnit": {
+      "USD": "0.0000130000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeStreaming",
+      "operation": "RedactionTranscribeStreaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "automatic content redaction"
+    },
+    "description": "USD per Second for RedactionTranscribeStreaming in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeStreaming",
+      "operation": "RedactionTranscribeStreaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "automatic content redaction"
+    },
+    "description": "USD per Second for RedactionTranscribeStreaming in US East (N. Virginia), 250K min to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeStreaming",
+      "operation": "RedactionTranscribeStreaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "automatic content redaction"
+    },
+    "description": "USD per Second for RedactionTranscribeStreaming in US East (N. Virginia), 1M min to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000170000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RedactionTranscribeStreaming",
+      "operation": "RedactionTranscribeStreaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "automatic content redaction"
+    },
+    "description": "USD per Second for RedactionTranscribeStreaming in US East (N. Virginia), 5M min +",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000130000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-HealthScribeBatch",
+      "operation": "HealthScribeBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Health Scribe"
+    },
+    "description": "$0.001667 per seconds for HealthScribe:HealthScribeBatch in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0016670000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsStreamingAudio",
+      "operation": "CallAnalyticsStreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:StreamingAudio in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsStreamingAudio",
+      "operation": "CallAnalyticsStreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:StreamingAudio in US East (N. Virginia), 250K to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0003100000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsStreamingAudio",
+      "operation": "CallAnalyticsStreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:StreamingAudio in US East (N. Virginia), 1M to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0002300000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsStreamingAudio",
+      "operation": "CallAnalyticsStreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:StreamingAudio in US East (N. Virginia), 5M min+",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0001900000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StreamingAudio",
+      "operation": "StreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Stream to Text"
+    },
+    "description": "Processed streaming transcription request in us-east-1, 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StreamingAudio",
+      "operation": "StreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Stream to Text"
+    },
+    "description": "Processed streaming transcription request in us-east-1, 250K to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StreamingAudio",
+      "operation": "StreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Stream to Text"
+    },
+    "description": "Processed streaming transcription request in us-east-1, 1M to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0001700000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StreamingAudio",
+      "operation": "StreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Stream to Text"
+    },
+    "description": "Processed streaming transcription request in us-east-1, 5M+",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0001300000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeAudio",
+      "operation": "TranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "Processed transcription request in us-east-1, 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeAudio",
+      "operation": "TranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "Processed transcription request in us-east-1, 250k to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeAudio",
+      "operation": "TranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "Processed transcription request in us-east-1, 1M to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0001700000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeAudio",
+      "operation": "TranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Audio to Text"
+    },
+    "description": "Processed transcription request in us-east-1, 5M min +",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "second",
+    "pricePerUnit": {
+      "USD": "0.0001300000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeClmAudio",
+      "operation": "TranscribeClmAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeClmAudio:TranscribeClmAudio in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeClmAudio",
+      "operation": "TranscribeClmAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeClmAudio:TranscribeClmAudio in US East (N. Virginia), 250K min to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000630000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeClmAudio",
+      "operation": "TranscribeClmAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeClmAudio:TranscribeClmAudio in US East (N. Virginia), 1M min to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000430000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeClmAudio",
+      "operation": "TranscribeClmAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeClmAudio:TranscribeClmAudio in US East (N. Virginia), 5M min +",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000330000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MedicalStreamingAudio",
+      "operation": "MedicalStreamingAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Stream to Text"
+    },
+    "description": "Processed Medical streaming transcription request in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0012500000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MedicalTranscribeAudio",
+      "operation": "MedicalTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Medical Audio to Text"
+    },
+    "description": "$0.00125 per seconds for MedicalTranscribeAudio:MedicalTranscribeAudio in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0012500000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsTranscribeAudio",
+      "operation": "CallAnalyticsTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:TranscribeAudio in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsTranscribeAudio",
+      "operation": "CallAnalyticsTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:TranscribeAudio in US East (N. Virginia), 250K to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0003100000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsTranscribeAudio",
+      "operation": "CallAnalyticsTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:TranscribeAudio in US East (N. Virginia), 1M to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0002300000"
+    }
+  },
+  {
+    "productFamily": "Transcription Job",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CallAnalyticsTranscribeAudio",
+      "operation": "CallAnalyticsTranscribeAudio",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Call Analytics"
+    },
+    "description": "USD per second for CallAnalytics:TranscribeAudio in US East (N. Virginia), 5M min+",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0001900000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeStreamingClm",
+      "operation": "TranscribeStreamingClm",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeStreamingClm:TranscribeStreamingClm in US East (N. Virginia), 0 to 250K min",
+    "beginRange": "0",
+    "endRange": "15000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeStreamingClm",
+      "operation": "TranscribeStreamingClm",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeStreamingClm:TranscribeStreamingClm in US East (N. Virginia), 250K min to 1M min",
+    "beginRange": "15000000",
+    "endRange": "60000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000630000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeStreamingClm",
+      "operation": "TranscribeStreamingClm",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeStreamingClm:TranscribeStreamingClm in US East (N. Virginia), 1M min to 5M min",
+    "beginRange": "60000000",
+    "endRange": "300000000",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000430000"
+    }
+  },
+  {
+    "productFamily": "Streaming",
+    "attributes": {
+      "servicecode": "transcribe",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TranscribeStreamingClm",
+      "operation": "TranscribeStreamingClm",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Transcribe",
+      "supportedModes": "Transcribe Custom Language Model"
+    },
+    "description": "USD per Second for TranscribeStreamingClm:TranscribeStreamingClm in US East (N. Virginia), 5M min +",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000330000"
+    }
+  }
+]

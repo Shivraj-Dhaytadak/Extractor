@@ -1,0 +1,128 @@
+[
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Tiered Usage Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "First 250 instance-assessments",
+    "beginRange": "0",
+    "endRange": "250",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Tiered Usage Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "Next 750 instance-assessments",
+    "beginRange": "250",
+    "endRange": "1000",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Tiered Usage Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "Next 4,000 instance-assessments",
+    "beginRange": "1000",
+    "endRange": "5000",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Tiered Usage Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "Next 45,000 instance-assessments",
+    "beginRange": "5000",
+    "endRange": "50000",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Tiered Usage Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "All other instance-assessments",
+    "beginRange": "50000",
+    "endRange": "Inf",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector Network Assessment",
+    "attributes": {
+      "servicecode": "AmazonInspector",
+      "description": "Free Trial Network instance-assessments",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "network-assessments-free",
+      "operation": "",
+      "freeUsageIncluded": "250 Network instance-assessments or 90 days",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "Free Trial instance-assessments",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "InstanceAssessments",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Hourly charge for Cloud WAN Site-to-Site VPN attachments",
+      "usagetype": "USE1-CloudWAN-Attachment-Hours",
+      "operation": "CloudWANS2SVPN",
+      "attachmentType": "AWS Site-to-Site VPN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANS2SVPN in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Hourly charge for Cloud WAN Core Network Edge TGW Peering",
+      "usagetype": "USE1-CloudWAN-Peering-Hours",
+      "operation": "CloudWANTGWPeering",
+      "attachmentType": "Transit Gateway",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.065 per hour for CloudWAN-Peering-Hours:CloudWANTGWPeering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Hourly charge for Cloud WAN VPC Attachments",
+      "usagetype": "USE1-CloudWAN-Attachment-Hours",
+      "operation": "CloudWANVPC",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANVPC in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Hourly charge for Cloud WAN Connect attachments",
+      "usagetype": "USE1-CloudWAN-Attachment-Hours",
+      "operation": "CloudWANConnect",
+      "attachmentType": "Connect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.065 per hour for CloudWAN-Attachment-Hours:CloudWANConnect in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Charge for per GB data processed by AWS Cloud WAN for VPC attachments",
+      "usagetype": "USE1-CloudWAN-Bytes",
+      "operation": "CloudWANVPC",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.02 per GigaBytes for CloudWAN-Bytes:CloudWANVPC in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Charge for per GB data processed by AWS Cloud WAN  for Site-to-Site VPN attachments",
+      "usagetype": "USE1-CloudWAN-Bytes",
+      "operation": "CloudWANS2SVPN",
+      "attachmentType": "AWS Site-to-Site VPN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.02 per GigaBytes for CloudWAN-Bytes:CloudWANS2SVPN in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudWAN",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CloudWAN",
+      "groupDescription": "Hourly charge for Cloud WAN Core Network Edge",
+      "usagetype": "USE1-CloudWAN-CoreNetworkEdge-Hours",
+      "operation": "CloudWANCoreNetworkEdge",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Cloud WAN"
+    },
+    "description": "$0.50 per hour for CloudWAN-CoreNetworkEdge-Hours:CloudWANCoreNetworkEdge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  }
+]

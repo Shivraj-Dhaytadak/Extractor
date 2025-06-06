@@ -1,0 +1,162 @@
+[
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Custom Analysis Execution - 1-ACU",
+      "usagetype": "USE1-1-AnalysisComputeHour",
+      "operation": "CreateDatasetContent",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.36 per ACU-Hour for 1-AnalysisComputeHourCreateDatasetContent in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Hour",
+    "pricePerUnit": {
+      "USD": "0.3600000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - ProcessingByte",
+      "usagetype": "USE1-DataProcessing-Bytes",
+      "operation": "DataProcessing",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.20 per GB of data processed in pipelines in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Scanning",
+      "usagetype": "USE1-DataScanned-TB",
+      "operation": "CreateDatasetContent",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$6.50 per TB of scanned data in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TB",
+    "pricePerUnit": {
+      "USD": "6.5000000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Processed Storage",
+      "usagetype": "USE1-ProcessedStorage-ByteHrs",
+      "operation": "ProcessedDataStorage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.03 per GB of processed data stored per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Raw Storage",
+      "usagetype": "USE1-RawStorage-ByteHrs",
+      "operation": "RawDataStorage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.023 per GB of raw storage for first 50TB per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "51200",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Raw Storage",
+      "usagetype": "USE1-RawStorage-ByteHrs",
+      "operation": "RawDataStorage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.022 per GB of raw storage for next 450TB per month in US East (N. Virginia)",
+    "beginRange": "51200",
+    "endRange": "512000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Raw Storage",
+      "usagetype": "USE1-RawStorage-ByteHrs",
+      "operation": "RawDataStorage",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.021 per GB of raw storage for over 500TB per month in US East (N. Virginia)",
+    "beginRange": "512000",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "IoTAnalytics",
+    "attributes": {
+      "servicecode": "AWSIoTAnalytics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoTAnalytics - Custom Analysis Execution - 2-ACU",
+      "usagetype": "USE1-2-AnalysisComputeHour",
+      "operation": "CreateDatasetContent",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Analytics"
+    },
+    "description": "$0.72 per ACU-Hour for 2-AnalysisComputeHourCreateDatasetContent in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Hour",
+    "pricePerUnit": {
+      "USD": "0.7200000000"
+    }
+  }
+]

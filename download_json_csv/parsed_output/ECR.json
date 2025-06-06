@@ -1,0 +1,22 @@
+[
+  {
+    "productFamily": "EC2 Container Registry",
+    "attributes": {
+      "servicecode": "AmazonECR",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon EC2 Container Registry (ECR)",
+      "storageType": "S3"
+    },
+    "description": "$0.10 per GB-month of data storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

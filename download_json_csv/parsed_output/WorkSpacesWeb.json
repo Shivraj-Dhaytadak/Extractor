@@ -1,0 +1,65 @@
+[
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkSpacesWeb",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WORKSPACES-WEB-ST-LARGE",
+      "operation": "",
+      "bundle": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Web",
+      "size": "Large"
+    },
+    "description": "$20 per monthly active user (MAU) in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MAU",
+    "pricePerUnit": {
+      "USD": "20.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkSpacesWeb",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WORKSPACES-WEB-ST",
+      "operation": "",
+      "bundle": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Web",
+      "size": "Regular"
+    },
+    "description": "$7 per monthly active user (MAU) in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MAU",
+    "pricePerUnit": {
+      "USD": "7.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkSpacesWeb",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WORKSPACES-WEB-ST-XLARGE",
+      "operation": "",
+      "bundle": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Web",
+      "size": "XLarge"
+    },
+    "description": "$35 per monthly active user (MAU) in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MAU",
+    "pricePerUnit": {
+      "USD": "35.0000000000"
+    }
+  }
+]

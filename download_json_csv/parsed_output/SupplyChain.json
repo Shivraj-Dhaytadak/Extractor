@@ -1,0 +1,282 @@
+[
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-hours",
+      "operation": "USE1-hours-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCDL hourly, <10 GB storage"
+    },
+    "description": "$0.28 per hours for hours:USE1-hours-OP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InstanceHour",
+      "operation": "USE1-InstanceHour-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCDL < 10GB Storage"
+    },
+    "description": "Supply Chain Data Lake, USE1-hours-OP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StorageSize",
+      "operation": "USE1-StorageSize-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCDL>10GBStorage"
+    },
+    "description": "Supply Chain Datalake, $0.00 up to 10GB - storage",
+    "beginRange": "0",
+    "endRange": "10",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StorageSize",
+      "operation": "USE1-StorageSize-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCDL>10GBStorage"
+    },
+    "description": "Supply Chain Data Lake, $0.25/GB - storage",
+    "beginRange": "10",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ADPSiteProductCount",
+      "operation": "USE1-ADPSiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "ADP Product SKU Location Combinations"
+    },
+    "description": "Demand Planning, Tier 1, 0-100K Product SKU Location Combinations - $0.30 ea",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ADPSiteProductCount",
+      "operation": "USE1-ADPSiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "ADP Product SKU Location Combinations"
+    },
+    "description": "Demand Planning, Tier 2, Next 900K Product SKU Location Combinations - $0.10 ea",
+    "beginRange": "100000",
+    "endRange": "1000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ADPSiteProductCount",
+      "operation": "USE1-ADPSiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "ADP Product SKU Location Combinations"
+    },
+    "description": "Demand Planning, Tier 3, Over 1M Product SKU Location Combinations - $0.035 ea",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SustainabilityDataRequest",
+      "operation": "USE1-SustainabilityDataRequestOP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "Sustainability Data Requests"
+    },
+    "description": "Sustainability, Tier 1, 25-1000 Data Requests - $6.00 ea",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "6.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SustainabilityDataRequest",
+      "operation": "USE1-SustainabilityDataRequestOP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "Sustainability Data Requests"
+    },
+    "description": "Sustainability, Tier 2, Over 1000 Data Requests - $3.00 ea",
+    "beginRange": "1000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SPSiteProductCount",
+      "operation": "USE1-SPSiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "Component SKU Location Combinations"
+    },
+    "description": "Supply Planning, Tier 1, 0-100K Component SKU Location Combinations - $0.30 ea",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SPSiteProductCount",
+      "operation": "USE1-SPSiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "Component SKU Location Combinations"
+    },
+    "description": "Supply Planning, Tier 2, Over 100K Component SKU Location Combinations - $0.10 ea",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SiteProductCount",
+      "operation": "USE1-SiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCI Product SKU Location Combinations"
+    },
+    "description": "Supply Chain Insights, Tier 1, 0-100K Product SKU Location Combinations - $0.40 ea",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.4000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SiteProductCount",
+      "operation": "USE1-SiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCI Product SKU Location Combinations"
+    },
+    "description": "Supply Chain Insights, Tier 2, Next 900K Product SKU Location Combinations - $0.13 ea",
+    "beginRange": "100000",
+    "endRange": "1000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Supply Chain",
+    "attributes": {
+      "servicecode": "AWSSupplyChain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SiteProductCount",
+      "operation": "USE1-SiteProductCount-OP",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Supply Chain",
+      "type": "SCI Product SKU Location Combinations"
+    },
+    "description": "Supply Chain Insights, Tier 3, Over 1M Product SKU Location Combinations - $0.05 ea",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  }
+]

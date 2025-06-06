@@ -1,0 +1,3006 @@
+[
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound Reserved",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "Reserved-DataTransfer-Out-Hours",
+      "operation": "DataProcessedReserved150Mbps1Yr",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "reservedTier": "150 Mbps",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$2.834/hour Reserved Outbound Bandwidth at 150Mbps US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.8340000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Hyderabad)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Hyderabad)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS5-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-south-2",
+      "regionCode": "ap-south-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.086 per GB - Asia Pacific (Hyderabad) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0860000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Sydney)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Sydney)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS2-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-2",
+      "regionCode": "ap-southeast-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.14 per GB - Asia Pacific (Sydney) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US West (N. California)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USW1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-west-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from US West (Northern California)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-720p",
+      "flowType": "CDI-RunningOutput-JPEG-XS-720p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.13/hour of 720p JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US West (Oregon)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US West (Oregon)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USW2-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-west-2",
+      "regionCode": "us-west-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - US West (Oregon) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US West (N. California)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US West (N. California)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USW1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-west-1",
+      "regionCode": "us-west-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - US West (Northern California) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "Inter Region Peering Data Transfer Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.020 per GB - Data transfer from US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Paris)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUW3-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-3"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Paris)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Africa (Cape Town)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Africa (Cape Town)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "AFS1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "af-south-1",
+      "regionCode": "af-south-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.027 per GB - Africa (Cape Town) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0270000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (Ohio)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (Ohio)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE2-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-2",
+      "regionCode": "us-east-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - US East (Ohio) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "IntraRegion Entitlement In",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-DataTransfer-Regional-Bytes",
+      "operation": "DataProcessedEntitlementIn",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.01 per GB - entitlement data transfer US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Ireland)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "EU (Ireland)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EU-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-1",
+      "regionCode": "eu-west-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - EU (Ireland) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Melbourne)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS6-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-4"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Melbourne)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Ireland)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EU-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Ireland)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-480p",
+      "flowType": "CDI-RunningOutput-CDI-480p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.06/hour of 480p CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Tokyo)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Tokyo)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-1",
+      "regionCode": "ap-northeast-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.09 per GB - Asia Pacific (Tokyo) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-Other",
+      "flowType": "CDI-RunningOutput-CDI-Other",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.06/hour of Undefined CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (London)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "EU (London)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUW2-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-2",
+      "regionCode": "eu-west-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - EU (London) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-480p",
+      "flowType": "CDI-RunningFlow-480p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$1.5/hour of 480p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Amazon CloudFront",
+      "toLocationType": "AWS Edge Location",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.00 per GB data transfer out of US East (Northern Virginia) to CloudFront",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-2160p",
+      "flowType": "CDI-RunningFlow-2160p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$12/hour of 2160p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "12.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Frankfurt)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "EU (Frankfurt)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUC1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-central-1",
+      "regionCode": "eu-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - EU (Germany) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-1080i",
+      "flowType": "CDI-RunningOutput-CDI-1080i",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.13/hour of 1080i CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow_LargeInstance",
+      "flowType": "Flow-Large",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$1.50 per Hour for RunningFlow_LargeInstance in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Canada (Central)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-CAN1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ca-central-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Canada (Central)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "IntraRegion",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "DataTransfer-Regional-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.010 per GB - regional data transfer in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Tokyo)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Tokyo)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Hyderabad)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Hyderabad)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS5-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-south-2",
+      "regionCode": "ap-south-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Hyderabad) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Middle East (UAE)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-MEC1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "me-central-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Middle East (UAE)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Seoul)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Seoul)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN2-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-2",
+      "regionCode": "ap-northeast-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Seoul) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Singapore)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Singapore)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (London)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "EU (London)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUW2-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-2",
+      "regionCode": "eu-west-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - EU (London) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Hong Kong)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Hong Kong)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APE1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-east-1",
+      "regionCode": "ap-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.09 per GB - Asia Pacific (Hong Kong) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Sydney)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS2-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-2"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Sydney)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound Reserved",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "Reserved-DataTransfer-Out-Hours",
+      "operation": "DataProcessedReserved50Mbps1Yr",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "reservedTier": "50 Mbps",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$1.161/hour Reserved Outbound Bandwidth at 50Mbps US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.1610000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Mumbai)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS3-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-south-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Mumbai)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Middle East (UAE)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-MEC1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "me-central-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Middle East (UAE)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Frankfurt)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUC1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-central-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Germany)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Osaka)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Osaka)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN3-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-3",
+      "regionCode": "ap-northeast-3",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.09 per GB - Asia Pacific (Osaka) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Frankfurt)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "EU (Frankfurt)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUC1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-central-1",
+      "regionCode": "eu-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - EU (Germany) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US West (Oregon)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US West (Oregon)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USW2-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-west-2",
+      "regionCode": "us-west-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - US West (Oregon) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Africa (Cape Town)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Africa (Cape Town)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-AFS1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "af-south-1",
+      "regionCode": "af-south-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Africa (Cape Town)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-720p",
+      "flowType": "CDI-RunningOutput-CDI-720p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.13/hour of 720p CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Mumbai)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS3-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-south-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Mumbai)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Seoul)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Seoul)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN2-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-2",
+      "regionCode": "ap-northeast-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.080 per GB - Asia Pacific (Seoul) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-2160p",
+      "flowType": "CDI-RunningOutput-CDI-2160p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.6/hour of 2160p CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Ireland)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EU-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Ireland)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Canada (Central)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Canada (Central)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "CAN1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ca-central-1",
+      "regionCode": "ca-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.022 per GB - Canada (Central) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Stockholm)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "EU (Stockholm)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUN1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-north-1",
+      "regionCode": "eu-north-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - EU (Stockholm) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "South America (Sao Paulo)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-SAE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "sa-east-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from South America (Sao Paulo)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US West (Oregon)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USW2-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-west-2"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to US West (Oregon)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "South America (Sao Paulo)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "South America (Sao Paulo)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "SAE1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "sa-east-1",
+      "regionCode": "sa-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.16 per GB - South America (Sao Paulo) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (London)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUW2-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-2"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to EU (London)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Stockholm)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUN1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-north-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to EU (Stockholm)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Tokyo)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Tokyo)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US West (Oregon)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USW2-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-west-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from US West (Oregon)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-480p",
+      "flowType": "CDI-RunningOutput-JPEG-XS-480p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.06/hour of 480p JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Sydney)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Sydney)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS2-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-2",
+      "regionCode": "ap-southeast-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Sydney) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Middle East (UAE)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Middle East (UAE)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "MEC1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "me-central-1",
+      "regionCode": "me-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.025 per GB - Middle East (UAE) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Mumbai)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Mumbai)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS3-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-south-1",
+      "regionCode": "ap-south-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Mumbai) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Osaka)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Osaka)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN3-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-3",
+      "regionCode": "ap-northeast-3",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Osaka) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.070 per GB - next 100 TB / month data transfer out",
+    "beginRange": "51200",
+    "endRange": "153600",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.000 per GB - first 100 GB of data transferred out per month",
+    "beginRange": "0",
+    "endRange": "100",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.050 per GB - greater than 150 TB / month data transfer out",
+    "beginRange": "153600",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.090 per GB - first 10 TB / month data transfer out beyond the global free tier",
+    "beginRange": "100",
+    "endRange": "10240",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.085 per GB - next 40 TB / month data transfer out",
+    "beginRange": "10240",
+    "endRange": "51200",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0850000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-1080i",
+      "flowType": "CDI-RunningFlow-1080i",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$3/hour of 1080i Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Melbourne)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS6-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-4"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Melbourne)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Tokyo)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Tokyo)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APN1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-northeast-1",
+      "regionCode": "ap-northeast-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Tokyo) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Africa (Cape Town)",
+      "toLocationType": "AWS Region",
+      "usagetype": "AFS1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "af-south-1"
+    },
+    "description": "$0.00 per GB - Africa (Cape Town) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US West (N. California)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USW1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-west-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to US West (Northern California)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Paris)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "EU (Paris)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUW3-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-3",
+      "regionCode": "eu-west-3",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - EU (Paris) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-2160p",
+      "flowType": "CDI-RunningOutput-JPEG-XS-2160p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.6/hour of 2160p JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Hyderabad)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS5-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-south-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Hyderabad)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "South America (Sao Paulo)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-SAE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "sa-east-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to South America (Sao Paulo)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Africa (Cape Town)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-AFS1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "af-south-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Africa (Cape Town)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-720p",
+      "flowType": "CDI-RunningFlow-720p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$3/hour of 720p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "South America (Sao Paulo)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "South America (Sao Paulo)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "SAE1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "sa-east-1",
+      "regionCode": "sa-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - South America (Sao Paulo) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "IntraRegion Entitlement Out",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-DataTransfer-Regional-Bytes",
+      "operation": "DataProcessedEntitlementOut",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - subscriber funded entitlement data transfer US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Singapore)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Singapore)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-1",
+      "regionCode": "ap-southeast-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.09 per GB - Asia Pacific (Singapore) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Hong Kong)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Hong Kong)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APE1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-east-1",
+      "regionCode": "ap-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Hong Kong) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Paris)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "EU (Paris)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUW3-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-3",
+      "regionCode": "eu-west-3",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - EU (Paris) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Singapore)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Singapore)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (London)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUW2-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from EU (London)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Ireland)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "EU (Ireland)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EU-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-west-1",
+      "regionCode": "eu-west-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - EU (Ireland) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Amazon CloudFront",
+      "toLocationType": "AWS Edge Location",
+      "usagetype": "USE1-CloudFront-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$0.00 per GB data transfer in to US East (Northern Virginia) from CloudFront",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Stockholm)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUN1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-north-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Stockholm)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Paris)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUW3-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-west-3"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Paris)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-Other",
+      "flowType": "CDI-RunningOutput-JPEG-XS-Other",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.06/hour of Undefined JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Seoul)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN2-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Seoul)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (Ohio)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (Ohio)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE2-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-2",
+      "regionCode": "us-east-2",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.01 per GB - US East (Ohio) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (Ohio)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USE2-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from US East (Ohio)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Mumbai)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Mumbai)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS3-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-south-1",
+      "regionCode": "ap-south-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.086 per GB - Asia Pacific (Mumbai) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0860000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound Reserved",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "Reserved-DataTransfer-Out-Hours",
+      "operation": "DataProcessedReserved500Mbps1Yr",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "reservedTier": "500 Mbps",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$6.474/hour Reserved Outbound Bandwidth at 500Mbps US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.4740000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Osaka)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN3-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-3"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Osaka)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (Ohio)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-USE2-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-2"
+    },
+    "description": "$0.01 per GB - US East (Northern Virginia) data transfer to US East (Ohio)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-1080p",
+      "flowType": "CDI-RunningFlow-1080p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$6/hour of 1080p Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "6.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Seoul)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN2-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-2"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Seoul)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Singapore)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Singapore)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-1",
+      "regionCode": "ap-southeast-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Singapore) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "EU (Stockholm)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "EU (Stockholm)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "EUN1-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "eu-north-1",
+      "regionCode": "eu-north-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.02 per GB - EU (Stockholm) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Outbound Reserved",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "External",
+      "toLocationType": "Other",
+      "usagetype": "Reserved-DataTransfer-Out-Hours",
+      "operation": "DataProcessedReserved1500Mbps1Yr",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "reservedTier": "1500 Mbps",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": ""
+    },
+    "description": "$11.444/hour Reserved Outbound Bandwidth at 1500Mbps US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "11.4440000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Melbourne)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Asia Pacific (Melbourne)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS6-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-4",
+      "regionCode": "ap-southeast-4",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Asia Pacific (Melbourne) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "EU (Frankfurt)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-EUC1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "eu-central-1"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from EU (Germany)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "AWS Inbound",
+      "fromLocation": "External",
+      "fromLocationType": "Other",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "DataTransfer-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.000 per GB - data transfer in per month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-1080p",
+      "flowType": "CDI-RunningOutput-JPEG-XS-1080p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.3/hour of 1080p JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US West (N. California)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US West (N. California)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USW1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-west-1",
+      "regionCode": "us-west-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - US West (Northern California) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Osaka)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APN3-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-northeast-3"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Osaka)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Canada (Central)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-CAN1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ca-central-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Canada (Central)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-CDI-1080p",
+      "flowType": "CDI-RunningOutput-CDI-1080p",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.3/hour of 1080p CDI Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "Inter Region Peering Data Transfer Inbound",
+      "fromLocation": "External",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Data transfer to US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningOutput-JPEG-XS-1080i",
+      "flowType": "CDI-RunningOutput-JPEG-XS-1080i",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.13/hour of 1080i JPEG-XS Output usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow",
+      "flowType": "On Demand",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$0.16/hour of Active Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1600000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Middle East (UAE)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Middle East (UAE)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "MEC1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "me-central-1",
+      "regionCode": "me-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Middle East (UAE) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Canada (Central)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "Canada (Central)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "CAN1-USE1-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ca-central-1",
+      "regionCode": "ca-central-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 per GB - Canada (Central) data transfer from US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "Asia Pacific (Melbourne)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "Asia Pacific (Melbourne)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "APS6-USE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "ap-southeast-4",
+      "regionCode": "ap-southeast-4",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.14 per GB - Asia Pacific (Melbourne) data transfer to US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Sydney)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS2-AWS-In-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-southeast-2"
+    },
+    "description": "$0.00 per GB - US East (Northern Virginia) data transfer from Asia Pacific (Sydney)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Hyderabad)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APS5-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-south-2"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Hyderabad)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Usage-Hours",
+      "operation": "RunningFlow-CDI-Other",
+      "flowType": "CDI-RunningFlow-Other",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect"
+    },
+    "description": "$1.5/hour of Undefined Active CDI/JPEG-XS Flow usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AWSMediaConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Asia Pacific (Hong Kong)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-APE1-AWS-Out-Bytes",
+      "operation": "DataProcessed",
+      "fromRegionCode": "us-east-1",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaConnect",
+      "toRegionCode": "ap-east-1"
+    },
+    "description": "$0.02 per GB - US East (Northern Virginia) data transfer to Asia Pacific (Hong Kong)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  }
+]

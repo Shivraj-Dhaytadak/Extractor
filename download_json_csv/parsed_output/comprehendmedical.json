@@ -1,0 +1,602 @@
+[
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "SNOMEDCTInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferSNOMEDCT-Batch at USD 0.00075 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0007500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "SNOMEDCTInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferSNOMEDCT-Batch at USD 0.00375 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0037500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "SNOMEDCTInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferSNOMEDCT-Batch at USD 0.0075 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0075000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-DetectPHI",
+      "operation": "DetectPHI",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of DetectPHI-Sync at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-DetectPHI",
+      "operation": "DetectPHI",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of DetectPHI-Sync at USD 0.0005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-DetectPHI",
+      "operation": "DetectPHI",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of DetectPHI-Sync at USD 0.0014 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "ICD10CMInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferICD10CM-Batch at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "ICD10CMInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferICD10CM-Batch at USD 0.0005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "ICD10CMInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferICD10CM-Batch at USD 0.0005 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "EntitiesDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of DetectEntities-Batch at USD 0.01 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "EntitiesDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of DetectEntities-Batch at USD 0.001 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "EntitiesDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of DetectEntities-Batch at USD 0.005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-InferSNOMEDCT",
+      "operation": "InferSNOMEDCT",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferSNOMEDCT-Sync at USD 0.00375 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0037500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-InferSNOMEDCT",
+      "operation": "InferSNOMEDCT",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferSNOMEDCT-Sync at USD 0.0075 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0075000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ComprehendMedical-InferSNOMEDCT",
+      "usagetype": "USE1-InferSNOMEDCT",
+      "operation": "InferSNOMEDCT",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferSNOMEDCT-Sync at USD 0.00075 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0007500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of DetectEntities-Sync at USD 0.001 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of DetectEntities-Sync at USD 0.005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectEntities",
+      "usagetype": "USE1-DetectEntities",
+      "operation": "DetectEntities",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of DetectEntities-Sync at USD 0.01 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "PHIDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of DetectPHI-Batch at USD 0.0005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "PHIDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of DetectPHI-Batch at USD 0.0014 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-DetectPHI",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "PHIDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of DetectPHI-Batch at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferICD10CM",
+      "usagetype": "USE1-InferICD10CM",
+      "operation": "InferICD10CM",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferICD10CM-Sync at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferICD10CM",
+      "usagetype": "USE1-InferICD10CM",
+      "operation": "InferICD10CM",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferICD10CM-Sync at USD 0.0005 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferICD10CM",
+      "usagetype": "USE1-InferICD10CM",
+      "operation": "InferICD10CM",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferICD10CM-Sync at USD 0.0005 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-InferRxNorm",
+      "operation": "InferRxNorm",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-InferRxNorm",
+      "operation": "InferRxNorm",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-InferRxNorm",
+      "operation": "InferRxNorm",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferRxNorm-Sync at USD 0.00025 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "RxNormInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "Between 1M and 2M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+    "beginRange": "1000000",
+    "endRange": "2000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "RxNormInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "First 1M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Entity Detection",
+    "attributes": {
+      "servicecode": "comprehendmedical",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Global-ComprehendMedical-InferRxNorm",
+      "usagetype": "USE1-ComprehendMedical-Batching-IAD-Prod",
+      "operation": "RxNormInference",
+      "regionCode": "us-east-1",
+      "servicename": "Comprehend Medical"
+    },
+    "description": "More than 2M units of InferRxNorm-Batch at USD 0.00025 per Unit",
+    "beginRange": "2000000",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  }
+]

@@ -1,0 +1,863 @@
+[
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 1 $0.045 per GB of data ingested ",
+    "beginRange": "0",
+    "endRange": "256000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 2 $0.038 per GB of data ingested ",
+    "beginRange": "256000",
+    "endRange": "1024000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0380000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 3 $0.032 per GB of data ingested",
+    "beginRange": "1024000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0320000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 1 USD 0.13 per GB of data ingested",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 2 USD 0.11 per GB of data ingested",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 3 USD 0.09 per GB of data ingested",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data delivered to VPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VPC",
+      "usagetype": "USE1-Firehose-VpcDelivery-Bytes",
+      "operation": "VpcBandwidth",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.01 per GB of data delivered to destination in VPC in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-KDS-no-rounding-BilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Per GB of data ingested or delivered",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0740000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data format conversion",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch format conversion",
+      "usagetype": "USE1-DFCBilledBytes",
+      "operation": "DataFormatConversion",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.018 per GB of data format conversion",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of incremental data processed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IncrementalProcessedBytes",
+      "operation": "Process",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 1 $0.045 per GB of incremental data processed ",
+    "beginRange": "0",
+    "endRange": "256000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of incremental data processed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IncrementalProcessedBytes",
+      "operation": "Process",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 2 $0.038 per GB of incremental data processed ",
+    "beginRange": "256000",
+    "endRange": "1024000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0380000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of incremental data processed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-IncrementalProcessedBytes",
+      "operation": "Process",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 3 $0.032 per GB of incremental data processed ",
+    "beginRange": "1024000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0320000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-DirectPUT-no-rounding-BilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Per GB of data",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per object dynamically partitioned",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Dynamic Partitioning",
+      "usagetype": "USE1-S3DeliveryObjectCount",
+      "operation": "DynamicPartitioning",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.005 per thousand dynamically partitioned objects",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Objects",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of dynamically partitioned data delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Dynamic Partitioning",
+      "usagetype": "USE1-DPBytesDelivered",
+      "operation": "DynamicPartitioning",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.02 per GB of data processed through dynamic partitioning",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data read from Kinesis Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-StreamsSourceBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 1 $0.029 per GB of data read from Kinesis Data Streams",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0290000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data read from Kinesis Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-StreamsSourceBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 2 $0.025 per GB of data read from Kinesis Data Streams",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data read from Kinesis Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-StreamsSourceBilledBytes",
+      "operation": "GetKinesisRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 3 $0.020 per GB of data read from Kinesis Data Streams",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-DirectPUT-no-rounding-BilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Per GB of data ingested or delivered",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per JQ processing hour",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Dynamic Partitioning",
+      "usagetype": "USE1-MetadataProcessingDuration",
+      "operation": "DynamicPartitioning",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.070 per JQ processing hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 1 USD 0.13 per GB of data ingested",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 2 USD 0.11 per GB of data ingested",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-VendedLogsBilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "sourcetype": "Vended Logs"
+    },
+    "description": "Tier 3 USD 0.09 per GB of data ingested",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 1 $0.029 per GB of data ingested",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0290000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 2 $0.025 per GB of data ingested",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 3 $0.020 per GB of data ingested",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 1 $0.075 per GB of data ingested ",
+    "beginRange": "0",
+    "endRange": "256000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 2 $0.064 per GB of data ingested ",
+    "beginRange": "256000",
+    "endRange": "1024000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0640000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered to Apache Iceberg Tables",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Event-by-Event Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "PutRecord",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 3 $0.053 per GB of data ingested",
+    "beginRange": "1024000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0530000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data decompressed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "CWL Decompression",
+      "usagetype": "USE1-DecompressionDecompressedBytes",
+      "operation": "Decompression",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Per GB of data decompressed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0032500000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-MSKAsSourceBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 1 $0.055 per GB of data ingested or delivered",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-MSKAsSourceBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 2 $0.047 per GB of data ingested or delivered",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0470000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-MSKAsSourceBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 3 $0.040 perGB of data ingested or delivered",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 1 $0.029 per GB of data ingested",
+    "beginRange": "0",
+    "endRange": "512000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0290000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 2 $0.025 per GB of data ingested",
+    "beginRange": "512000",
+    "endRange": "2048000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Batch Processing",
+      "usagetype": "USE1-BilledBytes",
+      "operation": "PutRecordBatch",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "Tier 3 $0.020 per GB of data ingested",
+    "beginRange": "2048000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per Hour per AZ for VPC delivery",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VPC",
+      "usagetype": "USE1-Firehose-VpcDelivery-Hours",
+      "operation": "RunVpcInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose",
+      "tickettype": "1"
+    },
+    "description": "$0.01 per Hour per AZ for VPC delivery in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 1 $0.045 per GB of data ingested ",
+    "beginRange": "0",
+    "endRange": "256000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 2 $0.038 per GB of data ingested ",
+    "beginRange": "256000",
+    "endRange": "1024000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0380000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Firehose",
+    "attributes": {
+      "servicecode": "AmazonKinesisFirehose",
+      "description": "Per GB of data ingested or delivered",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "MSK Record Processing",
+      "usagetype": "USE1-IcebergTablesBilledBytes",
+      "operation": "MSKAsSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Firehose"
+    },
+    "description": "Tier 3 $0.032 per GB of data ingested",
+    "beginRange": "1024000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0320000000"
+    }
+  }
+]

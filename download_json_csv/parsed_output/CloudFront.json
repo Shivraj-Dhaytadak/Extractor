@@ -1,0 +1,111 @@
+[
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AmazonCloudFront",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Edge-Requests",
+      "groupDescription": "Invocation call for a Lambda function",
+      "usagetype": "Lambda-Edge-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudFront"
+    },
+    "description": "$6.0E-7  per Request for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AmazonCloudFront",
+      "transferType": "Origin to Origin Shield",
+      "fromLocation": "External",
+      "fromLocationType": "Other",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-Bytes-OriginShield",
+      "operation": "",
+      "fromRegionCode": "",
+      "servicename": "Amazon CloudFront",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0 per GB - All data transfer into Origin Shield from Origin",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Data Transfer",
+    "attributes": {
+      "servicecode": "AmazonCloudFront",
+      "transferType": "Origin Shield to origin",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Data Origin",
+      "toLocationType": "Other",
+      "usagetype": "USE1-OBytes-OriginShield",
+      "operation": "",
+      "fromRegionCode": "us-east-1",
+      "servicename": "Amazon CloudFront",
+      "toRegionCode": ""
+    },
+    "description": "$0 per GB - All data transfer out to Origin from Origin Shield",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AmazonCloudFront",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS-Lambda-Edge-Duration",
+      "groupDescription": "Invocation duration weighted by memory assigned to function, measured in GB-s",
+      "usagetype": "Lambda-Edge-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon CloudFront"
+    },
+    "description": "$0.00005001 per Lambda-GB-Second for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Lambda-GB-Second",
+    "pricePerUnit": {
+      "USD": "0.0000500100"
+    }
+  },
+  {
+    "productFamily": "Request",
+    "attributes": {
+      "servicecode": "AmazonCloudFront",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests-OriginShield",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "requestDescription": "Origin Shield Requests",
+      "requestType": "CloudFront-Request-Origin-Shield",
+      "servicename": "Amazon CloudFront"
+    },
+    "description": "$0.0075 per 10,000 Origin Shield Requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000007500"
+    }
+  }
+]

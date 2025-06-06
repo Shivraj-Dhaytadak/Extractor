@@ -1,0 +1,1304 @@
+[
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Requests Processed 48KB (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-48KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.60 per million requests processed (48KB, Shield)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR ATP Entity (Shield Protected)",
+      "groupDescription": "AMR ATP Activated (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-ATP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Entity (Shield Protected)",
+      "groupDescription": "AMR Bot Control Activated (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-BotControl",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Requests Processed 48KB",
+      "usagetype": "USE1-RequestV2-48KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.60 per million requests processed (48KB)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR ATP Entity",
+      "groupDescription": "AMR ATP Activated",
+      "usagetype": "USE1-AMR-ATP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Requests Processed 32KB (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-32KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.30 per million requests processed (32KB, Shield)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000003000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Request",
+      "groupDescription": "AMR Bot Control Request Processed",
+      "usagetype": "USE1-AMR-BotControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per million requests processed by Bot Control",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Request",
+      "groupDescription": "AMR Bot Control Request Processed",
+      "usagetype": "USE1-AMR-BotControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per million requests processed by Bot Control",
+    "beginRange": "10000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Web ACL (Shield Protected)",
+      "groupDescription": "Web ACL Activated (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-WebACLV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per web ACL created (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Request (Shield Protected)",
+      "groupDescription": "AMR Bot Control Request Processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-BotControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per million requests processed by Bot Control",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Request (Shield Protected)",
+      "groupDescription": "AMR Bot Control Request Processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-BotControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per million requests processed by Bot Control",
+    "beginRange": "10000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rule (Shield Protected)",
+      "groupDescription": "Number of Rules added per Web Access Control Lists (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-Rule",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per Rule (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier2 2000WCU",
+      "usagetype": "USE1-RequestV2-Tier2-2000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.80 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier5 3500WCU",
+      "usagetype": "USE1-RequestV2-Tier5-3500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.40 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000014000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Number of Web Requests received",
+      "usagetype": "USE1-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per HTTP request",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Targeted Request (Shield Protected)",
+      "groupDescription": "AMR Bot Control Request Processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-BotControl-Targeted-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.0 per Request for ShieldProtected-AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Targeted Request (Shield Protected)",
+      "groupDescription": "AMR Bot Control Request Processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-BotControl-Targeted-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.0 per Million Request for ShieldProtected-AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier3 2500WCU",
+      "usagetype": "USE1-RequestV2-Tier3-2500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier7 4500WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier7-4500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.20 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000012000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier1 (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Challenge Served (Shield Protected)",
+      "groupDescription": "Challenge Served processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-ChallengeServed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.4 per Million Request  for ShieldProtected-ChallengeServed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Requests Processed 64KB",
+      "usagetype": "USE1-RequestV2-64KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.90 per million requests processed (64KB)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000009000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Web ACL",
+      "groupDescription": "Web ACL Activated",
+      "usagetype": "USE1-WebACLV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$5.00 per web ACL created (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rule",
+      "groupDescription": "Number of Rules added per Web Access Control Lists",
+      "usagetype": "USE1-Rule",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per Rule",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "month",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Number of Web Requests received (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per HTTP request (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier6 4000WCU",
+      "usagetype": "USE1-RequestV2-Tier6-4000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.60 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000016000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Requests Processed 64KB (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-64KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.90 per million requests processed (64KB, Shield)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000009000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier4 3000WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier4-3000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.60 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier3 2500WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier3-2500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.40 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier1",
+      "usagetype": "USE1-RequestV2-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.60 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rule (Shield Protected)",
+      "groupDescription": "Rule Activated (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RuleV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per rule created (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier2 2000WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier2-2000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.20 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier8 5000WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier8-5000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.40 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000014000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+    "beginRange": "10000",
+    "endRange": "2000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+    "beginRange": "2000000",
+    "endRange": "5000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0007000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+    "beginRange": "5000000",
+    "endRange": "15000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+    "beginRange": "15000000",
+    "endRange": "30000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request (Shield Protected)",
+      "groupDescription": "AMR Fraud Control request processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+    "beginRange": "30000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Web ACL (Shield Protected)",
+      "groupDescription": "Number of Web Access Control Lists (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-WebACL",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per WebACL (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier0 (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier0",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.00 per Request for Request Processed Tier0 (Shield Protected) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Web ACL",
+      "groupDescription": "Number of Web Access Control Lists",
+      "usagetype": "USE1-WebACL",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "Price per WebACL",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "month",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier4 3000WCU",
+      "usagetype": "USE1-RequestV2-Tier4-3000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.20 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000012000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Challenge Served",
+      "groupDescription": "Challenge Served processed",
+      "usagetype": "USE1-ChallengeServed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.4 per Million Request  for ChallengeServed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rule",
+      "groupDescription": "Rule Activated",
+      "usagetype": "USE1-RuleV2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per rule created (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+    "beginRange": "10000",
+    "endRange": "2000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+    "beginRange": "2000000",
+    "endRange": "5000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0007000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+    "beginRange": "5000000",
+    "endRange": "15000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+    "beginRange": "15000000",
+    "endRange": "30000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0002000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Fraud Control Request",
+      "groupDescription": "AMR Fraud Control request processed",
+      "usagetype": "USE1-AMR-FraudControl-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+    "beginRange": "30000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Requests Processed 32KB",
+      "usagetype": "USE1-RequestV2-32KB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.30 per million requests processed (32KB)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000003000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier6 4000WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier6-4000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.00 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier7 4500WCU",
+      "usagetype": "USE1-RequestV2-Tier7-4500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$1.80 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000018000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Captcha Attempts",
+      "groupDescription": "Captcha Attempts processed",
+      "usagetype": "USE1-CaptchaAttempted",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.40\u00c2\u00a0per thousand captcha attempts analyzed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier0",
+      "usagetype": "USE1-RequestV2-Tier0",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.60 per million Request for Request Processed Tier0 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Targeted Request",
+      "groupDescription": "AMR Bot Control Targeted Request Processed",
+      "usagetype": "USE1-AMR-BotControl-Targeted-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.0 per Request for AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Targeted Request",
+      "groupDescription": "AMR Bot Control Targeted Request Processed",
+      "usagetype": "USE1-AMR-BotControl-Targeted-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.0 per Million Request for AMR-BotControl-Targeted-Request in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request",
+      "groupDescription": "Request Processed Tier8 5000WCU",
+      "usagetype": "USE1-RequestV2-Tier8-5000WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$2.00 per million requests processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Request (Shield Protected)",
+      "groupDescription": "Request Processed Tier5 3500WCU (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-RequestV2-Tier5-3500WCU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.80 per million requests processed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Captcha Attempts (Shield Protected)",
+      "groupDescription": "Captcha Attempts processed (Shield Protected)",
+      "usagetype": "USE1-ShieldProtected-CaptchaAttempted",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$0.40\u00c2\u00a0per thousand captcha attempts analyzed (Shield Protected)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Web Application Firewall",
+    "attributes": {
+      "servicecode": "awswaf",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AMR Bot Control Entity",
+      "groupDescription": "AMR Bot Control Activated",
+      "usagetype": "USE1-AMR-BotControl",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS WAF"
+    },
+    "description": "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  }
+]

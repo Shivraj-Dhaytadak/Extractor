@@ -1,0 +1,279 @@
+[
+  {
+    "productFamily": "Management Tools - AWS CloudTrail Paid Events Recorded",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidEventsRecorded",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "0.00002 per paid event recorded in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidStorage-ByteHrs",
+      "operation": "",
+      "category": "PaidStorage-ByteHrs",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.023/GB/month for extended retention in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail Insights Events",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InsightsEvents",
+      "operation": "",
+      "insightstype": "APICallVolume",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "0.0000035 per event analyzed in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000035000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeTrialQueryScanned-Bytes",
+      "operation": "",
+      "category": "FreeTrialQueryScanned-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.0 per GB for FreeTrialQueryScanned-Bytes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail Data Events Recorded",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataEventsRecorded",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "0.000001 per data event recorded in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Ingestion-Bytes",
+      "operation": "",
+      "category": "Ingestion-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$2.5 per GB for Ingestion-Bytes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "5120",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "2.5000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Ingestion-Bytes",
+      "operation": "",
+      "category": "Ingestion-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$1 per GB for Ingestion-Bytes in US East (N. Virginia)",
+    "beginRange": "5120",
+    "endRange": "25600",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Ingestion-Bytes",
+      "operation": "",
+      "category": "Ingestion-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.5 per GB for Ingestion-Bytes in US East (N. Virginia)",
+    "beginRange": "25600",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-QueryScanned-Bytes",
+      "operation": "",
+      "category": "QueryScanned-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.005 per GB for QueryScanned-Bytes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Ingestion-Bytes-1yearstore-Other-data-sources",
+      "operation": "",
+      "category": "Ingestion-Bytes-1yearstore-other-data-sources",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.5/GB for Ingestion with 1 year retention for other data sources in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Ingestion-Bytes-1yearstore-Live-CloudTrail-Logs",
+      "operation": "",
+      "category": "Ingestion-Bytes-1yearstore",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.75/GB for Ingestion with 1 year retention for live CloudTrail logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail Free Events Recorded",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeEventsRecorded",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "0.0 per free event recorded in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NetworkEventsRecorded",
+      "operation": "",
+      "eventType": "Network events",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.000001 per network activity events recorded in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS CloudTrail",
+    "attributes": {
+      "servicecode": "AWSCloudTrail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeTrialIngestion-Bytes",
+      "operation": "",
+      "category": "FreeTrialIngestion-Bytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudTrail"
+    },
+    "description": "$0.0 per GB for FreeTrialIngestion-Bytes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

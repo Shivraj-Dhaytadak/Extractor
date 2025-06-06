@@ -1,0 +1,87 @@
+[
+  {
+    "productFamily": "StorageGateway-Deep Archive-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGatewayDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-TapeDARetrieval",
+      "feeDescription": "Fee for retrieving virtual tape from Deep Archive",
+      "usagetype": "USE1-Retrieval-Bytes-DA",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway Deep Archive"
+    },
+    "description": "$0.02 per GB virtual tape retrieval fee for standard retrieval from Glacier Deep Archive",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Deep Archive-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGatewayDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-DA-MoveFee",
+      "feeDescription": "Fee for moving a tape between Glacier and Deep Archive",
+      "usagetype": "Gateway:VTS-Move-Bytes-DA",
+      "operation": "TapeBytes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway Deep Archive"
+    },
+    "description": "$0.0032 per GB virtual tape fee for moving tape between S3 Glacier and Glacier Deep Archive",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0032000000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Deep Archive-Fee",
+    "attributes": {
+      "servicecode": "AWSStorageGatewayDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "StorageGateway-DA-EarlyDeleteFee",
+      "feeDescription": "Pro-rated fee for deleting an archived virtual tape prior to 180 days",
+      "usagetype": "Gateway:VTS-EarlyDelete-DA",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway Deep Archive"
+    },
+    "description": "$0.00099 per GB-Mo prorated for virtual tape deleted before 180 days from Glacier Deep Archive",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0009900000"
+    }
+  },
+  {
+    "productFamily": "StorageGateway-Deep Archive",
+    "attributes": {
+      "servicecode": "AWSStorageGatewayDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Deep Archive",
+      "usagetype": "Gateway:VTS-Storage-DA",
+      "operation": "",
+      "maximumCapacity": "2.5 TB",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Storage Gateway Deep Archive",
+      "storageDescription": "Virtual Tape in Library"
+    },
+    "description": "$0.00099 per GB-month of virtual tape storage used in Glacier Deep Archive",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0009900000"
+    }
+  }
+]

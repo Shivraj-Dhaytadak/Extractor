@@ -1,0 +1,275 @@
+[
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProactiveConfigRuleEvaluationsDetectiveEnabled",
+      "operation": "",
+      "category": "ProactiveConfigRuleEvaluationsDetectiveEnabled",
+      "platopricingtype": "ProactiveConfigRuleEvaluationsDetectiveEnabled",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.0 per ProactiveConfigRuleEvalDetEnabled in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ProactiveConfigRuleEvalDetEnabled",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProactiveConfigRuleEvaluations",
+      "operation": "",
+      "category": "ProactiveConfigRuleEvaluation",
+      "platopricingtype": "ProactiveConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.001 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "ProactiveConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProactiveConfigRuleEvaluations",
+      "operation": "",
+      "category": "ProactiveConfigRuleEvaluation",
+      "platopricingtype": "ProactiveConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.0008 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+    "beginRange": "100000",
+    "endRange": "500000",
+    "unit": "ProactiveConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProactiveConfigRuleEvaluations",
+      "operation": "",
+      "category": "ProactiveConfigRuleEvaluation",
+      "platopricingtype": "ProactiveConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.0005 per ProactiveConfigRuleEvaluations for ProactiveConfigRuleEvaluations in US East (N. Virginia)",
+    "beginRange": "500000",
+    "endRange": "Inf",
+    "unit": "ProactiveConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ConfigurationItemRecorded",
+      "operation": "",
+      "ciType": "Core",
+      "platopricingtype": "ConfigurationItemRecorded",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.003 per Configuration Item recorded in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ConfigurationItemRecorded",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConfigRuleEvaluations",
+      "operation": "",
+      "category": "ConfigRuleEvaluation",
+      "platopricingtype": "ConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.001 for the first 100,000 evaluations in  US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "ConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConfigRuleEvaluations",
+      "operation": "",
+      "category": "ConfigRuleEvaluation",
+      "platopricingtype": "ConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.0008 for the next 400,000 evaluations in  US East (N.Virginia) region",
+    "beginRange": "100000",
+    "endRange": "500000",
+    "unit": "ConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Rules",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConfigRuleEvaluations",
+      "operation": "",
+      "category": "ConfigRuleEvaluation",
+      "platopricingtype": "ConfigRuleEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.0005 for 500,001 evaluations and more  US East (N.Virginia) region",
+    "beginRange": "500000",
+    "endRange": "Inf",
+    "unit": "ConfigRuleEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CustomConfigItemRecorded",
+      "operation": "",
+      "ciType": "Custom",
+      "platopricingtype": "CustomConfigItemRecorded",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.003 per Custom Configuration Item recorded in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ConfigurationItemRecorded",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConfigurationItemRecordedDaily",
+      "operation": "",
+      "ciType": "Core",
+      "platopricingtype": "configurationItemRecordedDaily",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config"
+    },
+    "description": "$0.012 per ConfigurationItemRecordedDaily",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ConfigurationItemRecordedDaily",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Conformance Packs",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConformancePackEvaluations",
+      "operation": "",
+      "platopricingtype": "ConformancePackEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config",
+      "type": "ConformancePacks"
+    },
+    "description": "$0.001 for the first 100,000 Conformance pack evaluations in  US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "ConformancePackEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Conformance Packs",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConformancePackEvaluations",
+      "operation": "",
+      "platopricingtype": "ConformancePackEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config",
+      "type": "ConformancePacks"
+    },
+    "description": "$0.0008 for the next 400,000 Conformance pack evaluations in  US East (N.Virginia) region",
+    "beginRange": "100000",
+    "endRange": "500000",
+    "unit": "ConformancePackEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Management Tools - AWS Config Conformance Packs",
+    "attributes": {
+      "servicecode": "AWSConfig",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConformancePackEvaluations",
+      "operation": "",
+      "platopricingtype": "ConformancePackEvaluations",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Config",
+      "type": "ConformancePacks"
+    },
+    "description": "$0.0005 for 500,001 Conformance pack evaluations and more  US East (N.Virginia) region",
+    "beginRange": "500000",
+    "endRange": "Inf",
+    "unit": "ConformancePackEvaluations",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  }
+]

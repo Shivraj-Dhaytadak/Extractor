@@ -1,0 +1,504 @@
+[
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-FUOTA",
+      "operation": "",
+      "isshadow": "-",
+      "iswebsocket": "-",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.006 per Tasks for LoRaWAN-FUOTA in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "250000",
+    "unit": "Tasks",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-FUOTA",
+      "operation": "",
+      "isshadow": "-",
+      "iswebsocket": "-",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.003 per Tasks for LoRaWAN-FUOTA in US East (N. Virginia)",
+    "beginRange": "250000",
+    "endRange": "Inf",
+    "unit": "Tasks",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ActionsExecuted",
+      "operation": "",
+      "eventType": "Request",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.15 per million actions executed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ActionsExecuted",
+    "pricePerUnit": {
+      "USD": "0.0000001500"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-ConnectivityMessage",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "Yes",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.000065 per message to send and receive messages using public LoRaWAN network (Everynet)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000650000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Sidewalk-Messages",
+      "operation": "",
+      "protocol": "Sidewalk",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$2.30 per million Sidewalk messages - first 1 billion messages/month",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000023000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Sidewalk-Messages",
+      "operation": "",
+      "protocol": "Sidewalk",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.50 per million Sidewalk messages - next 4 billion messages/month",
+    "beginRange": "1000000000",
+    "endRange": "5000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Sidewalk-Messages",
+      "operation": "",
+      "protocol": "Sidewalk",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.20 per million Sidewalk messages - over 5 billion messages/month",
+    "beginRange": "5000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000012000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ConnectionMinutes",
+      "operation": "",
+      "protocol": "MQTT",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.08 per million minutes of connection",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000800"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.00 per million messages - first 1 billion messages/month",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.80 per million messages - next 4 billion messages/month",
+    "beginRange": "1000000000",
+    "endRange": "5000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.70 per million messages - over 5 billion messages/month",
+    "beginRange": "5000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000007000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RulesTriggered",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.15 per million rules triggered",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RulesTriggered",
+    "pricePerUnit": {
+      "USD": "0.0000001500"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-MetricQueries",
+      "operation": "MetricQueries",
+      "isshadow": "-",
+      "iswebsocket": "No",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.000002 per Metric Query",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RegistryAndShadowOperations",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.25 per million Device Shadow and Device Registry Operations",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000012500"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-Messages",
+      "operation": "",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$2.30 per million LoRaWAN messages - first 1 billion messages/month",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000023000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-Messages",
+      "operation": "",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.50 per million LoRaWAN messages - next 4 billion messages/month",
+    "beginRange": "1000000000",
+    "endRange": "5000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-Messages",
+      "operation": "",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$1.20 per million LoRaWAN messages - over 5 billion messages/month",
+    "beginRange": "5000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000012000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Advance-Transport",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "No",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.145 per MB of Advance-Transport usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "52400000",
+    "unit": "bytes",
+    "pricePerUnit": {
+      "USD": "0.0000001380"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Advance-Transport",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "No",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.116 per MB of Advance-Transport usage in US East (N. Virginia)",
+    "beginRange": "52400000",
+    "endRange": "Inf",
+    "unit": "bytes",
+    "pricePerUnit": {
+      "USD": "0.0000001110"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-ConnectivitySubscription",
+      "operation": "",
+      "isshadow": "Yes",
+      "iswebsocket": "No",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.50 per device per month for subscribing to use public LoRaWAN network (Everynet)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Subscriptions",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LoRaWAN-MetricRecords",
+      "operation": "MetricsRecords",
+      "isshadow": "-",
+      "iswebsocket": "-",
+      "protocol": "LoRaWAN",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.000002 per Metric Record",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Solved-Positions",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "No",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.001 per Position for Solved-Positions usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Solved-Positions",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "No",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.0008 per Position for Solved-Positions usage in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "AWSIoT",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Solved-Positions",
+      "operation": "",
+      "isshadow": "No",
+      "iswebsocket": "No",
+      "protocol": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT"
+    },
+    "description": "$0.0007 per Position for Solved-Positions usage in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "Inf",
+    "unit": "Position",
+    "pricePerUnit": {
+      "USD": "0.0007000000"
+    }
+  }
+]

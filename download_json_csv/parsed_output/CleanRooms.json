@@ -1,0 +1,3482 @@
+[
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_48XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_48XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "10.2820000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CleanRooms-SQL-Compute",
+      "operation": "RunCustomSQLAnalysis",
+      "computetype": "CustomSQL",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$2.00 per CRPU-Hr for CleanRooms-SQL-Compute:RunCustomSQLAnalysis in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CRPU-Hr",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C5_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8900000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_LARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.0600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_32XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "6.5280000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P3_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P3_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "28.1520000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_LARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1730000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.8430000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "8.2940000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4610000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.5050000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.1200000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M4_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M4_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.5300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2140000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "10.1800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C4_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C4_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4780000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_LARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1070000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C4_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C4_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.9090000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C5_9XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C5_9XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.8360000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.94 per hours for USE1-TrainingInstanceHours-ML_G4DN_2XLARGE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "10.1800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2040000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.1470000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_32XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.3730000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P3_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P3_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "14.6880000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M4_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M4_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.8400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_LARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1020000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_T3_LARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_T3_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5N_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5N_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.0370000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.3820000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.0900000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$1.505 per hours for USE1-TrainingInstanceHours-ML_G4DN_4XLARGE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.5050000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8960000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4610000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M4_10XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M4_10XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.4000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C4_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C4_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2390000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.5150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_48XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_48XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "20.3600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_48XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_48XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "20.3600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.5280000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.2640000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7360000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.1410000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M4_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M4_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.0900000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.0600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P4DE_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P4DE_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "47.1106000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2420000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.4480000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CleanRooms-SparkSQL-Compute",
+      "operation": "RunSparkSQLAnalysis",
+      "computetype": "SparkSQL",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$2 per CRPU-Hr for CleanRooms-SparkSQL-Compute:RunSparkSQLAnalysis in Asia Pacific (Tokyo)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CRPU-Hr",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_LARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1510000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.2580000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.1200000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6320000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8570000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4610000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5N_18XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5N_18XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.6660000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StartAudienceExportJob",
+      "operation": "StartAudienceExportJob",
+      "mlActivity": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.25 per 1,000 profiles",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Profiles",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.6050000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_T3_MEDIUM",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_T3_MEDIUM",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M4_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M4_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5N_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5N_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.5180000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CreateAudienceModel",
+      "operation": "CreateAudienceModel",
+      "mlActivity": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.04 per 1,000 profiles",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Profiles",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P4D_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P4D_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "37.6880000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_TRN1N_32XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_TRN1N_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "28.5000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.5300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9680000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.9030000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5N_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5N_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2590000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NumberOfInferenceRecords",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.0025 per 1,000 records",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0000025000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.8710000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7650000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P2_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P2_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "16.5600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9220000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3020000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_LARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G4DN_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G4DN_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7200000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$2.72 per hours for USE1-TrainingInstanceHours-ML_G4DN_8XLARGE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7200000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5_18XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5_18XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.6720000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7650000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7640000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P3_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P3_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.8250000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.2100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_32XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "6.5280000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.5300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.6860000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.0300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P2_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P2_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "8.6400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.6860000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P2_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P2_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.1250000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7650000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.7140000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9220000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_LARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4840000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6320000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_TRN1_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_TRN1_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.5400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.5300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_32XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.3730000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P3_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P3_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.8250000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.9350000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M4_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M4_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P3_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P3_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "14.6880000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4610000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C5_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2040000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M5_LARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M5_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.115 per hours for USE1-TrainingInstanceHours-ML_M5_LARGE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.5700000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_8XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.4190000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_LARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_LARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1210000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C4_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C4_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2390000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C5_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P3_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P3_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "28.1520000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M4_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M4_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4800000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.2640000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_G5_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_G5_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.5150000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C4_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C4_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9550000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C4_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C4_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9550000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G5_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.0300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.4270000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P2_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P2_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.1250000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_T3_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_T3_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M6I_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M6I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9220000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.736 per hours for USE1-TrainingInstanceHours-ML_G4DN_XLARGE in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7360000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C4_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C4_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.9090000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_24XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.8060000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3460000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CleanRooms-SQL-Compute",
+      "operation": "RunCustomSQLDifferentialPrivacy",
+      "computetype": "CustomSQLDifferentialPrivacy",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$2.00 per CRPU-Hr for CleanRooms-SQL-Compute:RunCustomSQLDifferentialPrivacy in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CRPU-Hr",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CleanRooms-SQL-Compute",
+      "operation": "RunSQLAnalysis",
+      "computetype": "SQL",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.656 per CRPU-Hr for CleanRooms-SQL-Compute:RunSQLAnalysis in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CRPU-Hr",
+    "pricePerUnit": {
+      "USD": "0.6560000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M6I_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M6I_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.8430000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_TRN1_32XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_TRN1_32XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "24.7300000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P3DN_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P3DN_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "35.8940000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.4400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8380000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C4_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C4_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4780000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P2_16XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P2_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "16.5600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CleanRooms-PySpark-Compute",
+      "operation": "RunPySparkAnalysis",
+      "computetype": "PySpark",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$4.00 per CRPU-Hr for CleanRooms-PySpark-Compute:RunPySparkAnalysis in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CRPU-Hr",
+    "pricePerUnit": {
+      "USD": "4.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_P2_8XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_P2_8XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "8.6400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.4480000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M4_16XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M4_16XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.8400000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5N_9XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5N_9XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.3330000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_G4DN_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_G4DN_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8900000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2040000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5D_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5D_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.6910000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_M4_4XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_M4_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9600000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-NumberOfTrainingRecords",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "$0.01 per 1,000 records",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_P5_48XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_P5_48XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "113.0700000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C6I_24XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C6I_24XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8960000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C6I_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C6I_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_T3_2XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_T3_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3990000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5_9XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5_9XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.8360000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C7I_2XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C7I_2XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4280000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_4XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_4XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9220000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_R5_12XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_R5_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.6290000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_C5_18XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_C5_18XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.6720000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingInstanceHours-ML_C5_XLARGE",
+      "operation": "CreateTrainedModel",
+      "mlActivity": "Training-ML_C5_XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2040000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M4_10XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M4_10XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.4000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M7I_48XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M7I_48XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "11.6120000000"
+    }
+  },
+  {
+    "productFamily": "AWS Clean Rooms",
+    "attributes": {
+      "servicecode": "AWSCleanRooms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-InferenceInstanceHours-ML_M5_12XLARGE",
+      "operation": "StartTrainedModelInferenceJob",
+      "mlActivity": "Inference-ML_M5_12XLARGE",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Clean Rooms"
+    },
+    "description": "AWS Clean Rooms ML Custom Modeling- Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2.7650000000"
+    }
+  }
+]

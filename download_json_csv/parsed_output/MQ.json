@@ -1,0 +1,846 @@
+[
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "NA",
+      "memory": "1 GiB",
+      "networkPerformance": "up to 5 Gigabit",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.t3.micro",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.t3.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0270400000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.4 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "Moderate",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m4.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.m4.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "clockSpeed": "2.5 GHz",
+      "memory": "64 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.4xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.4xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.3040000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.5 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.large hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2880000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "clockSpeed": "2.5 GHz",
+      "memory": "16 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.xlarge",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5760000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "clockSpeed": "2.5 GHz",
+      "memory": "64 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.m5.4xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.4xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.3040000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "clockSpeed": "2.5 GHz",
+      "memory": "16 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.xlarge",
+      "operation": "ActiveMQ-CRDR",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Cross-region data replication for ActiveMQ broker mq.m5.xlarge hour (or partial hour) in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "clockSpeed": "2.5 GHz",
+      "memory": "32 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.2xl",
+      "operation": "ActiveMQ-CRDR",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Cross-region data replication for ActiveMQ broker mq.m5.2xl hour (or partial hour) in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Storage",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "provisioned": "No",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-TimedStorage-EBS-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Throughput optimized storage (Amazon EBS) used by ActiveMQ brokers (GB-months) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "NA",
+      "memory": "1 GiB",
+      "networkPerformance": "up to 5 Gigabit",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-RabbitMQ-Single-InstanceUsage:mq.t3.micro",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.t3.micro hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0270400000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "NA",
+      "memory": "1 GiB",
+      "networkPerformance": "up to 5 Gigabit",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.t3.micro",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.t3.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0540800000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "clockSpeed": "NA",
+      "memory": "1 GiB",
+      "networkPerformance": "Moderate",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.t2.micro",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "No",
+      "normalizationSizeFactor": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.t2.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "clockSpeed": "NA",
+      "memory": "1 GiB",
+      "networkPerformance": "Moderate",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.t2.micro",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "No",
+      "normalizationSizeFactor": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.t2.micro hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "clockSpeed": "2.5 GHz",
+      "memory": "64 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.4xl",
+      "operation": "ActiveMQ-CRDR",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Cross-region data replication for ActiveMQ broker mq.m5.4xl hour (or partial hour) in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "clockSpeed": "2.5 GHz",
+      "memory": "16 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.xlarge",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.m5.xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.1520000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.4 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "Moderate",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.m4.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m4.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.5 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.large",
+      "operation": "ActiveMQ-CRDR",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Cross-region data replication for ActiveMQ broker mq.m5.large hour (or partial hour) in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Storage",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "provisioned": "No",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "Global-MQ:StorageUsage",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon MQ"
+    },
+    "description": "5GB of included durability-optimized storage (Amazon EFS) per month",
+    "beginRange": "0",
+    "endRange": "5",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "clockSpeed": "2.5 GHz",
+      "memory": "16 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-RabbitMQ-3-InstanceUsage:mq.m5.xlarge",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "24",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "3-node cluster mq.m5.xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.7280000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.5 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.m5.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5760000000"
+    }
+  },
+  {
+    "productFamily": "Broker Storage",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "provisioned": "No",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Durability optimized storage (Amazon EFS) used by ActiveMQ brokers (GB-months) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "clockSpeed": "2.5 GHz",
+      "memory": "32 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-RabbitMQ-3-InstanceUsage:mq.m5.2xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "48",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "3-node cluster mq.m5.2xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.4560000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "clockSpeed": "2.5 GHz",
+      "memory": "16 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.m5.xlarge",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5760000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "clockSpeed": "2.5 GHz",
+      "memory": "64 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.4xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.m5.4xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.6080000000"
+    }
+  },
+  {
+    "productFamily": "Broker Storage",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "provisioned": "Yes",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-TimedStorage-RabbitMQ-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "Storage (Amazon EBS) used by RabbitMQ brokers (GB-months) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.5 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-RabbitMQ-3-InstanceUsage:mq.m5.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "12",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "3-node cluster mq.m5.large hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8640000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "clockSpeed": "2.5 GHz",
+      "memory": "32 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-Multi-AZUsage:mq.m5.2xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "active-standby mq.m5.2xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.3040000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "clockSpeed": "2.5 GHz",
+      "memory": "8 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.m5.large",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.large hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2880000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "clockSpeed": "2.5 GHz",
+      "memory": "32 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-RabbitMQ-Single-InstanceUsage:mq.m5.2xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.2xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.1520000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "clockSpeed": "2.5 GHz",
+      "memory": "64 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Multi-AZ",
+      "usagetype": "USE1-RabbitMQ-3-InstanceUsage:mq.m5.4xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "RabbitMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "96",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "3-node cluster mq.m5.4xlarge hour (or partial hour) running RabbitMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.9120000000"
+    }
+  },
+  {
+    "productFamily": "Broker Instances",
+    "attributes": {
+      "servicecode": "AmazonMQ",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "clockSpeed": "2.5 GHz",
+      "memory": "32 GiB",
+      "networkPerformance": "High",
+      "licenseModel": "No license required",
+      "deploymentOption": "Single-AZ",
+      "usagetype": "USE1-Single-AZUsage:mq.m5.2xl",
+      "operation": "CreateBroker:0001",
+      "brokerEngine": "ActiveMQ",
+      "enhancedNetworkingSupport": "Yes",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MQ"
+    },
+    "description": "single-instance mq.m5.2xlarge hour (or partial hour) running ActiveMQ in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.1520000000"
+    }
+  }
+]

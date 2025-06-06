@@ -1,0 +1,62 @@
+[
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSTelcoNetworkBuilder",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TNB_API_Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Telco Network Builder",
+      "tnbapicalls": "API Calls"
+    },
+    "description": "Charge per API request below 45K per month",
+    "beginRange": "0",
+    "endRange": "45000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSTelcoNetworkBuilder",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TNB_API_Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Telco Network Builder",
+      "tnbapicalls": "API Calls"
+    },
+    "description": "Charge per API request over 45K per month",
+    "beginRange": "45000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0025000000"
+    }
+  },
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSTelcoNetworkBuilder",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TNB_MNFI",
+      "operation": "",
+      "mnfi": "MNFI",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Telco Network Builder"
+    },
+    "description": "Hourly charge per managed network function item (MNFI)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  }
+]

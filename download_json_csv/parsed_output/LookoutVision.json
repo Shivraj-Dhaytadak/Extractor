@@ -1,0 +1,182 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EdgeInference",
+      "operation": "EdgeInference",
+      "lookoutvisionimage": "EdgeInference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$100.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "5",
+    "unit": "InferenceUnits",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EdgeInference",
+      "operation": "EdgeInference",
+      "lookoutvisionimage": "EdgeInference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$80.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+    "beginRange": "500",
+    "endRange": "2500",
+    "unit": "InferenceUnits",
+    "pricePerUnit": {
+      "USD": "80.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EdgeInference",
+      "operation": "EdgeInference",
+      "lookoutvisionimage": "EdgeInference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$100.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+    "beginRange": "5",
+    "endRange": "500",
+    "unit": "InferenceUnits",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EdgeInference",
+      "operation": "EdgeInference",
+      "lookoutvisionimage": "EdgeInference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$60.0 per InferenceUnits for EdgeInference:EdgeInference in US East (N. Virginia)",
+    "beginRange": "2500",
+    "endRange": "Inf",
+    "unit": "InferenceUnits",
+    "pricePerUnit": {
+      "USD": "60.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Inference",
+      "operation": "Inference",
+      "lookoutvisionimage": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$4.0 per hours for Inference:Inference in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "18000",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0666666670"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Inference",
+      "operation": "Inference",
+      "lookoutvisionimage": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$3.2 per hours for Inference:Inference in US East (N. Virginia)",
+    "beginRange": "198000",
+    "endRange": "1998000",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0533333330"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Inference",
+      "operation": "Inference",
+      "lookoutvisionimage": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$3.6 per hours for Inference:Inference in US East (N. Virginia)",
+    "beginRange": "18000",
+    "endRange": "198000",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Inference",
+      "operation": "Inference",
+      "lookoutvisionimage": "Inference",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$2.8 per hours for Inference:Inference in US East (N. Virginia)",
+    "beginRange": "1998000",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0466666670"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonLookoutVision",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Training",
+      "operation": "Training",
+      "lookoutvisionimage": "Training",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lookout for Vision"
+    },
+    "description": "$2.0 per hours for Training:Training in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0333333330"
+    }
+  }
+]

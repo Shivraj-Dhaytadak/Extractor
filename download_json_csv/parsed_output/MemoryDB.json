@@ -1,0 +1,1237 @@
+[
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataWritten",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "type": "Data Written"
+    },
+    "description": "$0.200 per GB for Data Written in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.2xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "199.07"
+    },
+    "description": "$1.848 per Memory optimized r6gd.2xlarge node hour with data tiering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.8480000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.t4g.small",
+      "currentGeneration": "Yes",
+      "instanceFamily": "General purpose",
+      "vcpu": "2",
+      "memory": "1.37",
+      "networkPerformance": "Up to 5",
+      "usagetype": "USE1-NodeUsage:db.t4g.small",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "1",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.048 per General purpose t4g.small node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0480000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "USE1-SnapshotUsage:Valkey",
+      "operation": "CreateSnapshot",
+      "engine": "Valkey",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.021 per additional GB-month of backup storage exceeding free allocation in US East (N. Virginia) for Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.4319 per Memory optimized r6g.xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4319000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "48",
+      "memory": "317.77",
+      "networkPerformance": "22.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.12xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "96",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$7.388 per Memory optimized r7g.12xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "7.3880000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 12.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.4319 per Memory optimized r7g.xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4319000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 15",
+      "usagetype": "USE1-NodeUsage:db.r7g.4xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$1.7241 per Memory optimized r7g.4xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.7241000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "48",
+      "memory": "317.77",
+      "networkPerformance": "22.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.12xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "96",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$5.1716 per Memory optimized r7g.12xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "5.1716000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "2",
+      "memory": "13.07",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.large:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.2163 per Memory optimized r6g.large node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2163000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "12",
+      "usagetype": "USE1-NodeUsage:db.r6gd.8xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "796.28"
+    },
+    "description": "$5.1723 per Memory optimized r6gd.8xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "5.1723000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.2xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$1.232 per Memory optimized r6g.2xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2320000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "48",
+      "memory": "317.77",
+      "networkPerformance": "20",
+      "usagetype": "USE1-NodeUsage:db.r6g.12xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "96",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$7.388 per Memory optimized r6g.12xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "7.3880000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "12",
+      "usagetype": "USE1-NodeUsage:db.r6g.8xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$3.4482 per Memory optimized r6g.8xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.4482000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.4xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$2.463 per Memory optimized r6g.4xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.4630000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 15",
+      "usagetype": "USE1-NodeUsage:db.r7g.2xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.8624 per Memory optimized r7g.2xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8624000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "2",
+      "memory": "13.07",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.large",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.309 per Memory optimized r6g.large node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3090000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.4xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "398.14"
+    },
+    "description": "$2.5865 per Memory optimized r6gd.4xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.5865000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "transferType": "InterRegion Outbound",
+      "usagetype": "USE1-MemoryDB-Out-Bytes:Valkey",
+      "operation": "MultiRegion",
+      "engine": "Valkey",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.02 per GB for Multi-Region data transfer out from MemoryDB in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "12",
+      "usagetype": "USE1-NodeUsage:db.r6gd.8xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "796.28"
+    },
+    "description": "$7.389 per Memory optimized r6gd.8xlarge node hour with data tiering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "7.3890000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "15",
+      "usagetype": "USE1-NodeUsage:db.r7g.8xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$4.926 per Memory optimized r7g.8xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.9260000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 15",
+      "usagetype": "USE1-NodeUsage:db.r7g.2xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$1.232 per Memory optimized r7g.2xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2320000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "64",
+      "memory": "419.09",
+      "networkPerformance": "30",
+      "usagetype": "USE1-NodeUsage:db.r7g.16xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$6.8957 per Memory optimized r7g.16xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.8957000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.4xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "398.14"
+    },
+    "description": "$3.695 per Memory optimized r6gd.4xlarge node hour with data tiering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.6950000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "Any",
+      "locationType": "Other",
+      "usagetype": "Global-DataWritten",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "regionCode": "",
+      "servicename": "Amazon MemoryDB",
+      "type": "Data Written"
+    },
+    "description": "Global",
+    "beginRange": "0",
+    "endRange": "20",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "2",
+      "memory": "13.07",
+      "networkPerformance": "Up to 12.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.large",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.309 per Memory optimized r7g.large node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3090000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.4xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$1.7241 per Memory optimized r6g.4xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.7241000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.t4g.medium",
+      "currentGeneration": "Yes",
+      "instanceFamily": "General purpose",
+      "vcpu": "2",
+      "memory": "3.09",
+      "networkPerformance": "Up to 5",
+      "usagetype": "USE1-NodeUsage:db.t4g.medium:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "2",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.0679 per General purpose t4g.medium node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0679000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "USE1-SnapshotUsage",
+      "operation": "CreateSnapshot",
+      "engine": "Redis",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.021 per additional GB-month of backup storage exceeding free allocation in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "15",
+      "usagetype": "USE1-NodeUsage:db.r7g.8xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$3.4482 per Memory optimized r7g.8xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.4482000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.2xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.8624 per Memory optimized r6g.2xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8624000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "64",
+      "memory": "419.09",
+      "networkPerformance": "30",
+      "usagetype": "USE1-NodeUsage:db.r7g.16xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$9.851 per Memory optimized r7g.16xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "9.8510000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6g.xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.617 per Memory optimized r6g.xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6170000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.t4g.small",
+      "currentGeneration": "Yes",
+      "instanceFamily": "General purpose",
+      "vcpu": "2",
+      "memory": "1.37",
+      "networkPerformance": "Up to 5",
+      "usagetype": "USE1-NodeUsage:db.t4g.small:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "1",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.0336 per General purpose t4g.small node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0336000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.8xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "32",
+      "memory": "209.55",
+      "networkPerformance": "12",
+      "usagetype": "USE1-NodeUsage:db.r6g.8xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$4.926 per Memory optimized r6g.8xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.9260000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataWritten:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "type": "Data Written"
+    },
+    "description": "$0.04 per GB for Data Written in US East (N. Virginia) for over 10 TB/month for Valkey",
+    "beginRange": "10000",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataWritten:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "type": "Data Written"
+    },
+    "description": "$0 for Data Written in US East (N. Virginia) upto 10TB/month for Valkey",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.t4g.medium",
+      "currentGeneration": "Yes",
+      "instanceFamily": "General purpose",
+      "vcpu": "2",
+      "memory": "3.09",
+      "networkPerformance": "Up to 5",
+      "usagetype": "USE1-NodeUsage:db.t4g.medium",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "2",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.097 per General purpose t4g.medium node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0970000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 12.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.617 per Memory optimized r7g.xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6170000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "64",
+      "memory": "419.09",
+      "networkPerformance": "25",
+      "usagetype": "USE1-NodeUsage:db.r6g.16xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$9.851 per Memory optimized r6g.16xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "9.8510000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.12xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "48",
+      "memory": "317.77",
+      "networkPerformance": "20",
+      "usagetype": "USE1-NodeUsage:db.r6g.12xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "96",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$5.1716 per Memory optimized r6g.12xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "5.1716000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6g.16xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "64",
+      "memory": "419.09",
+      "networkPerformance": "25",
+      "usagetype": "USE1-NodeUsage:db.r6g.16xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$6.8957 per Memory optimized r6g.16xlarge node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.8957000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.2xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "8",
+      "memory": "52.82",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.2xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "199.07"
+    },
+    "description": "$1.2936 per Memory optimized r6gd.2xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2936000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.4xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "16",
+      "memory": "105.81",
+      "networkPerformance": "Up to 15",
+      "usagetype": "USE1-NodeUsage:db.r7g.4xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$2.463 per Memory optimized r7g.4xlarge node hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.4630000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.xlarge",
+      "operation": "CreateCluster",
+      "engine": "Redis",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "99.33"
+    },
+    "description": "$0.926 per Memory optimized r6gd.xlarge node hour with data tiering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.9260000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r6gd.xlarge",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "4",
+      "memory": "26.32",
+      "networkPerformance": "Up to 10",
+      "usagetype": "USE1-NodeUsage:db.r6gd.xlarge:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB",
+      "ssd": "99.33"
+    },
+    "description": "$0.6482 per Memory optimized r6gd.xlarge node hour with data tiering in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6482000000"
+    }
+  },
+  {
+    "productFamily": "Amazon MemoryDB",
+    "attributes": {
+      "servicecode": "AmazonMemoryDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "db.r7g.large",
+      "currentGeneration": "Yes",
+      "instanceFamily": "Memory optimized",
+      "vcpu": "2",
+      "memory": "13.07",
+      "networkPerformance": "Up to 12.5",
+      "usagetype": "USE1-NodeUsage:db.r7g.large:Valkey",
+      "operation": "CreateCluster",
+      "engine": "Valkey",
+      "normalizationSizeFactor": "4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon MemoryDB"
+    },
+    "description": "$0.2163 per Memory optimized r7g.large node hour in US East (N. Virginia) running Valkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2163000000"
+    }
+  }
+]

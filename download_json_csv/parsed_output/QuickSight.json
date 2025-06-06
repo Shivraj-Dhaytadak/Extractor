@@ -1,0 +1,418 @@
+[
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SPICE Purchase",
+      "groupDescription": "SPICE capacity (GB) provisioned",
+      "usagetype": "USE1-QS-Enterprise-SPICE",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "FALSE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Not Applicable",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Provisioned Enterprise SPICE Capacity in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.3800000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Region Fee",
+      "groupDescription": "Monthly per region fee with Q (free trial)",
+      "usagetype": "USE1-Region-Free-Trial-Q",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Q Per Region Fee - Free Trial (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Pro Subscription",
+      "groupDescription": "Number of Reader Pro subscriptions in the service (free trial)",
+      "usagetype": "USE1-Reader-Pro-Enterprise-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Enterprise Edition Reader Pro (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Pro Subscription with Amazon Q",
+      "groupDescription": "Number of Reader Pro subscriptions in the service that include an entitlement to Amazon Q",
+      "usagetype": "USE1-Reader-Pro-Enterprise-Month-Q",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Enterprise Edition Reader Pro with an entitlement to Amazon Q - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Q Region Fee",
+      "groupDescription": "Monthly per region fee with Q",
+      "usagetype": "USE1-Region-Fee-Q",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Q Per Region Fee (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "250.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Subscription",
+      "groupDescription": "Number of Reader subscriptions in the service (free trial)",
+      "usagetype": "USE1-Reader-Enterprise-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "FALSE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Enterprise Edition Reader (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Author Pro Subscription with Amazon Q",
+      "groupDescription": "Number of Author Pro subscriptions in the service that include an entitlement to Amazon Q (free trial)",
+      "usagetype": "USE1-Author-Pro-Enterprise-Month-Q-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Author Pro with an entitlement to Amazon Q (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SPICE Purchase",
+      "groupDescription": "SPICE capacity (GB) provisioned",
+      "usagetype": "USE1-QS-Provisioned-SPICE",
+      "operation": "",
+      "edition": "Standard",
+      "packSize": "Not Applicable",
+      "qPresent": "FALSE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Not Applicable",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Provisioned SPICE Capacity in us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon Q in QuickSight Enablement Fee",
+      "groupDescription": "Monthly fee for Amazon Q in QuickSight",
+      "usagetype": "USE1-Amazon-Q-QS-Fee",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "USD250.0 per month fee for Amazon Q in QuickSight for US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "250.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Author Pro Subscription",
+      "groupDescription": "Number of Author Pro subscriptions in the service",
+      "usagetype": "USE1-Author-Pro-Enterprise-Month",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Enterprise Edition Author Pro - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "50.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Author Pro Subscription with Amazon Q",
+      "groupDescription": "Number of Author Pro subscriptions in the service that include an entitlement to Amazon Q",
+      "usagetype": "USE1-Author-Pro-Enterprise-Month-Q",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Enterprise Edition Author Pro with an entitlement to Amazon Q - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "30.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Pro Subscription",
+      "groupDescription": "Number of Reader Pro subscriptions in the service",
+      "usagetype": "USE1-Reader-Pro-Enterprise-Month",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Enterprise Edition Reader Pro - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "20.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Subscription",
+      "groupDescription": "Number of Reader subscriptions in the service",
+      "usagetype": "USE1-Reader-Enterprise-Month",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "FALSE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Paid"
+    },
+    "description": "QuickSight Enterprise Edition Reader - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Reader Pro Subscription with Amazon Q",
+      "groupDescription": "Number of Reader Pro subscriptions in the service that include an entitlement to Amazon Q (free trial)",
+      "usagetype": "USE1-Reader-Pro-Enterprise-Month-Q-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Reader Pro with an entitlement to Amazon Q (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Author Pro Subscription",
+      "groupDescription": "Number of Author Pro subscriptions in the service (free trial)",
+      "usagetype": "USE1-Author-Pro-Enterprise-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "QuickSight Enterprise Edition Author Pro (free trial) - US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "AmazonQuickSight",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon Q in QuickSight Enablement Fee",
+      "groupDescription": "Monthly fee for Amazon Q in QuickSight (free trial)",
+      "usagetype": "USE1-Amazon-Q-QS-Fee-Free-Trial",
+      "operation": "",
+      "edition": "Enterprise",
+      "packSize": "Not Applicable",
+      "qPresent": "TRUE",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon QuickSight",
+      "subscriptionType": "Monthly",
+      "usageGroup": "Free"
+    },
+    "description": "USD0.0 per month fee for Amazon Q in QuickSight (free trial) for US East (N. Virginia) (us-east-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

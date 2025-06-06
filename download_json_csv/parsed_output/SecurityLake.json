@@ -1,0 +1,492 @@
+[
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "Route53Resolver",
+      "logsource": "Route53Resolver",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of Route53 resolver query logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "LambdaDataEvents",
+      "logsource": "LambdaDataEvents",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of Lambda execution activity logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "LambdaDataEvents",
+      "logsource": "LambdaDataEvents",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of Lambda execution activity logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "S3DataEvents",
+      "logsource": "S3DataEvents",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of S3 data events in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidOtherLogs-Bytes",
+      "operation": "",
+      "logorigin": "OtherLogs",
+      "logsource": "Any",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.25 per GB of logs delivered for the first 10TB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10240",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidOtherLogs-Bytes",
+      "operation": "",
+      "logorigin": "OtherLogs",
+      "logsource": "Any",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.15 per GB of logs delivered for the next 20TB in US East (N. Virginia)",
+    "beginRange": "10240",
+    "endRange": "30720",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidOtherLogs-Bytes",
+      "operation": "",
+      "logorigin": "OtherLogs",
+      "logsource": "Any",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.075 per GB of logs delivered for the next 20TB in US East (N. Virginia)",
+    "beginRange": "30720",
+    "endRange": "51200",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidOtherLogs-Bytes",
+      "operation": "",
+      "logorigin": "OtherLogs",
+      "logsource": "Any",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.05 per GB of logs delivered over 50TB in US East (N. Virginia)",
+    "beginRange": "51200",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "EKSAudit",
+      "logsource": "EKSAudit",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of EKS audit logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "VPCFlow",
+      "logsource": "VPCFlow",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of VPC flow logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "Route53Resolver",
+      "logsource": "Route53Resolver",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of Route 53 resolver query logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeOtherLogs-Bytes",
+      "operation": "",
+      "logorigin": "OtherLogs",
+      "logsource": "Any",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0 per GB of logs delivered under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "WAFWebACL",
+      "logsource": "WAFWebACL",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "USD0.035 per GB for normalization of WAF Web ACL logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "SecurityHub",
+      "logsource": "SecurityHub",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of Security Hub findings under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidCloudTrailEvents-Bytes",
+      "operation": "",
+      "logorigin": "CloudTrailEvents",
+      "logsource": "Any",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.75 per GB of CloudTrail events delivered in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "WAFWebACL",
+      "logsource": "WAFWebACL",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "USD0.0 per GB for normalization of WAF Web ACL logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeCloudTrailEvents-Bytes",
+      "operation": "",
+      "logorigin": "CloudTrailEvents",
+      "logsource": "Any",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0 per GB of CloudTrail events under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "ManagementEvents",
+      "logsource": "ManagementEvents",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of CloudTrail management events in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "SecurityHub",
+      "logsource": "SecurityHub",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of Security Hub findings in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "S3DataEvents",
+      "logsource": "S3DataEvents",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of S3 data events under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "ManagementEvents",
+      "logsource": "ManagementEvents",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of CloudTrail management events query logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeNormalization-Bytes",
+      "operation": "EKSAudit",
+      "logsource": "EKSAudit",
+      "paid": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.0 per GB for normalization of EKS audit logs under free trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Security Lake",
+    "attributes": {
+      "servicecode": "AmazonSecurityLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidNormalization-Bytes",
+      "operation": "VPCFlow",
+      "logsource": "VPCFlow",
+      "paid": "Paid",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Security Lake"
+    },
+    "description": "$0.035 per GB for normalization of VPC flow logs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  }
+]

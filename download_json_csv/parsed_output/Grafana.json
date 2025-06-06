@@ -1,0 +1,86 @@
+[
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "AmazonGrafana",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Viewer",
+      "groupDescription": "User Type",
+      "usagetype": "USE1-Grafana:ViewerUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Grafana"
+    },
+    "description": "$5 per Viewer per month for US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "AmazonGrafana",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Editor",
+      "groupDescription": "User Type",
+      "usagetype": "USE1-Grafana:EditorUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Grafana"
+    },
+    "description": "$9 per Editor per month for US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "9.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "AmazonGrafana",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Enterprise Plugins User",
+      "groupDescription": "User Type",
+      "usagetype": "USE1-Grafana:EnterprisePluginsUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Grafana"
+    },
+    "description": "$45 per Enterprise Plugins user per month for US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "45.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "AmazonGrafana",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "User",
+      "groupDescription": "User Type",
+      "usagetype": "USE1-Grafana:FreeTrialUser",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Grafana"
+    },
+    "description": "$0 per free trial user per month for US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

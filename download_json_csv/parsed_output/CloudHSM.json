@@ -1,0 +1,140 @@
+[
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v1",
+      "usagetype": "USE1-CloudHSMTrialUsage",
+      "operation": "Hourly",
+      "hsmGeneration": "hsm.classic-deprecated",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "Y",
+      "upfrontCommitment": "N"
+    },
+    "description": "$0.00 hourly charge for CloudHSM trial usage in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v1",
+      "usagetype": "USE1-CloudHSMTrialUpfront",
+      "operation": "upfront",
+      "hsmGeneration": "hsm.classic-deprecated",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "Y",
+      "upfrontCommitment": "Y"
+    },
+    "description": "$0.00 up-front charge for CloudHSM trial service in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "HSM",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v1",
+      "usagetype": "USE1-CloudHSMUsage",
+      "operation": "Hourly",
+      "hsmGeneration": "hsm.classic-deprecated",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "N",
+      "upfrontCommitment": "N"
+    },
+    "description": "$1.88 hourly charge for CloudHSM usage in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.8800000000"
+    }
+  },
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v2",
+      "usagetype": "USE1-CloudHSMv2Usage",
+      "operation": "Hourly",
+      "hsmGeneration": "hsm1.medium",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "N",
+      "upfrontCommitment": "N"
+    },
+    "description": "$1.60 hourly charge for new CloudHSM usage in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6000000000"
+    }
+  },
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v2",
+      "usagetype": "USE1-CloudHSMv2Usage-hsm2m.m",
+      "operation": "Hourly",
+      "hsmGeneration": "hsm2.medium",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "N",
+      "upfrontCommitment": "N"
+    },
+    "description": "$1.60 hourly charge for new CloudHSM hsm2m usage in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6000000000"
+    }
+  },
+  {
+    "productFamily": "Dedicated-Host",
+    "attributes": {
+      "servicecode": "CloudHSM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceFamily": "CloudHSM-v1",
+      "usagetype": "USE1-CloudHSMUpfront",
+      "operation": "upfront",
+      "hsmGeneration": "hsm.classic-deprecated",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudHSM",
+      "trialProduct": "N",
+      "upfrontCommitment": "Y"
+    },
+    "description": "$5000 up-front charge for CloudHSM service in US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "HSM",
+    "pricePerUnit": {
+      "USD": "5000.0000000000"
+    }
+  }
+]

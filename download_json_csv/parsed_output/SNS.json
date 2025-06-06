@@ -1,0 +1,754 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-Standard-Payload-MessageFiltering-Filter-Matched",
+      "groupDescription": "Amazon SNS Standard Payload Scanned & Matched",
+      "usagetype": "PL-Filter-Matched",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.09 per GB for PL-Filter-Matched in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Google Cloud Messaging for Android (GCM)",
+      "usagetype": "DeliveryAttempts-GCM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-Standard-Payload-MessageFiltering-Filtered-Out",
+      "groupDescription": "Amazon SNS Standard Payload Scanned & Filtered",
+      "usagetype": "PL-Filtered-Out",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.09 per GB for PL-Filtered-Out in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Bundle",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "group": "SNS-MonthlyFree-Notifications",
+      "groupDescription": "Monthly free usage of Amazon SNS requests",
+      "usagetype": "Notifications-Mobile",
+      "operation": "",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "First 1,000,000 Mobile Push Notifications per month are free",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Baidu Cloud Push (Baidu)",
+      "usagetype": "DeliveryAttempts-BAIDU",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) Sandbox - Mac OS",
+      "usagetype": "DeliveryAttempts-MACOS_SB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Subscription-Messages-Payload",
+      "groupDescription": "Amazon SNS FIFO Subscription Messages Payload",
+      "usagetype": "F-Egress-SQS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.001 per GB of SNS FIFO Messages for Subscribers in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Amazon SQS",
+      "usagetype": "DeliveryAttempts-SQS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "There is no charge for SQS Notifications",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) Sandbox - iOS",
+      "usagetype": "DeliveryAttempts-APNS_SB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "SMS",
+      "usagetype": "DeliveryAttempts-SMS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "Attempts to dispatch SMS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) VOIP Sandbox",
+      "usagetype": "DeliveryAttempts-AP_V_SB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) VOIP",
+      "usagetype": "DeliveryAttempts-AP_V",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Passbook Sandbox",
+      "usagetype": "DeliveryAttempts-AP_PB_SB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-Publish-Payload",
+      "groupDescription": "SNS FIFO Publish Payload",
+      "usagetype": "F-Ingress-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.017 per GB of SNS FIFO Publish Messages Payload in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0170000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "HTTP",
+      "usagetype": "DeliveryAttempts-HTTP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "First 100,000 Amazon SNS HTTP/HTTPS Notifications per month are free",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "HTTP",
+      "usagetype": "DeliveryAttempts-HTTP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.06 per 100,000 Amazon SNS HTTP/HTTPS Notifications thereafter",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Payload-MessageFiltering-Filtered-Out",
+      "groupDescription": "Amazon SNS FIFO Payload Scanned & Filtered",
+      "usagetype": "F-PL-Filtered-Out",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.09 per GB for F-PL-Filtered-Out in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Payload-MessageFiltering-Filter-Matched",
+      "groupDescription": "Amazon SNS FIFO Payload Scanned & Matched",
+      "usagetype": "F-PL-Filter-Matched",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.09 per GB for F-PL-Filter-Matched in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Passbook",
+      "usagetype": "DeliveryAttempts-AP_PB",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) - iOS",
+      "usagetype": "DeliveryAttempts-APNS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-Requests-Tier1",
+      "groupDescription": "Amazon SNS API Requests",
+      "usagetype": "Requests-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "First 1,000,000 Amazon SNS API Requests per month are free",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-Requests-Tier1",
+      "groupDescription": "Amazon SNS API Requests",
+      "usagetype": "Requests-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Amazon SNS API Requests per month thereafter",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Subscription-Messages",
+      "groupDescription": "Amazon SNS FIFO Subscription Messages",
+      "usagetype": "F-DA-SQS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.01 per 1,000,000 SNS FIFO Messages for Subscribers in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000000100"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-ArchiveProcessing",
+      "groupDescription": "Amazon SNS FIFO Topics Archive Processing",
+      "usagetype": "USE1-F-ArchiveProcessing",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.10 per GB of SNS FIFO Topics Archive Processing in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Windows Push Notification Services (WNS)",
+      "usagetype": "DeliveryAttempts-WNS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Microsoft Push Notification Service for Windows Phone (MPNS)",
+      "usagetype": "DeliveryAttempts-MPNS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "AWS Lambda",
+      "usagetype": "DeliveryAttempts-LAMBDA",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "There is no charge for Lambda Notifications",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Apple Push Notification Service (APNS) - Mac OS",
+      "usagetype": "DeliveryAttempts-MACOS",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Storage",
+      "groupDescription": "Amazon SNS FIFO Topics Storage",
+      "usagetype": "USE1-F-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.023 per GB / Month of SNS FIFO Topics Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-MDP-AuditReporting",
+      "groupDescription": "Amazon SNS Audit Reporting",
+      "usagetype": "USE1-MDP-AuditReporting",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.20 per GB of SNS Audit Reporting in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-MDP-Scanning",
+      "groupDescription": "Amazon SNS Message Scanning",
+      "usagetype": "USE1-MDP-Scanning",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.08 per GB of SNS Message Scanning in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Amazon Kinesis Data Firehose",
+      "usagetype": "DeliveryAttempts-FIREHOSE",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.19 per 1,000,000 SNS to Kinesis Firehose messages in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000001900"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SNS-FIFO-Requests",
+      "groupDescription": "Amazon SNS FIFO API Requests",
+      "usagetype": "F-Request-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.3 per 1,000,000 SNS FIFO Publish API Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000003000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Amazon Device Messaging (ADM)",
+      "usagetype": "DeliveryAttempts-ADM",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$0.50 per 1,000,000 Mobile Push Notifications per month thereafter",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "SMTP",
+      "usagetype": "DeliveryAttempts-SMTP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "First 1,000 Amazon SNS Email/Email-JSON Notifications per month are free",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Message Delivery",
+    "attributes": {
+      "servicecode": "AmazonSNS",
+      "description": "Charged for each 64KB chunk of published data",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "SMTP",
+      "usagetype": "DeliveryAttempts-SMTP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Notification Service"
+    },
+    "description": "$2.00 per 100,000 Amazon SNS Email/Email-JSON Notifications thereafter",
+    "beginRange": "1000",
+    "endRange": "Inf",
+    "unit": "Notifications",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  }
+]

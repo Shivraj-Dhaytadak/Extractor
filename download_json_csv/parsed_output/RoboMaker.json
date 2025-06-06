@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "RoboMaker Simulation",
+    "attributes": {
+      "servicecode": "AWSRoboMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "n/a",
+      "usagetype": "USE1-GPUUnitHour",
+      "operation": "createSimulationJob",
+      "regionCode": "us-east-1",
+      "servicename": "AWS RoboMaker"
+    },
+    "description": "Per GPU Unit-Hour. Each GPU Unit provides 1 GPU device.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GU-Hour",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "RoboMaker Simulation",
+    "attributes": {
+      "servicecode": "AWSRoboMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "worldforge-generate",
+      "usagetype": "USE1-GeneratedWorld",
+      "operation": "createWorldGenerationJob",
+      "regionCode": "us-east-1",
+      "servicename": "AWS RoboMaker"
+    },
+    "description": "Per generated simulation world.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "world",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "RoboMaker Simulation",
+    "attributes": {
+      "servicecode": "AWSRoboMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "worldforge-export",
+      "usagetype": "USE1-ExportedWorld",
+      "operation": "createWorldExportJob",
+      "regionCode": "us-east-1",
+      "servicename": "AWS RoboMaker"
+    },
+    "description": "Per exported simulation world.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "world",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "RoboMaker Simulation",
+    "attributes": {
+      "servicecode": "AWSRoboMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "n/a",
+      "usagetype": "USE1-SimulationUnitHour",
+      "operation": "createSimulationJob",
+      "regionCode": "us-east-1",
+      "servicename": "AWS RoboMaker"
+    },
+    "description": "Per Simulation Unit-Hour. Each Simulation Unit provides 1 vCPU and 2 GB of memory.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "SU-Hour",
+    "pricePerUnit": {
+      "USD": "0.4000000000"
+    }
+  }
+]

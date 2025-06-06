@@ -1,0 +1,522 @@
+[
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "GetEnvironment",
+      "productType": "API Request - GetEnvironment",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for GetEnvironment API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-API-Request",
+      "operation": "",
+      "productType": "API Request",
+      "regionCode": "",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.0 per request for API",
+    "beginRange": "0",
+    "endRange": "500000",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListEnvironmentVpcs",
+      "productType": "API Request - ListEnvironmentVpcs",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListEnvironmentVpcs API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListTagsForResource",
+      "productType": "API Request - ListTagsForResource",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListTagsForResource API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "PutResourcePolicy",
+      "productType": "API Request - PutResourcePolicy",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for PutResourcePolicy API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "UpdateRoute",
+      "productType": "API Request - UpdateRoute",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for UpdateRoute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListServices",
+      "productType": "API Request - ListServices",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListServices API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "UntagResource",
+      "productType": "API Request - UntagResource",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for UntagResource API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "DeleteService",
+      "productType": "API Request - DeleteService",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for DeleteService API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "TagResource",
+      "productType": "API Request - TagResource",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for TagResource API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "GetRoute",
+      "productType": "API Request - GetRoute",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for GetRoute API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "DeleteApplication",
+      "productType": "API Request - DeleteApplication",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for DeleteApplication API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "GetApplication",
+      "productType": "API Request - GetApplication",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for GetApplication API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListRoutes",
+      "productType": "API Request - ListRoutes",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListRoutes API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "CreateApplication",
+      "productType": "API Request - CreateApplication",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for CreateApplication API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "DeleteEnvironment",
+      "productType": "API Request - DeleteEnvironment",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for DeleteEnvironment API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "GetService",
+      "productType": "API Request - GetService",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for GetService API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "DeleteRoute",
+      "productType": "API Request - DeleteRoute",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for DeleteRoute API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "CreateService",
+      "productType": "API Request - CreateService",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for CreateService API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EnvironmentHours",
+      "operation": "RunEnvironment",
+      "productType": "Environment Hour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.028 per environment hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0280000000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "CreateEnvironment",
+      "productType": "API Request - CreateEnvironment",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for CreateEnvironment API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListApplications",
+      "productType": "API Request - ListApplications",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListApplications API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "GetResourcePolicy",
+      "productType": "API Request - GetResourcePolicy",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for GetResourcePolicy API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "ListEnvironments",
+      "productType": "API Request - ListEnvironments",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for ListEnvironments API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "DeleteResourcePolicy",
+      "productType": "API Request - DeleteResourcePolicy",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for DeleteResourcePolicy API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  },
+  {
+    "productFamily": "AWS Migration Hub",
+    "attributes": {
+      "servicecode": "AWSMigrationHubRefactorSpaces",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-API-Request",
+      "operation": "CreateRoute",
+      "productType": "API Request - CreateRoute",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Migration Hub Refactor Spaces"
+    },
+    "description": "$0.000002 per request for CreateRoute API in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000020000"
+    }
+  }
+]

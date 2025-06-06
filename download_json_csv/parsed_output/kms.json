@@ -1,0 +1,144 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "awskms-Requests-GenerateDatakeyPair-ECC",
+      "groupDescription": "AWS KMS API Requests GenerateDatakeyPair ECC",
+      "usagetype": "us-east-1-KMS-Requests-GenerateDatakeyPair-ECC",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$0.1 per 10000 ECC Generate Data Key Pair Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Bundle",
+    "attributes": {
+      "servicecode": "awskms",
+      "group": "awskms-Requests",
+      "groupDescription": "Monthly free usage of KMS API Requests",
+      "usagetype": "Global-KMS-Requests",
+      "operation": "",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$0.00 per request - Monthly Global Free Tier for KMS requests",
+    "beginRange": "0",
+    "endRange": "20000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "awskms-Requests-GenerateDatakeyPair-RSA",
+      "groupDescription": "AWS KMS API Requests GenerateDatakeyPair RSA",
+      "usagetype": "us-east-1-KMS-Requests-GenerateDatakeyPair-RSA",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$12 per 10000 RSA Generate Data Key Pair Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0012000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "aws-kms-Requests-Asymmetric-RSA_2048",
+      "groupDescription": "AWS KMS Asymmetric Requests RSA_2048",
+      "usagetype": "us-east-1-KMS-Requests-Asymmetric-RSA_2048",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$0.03 per 10000 KMS RSA 2048 requests in US East (N. Virgina)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000030000"
+    }
+  },
+  {
+    "productFamily": "Encryption Key",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "us-east-1-KMS-Keys",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$1 per customer managed KMS key version in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Keys",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "awskms-Requests-Asymmetric",
+      "groupDescription": "AWS KMS Asymmetric Requests except RSA_2048API",
+      "usagetype": "us-east-1-KMS-Requests-Asymmetric",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$0.15 per 10000 KMS Asymmetric Requests excluding RSA 2048 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "awskms",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "awskms-APIRequest-All",
+      "groupDescription": "All AWS KMS API requests",
+      "usagetype": "us-east-1-KMS-Requests",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Key Management Service"
+    },
+    "description": "$0.03 per 10000 KMS requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000030000"
+    }
+  }
+]

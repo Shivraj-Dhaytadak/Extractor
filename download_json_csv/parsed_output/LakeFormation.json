@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "AWS Lake Formation",
+    "attributes": {
+      "servicecode": "AWSLakeFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "LF-API-requests",
+      "usagetype": "USE1-API-Requests",
+      "operation": "LF-API-Requests",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lake Formation"
+    },
+    "description": "$1 per 1M API Requests for API-Requests:LF-API-Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWS Lake Formation",
+    "attributes": {
+      "servicecode": "AWSLakeFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "LF-metadata-objects",
+      "usagetype": "USE1-Metadata-Objects",
+      "operation": "LF-MetadataObjects",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lake Formation"
+    },
+    "description": "$1 per 100k Objects for Metadata-Objects:LF-MetadataObjects in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Objects",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AWS Lake Formation",
+    "attributes": {
+      "servicecode": "AWSLakeFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Filtering",
+      "usagetype": "USE1-Scanned-Bytes",
+      "operation": "Filtering",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lake Formation"
+    },
+    "description": "$2.25 per TB for Scanned-Bytes:Filtering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0021972660"
+    }
+  },
+  {
+    "productFamily": "AWS Lake Formation",
+    "attributes": {
+      "servicecode": "AWSLakeFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Storage-Optimizer-data-processing",
+      "usagetype": "USE1-Bytes-Processed",
+      "operation": "LF-Storage-Optimizer",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Lake Formation"
+    },
+    "description": "$2.25 per TB for Bytes-Processed:LF-Storage-Optimizer in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0021972660"
+    }
+  }
+]

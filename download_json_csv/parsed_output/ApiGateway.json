@@ -1,0 +1,342 @@
+[
+  {
+    "productFamily": "WebSocket",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "WebSocket Messages",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayMessage",
+      "operation": "ApiGatewayWebSocket",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$1/million messages - first 1 billion messages/month",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "WebSocket",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "WebSocket Messages",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayMessage",
+      "operation": "ApiGatewayWebSocket",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$0.8/million messages - over 1 billion messages/month",
+    "beginRange": "1000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:28.4GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "28.4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 28.4GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:237GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "237",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 237GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.8000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:13.5GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "13.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 13.5GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "HTTP API Requests",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayHttpRequest",
+      "operation": "ApiGatewayHttpApi",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$1/million requests - API Gateway HTTP API (first 300 million)",
+    "beginRange": "0",
+    "endRange": "300000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "HTTP API Requests",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayHttpRequest",
+      "operation": "ApiGatewayHttpApi",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$0.9/million requests - API Gateway HTTP API (more than 300 million)",
+    "beginRange": "300000000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000009000"
+    }
+  },
+  {
+    "productFamily": "WebSocket",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "WebSocket Connection Minutes",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayMinute",
+      "operation": "ApiGatewayWebSocket",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$0.25/million connection minutes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000002500"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:58.2GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "58.2",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 58.2GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:1.55GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "1.6",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 1.55GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0380000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:0.5GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "0.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 0.5GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:118GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "118",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 118GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.9000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon API Gateway Cache",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayCacheUsage:6.05GB",
+      "operation": "RunInstances",
+      "cacheMemorySizeGb": "6.1",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "API Gateway Dedicated Cache: 6.05GB - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "API calls received",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayRequest",
+      "operation": "ApiGatewayRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$3.50/million requests - first 333 million requests/month",
+    "beginRange": "0",
+    "endRange": "333000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000035000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "API calls received",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayRequest",
+      "operation": "ApiGatewayRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$2.80/million requests - next 667 million requests/month",
+    "beginRange": "333000000",
+    "endRange": "1000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000028000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "API calls received",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayRequest",
+      "operation": "ApiGatewayRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$2.38/million requests - next 19 billion requests/month",
+    "beginRange": "1000000000",
+    "endRange": "20000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000023800"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonApiGateway",
+      "description": "API calls received",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ApiGatewayRequest",
+      "operation": "ApiGatewayRequest",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon API Gateway"
+    },
+    "description": "$1.51/million requests - over 20 billion requests/month",
+    "beginRange": "20000000000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000015100"
+    }
+  }
+]

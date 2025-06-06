@@ -1,0 +1,128 @@
+[
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "volumeType": "Standard",
+      "usagetype": "Global-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Standard Storage (Global)",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "General Purpose",
+      "volumeType": "Standard",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Standard Storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Tier2 Request",
+      "groupDescription": "Eventually Consistent Read Request",
+      "usagetype": "Global-Requests-Tier2",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Eventually Consistent Read Request (Global)",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Tier2 Request",
+      "groupDescription": "Eventually Consistent Read Request",
+      "usagetype": "USE1-Requests-Tier2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Eventually Consistent Read Request (USE-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Tier1 Request",
+      "groupDescription": "Write Request and Strongly Consistent Read Request",
+      "usagetype": "USE1-Requests-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Write Request and Strongly Consistent Read Request (USE-1)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000043000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonCloudDirectory",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Tier1 Request",
+      "groupDescription": "Write Request and Strongly Consistent Read Request",
+      "usagetype": "Global-Requests-Tier1",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Cloud Directory"
+    },
+    "description": "Amazon Cloud Directory Write Request and Strongly Consistent Read Request (Global)",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

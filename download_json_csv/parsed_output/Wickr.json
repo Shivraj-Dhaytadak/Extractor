@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "Wickr",
+    "attributes": {
+      "servicecode": "AWSWickr",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AWSWickr-Standard",
+      "operation": "Wickr",
+      "plan": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Wickr"
+    },
+    "description": "$5 per Users for AWSWickr-Standard:Wickr in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Wickr",
+    "attributes": {
+      "servicecode": "AWSWickr",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AWSWickr-Free",
+      "operation": "Wickr",
+      "plan": "Free",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Wickr"
+    },
+    "description": "$0 per Users for AWSWickr-Free:Wickr in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Wickr",
+    "attributes": {
+      "servicecode": "AWSWickr",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AWSWickr-GuestUsers",
+      "operation": "GuestUsers",
+      "plan": "Guest Users",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Wickr"
+    },
+    "description": "$2 per User for AWS Wickr Guest Users in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Wickr",
+    "attributes": {
+      "servicecode": "AWSWickr",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AWSWickr-Premium",
+      "operation": "Wickr",
+      "plan": "Premium",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Wickr"
+    },
+    "description": "$15 per Users for AWSWickr-Premium:Wickr in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  }
+]

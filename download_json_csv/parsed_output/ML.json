@@ -1,0 +1,134 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Prediction-Memory",
+      "groupDescription": "Reserved capacity required for Machine Learning model - real time only",
+      "usagetype": "USE1-MegabyteHour10",
+      "operation": "RealtimeCapacity",
+      "machineLearningProcess": "Capacity reservation for real-time predictions",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.001 per 10 MB per hour for real-time prediction capacity reservation",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MB-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Prediction-Realtime",
+      "groupDescription": "Generate predictions one at a time in real time",
+      "usagetype": "USE1-Prediction",
+      "operation": "RealtimePredict",
+      "machineLearningProcess": "Real-time predictions",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.0001 per real-time prediction",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Prediction",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Build Machine Learning model",
+      "groupDescription": "Data Analysis and Model Building",
+      "usagetype": "USE1-AMLBoxUsage",
+      "operation": "EvaluateModel",
+      "machineLearningProcess": "Evaluate ML models",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.42 per compute hour used to evaluate ML models",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4200000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Build Machine Learning model",
+      "groupDescription": "Data Analysis and Model Building",
+      "usagetype": "USE1-AMLBoxUsage",
+      "operation": "DataStats",
+      "machineLearningProcess": "Create data statistics",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.42 per compute hour used to create data statistics",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4200000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Build Machine Learning model",
+      "groupDescription": "Data Analysis and Model Building",
+      "usagetype": "USE1-AMLBoxUsage",
+      "operation": "TrainModel",
+      "machineLearningProcess": "Train ML models",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.42 per compute hour used to train ML models",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4200000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonML",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Prediction-Batch",
+      "groupDescription": "Generate predictions in batch for data records",
+      "usagetype": "USE1-BatchPredictionChunk",
+      "operation": "BatchPredict",
+      "machineLearningProcess": "Batch predictions",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Machine Learning"
+    },
+    "description": "$0.10 per block of 1,000 batch predictions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Blocks",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

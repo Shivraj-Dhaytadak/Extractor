@@ -1,0 +1,1462 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+Tables+Queries",
+      "platopagedatatype": "AsyncFormsQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.07 per page for AsyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+Tables+Queries",
+      "platopagedatatype": "AsyncFormsQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.055 per page for AsyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms",
+      "platopagedatatype": "SyncFormsPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 0-1M pages of AnalyzeDocument Forms, $50 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms",
+      "platopagedatatype": "SyncFormsPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 1M+ pages of AnalyzeDocument Forms, $40 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+CustomQueries",
+      "platopagedatatype": "AsyncFormsCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.065 per page for AsyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+CustomQueries",
+      "platopagedatatype": "AsyncFormsCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.050 per page for AsyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract DocumentText API Requests",
+      "groupDescription": "Number of pages processed using DetectDocumentText",
+      "usagetype": "USE1-SyncTextPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Text",
+      "platopagedatatype": "SyncTextPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 0 - 1M DetectDocumentText pages processed USD per month, $1.50 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract DocumentText API Requests",
+      "groupDescription": "Number of pages processed using DetectDocumentText",
+      "usagetype": "USE1-SyncTextPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Text",
+      "platopagedatatype": "SyncTextPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 1M+ DetectDocumentText pages processed USD per month, $0.60 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Queries",
+      "platopagedatatype": "AsyncQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for AsyncQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Queries",
+      "platopagedatatype": "AsyncQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.01 per page for AsyncQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Tables+Queries",
+      "platopagedatatype": "AsyncQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.02 per page for AsyncQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Tables+Queries",
+      "platopagedatatype": "AsyncQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for AsyncQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Expense API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeExpense",
+      "usagetype": "USE1-AsyncExpensePagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Expense",
+      "platopagedatatype": "AsyncExpensePagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.01 per API Requests for AsyncExpensePagesProcessed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Expense API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeExpense",
+      "usagetype": "USE1-AsyncExpensePagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Expense",
+      "platopagedatatype": "AsyncExpensePagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.008 per API Requests for AsyncExpensePagesProcessed in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+CustomQueries",
+      "platopagedatatype": "SyncFormsCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.065 per page for SyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0650000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+CustomQueries",
+      "platopagedatatype": "SyncFormsCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.050 per page for SyncFormsCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "CustomQueries+Tables",
+      "platopagedatatype": "AsyncCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.030 per page for AsyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "CustomQueries+Tables",
+      "platopagedatatype": "AsyncCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.020 per page for AsyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "CustomQueries",
+      "platopagedatatype": "SyncCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.025 per page for SyncCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "CustomQueries",
+      "platopagedatatype": "SyncCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for SyncCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "CustomQueries+Tables",
+      "platopagedatatype": "SyncCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.030 per page for SyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "CustomQueries+Tables",
+      "platopagedatatype": "SyncCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.020 per page for SyncCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Tables+Queries",
+      "platopagedatatype": "SyncQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.02 per page for SyncQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Tables+Queries",
+      "platopagedatatype": "SyncQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for SyncQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract DocumentText API Requests",
+      "groupDescription": "Number of pages processed using DocumentTextDetection APIs",
+      "usagetype": "USE1-AsyncTextPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Text",
+      "platopagedatatype": "AsyncTextPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 0 - 1M DetectDocumentText pages processed USD per month, $1.50 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract DocumentText API Requests",
+      "groupDescription": "Number of pages processed using DocumentTextDetection APIs",
+      "usagetype": "USE1-AsyncTextPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Text",
+      "platopagedatatype": "AsyncTextPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 1M+ DetectDocumentText pages processed USD per month, $0.60 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Queries",
+      "platopagedatatype": "SyncQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for SyncQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Queries",
+      "platopagedatatype": "SyncQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.01 per page for SyncQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Signatures",
+      "usagetype": "USE1-SyncSignaturesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Signatures",
+      "platopagedatatype": "SyncSignaturesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 0 - 1M Signatures pages processed per month, 3.5 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0035000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Signatures",
+      "usagetype": "USE1-SyncSignaturesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Signatures",
+      "platopagedatatype": "SyncSignaturesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 1M+ Signatures pages processed per month, 1.4 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Layout",
+      "usagetype": "USE1-AsyncLayoutPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Layout",
+      "platopagedatatype": "AsyncLayoutPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.004 per page for AsyncLayoutPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Layout",
+      "usagetype": "USE1-AsyncLayoutPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Layout",
+      "platopagedatatype": "AsyncLayoutPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.003 per page for AsyncLayoutPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "CustomQueries",
+      "platopagedatatype": "AsyncCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.025 per page for AsyncCustomQueriesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncCustomQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "CustomQueries",
+      "platopagedatatype": "AsyncCustomQueriesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.015 per page for AsyncCustomQueriesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+Queries",
+      "platopagedatatype": "SyncFormsQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.055 per page for SyncFormsQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+Queries",
+      "platopagedatatype": "SyncFormsQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.045 per page for SyncFormsQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+Queries",
+      "platopagedatatype": "AsyncFormsQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.055 per page for AsyncFormsQueriesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsQueriesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+Queries",
+      "platopagedatatype": "AsyncFormsQueriesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.045 per page for AsyncFormsQueriesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0450000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms",
+      "platopagedatatype": "AsyncFormsPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 0-1M pages of AnalyzeDocument Forms, $50 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms",
+      "platopagedatatype": "AsyncFormsPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 1M+ pages of AnalyzeDocument Forms, $40 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+Tables+Queries",
+      "platopagedatatype": "SyncFormsQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.07 per page for SyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+Tables+Queries",
+      "platopagedatatype": "SyncFormsQueriesTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.055 per page for SyncFormsQueriesTablesPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Tables",
+      "platopagedatatype": "AsyncTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 0-1M pages of AnalyzeDocument Tables, $15 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Tables",
+      "platopagedatatype": "AsyncTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 1M+ pages of AnalyzeDocument Tables, $10 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Expense API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeExpense",
+      "usagetype": "USE1-SyncExpensePagesProcessed",
+      "operation": "",
+      "apiType": "Sync AnalyzeExpense",
+      "entityType": "Expense",
+      "platopagedatatype": "SyncExpensePagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.01 per Pages for SyncExpensePagesProcessed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Expense API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeExpense",
+      "usagetype": "USE1-SyncExpensePagesProcessed",
+      "operation": "",
+      "apiType": "Sync AnalyzeExpense",
+      "entityType": "Expense",
+      "platopagedatatype": "SyncExpensePagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.008 per Pages for SyncExpensePagesProcessed in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Signatures",
+      "usagetype": "USE1-AsyncSignaturesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Signatures",
+      "platopagedatatype": "AsyncSignaturesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 0 - 1M Signatures pages processed per month, 3.5 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0035000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Signatures",
+      "usagetype": "USE1-AsyncSignaturesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Signatures",
+      "platopagedatatype": "AsyncSignaturesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 1M+ Signatures pages processed per month, 1.4 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Lending API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeLending",
+      "usagetype": "USE1-AsyncLendingPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Lending",
+      "platopagedatatype": "AsyncLendingPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 0 - 1M AnalyzeLending pages processed per month, 70 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze Lending API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeLending",
+      "usagetype": "USE1-AsyncLendingPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Lending",
+      "platopagedatatype": "AsyncLendingPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "AsyncPagesProcessed: 1M+ AnalyzeLending pages processed per month, 55 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+CustomQueries+Tables",
+      "platopagedatatype": "SyncFormsCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.080 per page for SyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncFormsCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Forms+CustomQueries+Tables",
+      "platopagedatatype": "SyncFormsCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.060 per page for SyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Tables",
+      "platopagedatatype": "SyncTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 0-1M pages of AnalyzeDocument Tables, $15 USD per 1000 pages",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-SyncTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Tables",
+      "platopagedatatype": "SyncTablesPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "SyncPagesProcessed: 1M+ pages of AnalyzeDocument Tables, $10 USD per 1000 pages",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+CustomQueries+Tables",
+      "platopagedatatype": "AsyncFormsCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.080 per page for AsyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument",
+      "usagetype": "USE1-AsyncFormsCustomQueriesTablesPagesProcessed",
+      "operation": "",
+      "apiType": "Async",
+      "entityType": "Forms+CustomQueries+Tables",
+      "platopagedatatype": "AsyncFormsCustomQueriesTablesPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.060 per page for AsyncFormsCustomQueriesTablesPagesProcessed in US East (N. Virginia);[1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Layout",
+      "usagetype": "USE1-SyncLayoutPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Layout",
+      "platopagedatatype": "SyncLayoutPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.004 per page for SyncLayoutPagesProcessed in US East (N. Virginia); [0 to 1000000] pages tier",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeDocument Layout",
+      "usagetype": "USE1-SyncLayoutPagesProcessed",
+      "operation": "",
+      "apiType": "Sync",
+      "entityType": "Layout",
+      "platopagedatatype": "SyncLayoutPagesProcessed",
+      "pricingunit": "Pages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.003 per page for SyncLayoutPagesProcessed in US East (N. Virginia); [1000000 to Inf] pages tier",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze ID API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeID",
+      "usagetype": "USE1-SyncIDPagesProcessed",
+      "operation": "",
+      "apiType": "Sync Analyze ID",
+      "entityType": "ID",
+      "platopagedatatype": "SyncIDPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.025 per Pages for SyncIDPagesProcessed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonTextract",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Textract Analyze ID API Requests",
+      "groupDescription": "Number of pages processed using AnalyzeID",
+      "usagetype": "USE1-SyncIDPagesProcessed",
+      "operation": "",
+      "apiType": "Sync Analyze ID",
+      "entityType": "ID",
+      "platopagedatatype": "SyncIDPagesProcessed",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Textract"
+    },
+    "description": "$0.010 per Pages for SyncIDPagesProcessed in US East (N. Virginia)",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Pages",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  }
+]

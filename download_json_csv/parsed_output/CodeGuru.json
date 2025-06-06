@@ -1,0 +1,162 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AboveThresholdRepositoryAnalysis",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningRepositorySizeAboveThresholdsBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$10 per 100K LinesOfCode for repository analysis above caps in associated repositories in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "100K-LinesofCode",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AbovePaidSamplingHours",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningFreeBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$0.0 per hour for SamplingHours Above Paid Sampling in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SamplingHours",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$0.005 per hour for SamplingHours in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RepositorySizeHighPriceTier",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningRepositorySizeHighPriceTierBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$30 per 100K LinesOfCode for above 100K Lines of Code in associated repositories in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "100K-LinesofCode",
+    "pricePerUnit": {
+      "USD": "30.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LambdaAbovePaidSamplingHours",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningLambdaAbovePaidBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$0.0 per hour for Lambda SamplingHours Above Paid Sampling in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Profiler-Lambda-Sampling-Hour",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningBuildModels",
+      "regionCode": "",
+      "servicename": "CodeGuru"
+    },
+    "description": "Global rate for Profiler-Lambda-Sampling-Hour",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RepositorySizeLowPriceTier",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningRepositorySizeLowPriceTierBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$10 for the first 100K LinesOfCode in associated repositories in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "100K-LinesofCode",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "CodeGuru",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-LambdaSamplingHours",
+      "operation": "",
+      "baseProductReferenceCode": "MachineLearningLambdaBuildModels",
+      "regionCode": "us-east-1",
+      "servicename": "CodeGuru"
+    },
+    "description": "$0.005 per hour for Lambda SamplingHours in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  }
+]

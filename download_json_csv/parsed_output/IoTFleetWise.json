@@ -1,0 +1,122 @@
+[
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "millionMessages": "NA",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$1.75 per Million messages for the first 1 Billion messages per month",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000017500"
+    }
+  },
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "millionMessages": "NA",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$1.60 per Million messages for the next 499 Billion messages per month",
+    "beginRange": "1000000000",
+    "endRange": "500000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000016000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "millionMessages": "NA",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$1.45 per Million messages for over 500 Billion messages per month",
+    "beginRange": "500000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000014500"
+    }
+  },
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-vehicles",
+      "operation": "",
+      "individualVehicle": "Distinct Vehicles",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$0.60 per vehicle per month for the first 10k vehicles per month",
+    "beginRange": "0",
+    "endRange": "10000",
+    "unit": "Vehicles per month",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-vehicles",
+      "operation": "",
+      "individualVehicle": "Distinct Vehicles",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$0.45 per vehicle per month for the next 990k vehicles per month",
+    "beginRange": "10000",
+    "endRange": "1000000",
+    "unit": "Vehicles per month",
+    "pricePerUnit": {
+      "USD": "0.4500000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTFleetWise",
+    "attributes": {
+      "servicecode": "AWSIoTFleetWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-vehicles",
+      "operation": "",
+      "individualVehicle": "Distinct Vehicles",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT FleetWise"
+    },
+    "description": "$0.35 per vehicle per month for over 1M vehicles per month",
+    "beginRange": "1000000",
+    "endRange": "Inf",
+    "unit": "Vehicles per month",
+    "pricePerUnit": {
+      "USD": "0.3500000000"
+    }
+  }
+]

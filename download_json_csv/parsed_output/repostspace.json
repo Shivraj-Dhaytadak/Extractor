@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "repostspace",
+      "description": "Standard Tier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SpaceInstance-Standard",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS re:Post Private"
+    },
+    "description": "USD12.0 per UsersPerMonth for SpaceInstance-Standard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsersPerMonth",
+    "pricePerUnit": {
+      "USD": "12.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "repostspace",
+      "description": "Free Tier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SpaceInstance-Free",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS re:Post Private"
+    },
+    "description": "USD0.0 per UsersPerMonth for SpaceInstance-Free in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsersPerMonth",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

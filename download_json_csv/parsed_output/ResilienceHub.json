@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "AWS Resilience Hub",
+    "attributes": {
+      "servicecode": "AWSResilienceHub",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FreeTierApplication",
+      "operation": "Application",
+      "feecode": "FreeTier",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Resilience Hub"
+    },
+    "description": "$0.0 per Application for FreeTierApplication in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Application",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Resilience Hub",
+    "attributes": {
+      "servicecode": "AWSResilienceHub",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PaidTierApplication",
+      "operation": "Application",
+      "feecode": "PaidTier",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Resilience Hub"
+    },
+    "description": "$15 per Application for PaidTierApplication in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Application",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  }
+]

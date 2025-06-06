@@ -1,0 +1,274 @@
+[
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EMT-AdInsertion",
+      "operation": "VOD",
+      "operationType": "Ad Insertion VOD",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.25 per thousand ad insertions per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.000 per GB - first 1 GB of ad delivery out per month",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.090 per GB - first 10 TB / month ad delivery out beyond the global free tier",
+    "beginRange": "1",
+    "endRange": "10240",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.085 per GB - next 40 TB / month ad delivery out",
+    "beginRange": "10240",
+    "endRange": "51200",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0850000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.070 per GB - next 100 TB / month ad delivery out",
+    "beginRange": "51200",
+    "endRange": "153600",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudFront-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.050 per GB - greater than 150 TB / month ad delivery out",
+    "beginRange": "153600",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EMT-AdInsertion",
+      "operation": "",
+      "operationType": "Ad Insertion",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.50 per thousand ad insertions per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EMT-ChannelHoursStandard",
+      "operation": "",
+      "operationType": "Assembly",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor",
+      "tier": "Standard"
+    },
+    "description": "$0.35 per hours for EMT-ChannelHoursStandard in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3500000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EMT-ChannelHoursBasic",
+      "operation": "",
+      "operationType": "Assembly",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor",
+      "tier": "Basic"
+    },
+    "description": "$0.10 per hours for EMT-ChannelHoursBasic in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.000 per GB - first 1 GB of ad delivery out per month",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.090 per GB - first 10 TB / month ad delivery out beyond the global free tier",
+    "beginRange": "1",
+    "endRange": "10240",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.085 per GB - next 40 TB / month ad delivery out",
+    "beginRange": "10240",
+    "endRange": "51200",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0850000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.070 per GB - next 100 TB / month ad delivery out",
+    "beginRange": "51200",
+    "endRange": "153600",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaTailor",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaTailor"
+    },
+    "description": "$0.050 per GB - greater than 150 TB / month ad delivery out",
+    "beginRange": "153600",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  }
+]

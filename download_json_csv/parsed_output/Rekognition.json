@@ -1,0 +1,863 @@
+[
+  {
+    "productFamily": "Rekognition API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Moderation Training API",
+      "groupDescription": "Number of minutes that a custom moderation model is trained",
+      "usagetype": "USE1-minutestrained-custommoderation",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Custom Labels Training: USD $0.0.08333333 per minute ($5 per hour) for US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0833333300"
+    }
+  },
+  {
+    "productFamily": "Rekognition Storage",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Face Vector Storage",
+      "groupDescription": "Number of Face Vectors stored",
+      "usagetype": "USE1-FaceVectorsStored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Storage: 0.01 USD per 1000 Faces stored per month.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Faces-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Video API - Live Streams",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Video API Requests - Live Streams",
+      "groupDescription": "Number of minutes of Live stream video processed using StreamProcessor APIs",
+      "usagetype": "USE1-MinsOfLiveVideoProcessed",
+      "operation": "LabelDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Number of minutes of Live stream video processed using StreamProcessor APIs",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0081700000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Video API - Archived Content",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Video API Requests - Archived Content",
+      "groupDescription": "Number of minutes of Archived Video processed for shot detection",
+      "usagetype": "USE1-MinsOfArchVideoProcessed:Shot",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "$0.05 per Minutes Processed for MinsOfArchVideoProcessed:Shot in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Video API - Archived Content",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Video API Requests - Archived Content",
+      "groupDescription": "Number of minutes of Archived video processed using LabelDetection, FaceDetection, PersonTracking, CelebrityRecognition, ContentModeration and FaceSearch using Rekognition Video APIs",
+      "usagetype": "USE1-MinsOfArchVideoProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "MinsOfArchVideoProcessed: 0.10 USD per minute of Archived Video processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Custom Image Async API Requests",
+      "groupDescription": "Number of images processed using Custom Image Async API",
+      "usagetype": "USE1-AsyncImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0012000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Custom Image Async API Requests",
+      "groupDescription": "Number of images processed using Custom Image Async API",
+      "usagetype": "USE1-AsyncImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0009600000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Custom Image Async API Requests",
+      "groupDescription": "Number of images processed using Custom Image Async API",
+      "usagetype": "USE1-AsyncImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Custom Image Async API Requests",
+      "groupDescription": "Number of images processed using Custom Image Async API",
+      "usagetype": "USE1-AsyncImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0003000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Storage",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "User Vector Storage",
+      "groupDescription": "Number of User Vectors stored",
+      "usagetype": "USE1-UserVectorsStored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Storage: 0.01 USD per 1000 Faces stored per month.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using Compare Faces, IndexFaces, SearchFacesByImage OR Number of calls made to SearchFaceById",
+      "usagetype": "USE1-Group1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using Compare Faces, IndexFaces, SearchFacesByImage OR Number of calls made to SearchFaceById",
+      "usagetype": "USE1-Group1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using Compare Faces, IndexFaces, SearchFacesByImage OR Number of calls made to SearchFaceById",
+      "usagetype": "USE1-Group1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 5M-30M images processed per month",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using Compare Faces, IndexFaces, SearchFacesByImage OR Number of calls made to SearchFaceById",
+      "usagetype": "USE1-Group1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier: 35M+ images processed per month",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image Async API Requests",
+      "groupDescription": "Number of images processed using Image Async API",
+      "usagetype": "USE1-Group2-AsyncImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image Async API Requests",
+      "groupDescription": "Number of images processed using Image Async API",
+      "usagetype": "USE1-Group2-AsyncImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image Async API Requests",
+      "groupDescription": "Number of images processed using Image Async API",
+      "usagetype": "USE1-Group2-AsyncImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 5M-30M images processed per month",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image Async API Requests",
+      "groupDescription": "Number of images processed using Image Async API",
+      "usagetype": "USE1-Group2-AsyncImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier: 35M+ images processed per month",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectFaces, DetectModerationLabels, DetectLabels, DetectProtectiveEquipment, RecognizeCelebrities APIs",
+      "usagetype": "USE1-Group2-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 0 - 1000000 images processed per month",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectFaces, DetectModerationLabels, DetectLabels, DetectProtectiveEquipment, RecognizeCelebrities APIs",
+      "usagetype": "USE1-Group2-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 1000000 - 5000000 images processed per month",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectFaces, DetectModerationLabels, DetectLabels, DetectProtectiveEquipment, RecognizeCelebrities APIs",
+      "usagetype": "USE1-Group2-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier : 5M-30M images processed per month",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectFaces, DetectModerationLabels, DetectLabels, DetectProtectiveEquipment, RecognizeCelebrities APIs",
+      "usagetype": "USE1-Group2-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: Non Free Tier: 35M+ images processed per month",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of calls made to streaming API",
+      "usagetype": "USE1-StreamingCalls",
+      "operation": "StartFaceLivenessSession",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "$0.015 per API call for 0-500K streaming calls in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "500000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of calls made to streaming API",
+      "usagetype": "USE1-StreamingCalls",
+      "operation": "StartFaceLivenessSession",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "$0.0125 per API call for 500K-3M streaming calls in US East (N. Virginia)",
+    "beginRange": "500000",
+    "endRange": "3000000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of calls made to streaming API",
+      "usagetype": "USE1-StreamingCalls",
+      "operation": "StartFaceLivenessSession",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "$0.010 per API call for >3M streaming calls in US East (N. Virginia)",
+    "beginRange": "3000000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Inference API",
+      "groupDescription": "Number of minutes of inference with a custom model",
+      "usagetype": "USE1-inferenceminutes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Custom Labels Inference:  $0.06666667 per minute ($4 per hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0666666700"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of images processed using Custom Moderation Adapter",
+      "usagetype": "USE1-ImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0012000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of images processed using Custom Moderation Adapter",
+      "usagetype": "USE1-ImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0009600000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of images processed using Custom Moderation Adapter",
+      "usagetype": "USE1-ImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0007200000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition API Requests",
+      "groupDescription": "Number of images processed using Custom Moderation Adapter",
+      "usagetype": "USE1-ImagesProcessed-CustomModeration",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Custom Moderation: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0003000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Video API - Live Streams",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Video API Requests - Live Streams",
+      "groupDescription": "Number of minutes of Live stream video processed using StreamProcessor Rekognition Video APIs",
+      "usagetype": "USE1-MinsOfLiveVideoProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "MinsOfLiveVideoProcessed: 0.12 USD per minute of Live Stream Video processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.1200000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Training API",
+      "groupDescription": "Number of Minutes that a custom model is trained",
+      "usagetype": "USE1-minutestrained",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Custom Labels Training:  $0.01666667 per minute ($1 per hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0166666700"
+    }
+  },
+  {
+    "productFamily": "Rekognition Video API - Archived Content",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Video API Requests - Archived Content",
+      "groupDescription": "Number of minutes of Archived Video processed using Technical Cues detection",
+      "usagetype": "USE1-MinsOfArchVideoProcessed:TechCue",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "$0.05 per Minutes Processed for MinsOfArchVideoProcessed:TechCue in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes Processed",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels, DetectFaces, CompareFaces, SearchByImage, DetectModerationLabels, RecognizeCelebrities, IndexFaces APIs OR Number of calls made to SearchFaceById, ListFace Rekognition Image APIs",
+      "usagetype": "USE1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: 5001 - 1 MM images processed per month, 1.00 USD per 1000 images processed.",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels, DetectFaces, CompareFaces, SearchByImage, DetectModerationLabels, RecognizeCelebrities, IndexFaces APIs OR Number of calls made to SearchFaceById, ListFace Rekognition Image APIs",
+      "usagetype": "USE1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: 1,000,001 - 10 MM images processed per month, 0.80 USD per 1000 images processed.",
+    "beginRange": "1000000",
+    "endRange": "10000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels, DetectFaces, CompareFaces, SearchByImage, DetectModerationLabels, RecognizeCelebrities, IndexFaces APIs OR Number of calls made to SearchFaceById, ListFace Rekognition Image APIs",
+      "usagetype": "USE1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: 10,000,001 - 100MM images processed per month, 0.60 USD per 1000 images per 1000 images processed.",
+    "beginRange": "10000000",
+    "endRange": "100000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels, DetectFaces, CompareFaces, SearchByImage, DetectModerationLabels, RecognizeCelebrities, IndexFaces APIs OR Number of calls made to SearchFaceById, ListFace Rekognition Image APIs",
+      "usagetype": "USE1-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed: 100MM+ images processed per month, 0.40 USD per 1000 images per 1000 images processed.",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0004000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels (Image Properties) API",
+      "usagetype": "USE1-ImageProperties-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Image Properties: Non Free Tier: 0-1M images per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0007500000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels (Image Properties) API",
+      "usagetype": "USE1-ImageProperties-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Image Properties: Non Free Tier: 1M-5M images per month in US East (N. Virginia)",
+    "beginRange": "1000000",
+    "endRange": "5000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels (Image Properties) API",
+      "usagetype": "USE1-ImageProperties-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Image Properties: Non Free Tier: 5M-35M images per month in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "35000000",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0004500000"
+    }
+  },
+  {
+    "productFamily": "Rekognition Image API",
+    "attributes": {
+      "servicecode": "AmazonRekognition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Rekognition Image API Requests",
+      "groupDescription": "Number of images processed using DetectLabels (Image Properties) API",
+      "usagetype": "USE1-ImageProperties-ImagesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Rekognition"
+    },
+    "description": "Images Processed for Image Properties: Non Free Tier: 35M+ images per month in US East (N. Virginia)",
+    "beginRange": "35000000",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0001875000"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "AWSCodePipeline",
+      "description": "First active pipeline",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-activePipeline",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS CodePipeline"
+    },
+    "description": "$0.00 for first active pipeline",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "pipelines",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "AWSCodePipeline",
+      "description": "Trial active pipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-trialPipeline",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CodePipeline"
+    },
+    "description": "$0.00 per trial pipeline - no charge for pipelines created within 30 days",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "pipelines",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Action Execution Minutes",
+    "attributes": {
+      "servicecode": "AWSCodePipeline",
+      "description": "Action Execution Minute",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-actionExecutionMinute",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS CodePipeline"
+    },
+    "description": "$0.00 for 100 action execution minutes",
+    "beginRange": "0",
+    "endRange": "100",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Action Execution Minutes",
+    "attributes": {
+      "servicecode": "AWSCodePipeline",
+      "description": "Action Execution Minute",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-actionExecutionMinute",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CodePipeline"
+    },
+    "description": "$0.002 per action execution minute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "AWSCodePipeline",
+      "description": "First active pipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-activePipeline",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CodePipeline"
+    },
+    "description": "$1.00 per additional active pipeline",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "pipelines",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  }
+]

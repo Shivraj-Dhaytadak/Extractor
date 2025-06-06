@@ -1,0 +1,847 @@
+[
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-USW1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "USW1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EUC1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "EUC1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APS2-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APS2-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AppConfig-Requests",
+      "operation": "",
+      "gets": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "updates": "Not Applicable"
+    },
+    "description": "$0.0000002 per Request for AppConfig-Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Configuration Requests",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SAE1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "SAE1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Change-ChangeRequest-Tier1",
+      "operation": "",
+      "apirequestsfree": "Not Applicable",
+      "apirequestspaid": "Not Applicable",
+      "changerequestsfree": "Not Applicable",
+      "changerequestspaid": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "$0.296 per Change Request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.2960000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-USW2-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "USW2-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PS-Param-Processed-Tier2",
+      "operation": "",
+      "parameterType": "False",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "throughput": "1000"
+    },
+    "description": "$0.05 per 10,000 Parameter API Interaction_Higher throughput in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JustInTimeAccessHour-Trial",
+      "operation": "JustInTimeAccessHour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "trial": "TRUE"
+    },
+    "description": "$0.00 per hours for USE1-JustInTimeAccessHour-Trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APS1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APS1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-OC-OpsItems-Tier1",
+      "operation": "",
+      "describes": "Not Applicable",
+      "gets": "Not Applicable",
+      "opsItems": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "updates": "Not Applicable"
+    },
+    "description": "$0.00297 per OpsItem in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "OpsItems",
+    "pricePerUnit": {
+      "USD": "0.0029700000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APN1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APN1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PS-Param-Processed-Tier1",
+      "operation": "",
+      "parameterType": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "throughput": "40"
+    },
+    "description": "$0.05 per 10,000 Advanced Parameter API interaction_Standard throughput in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Request",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EU-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "EU-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APN2-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APN2-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EUW3-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "EUW3-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-IM-ResponsePlan-Months-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "response": "response-plan-months",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "$7.00 per Response Plan Month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Months",
+    "pricePerUnit": {
+      "USD": "7.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EUN1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "EUN1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MI-AdvInstances-Hrs",
+      "operation": "",
+      "instances": "advanced",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "$0.00695 per Advanced Instance Hr in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0069500000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EUW2-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "EUW2-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "DataTransfer-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "DataTransfer-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APS3-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APS3",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UGE1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "UGE1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "dataTransfer": "Not Applicable",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "True"
+    },
+    "description": "$0.046 per GB per month of storage used in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0460000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CAN1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "CAN1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JustInTimeAccessHour",
+      "operation": "JustInTimeAccessHour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "trial": "FALSE"
+    },
+    "description": "$0.0137 per hours from 0 to 72,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "72000",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0137000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JustInTimeAccessHour",
+      "operation": "JustInTimeAccessHour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "trial": "FALSE"
+    },
+    "description": "$0.0103 per hours from 72,000 to 720,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+    "beginRange": "72000",
+    "endRange": "720000",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0103000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JustInTimeAccessHour",
+      "operation": "JustInTimeAccessHour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "trial": "FALSE"
+    },
+    "description": "$0.0034 per hours from 720,000 to 7,200,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+    "beginRange": "720000",
+    "endRange": "7200000",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JustInTimeAccessHour",
+      "operation": "JustInTimeAccessHour",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "trial": "FALSE"
+    },
+    "description": "$0.0014 per hours from 7,200,000 for USE1-JustInTimeAccessHour in US East (N. Virginia)",
+    "beginRange": "7200000",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AppConfig-Deployments",
+      "operation": "",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "updates": "True"
+    },
+    "description": "$0.0008 per Configuration Received for AppConfig-Deployments in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Configuration Received",
+    "pricePerUnit": {
+      "USD": "0.0008000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Change-API-Requests-Free",
+      "operation": "",
+      "apirequestsfree": "True",
+      "apirequestspaid": "Not Applicable",
+      "changerequestsfree": "Not Applicable",
+      "changerequestspaid": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "Free trial Change Manager API Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-APN3-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "APN3-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-OC-API-Requests-Tier1",
+      "operation": "",
+      "describes": "Not Applicable",
+      "gets": "True",
+      "opsItems": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "updates": "Not Applicable"
+    },
+    "description": "$0.000039 per OpsItem API Request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000390000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-UGW1-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "UGW1-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-PS-Advanced-Param-Tier1",
+      "operation": "",
+      "parameterType": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "throughput": "40"
+    },
+    "description": "$0.05 per Advanced Parameter per Month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hour",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Change-ChangeRequest-Free",
+      "operation": "",
+      "apirequestsfree": "Not Applicable",
+      "apirequestspaid": "Not Applicable",
+      "changerequestsfree": "True",
+      "changerequestspaid": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "Free trial Change Requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Doc-API-Requests-Tier1",
+      "operation": "",
+      "dataTransfer": "Not Applicable",
+      "gets": "True",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.025 per 1000 Get/Describe requests for Package Documents",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Change-API-Requests-Tier1",
+      "operation": "",
+      "apirequestsfree": "Not Applicable",
+      "apirequestspaid": "True",
+      "changerequestsfree": "Not Applicable",
+      "changerequestspaid": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager"
+    },
+    "description": "$0.000039 per Change Manager API Request in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Requests",
+    "pricePerUnit": {
+      "USD": "0.0000390000"
+    }
+  },
+  {
+    "productFamily": "AWS Systems Manager",
+    "attributes": {
+      "servicecode": "AWSSystemsManager",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-USE2-AWS-Out-Bytes",
+      "operation": "",
+      "dataTransfer": "USE2-",
+      "gets": "Not Applicable",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Systems Manager",
+      "storage": "Not Applicable"
+    },
+    "description": "$0.9 per GB - Data Retrieval",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.9000000000"
+    }
+  }
+]

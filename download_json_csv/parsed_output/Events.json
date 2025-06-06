@@ -1,0 +1,264 @@
+[
+  {
+    "productFamily": "CloudWatch Events",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Invocation-64K-Chunks",
+      "operation": "InvokeApiDestination",
+      "eventType": "APIDestination",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.20 per million invocations of API Destinations in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Event-64K-Chunks",
+      "operation": "PutEvents",
+      "eventType": "Custom Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$1.00 per million EventBridge custom events received in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Event-8K-Chunks",
+      "operation": "DiscoveryEvent",
+      "eventType": "Discovery Event",
+      "regionCode": "",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0 for the first 5 million ingested events for schema discovery",
+    "beginRange": "0",
+    "endRange": "5000000",
+    "unit": "8K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Event-64K-Chunks",
+      "operation": "ReceivedPartnerEvents",
+      "eventType": "Partner Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$1.00 per million EventBridge partner events received in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ScheduledInvocation",
+      "operation": "Invocation",
+      "invocation": "Scheduled Invocation",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events",
+      "timeWindow": "N/A"
+    },
+    "description": "$0 for the first 14 million scheduled invocations",
+    "beginRange": "0",
+    "endRange": "14000000",
+    "unit": "Invocations",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ScheduledInvocation",
+      "operation": "Invocation",
+      "invocation": "Scheduled Invocation",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events",
+      "timeWindow": "N/A"
+    },
+    "description": "$1.00 per million scheduled invocations in US East (N. Virginia)",
+    "beginRange": "14000000",
+    "endRange": "Inf",
+    "unit": "Invocations",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Invocation-64K-Chunks",
+      "operation": "CrossAccountInvoke-AWSEvent",
+      "eventType": "Cross-Account AWS Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$1.00 per million cross-account invocations with AWS management events in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "CloudWatch Events",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "StandardStorage",
+      "eventType": "Event Storage",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.023 per GB-Mo for TimedStorage-ByteHrs:StandardStorage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Event-8K-Chunks",
+      "operation": "DiscoveryEvent",
+      "eventType": "Discovery Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.10 per million ingested events for schema discovery in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "8K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "CloudWatch Events",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ArchivedEvents-Bytes",
+      "operation": "ArchiveEvents",
+      "eventType": "Archive Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.10 per GB for ArchivedEvents-Bytes:ArchiveEvents in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Invocation-64K-Chunks",
+      "operation": "CrossAccountInvoke-CustomEvent",
+      "eventType": "Cross-Account Custom Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.05 per million cross-account invocations with custom events in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000000500"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Request-64K-Chunks",
+      "operation": "PipeRequest",
+      "regionCode": "us-east-1",
+      "request": "Pipe Request",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.40 per million Pipes requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "EventBridge",
+    "attributes": {
+      "servicecode": "AWSEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Invocation-64K-Chunks",
+      "operation": "CrossAccountInvoke-PartnerEvent",
+      "eventType": "Cross-Account Partner Event",
+      "regionCode": "us-east-1",
+      "servicename": "CloudWatch Events"
+    },
+    "description": "$0.05 per million cross-account invocations with partner events in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "64K-Chunks",
+    "pricePerUnit": {
+      "USD": "0.0000000500"
+    }
+  }
+]

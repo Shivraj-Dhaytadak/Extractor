@@ -1,0 +1,380 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Upload part to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "UploadPart",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.005 per 1,000 UploadPart requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Complete Multipart Upload for repl to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "CompleteMultipartUploadForRepl",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 CompleteMultipartUploadForRepl requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-Tier5",
+      "groupDescription": "Glacier Deep Archive Bulk Restore Requests",
+      "usagetype": "Requests-GDA-Tier5",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.025 per 1,000 Bulk requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Initiate Multipart Upload for replication to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "InitiateMultipartUploadForRepl",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.005 per 1,000 InitiateMultipartUploadForRepl requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "S3-Bulk-Retrieval",
+      "feeDescription": "Fee for Bulk Retrieval of data stored from Glacier Deep Archive",
+      "usagetype": "Bulk-Retrieval-Bytes",
+      "operation": "DeepArchiveRestoreObject",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.0025 per GB Bulk retrieval fee from Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0025000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "S3-Standard-Retrieval",
+      "feeDescription": "Fee for Standard Retrieval of data stored from Glacier Deep Archive",
+      "usagetype": "Standard-Retrieval-Bytes",
+      "operation": "DeepArchiveRestoreObject",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.02 per GB Standard retrieval fee from Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Archive",
+      "volumeType": "Glacier Deep Archive",
+      "usagetype": "TimedStorage-GDA-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.00099 per GB-Month for storage used in Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0009900000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "PUT to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "PutObject",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 PutObject requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Upload part for replication to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "UploadPartForRepl",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.005 per 1,000 UploadPartForRepl requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Copy part to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "CopyPart",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.005 per 1,000 CopyPart requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Complete Multipart Upload to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "CompleteMultipartUpload",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 CompleteMultipartUpload requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier3",
+      "groupDescription": "GDA Standard Restore Requests",
+      "usagetype": "Requests-GDA-Tier3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.10 per 1,000 Standard requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "S3:EarlyDelete-GDA",
+      "feeDescription": "Pro-rated fee for objects deleted before 180 days in Glacier Deep Archive volume",
+      "usagetype": "EarlyDelete-GDA",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.00099 per GB-Month prorated for objects deleted before 180 days in Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0009900000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "Initiate Multipart Upload to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "InitiateMultipartUpload",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.005 per 1,000 InitiateMultipartUpload requests in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-Tier3",
+      "groupDescription": "Lifecycle to Glacier Deep Archive",
+      "usagetype": "Requests-Tier3",
+      "operation": "S3-GDATransition",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 Lifecycle requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "POST to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "PostObject",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 PostObject requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "COPY Object to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "CopyObject",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 CopyObject requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonS3GlacierDeepArchive",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "S3-API-GDA-Tier1",
+      "groupDescription": "PUT for replication to Glacier Deep Archive",
+      "usagetype": "Requests-GDA-Tier1",
+      "operation": "PutObjectForRepl",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon S3 Glacier Deep Archive"
+    },
+    "description": "$0.05 per 1,000 PutObjectForRepl requests to Glacier Deep Archive in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  }
+]

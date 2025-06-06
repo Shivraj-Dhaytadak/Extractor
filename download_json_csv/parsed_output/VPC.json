@@ -1,0 +1,991 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Hourly charge for Transit Gateway Peering Attachments",
+      "usagetype": "USE1-TransitGateway-Hours",
+      "operation": "TransitGatewayPeering",
+      "attachmentType": "Transit Gateway",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per hour for TransitGateway-Hours:TransitGatewayPeering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Charge per Connection per hour processed by VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-ConnectionCount-Charged",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.0000001 per Connection per hour processed by VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Connections",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Endpoint Service",
+      "group": "VPCE:VPCEnpoint",
+      "groupDescription": "Charge per hour per active remote region for a VPCE service",
+      "usagetype": "USE1-VpcEndpoint-Service-Hours",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per hour per active remote region for a VPCE service",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Hourly charge for Transit Gateway Connect attachments",
+      "usagetype": "USE1-TransitGateway-Hours",
+      "operation": "TransitGatewayConnect",
+      "attachmentType": "Transit Gateway Connect",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per hour for TransitGateway-Hours:TransitGatewayConnect in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "VPC Peering",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "transferType": "Intra Region Peering Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-VpcPeering-Out-Bytes",
+      "operation": "",
+      "fromRegionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.01 per GB for USE1-VpcPeering-Out-Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVPCIPAddressManager",
+      "groupDescription": "Hourly charge for Active IP Addresses",
+      "usagetype": "USE1-IPAddressManager-IP-Hours",
+      "operation": "IPAM-Active-IP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.00027 per hours for IPAddressManager-IP-Hours:IPAM-Active-IP in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0002700000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVerifiedAccess",
+      "groupDescription": "Hourly charge for Verified Access Applications",
+      "usagetype": "USE1-VerifiedAccess-App-Hours",
+      "operation": "VerifiedAccess-Apps",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.27 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "148800",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2700000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVerifiedAccess",
+      "groupDescription": "Hourly charge for Verified Access Applications",
+      "usagetype": "USE1-VerifiedAccess-App-Hours",
+      "operation": "VerifiedAccess-Apps",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.20 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in US East (N. Virginia)",
+    "beginRange": "148800",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "Cloud Connectivity",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "IPsec",
+      "usagetype": "VPN-Usage-Hours:ipsec.1",
+      "operation": "CreateVpnConnection",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per VPN Connection-Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VPCPublicIPv4Address",
+      "groupDescription": "Hourly charge for In-use Public IPv4 Addresses",
+      "usagetype": "USE1-PublicIPv4:InUseAddress",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.005 per In-use public IPv4 address per hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcResources",
+      "groupDescription": "Hourly charge to access VPC Resource through service-network",
+      "usagetype": "USE1-VpcLattice-Service-Network-Resource-Hours",
+      "operation": "VpcResourceConsumer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.1 per hour per VPC resource in a service-network in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "PrivateLink",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Charge for per GB data processed by VPC Endpoints",
+      "usagetype": "USE1-VpcEndpoint-Bytes",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.01 per GB for upto 1 PB monthly data processed by VPC Endpoints",
+    "beginRange": "0",
+    "endRange": "1048576",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "PrivateLink",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Charge for per GB data processed by VPC Endpoints",
+      "usagetype": "USE1-VpcEndpoint-Bytes",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed by VPC Endpoints",
+    "beginRange": "1048576",
+    "endRange": "5242880",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "PrivateLink",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Charge for per GB data processed by VPC Endpoints",
+      "usagetype": "USE1-VpcEndpoint-Bytes",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.004 per GB for more than 5 PB monthly data processed by VPC Endpoints",
+    "beginRange": "5242880",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVerifiedAccess",
+      "groupDescription": "Hourly charge for non-HTTP Verified Access endpoints",
+      "usagetype": "USE1-VerifiedAccess-non-HTTP-App-Hours",
+      "operation": "VerifiedAccess-NonHTTP-Apps",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "USD0.20 per hours for VerifiedAccess-non-HTTP-App-Hours:VerifiedAccess-NonHTTP-Apps in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSReachabilityAnalyzer",
+      "groupDescription": "Charge per analysis processed by VPC Reachability Analyzer",
+      "usagetype": "USE1-Analysis-Runs",
+      "operation": "RunAnalysis",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.1 per analysis processed by VPC Reachability Analyzer",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReachabilityAnalyses",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Resource",
+      "group": "VpcResources",
+      "groupDescription": "Hourly charge to access VPC Resource through Resource-endpoint",
+      "usagetype": "USE1-VpcEndpoint-Resource-Hours",
+      "operation": "VpcResourceConsumer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per hour per VPC resource for VPC endpoint of type 'resource' in  US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVerifiedAccess",
+      "groupDescription": "Data processed by AWS Verified Access",
+      "usagetype": "USE1-VerifiedAccess-DataProcess-Bytes",
+      "operation": "VerifiedAccess-data",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per GB for VerifiedAccess-DataProcess-Bytes:VerifiedAccess-data in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Charge per GB Data Processed by VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-DataProcessing-Bytes",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.025 per GB Data Processed by VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Charge for per GB data processed by AWS Transit Gateways  for Site-to-Site VPN attachments",
+      "usagetype": "USE1-TransitGateway-Bytes",
+      "operation": "TransitGatewayVPN",
+      "attachmentType": "AWS Site-to-Site VPN",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per GB Data Processed by Transit Gateway VPN Attachment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments",
+      "usagetype": "USE1-TransitGateway-Hours",
+      "operation": "TransitGatewayDirectConnect",
+      "attachmentType": "AWS DirectConnect",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per Transit Gateway DirectConnect Attachment Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Hourly charge for Transit Gateway VPC Attachments",
+      "usagetype": "USE1-TransitGateway-Hours",
+      "operation": "TransitGatewayVPC",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per Transit Gateway VPC Attachment Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Free for the first 300,000 Requests per hour processed by VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-RequestCount-Free",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0 for the first 300,000 Requests per hour processed by VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments",
+      "usagetype": "USE1-TransitGateway-Bytes",
+      "operation": "TransitGatewayDirectConnect",
+      "attachmentType": "AWS DirectConnect",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per GB Data Processed by Transit Gateway DirectConnect Attachment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Gateway Load Balancer Endpoint",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Hourly charge for AWS Gateway Load Balancer VPC Endpoint",
+      "usagetype": "USE1-VpcEndpoint-GWLBE-Hours",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.01 per Hrs for VpcEndpoint-GWLBE-Hours:VpcEndpoint in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Hourly charge for Transit Gateway Site-to-Site VPN attachments",
+      "usagetype": "USE1-TransitGateway-Hours",
+      "operation": "TransitGatewayVPN",
+      "attachmentType": "AWS Site-to-Site VPN",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per Transit Gateway VPN Attachment Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "VPC Peering",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "transferType": "Intra Region Peering Inbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-VpcPeering-In-Bytes",
+      "operation": "",
+      "fromRegionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.01 per GB for USE1-VpcPeering-In-Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "PrivateLink",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Hourly charge for VPC Endpoints",
+      "usagetype": "USE1-VpcEndpoint-Hours",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.01 per VPC Endpoint Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Resource",
+      "group": "VpcResources",
+      "groupDescription": "Per GB charge to access VPC Resources",
+      "usagetype": "USE1-VpcResource-Consumer-Bytes",
+      "operation": "VpcResourceConsumer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.01 per GB for upto 1 PB monthly data processed for VPC resources ",
+    "beginRange": "0",
+    "endRange": "1048576",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Resource",
+      "group": "VpcResources",
+      "groupDescription": "Per GB charge to access VPC Resources",
+      "usagetype": "USE1-VpcResource-Consumer-Bytes",
+      "operation": "VpcResourceConsumer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed for VPC resources",
+    "beginRange": "1048576",
+    "endRange": "5242880",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Resource",
+      "group": "VpcResources",
+      "groupDescription": "Per GB charge to access VPC Resources",
+      "usagetype": "USE1-VpcResource-Consumer-Bytes",
+      "operation": "VpcResourceConsumer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.004 per GB for more than 5 PB monthly data processed for VPC resources ",
+    "beginRange": "5242880",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers",
+      "usagetype": "USE1-TGW-Multicast-Consumer-Bytes",
+      "operation": "TransitGatewayVPC",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per GigaBytes for TGW-Multicast-Consumer-Bytes:TransitGatewayVPC in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "VpcEndpoint",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "endpointType": "Gateway Load Balancer Endpoint",
+      "group": "VPCE:VpcEndpoint",
+      "groupDescription": "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+      "usagetype": "USE1-VpcEndpoint-GWLBE-Bytes",
+      "operation": "VpcEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0035000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSClientVPN",
+      "groupDescription": "Hourly charge for Client VPN Endpoints",
+      "usagetype": "USE1-ClientVPN-EndpointHours",
+      "operation": "ClientVPNEndpoints",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.1 per Client VPN Endpoint Association Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VPCPublicIPv4Address",
+      "groupDescription": "Hourly charge for Idle Public IPv4 Addresses",
+      "usagetype": "USE1-PublicIPv4:IdleAddress",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.005 per Idle public IPv4 address per hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVPCAccessAnalyzer",
+      "groupDescription": "Charge per ENI processed by VPC Access Analyzer",
+      "usagetype": "USE1-NetworkInterface-Assessment",
+      "operation": "AnalyzeENI",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.002 per ENI processed by VPC Network Access Analyzer us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "NetworkInterface-Assessment",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcResources",
+      "groupDescription": "Per GB charge for provider of VPC Resource",
+      "usagetype": "USE1-VpcResource-Provider-Bytes",
+      "operation": "VpcResourceProvider",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.006 per GB for data processed by VPC resource in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Free for the first 300,000 Connections per hour processed by VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-ConnectionCount-Free",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0 for the first 300,000 Connections per hour processed by VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Connections",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VPCIPv4ContiguousBlocks",
+      "groupDescription": "Hourly charge for IPv4 address in a contiguous block of IPv4 address",
+      "usagetype": "USE1-PublicIPv4:ContiguousBlock",
+      "operation": "ProvisionIpamPoolCidr",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.008 per hour per IPv4 address in contiguous IPv4 block",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSClientVPN",
+      "groupDescription": "Hourly charge for Client VPN connections",
+      "usagetype": "USE1-ClientVPN-ConnectionHours",
+      "operation": "ClientVPNConnections",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.05 per Client VPN Connection Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTransitGateway",
+      "groupDescription": "Charge for per GB data processed by AWS Transit Gateways for VPC attachments",
+      "usagetype": "USE1-TransitGateway-Bytes",
+      "operation": "TransitGatewayVPC",
+      "attachmentType": "VPC",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.02 per GB Data Processed by Transit Gateway VPC Attachment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSTrafficMirroring",
+      "groupDescription": "Hourly charge for Traffic Mirroring Source",
+      "usagetype": "USE1-ENI-Mirror",
+      "operation": "ENI-to-ENI",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.015 per Traffic Mirroring Source Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hour",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Charge per Hour per VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-Service-Hourly",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.025 per Hour per VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "VpcLattice",
+      "groupDescription": "Charge per Request per hour processed by VPC Lattice Service",
+      "usagetype": "USE1-VPCLattice-RequestCount-Charged",
+      "operation": "VpcLattice",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.0000001 per Request per hour processed by VPC Lattice Service (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "VPC Route Server",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Route Server",
+      "groupDescription": "Hourly charge for Route Server Endpoints",
+      "usagetype": "USE1-RouteServer-EndpointHours",
+      "operation": "RouteServerEndpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "$0.75 per Hour for USE1-RouteServer-EndpointHours in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hour",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonVPC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWSVerifiedAccess",
+      "groupDescription": "Hourly charge for Verified Access connections",
+      "usagetype": "USE1-VerifiedAccess-ConnectionHours",
+      "operation": "VerifiedAccessConnection",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Virtual Private Cloud"
+    },
+    "description": "USD0.001 per Hourly for VerifiedAccess-ConnectionHours:VerifiedAccessConnection in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  }
+]

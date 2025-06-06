@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSBCMPricingCalculator",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BillEstimate",
+      "operation": "CreateBillEstimate",
+      "estimateType": "Bill Estimate",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Pricing Calculator"
+    },
+    "description": "$2.00 per CreateBillEstimate API operation",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Estimate",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSBCMPricingCalculator",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-BillEstimate",
+      "operation": "CreateBillEstimate",
+      "estimateType": "Bill Estimate",
+      "regionCode": "",
+      "servicename": "AWS Pricing Calculator"
+    },
+    "description": "$0.00 per CreateBillEstimate API operation",
+    "beginRange": "0",
+    "endRange": "5",
+    "unit": "Estimate",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

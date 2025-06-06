@@ -1,0 +1,191 @@
+[
+  {
+    "productFamily": "High Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-hd-success",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "720p and above"
+    },
+    "description": "US East (N. Virginia) $0.030 per minute for HD content transcoded using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "High Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-hd-error",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Error",
+      "videoResolution": "720p and above"
+    },
+    "description": "US East (N. Virginia) $0.000 for HD content that failed to transcode using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Audio",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-audio-success",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "Audio only"
+    },
+    "description": "US East (N. Virginia) $0.0045 per minute for audio-only transcoding using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0045000000"
+    }
+  },
+  {
+    "productFamily": "High Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-ets-hd-success",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "720p and above"
+    },
+    "description": "Global Free Tier for HD",
+    "beginRange": "0",
+    "endRange": "10",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Standard Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-sd-success",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "Less than 720p"
+    },
+    "description": "US East (N. Virginia) $0.015 per minute for SD content transcoded using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "Audio",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "global-ets-audio-success",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "Audio only"
+    },
+    "description": "Global Free Tier for audio",
+    "beginRange": "0",
+    "endRange": "20",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Audio",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-audio-error",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Error",
+      "videoResolution": "Audio only"
+    },
+    "description": "US East (N. Virginia) audio that failed to transcode using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Standard Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-ets-sd-success",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Success",
+      "videoResolution": "Less than 720p"
+    },
+    "description": "Global Free Tier for SD",
+    "beginRange": "0",
+    "endRange": "20",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Standard Definition",
+    "attributes": {
+      "servicecode": "AmazonETS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ets-sd-error",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Transcoder",
+      "transcodingResult": "Error",
+      "videoResolution": "Less than 720p"
+    },
+    "description": "US East (N. Virginia) $0.000 for SD content that failed to transcode using Amazon Elastic Transcoder",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

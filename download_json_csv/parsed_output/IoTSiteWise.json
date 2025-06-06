@@ -1,0 +1,222 @@
+[
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Assistant",
+      "usagetype": "USE1-AWSIoTSiteWise-Assistant-Fee",
+      "operation": "InvokeAssistant",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "USD 120.0 per month enablement fee for AWS IoT SiteWise Assistant - us-east-1",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "Monthly Fee",
+    "pricePerUnit": {
+      "USD": "120.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Assistant",
+      "usagetype": "USE1-AWSIoTSiteWise-Assistant-Fee",
+      "operation": "InvokeAssistant",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "USD 120.0 per month enablement fee for AWS IoT SiteWise Assistant - us-east-1",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "Monthly Fee",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Assistant API",
+      "usagetype": "USE1-AWSIoTSiteWise-Assistant-API-Base",
+      "operation": "InvokeAssistant",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "USD 120.0 per  5,000 API Calls for AWS IoT SiteWise Assistant  - us-east-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Data Export",
+      "usagetype": "USE1-AWSIoTSiteWise-DataExport",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$0.005 per thousand objects for data export in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Objects",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Edge",
+      "usagetype": "USE1-AWSIoTSiteWise-Edge-Data-Processing",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$200 per pack in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Pack",
+    "pricePerUnit": {
+      "USD": "200.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Monitor",
+      "usagetype": "USE1-AWSIoTSiteWise-MonitorUsers",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$10.0 per unique active user per month for SiteWise Monitor in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Storage",
+      "usagetype": "USE1-AWSIoTSiteWise-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$0.00041667 per GB-hour ($0.01 per GB-day) for data storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Hours",
+    "pricePerUnit": {
+      "USD": "0.0004166700"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise DataScanned",
+      "usagetype": "USE1-AWSIoTSiteWise-Query",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$0.20 per GB scanned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Computations",
+      "usagetype": "USE1-AWSIoTSiteWise-Computations",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$0.5 per million computations for data processing in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Computations",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Messaging",
+      "usagetype": "USE1-AWSIoTSiteWise-Messaging",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$1.0 per million messages for messaging in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTSiteWise",
+    "attributes": {
+      "servicecode": "AWSIoTSiteWise",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "AWS IoT SiteWise Storage Warm",
+      "usagetype": "USE1-AWSIoTSiteWise-StorageWarm",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT SiteWise"
+    },
+    "description": "$0.000041667 per GB-hour ($0.001 per GB-day) for data storage warm tier in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Hours",
+    "pricePerUnit": {
+      "USD": "0.0000416700"
+    }
+  }
+]

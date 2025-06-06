@@ -1,0 +1,102 @@
+[
+  {
+    "productFamily": "AWSIoTEvents",
+    "attributes": {
+      "servicecode": "AWSIoTEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Alarms",
+      "operation": "",
+      "awsiotevents": "alarms",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Events"
+    },
+    "description": "$0.10 per active alarm per month in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Alarms",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTEvents",
+    "attributes": {
+      "servicecode": "AWSIoTEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "awsiotevents": "messages",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Events"
+    },
+    "description": "$15.0 per million message evaluations in US East (N. Viginia)",
+    "beginRange": "0",
+    "endRange": "100000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTEvents",
+    "attributes": {
+      "servicecode": "AWSIoTEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "awsiotevents": "messages",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Events"
+    },
+    "description": "$10.0 per million message evaluations in US East (N. Viginia)",
+    "beginRange": "100000000",
+    "endRange": "500000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTEvents",
+    "attributes": {
+      "servicecode": "AWSIoTEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "awsiotevents": "messages",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Events"
+    },
+    "description": "$5.0 per million message evaluations in US East (N. Viginia)",
+    "beginRange": "500000000",
+    "endRange": "5000000000",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTEvents",
+    "attributes": {
+      "servicecode": "AWSIoTEvents",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Messages",
+      "operation": "",
+      "awsiotevents": "messages",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Events"
+    },
+    "description": "$3.0 per million message evaluations in US East (N. Viginia)",
+    "beginRange": "5000000000",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000030000"
+    }
+  }
+]

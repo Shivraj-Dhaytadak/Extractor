@@ -1,0 +1,90 @@
+[
+  {
+    "productFamily": "Storage Device",
+    "attributes": {
+      "servicecode": "IngestionService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Station",
+      "groupDescription": "Station usage like Data loading,Data Wiping",
+      "usagetype": "StationUsage",
+      "operation": "DataErasing",
+      "dataAction": "Erasing",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Import/Export"
+    },
+    "description": "$2.49 per data-wiping-hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "2.4900000000"
+    }
+  },
+  {
+    "productFamily": "Storage Device",
+    "attributes": {
+      "servicecode": "IngestionService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Device",
+      "groupDescription": "Device Handling",
+      "usagetype": "DeviceUsage",
+      "operation": "DeviceHandling",
+      "dataAction": "N/A",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Import/Export"
+    },
+    "description": "$80 per storage device handled",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "80.0000000000"
+    }
+  },
+  {
+    "productFamily": "Storage Device",
+    "attributes": {
+      "servicecode": "IngestionService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Station",
+      "groupDescription": "Station usage like Data loading,Data Wiping",
+      "usagetype": "StationUsage",
+      "operation": "DataLoading",
+      "dataAction": "Loading",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Import/Export"
+    },
+    "description": "$2.49 per data-loading-hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "2.4900000000"
+    }
+  },
+  {
+    "productFamily": "Storage Device",
+    "attributes": {
+      "servicecode": "IngestionService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Return Shipping",
+      "groupDescription": "Return shipping charges",
+      "usagetype": "ReturnShippingFee",
+      "operation": "PackageShipping",
+      "dataAction": "N/A",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Import/Export"
+    },
+    "description": "Return Shipping Fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "USD",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  }
+]

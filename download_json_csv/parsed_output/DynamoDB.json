@@ -1,0 +1,581 @@
+[
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-WriteUnitsIA",
+      "groupDescription": "DynamoDB PayPerRequest Write Request Units IA",
+      "usagetype": "IA-WriteRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.78 per million IA write request units in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "WriteRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000007800"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-Kinesis",
+      "groupDescription": "Change Data Capture Units for Kinesis Data Streams",
+      "usagetype": "USE1-ChangeDataCaptureUnits-Kinesis",
+      "operation": "DelegatedOperations",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.10000 per million change data capture units for Kinesis Data Streams in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ChangeDataCaptureUnits",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Indexed DataStore - IA",
+      "usagetype": "IA-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.10000 per GB-Month of IA storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB Restore Data Size",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Backup Restore Size",
+      "usagetype": "USE1-RestoreDataSize-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.15 per GB of data restored",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReadUnits",
+      "groupDescription": "DynamoDB PayPerRequest Read Request Units",
+      "usagetype": "ReadRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.125 per million read request units (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReadRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000001250"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReplicatedWriteUnitsIA",
+      "groupDescription": "DynamoDB PayPerRequest Replicated Write Request Units IA",
+      "usagetype": "IA-ReplWriteRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.78 per million replicated IA write request units in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReplicatedWriteRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000007800"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ElasticViews",
+      "groupDescription": "Change Data Capture Units for AWS Glue Elastic Views",
+      "usagetype": "USE1-ChangeDataCaptureUnits-ElasticViews",
+      "operation": "DelegatedOperations",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.10000 per million change data capture units for AWS Glue Elastic Views in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ChangeDataCaptureUnits",
+    "pricePerUnit": {
+      "USD": "0.0000001000"
+    }
+  },
+  {
+    "productFamily": "DDB-Operation-ReplicatedWrite",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReplicatedWriteUnitsIA",
+      "groupDescription": "DynamoDB Provisioned Replicated Write Units IA",
+      "usagetype": "IA-ReplWriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00081 per hour for units of IA replicated write capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReplicatedWriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0008100000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Indexed DataStore",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00 per GB-Month of storage for first 25 free GB-Months",
+    "beginRange": "0",
+    "endRange": "25",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Indexed DataStore",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.25 per GB-Month of storage used beyond first 25 free GB-Months",
+    "beginRange": "25",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB On-Demand Backup Storage",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - On-Demand Backup Storage",
+      "usagetype": "USE1-TimedBackupStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.10 per GB-Month of storage used for on-demand backup",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Month",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReadUnitsIA",
+      "groupDescription": "DynamoDB PayPerRequest Read Request Units IA",
+      "usagetype": "IA-ReadRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.155 per million IA read request units in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReadRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000001550"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB Export Data Size",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Export Size",
+      "usagetype": "USE1-ExportDataSize-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.10000 per GB of data exported in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReadUnitsIA",
+      "groupDescription": "DynamoDB Provisioned Read Units IA",
+      "usagetype": "IA-ReadCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.0001600 per hour for units of IA read capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReadCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0001600000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReadUnits",
+      "groupDescription": "DynamoDB Provisioned Read Units",
+      "usagetype": "ReadCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00 per hour for 25 units of read capacity for a month (free tier)",
+    "beginRange": "0",
+    "endRange": "18600",
+    "unit": "ReadCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReadUnits",
+      "groupDescription": "DynamoDB Provisioned Read Units",
+      "usagetype": "ReadCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00013 per hour for units of read capacity beyond the free tier",
+    "beginRange": "18600",
+    "endRange": "Inf",
+    "unit": "ReadCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0001300000"
+    }
+  },
+  {
+    "productFamily": "DDB-Operation-ReplicatedWrite",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReplicatedWriteUnits",
+      "groupDescription": "DynamoDB Provisioned Replicated Write Units",
+      "usagetype": "ReplWriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00 per hour for 25 units of replicated write capacity for a month (free tier)",
+    "beginRange": "0",
+    "endRange": "18600",
+    "unit": "ReplicatedWriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "DDB-Operation-ReplicatedWrite",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReplicatedWriteUnits",
+      "groupDescription": "DynamoDB Provisioned Replicated Write Units",
+      "usagetype": "ReplWriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00065 per hour for units of replicated write capacity beyond the free tier",
+    "beginRange": "18600",
+    "endRange": "Inf",
+    "unit": "ReplicatedWriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0006500000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-WriteUnitsIA",
+      "groupDescription": "DynamoDB Provisioned Write Units IA",
+      "usagetype": "IA-WriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.0008100 per hour for units of IA write capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "WriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0008100000"
+    }
+  },
+  {
+    "productFamily": "Database Storage",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Point-In-Time-Restore (PITR) Backup Storage",
+      "usagetype": "USE1-TimedPITRStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.20 per GB-Month of storage used for DynamoDB PITR backup",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-StreamsReadRequests",
+      "groupDescription": "DynamoDB Streams read request (GetRecords API)",
+      "usagetype": "USE1-Streams-Requests",
+      "operation": "GetRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00 for 2.5 million DynamoDB Streams read request units for a month (free tier) (US East (N. Virginia))",
+    "beginRange": "0",
+    "endRange": "2500000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-StreamsReadRequests",
+      "groupDescription": "DynamoDB Streams read request (GetRecords API)",
+      "usagetype": "USE1-Streams-Requests",
+      "operation": "GetRecords",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.0000002 per DynamoDB Streams read request unit beyond free tier (US East (N. Virginia))",
+    "beginRange": "2500000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB Import Data Size",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Import Size",
+      "usagetype": "USE1-ImportDataSize-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.1500 per GB for data import in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-WriteUnits",
+      "groupDescription": "DynamoDB Provisioned Write Units",
+      "usagetype": "WriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00 per hour for 25 units of write capacity for a month (free tier)",
+    "beginRange": "0",
+    "endRange": "18600",
+    "unit": "WriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-WriteUnits",
+      "groupDescription": "DynamoDB Provisioned Write Units",
+      "usagetype": "WriteCapacityUnit-Hrs",
+      "operation": "CommittedThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.00065 per hour for units of write capacity beyond the free tier",
+    "beginRange": "18600",
+    "endRange": "Inf",
+    "unit": "WriteCapacityUnit-Hrs",
+    "pricePerUnit": {
+      "USD": "0.0006500000"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-ReplicatedWriteUnits",
+      "groupDescription": "DynamoDB PayPerRequest Replicated Write Request Units",
+      "usagetype": "ReplWriteRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.625 per million replicated write request units (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReplicatedWriteRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000006250"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB PayPerRequest Throughput",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "DDB-WriteUnits",
+      "groupDescription": "DynamoDB PayPerRequest Write Request Units",
+      "usagetype": "WriteRequestUnits",
+      "operation": "PayPerRequestThroughput",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.625 per million write request units (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "WriteRequestUnits",
+    "pricePerUnit": {
+      "USD": "0.0000006250"
+    }
+  },
+  {
+    "productFamily": "Amazon DynamoDB Export Data Size",
+    "attributes": {
+      "servicecode": "AmazonDynamoDB",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "Amazon DynamoDB - Incremental Export",
+      "usagetype": "USE1-IncrementalExportDataSize-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon DynamoDB"
+    },
+    "description": "$0.1000 per GB of incremental data exported in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

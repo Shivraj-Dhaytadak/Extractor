@@ -1,0 +1,1862 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU 8 GB Windows On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-4vCPU-8GB-DevEnvironment-Compute",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "MDE",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.23 per hours for 4vCPU-8GB-DevEnvironment-Compute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-2vCPU-4GB-DevEnvironment-Compute",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "MDE",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.12 per hours for 2vCPU-4GB-DevEnvironment-Compute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.003 per Minutes for Compute-2vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0216 per Minutes for Compute-8vCPU-Windows-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0216000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Free-User-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Free"
+    },
+    "description": "$0 per User/Month for Free Tier User Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Windows Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Enterprise-User-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Enterprise"
+    },
+    "description": "$0 per User/Month for Enterprise Tier User Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU 8 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-16vCPU-32GB-DevEnvironment-Compute",
+      "operation": "",
+      "instanceSize": "16vCPU",
+      "osType": "MDE",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.92 per hours for 16vCPU-32GB-DevEnvironment-Compute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.9200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0044 per minute for Compute 4 vCPU 8 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0044000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Free-User-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Free"
+    },
+    "description": "$0 per User/Month for Free Tier User Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU 8 GB Windows On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Dev-Environment-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.46 per hour for Dev Environment 8 vCPU 16 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.4600000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU  8 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Packages-Requests-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "packageType": "Requests",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.35 per 10k Requests for Packages in US East (N. Virginia) Included",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Repo-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Source"
+    },
+    "description": "$0.05 per GB for Repo-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Source-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Source"
+    },
+    "description": "$0.05 per Gigabyte for Storage - Repos - Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Dev-Environment-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "2vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.12 per hour for Dev Environment 2 vCPU 4 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.1200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Compute",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "Global rate for Compute",
+    "beginRange": "0",
+    "endRange": "3000",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.012 per minute for Compute 8 vCPU 16 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DevEnvironment-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Workspace"
+    },
+    "description": "$0.08 per Gigabyte for DevEnvironment-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.003 per minute for Compute 2 vCPU 4 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Dev-Environment-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.23 per hour for Dev Environment 4 vCPU 8 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.01 per Minutes for Compute-4vCPU-Linux-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.018 per Minutes for Compute-4vCPU-Windows-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0180000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Dev-Environment-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per hour for Dev Environment 4 vCPU 8 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-16vCPU-Dev-Environment-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "16vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per hour for Dev Environment 16 vCPU 32 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU 8 GB Windows Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0044 per minutes for Compute-4vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0044000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.012 per Minutes for Compute-8vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Usage",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.005 per Minutes for Compute-2vCPU-Linux-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0068 per minutes for Compute-4vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0068000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Repo-Storage",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "CodeCatalyst",
+      "storageType": "Source"
+    },
+    "description": "Global rate for Repo-Storage",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Standard-User-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Standard"
+    },
+    "description": "$4 per User/Month for Standard Tier User Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "4.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.006 per minute for Compute 4 vCPU  8 GB Linux x86_64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-DevEnvironment-Compute",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "MDE",
+      "provisioningType": "On-Demand",
+      "regionCode": "",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "Global rate for DevEnvironment-Compute",
+    "beginRange": "0",
+    "endRange": "200",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.02 per minute for Compute 8 vCPU 16 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0216 per minute for Compute 8 vCPU 16 GB Windows Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0216000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Windows On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0108 per Minutes for Compute-4vCPU-Windows-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0108000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.02 per Minutes for Compute-8vCPU-Linux-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Package-Storage",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "CodeCatalyst",
+      "storageType": "Package"
+    },
+    "description": "Global rate for Package-Storage",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU 8 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0068 per minute for Compute 4 vCPU 8 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0068000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 4 vCPU  8 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.005 per minute for Compute 2 vCPU 4 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Package-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Package"
+    },
+    "description": "$0.05 per Gigabyte for Storage - Packages - Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0088 per minute for Compute 8 vCPU 16 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0088000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0022 per minute for Compute 2 vCPU 4 GB Linux Arm64 Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0022000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Attachment-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Attachment"
+    },
+    "description": "$0.00 per Gigabyte for Storage - Attachments -  Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Dev-Environment-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per hour for Dev Environment 8 vCPU 16 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.036 per Minutes for Compute-8vCPU-Windows-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0360000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Enterprise-User-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Enterprise"
+    },
+    "description": "$20  per User/Month for Enterprise Tier User Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "20.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0022 per minutes for Compute-2vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0022000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0034 per minute for Compute 2 vCPU 4 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Windows-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Windows",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Windows On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "8vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 8 vCPU 16 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Packages-Requests-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "packageType": "Requests",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.35 per 10k Requests for Packages in US East (N. Virginia) Billed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.3500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0136 per minute for Compute 8 vCPU 16 GB Linux Arm64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0136000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Dev-Environment-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Workspace"
+    },
+    "description": "$0.08 per Gigabyte for Storage - Dev Environments - Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Dev-Environment-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "2vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per hour for Dev Environment 2 vCPU 4 GB Linux On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0088 per minutes for Compute-8vCPU-Linux-Arm64-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0088000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 2 vCPU 4 GB Linux Arm64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-DevEnvironment-Storage",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "CodeCatalyst",
+      "storageType": "Workspace"
+    },
+    "description": "Global rate for DevEnvironment-Storage",
+    "beginRange": "0",
+    "endRange": "128",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-Usage",
+      "operation": "",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0034 per minutes for Compute-2vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Package-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Package"
+    },
+    "description": "$0.00 per Gigabyte for Storage - Packages - Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Source-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Source"
+    },
+    "description": "$0.00 per Gigabyte for Storage - Repos - Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Windows-Provisioned-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Windows",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.018 per minute for Compute 4 vCPU 8 GB Windows Pre-Provisioned Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0108000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-8vCPU-Linux-Arm64-Usage",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.0136 per minutes for Compute-8vCPU-Linux-Arm64-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0136000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 2 vCPU 4 GB Linux x86_64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Standard-User-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "tier": "Standard"
+    },
+    "description": "$0 per User/Month for Standard Tier User Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Users",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-8vCPU-16GB-DevEnvironment-Compute",
+      "operation": "",
+      "instanceSize": "8vCPU",
+      "osType": "MDE",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.46 per hours for 8vCPU-16GB-DevEnvironment-Compute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4600000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Provisioned-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "2vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 2 vCPU 4 GB Linux x86_64 Pre-Provisioned Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.01 per minute for Compute 4 vCPU  8 GB Linux x86_64 On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-4vCPU-Linux-Provisioned-Usage",
+      "operation": "",
+      "instanceSize": "4vCPU",
+      "osType": "Linux",
+      "provisioningType": "Pre-Provisioned",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.006 per Minutes for Compute-4vCPU-Linux-Provisioned-Usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Dev-Environment-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Workspace"
+    },
+    "description": "$0.00 per Gigabyte for Storage - Dev Environments - Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Package-Storage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Package"
+    },
+    "description": "$0.05 per GB for Package-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-2vCPU-Linux-Arm64-On-Demand-Usage-Included",
+      "operation": "",
+      "chargeType": "Included",
+      "instanceSize": "2vCPU",
+      "osType": "Linux-ARM64",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0 per minute for Compute 2 vCPU 4 GB Linux Arm64 On-Demand Usage Included in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage-Attachment-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst",
+      "storageType": "Attachment"
+    },
+    "description": "$0.05 per Gigabyte for Storage - Attachments - Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "CodeCatalyst",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Compute-16vCPU-Dev-Environment-On-Demand-Usage-Billed",
+      "operation": "",
+      "chargeType": "Billed",
+      "instanceSize": "16vCPU",
+      "osType": "Dev-Environment",
+      "provisioningType": "On-Demand",
+      "regionCode": "us-east-1",
+      "servicename": "CodeCatalyst"
+    },
+    "description": "$0.92 per hour for Dev Environment 16 vCPU 32 GB Linux On-Demand Usage Billed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.9200000000"
+    }
+  }
+]

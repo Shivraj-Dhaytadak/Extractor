@@ -1,0 +1,62 @@
+[
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSFIS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ExperimentReport",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "reportType": "Experiment Report",
+      "servicename": "AWS Fault Injection Simulator"
+    },
+    "description": "$5 per experiment report in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Report",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSFIS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ActionMinuteAccount",
+      "operation": "ActionMinuteAccount",
+      "action": "Multi-Account Action",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Fault Injection Simulator"
+    },
+    "description": "$0.10 per minutes for ActionMinuteAccount in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Developer Tools",
+    "attributes": {
+      "servicecode": "AWSFIS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ActionMinute",
+      "operation": "ActionMinute",
+      "action": "Action",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Fault Injection Simulator"
+    },
+    "description": "$0.10 per minutes for ActionMinute in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

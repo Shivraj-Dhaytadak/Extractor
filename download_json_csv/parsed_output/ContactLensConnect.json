@@ -1,0 +1,112 @@
+[
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "ContactLensAmazonConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ai-VoiceAnalytics",
+      "operation": "ai-VoiceAnalytics",
+      "analyticsMode": "Batch",
+      "analyticsType": "Voice",
+      "maxpackage": "Max",
+      "regionCode": "us-east-1",
+      "servicename": "Contact Lens for Amazon Connect"
+    },
+    "description": "Amazon Connect AI Contact Lens for Speech",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minute",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "ContactLensAmazonConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ChatAnalytics",
+      "operation": "ChatAnalytics",
+      "analyticsMode": "Batch",
+      "analyticsType": "Chat",
+      "maxpackage": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Contact Lens for Amazon Connect"
+    },
+    "description": "$0.0015 per message for ChatAnalytics in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "message",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "ContactLensAmazonConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-VoiceAnalytics",
+      "operation": "VoiceAnalytics",
+      "analyticsMode": "Batch",
+      "analyticsType": "Voice",
+      "maxpackage": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Contact Lens for Amazon Connect"
+    },
+    "description": "$0.015 per minute for initial 5 million minutes for VoiceAnalytics in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "5000000",
+    "unit": "minute",
+    "pricePerUnit": {
+      "USD": "0.0150000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "ContactLensAmazonConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-VoiceAnalytics",
+      "operation": "VoiceAnalytics",
+      "analyticsMode": "Batch",
+      "analyticsType": "Voice",
+      "maxpackage": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Contact Lens for Amazon Connect"
+    },
+    "description": "$0.0125 per minute after initial 5 million minutes for VoiceAnalytics in US East (N. Virginia)",
+    "beginRange": "5000000",
+    "endRange": "Inf",
+    "unit": "minute",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "Business Analytics",
+    "attributes": {
+      "servicecode": "ContactLensAmazonConnect",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ai-ChatAnalytics",
+      "operation": "ai-ChatAnalytics",
+      "analyticsMode": "Batch",
+      "analyticsType": "Chat",
+      "maxpackage": "Max",
+      "regionCode": "us-east-1",
+      "servicename": "Contact Lens for Amazon Connect"
+    },
+    "description": "Amazon Connect AI Contact Lens for Chat",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "message",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

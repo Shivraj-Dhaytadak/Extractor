@@ -1,0 +1,86 @@
+[
+  {
+    "productFamily": "WorkSpaces Application Manager",
+    "attributes": {
+      "servicecode": "AmazonWAM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon WAM Line of Business",
+      "usagetype": "USE1-WAM-LOB",
+      "operation": "",
+      "planType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Application Manager"
+    },
+    "description": "$0.00 per user per app per month US-East-1 Region WAM app fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UserApp-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "WorkSpaces Application Manager",
+    "attributes": {
+      "servicecode": "AmazonWAM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon WAM Lite",
+      "usagetype": "USE1-WAM-LITE",
+      "operation": "",
+      "planType": "Lite",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Application Manager"
+    },
+    "description": "$0.00 per user assignment per month US-East-1 Region WAM LITE subscription fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "WorkSpaces Application Manager",
+    "attributes": {
+      "servicecode": "AmazonWAM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon WAM Service Entitlement",
+      "usagetype": "USE1-WAM-SE",
+      "operation": "",
+      "planType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Application Manager"
+    },
+    "description": "$0.00 per user per month US-East-1 Region WAM subscription fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "WorkSpaces Application Manager",
+    "attributes": {
+      "servicecode": "AmazonWAM",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Amazon WAM Standard",
+      "usagetype": "USE1-WAM-STD",
+      "operation": "",
+      "planType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkSpaces Application Manager"
+    },
+    "description": "$5.00 per user assignment per month US-East-1 Region WAM STD subscription fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  }
+]

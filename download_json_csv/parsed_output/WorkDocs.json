@@ -1,0 +1,434 @@
+[
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs and Amazon WorkSpaces - Free",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-WSOnly-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "50GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0 per WorkSpaces Only user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs and Amazon WorkSpaces - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-WSUpgraded-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "200GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$2 per WorkSpaces user per month for WorkDocs storage upgrade up to 1TB in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.023 per GB - first 1 TB / month of storage used in the USE1 region",
+    "beginRange": "0",
+    "endRange": "1024",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.023 per GB - next 49 TB / month of storage used in the USE1 region",
+    "beginRange": "1024",
+    "endRange": "51200",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.022 per GB - next 450 TB / month of storage used in the USE1 region",
+    "beginRange": "51200",
+    "endRange": "512000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.021 per GB - next 500 TB / month of storage used in the USE1 region",
+    "beginRange": "512000",
+    "endRange": "1024000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.021 per GB - next 4000 TB / month of storage used in the USE1 region",
+    "beginRange": "1024000",
+    "endRange": "5120000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Additional storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Additional",
+      "usagetype": "WorkDocs-USE1-StorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.021 per GB - storage used / month over 5000 TB in the USE1 region",
+    "beginRange": "5120000",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs  Starter - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-Starter-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "250GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$2 per WorkDocs Starter user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs API (List) - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NA",
+      "usagetype": "WorkDocs-USE1-ListAPICalls",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "Unlimited",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.0029 per List API Calls for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0029000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs API (Read) - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NA",
+      "usagetype": "WorkDocs-USE1-ReadAPICalls",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "Unlimited",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.000145 per Read API Calls for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0001450000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs API (Search) - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NA",
+      "usagetype": "WorkDocs-USE1-SearchAPICalls",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "Unlimited",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.0058 per Search API Calls for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0058000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "200GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$5 per user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs Basic - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-Basic-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "1TB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$2 per user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs API (Delete) - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NA",
+      "usagetype": "WorkDocs-USE1-DeleteAPICalls",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "Unlimited",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.0 per  Delete API Calls for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs  Starter - Amazon Business Prime Benefit",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-Starter-Amazon-Business-Prime-Benefit-UserHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "250GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0 per Amazon Business Prime Benefit user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Included Storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Included",
+      "usagetype": "WorkDocs-USE1-InclStorageByteHrs",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "200GB",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.00 per GB / month of included storage used in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkDocs",
+      "description": "Amazon WorkDocs API (Write) - Paid",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NA",
+      "usagetype": "WorkDocs-USE1-WriteAPICalls",
+      "operation": "",
+      "freeTrial": "N",
+      "maximumStorageVolume": "Unlimited",
+      "minimumStorageVolume": "0GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon WorkDocs"
+    },
+    "description": "$0.0029 per Write API Call for  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0029000000"
+    }
+  }
+]

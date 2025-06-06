@@ -1,0 +1,484 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-StandardDatabaseStorage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "type": "Standard"
+    },
+    "description": "USD 0.10 per GB-month of Airflow consumed standard database storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabyte Month",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-MediumEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Medium",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 0.74 per hour for Airflow medium environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-2XLargeWebServer",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "2XLarge",
+      "type": "WebServer",
+      "version": "1"
+    },
+    "description": "USD 0.44 per hour for Airflow 2XL webserver",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-2XLargeScheduler",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "2XLarge",
+      "type": "Scheduler",
+      "version": "1"
+    },
+    "description": "USD 0.88 per hour for Airflow 2XL scheduler",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8800000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-LargeEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Large",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 0.99 per hour for Airflow large environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.9900000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-SmallScheduler",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Small",
+      "type": "Scheduler",
+      "version": "1"
+    },
+    "description": "USD 0.055 per hour for Airflow small schedulers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-SmallWebServer",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Small",
+      "type": "WebServer",
+      "version": "1"
+    },
+    "description": "USD 0.055 per hour for Airflow small webserver",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-2XLargeEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "2XLarge",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 3.96 per hour for Airflow 2XL environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.9600000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-XLargeWebServer",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "XLarge",
+      "type": "WebServer",
+      "version": "1"
+    },
+    "description": "USD 0.22 per hour for Airflow XL webserver",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-XLargeWorker",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "XLarge",
+      "type": "Worker",
+      "version": "1"
+    },
+    "description": "USD 0.44 per hour for Airflow XL worker",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-MicroEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Micro",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 0.29 per hour for Airflow micro environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2900000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-SmallEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Small",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 0.49 per hour for Airflow small environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4900000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-2XLargeWorker",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "2XLarge",
+      "type": "Worker",
+      "version": "1"
+    },
+    "description": "USD 0.88 per hour for Airflow 2XL worker",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8800000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-SmallWorker",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Small",
+      "type": "Worker",
+      "version": "1"
+    },
+    "description": "USD 0.055 per hour for Airflow small workers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-MediumWebServer",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Medium",
+      "type": "WebServer",
+      "version": "1"
+    },
+    "description": "USD 0.055 per hour for Airflow medium webserver",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-MediumWorker",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Medium",
+      "type": "Worker",
+      "version": "1"
+    },
+    "description": "USD 0.11 per hour for Airflow medium workers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-LargeScheduler",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Large",
+      "type": "Scheduler",
+      "version": "1"
+    },
+    "description": "USD 0.22 per hour for Airflow large schedulers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-XLargeScheduler",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "XLarge",
+      "type": "Scheduler",
+      "version": "1"
+    },
+    "description": "USD 0.44 per hour for Airflow XL scheduler",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.4400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-MediumScheduler",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Medium",
+      "type": "Scheduler",
+      "version": "1"
+    },
+    "description": "USD 0.11 per hour for Airflow medium schedulers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-XLargeEnvironment",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "XLarge",
+      "type": "Environment",
+      "version": "1"
+    },
+    "description": "USD 1.98 per hour for Airflow XL environment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.9800000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-LargeWebServer",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Large",
+      "type": "WebServer",
+      "version": "1"
+    },
+    "description": "USD 0.11 per hour for Airflow large webserver",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonMWAA",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Airflow-LargeWorker",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Workflows for Apache Airflow",
+      "size": "Large",
+      "type": "Worker",
+      "version": "1"
+    },
+    "description": "USD 0.22 per hour for Airflow large workers",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2200000000"
+    }
+  }
+]

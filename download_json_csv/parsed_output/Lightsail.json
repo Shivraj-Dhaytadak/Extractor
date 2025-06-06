@@ -1,0 +1,2077 @@
+[
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-TotalDataXfer-Out-Bytes",
+      "operation": "",
+      "countsAgainstQuota": "NA",
+      "freeOverage": "NA",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.00 / GB - data transfer out for US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32GB",
+      "storage": "640GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:32GB_win_IPv6",
+      "operation": "Bundle:32GB_IPv6",
+      "dataTransferQuota": "7TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.32258 / Hour of 32GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3225800000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "1GB",
+      "storage": "40GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:1GB",
+      "operation": "Bundle:1GB",
+      "dataTransferQuota": "2TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00940 / Hour of 1GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0094000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64GB",
+      "storage": "1280GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:64GB",
+      "operation": "Bundle:64GB",
+      "dataTransferQuota": "8TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.51612 / Hour of 64GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5161200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "0.25",
+      "memory": "0.5GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Nano-0.25CPU-0.5GB",
+      "operation": "ContainerSvc:Nano-0.25CPU-0.5GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "Nano",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0094 / Hour for Container Service Node of Power-Nano(0.25CPU-0.5GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0094086020"
+    }
+  },
+  {
+    "productFamily": "Lightsail Snapshot",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Instance Snapshot",
+      "groupDescription": "Number of Lightsail Instance snapshot in GB-Month",
+      "usagetype": "USE1-InstanceSnapshot",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05 / GB-Month of snapshot data stored - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32GB",
+      "storage": "640GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:32GB",
+      "operation": "Bundle:32GB",
+      "dataTransferQuota": "7TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.22043 / Hour of 32GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2204300000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16GB",
+      "storage": "320GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:16GB",
+      "operation": "Bundle:16GB",
+      "dataTransferQuota": "6TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.11290 / Hour of 16GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1129000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-DataXfer-Out-Other-Bytes",
+      "operation": "",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 / GB data transfer out to free destinations",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "0.5GB",
+      "storage": "20GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:0.5GB_IPv6",
+      "operation": "Bundle:0.5GB_IPv6",
+      "dataTransferQuota": "1TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00470 / Hour of 0.5GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0047000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64GB",
+      "storage": "1280GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:64GB_win",
+      "operation": "Bundle:64GB",
+      "dataTransferQuota": "8TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.77150 / Hour of 64GB bundle Instance including public IPv4 address (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7715000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail CDN",
+      "groupDescription": "Lightsail CDN bundle subscription fee",
+      "usagetype": "CDN-BundleUsage:50GB_FreeTrial",
+      "operation": "CDN-Bundle:50GB_FreeTrial",
+      "dataTransferQuota": "50GB (Free Trial)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 / CDN Bundle: 50GB Free Trial",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "DNS-Queries",
+      "operation": "",
+      "overageType": "DNS Queries",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 / Million queries for the first 3 Million queries",
+    "beginRange": "0",
+    "endRange": "3000000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "DNS-Queries",
+      "operation": "",
+      "overageType": "DNS Queries",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.40 / Million queries over 3 Million queries",
+    "beginRange": "3000000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:25GB-TotalDataXfer-Out-Bytes",
+      "operation": "Storage25GB-DataXferOut",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "NA",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:25GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "160GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:8GB_IPv6",
+      "operation": "Bundle:8GB_IPv6",
+      "dataTransferQuota": "5TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05376 / Hour of 8GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0537600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "160GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:8GB_win",
+      "operation": "Bundle:8GB",
+      "dataTransferQuota": "5TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.09946 / Hour of 8GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0994600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16GB",
+      "storage": "320GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:16GB_win_IPv6",
+      "operation": "Bundle:16GB_IPv6",
+      "dataTransferQuota": "6TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.16129 / Hour of 16GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1612900000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:5GB-TotalStorage-Bytes",
+      "operation": "Storage5GB-Storage-Capacity",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "overageType": "Storage:5GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (5GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16GB",
+      "storage": "320GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:16GB_win",
+      "operation": "Bundle:16GB",
+      "dataTransferQuota": "6TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.16666 / Hour of 16GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1666600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:500GB-DataXfer-Out-Overage-Bytes",
+      "operation": "Storage500GB-DataXferOutOverage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:500GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "2GB",
+      "storage": "60GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:2GB_win",
+      "operation": "Bundle:2GB",
+      "dataTransferQuota": "3TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.02956 / Hour of 2GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0295600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "memory": "2GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Medium-1CPU-2GB",
+      "operation": "ContainerSvc:Medium-1CPU-2GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "Medium",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0538 / Hour for Container Service Node of Power-Medium(1CPU-2GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0537634410"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Large-2CPU-4GB",
+      "operation": "ContainerSvc:Large-2CPU-4GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "Large",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.1075 / Hour for Container Service Node of Power-Large(2CPU-4GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1075268820"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "memory": "1GB",
+      "storage": "40GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:1GB",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0202 / Hour of 1GB Standard Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0201600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:500GB-TotalDataXfer-Out-Bytes",
+      "operation": "Storage500GB-DataXferOut",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "NA",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:500GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "2GB",
+      "storage": "60GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:2GB_IPv6",
+      "operation": "Bundle:2GB_IPv6",
+      "dataTransferQuota": "3TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01344 / Hour of 2GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0134400000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "0.25",
+      "memory": "1GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Micro-0.25CPU-1GB",
+      "operation": "ContainerSvc:Micro-0.25CPU-1GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0134 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0134408600"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "80GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:4GB",
+      "operation": "Bundle:4GB",
+      "dataTransferQuota": "4TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.03225 / Hour of 4GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0322500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:250GB-TotalStorage-Bytes",
+      "operation": "Storage250GB-Storage-Capacity",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "overageType": "Storage:250GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (250GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "80GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:4GB_win_IPv6",
+      "operation": "Bundle:4GB_IPv6",
+      "dataTransferQuota": "4TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05376 / Hour of 4GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0537600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:100GB-TotalStorage-Bytes",
+      "operation": "Storage100GB-Storage-Capacity",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "overageType": "Storage:100GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 per GB Storage Capacity in US East (N. Virginia) bundle quota (100GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32GB",
+      "storage": "640GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:32GB_IPv6",
+      "operation": "Bundle:32GB_IPv6",
+      "dataTransferQuota": "7TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.21505 / Hour of 32GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2150500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "120GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:4GB_ha",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.1613 / Hour of 4GB High Availability Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1612900000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail object storage",
+      "groupDescription": "Lightsail object storage bundle subscription fee",
+      "usagetype": "USE1-Storage-BundleUsage:5GB",
+      "operation": "Storage-Bundle:5GB",
+      "dataTransferQuota": "25GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail",
+      "storageCapacityQuota": "5GB"
+    },
+    "description": "$1.00 / Storage Bundle:5GB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "0.25",
+      "memory": "1GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Micro-0.25CPU-1GB-Free",
+      "operation": "ContainerSvc:Micro-0.25CPU-1GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "Yes",
+      "power": "Micro (Free)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB)-Free - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "750",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "0.25",
+      "memory": "1GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Micro-0.25CPU-1GB-Free",
+      "operation": "ContainerSvc:Micro-0.25CPU-1GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "Yes",
+      "power": "Micro (Free)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0134 / Hour for Container Service Node of Power-Micro(0.25CPU-1GB) - US East (N. Virginia)",
+    "beginRange": "750",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0134408600"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataXfer-Out-Free-Bytes",
+      "operation": "",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.00 / GB data transfer out below the plan quota is free",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "160GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:8GB_win_IPv6",
+      "operation": "Bundle:8GB_IPv6",
+      "dataTransferQuota": "5TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.09408 / Hour of 8GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0940800000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Snapshot",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Snapshot",
+      "groupDescription": "Amount of Lightsail Snapshots in GB-Month",
+      "usagetype": "USE1-SnapshotUsage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05 / GB-Month of stored snapshot data - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "0.5GB",
+      "storage": "30GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:0.5GB_win_IPv6",
+      "operation": "Bundle:0.5GB_IPv6",
+      "dataTransferQuota": "1TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01075 / Hour of 0.5GB IPv6 bundle Instance (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0107500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-DataXfer-Out-Overage-Bytes",
+      "operation": "",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.09 / GB data transfer out above the plan quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:250GB-DataXfer-Out-Overage-Bytes",
+      "operation": "Storage250GB-DataXferOutOverage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:250GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "80GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:4GB_win",
+      "operation": "Bundle:4GB",
+      "dataTransferQuota": "4TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05913 / Hour of 4GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0591300000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64GB",
+      "storage": "1280GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:64GB_win_IPv6",
+      "operation": "Bundle:64GB_IPv6",
+      "dataTransferQuota": "8TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.76612 / Hour of 64GB IPv6 bundle Instance  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7661200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Load Balancing",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Load Balancer",
+      "groupDescription": "Number of Lightsail Load Balancer hours",
+      "usagetype": "USE1-LoadBalancerUsage",
+      "operation": "LoadBalancer",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0242 / Hour of Load Balancer usage - US East (Northern Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0241935480"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail CDN",
+      "groupDescription": "Lightsail CDN bundle subscription fee",
+      "usagetype": "CDN-BundleUsage:200GB",
+      "operation": "CDN-Bundle:200GB",
+      "dataTransferQuota": "200GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$10.00 / CDN Bundle: 200GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "memory": "2GB",
+      "storage": "80GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:2GB_ha",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0806 / Hour of 2GB High Availability Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0806500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:250GB-TotalDataXfer-Out-Bytes",
+      "operation": "Storage250GB-DataXferOut",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "NA",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:250GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.0 / GB total data transfer-out of US East (N. Virginia) bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "8GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:XLarge-4CPU-8GB",
+      "operation": "ContainerSvc:XLarge-4CPU-8GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "XLarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.2151 / Hour for Container Service Node of Power-XLarge(4CPU-8GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2150537630"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32GB",
+      "storage": "640GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:32GB_win",
+      "operation": "Bundle:32GB",
+      "dataTransferQuota": "7TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.32795 / Hour of 32GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3279500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail object storage",
+      "groupDescription": "Lightsail object storage bundle subscription fee",
+      "usagetype": "USE1-Storage-BundleUsage:100GB",
+      "operation": "Storage-Bundle:100GB",
+      "dataTransferQuota": "250GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail",
+      "storageCapacityQuota": "100GB"
+    },
+    "description": "$3.00 / Storage Bundle:100GB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:250GB-StorageOverage-Bytes",
+      "operation": "Storage250GB-Storage-Overage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "overageType": "Storage:250GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (250GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "1GB",
+      "storage": "40GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:1GB_win_IPv6",
+      "operation": "Bundle:1GB_IPv6",
+      "dataTransferQuota": "2TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01612 / Hour of 1GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0161200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "1GB",
+      "storage": "40GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:1GB_win",
+      "operation": "Bundle:1GB",
+      "dataTransferQuota": "2TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01881 / Hour of 1GB bundle Instance including public IPv4 address  (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0188100000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:100GB-StorageOverage-Bytes",
+      "operation": "Storage100GB-Storage-Overage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "overageType": "Storage:100GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (100GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail CDN",
+      "groupDescription": "Lightsail CDN bundle subscription fee",
+      "usagetype": "CDN-BundleUsage:500GB",
+      "operation": "CDN-Bundle:500GB",
+      "dataTransferQuota": "500GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$35.00 / CDN Bundle: 500GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "35.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64GB",
+      "storage": "1280GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:64GB_IPv6",
+      "operation": "Bundle:64GB_IPv6",
+      "dataTransferQuota": "8TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.51075 / Hour of 64GB IPv6 bundle Instance",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5107500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "1GB",
+      "storage": "40GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:1GB_IPv6",
+      "operation": "Bundle:1GB_IPv6",
+      "dataTransferQuota": "2TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00672 / Hour of 1GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0067200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Inbound",
+      "fromLocation": "Global",
+      "fromLocationType": "Other",
+      "toLocation": "US East (N. Virginia)",
+      "toLocationType": "AWS Region",
+      "usagetype": "USE1-TotalDataXfer-In-Bytes",
+      "operation": "",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "Yes",
+      "fromRegionCode": "",
+      "overageType": "Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": "us-east-1"
+    },
+    "description": "$0.00 / GB - data transfer in",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "0.5GB",
+      "storage": "20GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:0.5GB",
+      "operation": "Bundle:0.5GB",
+      "dataTransferQuota": "1TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00672 / Hour of 0.5GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0067200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "transferType": "AWS Outbound",
+      "fromLocation": "US East (N. Virginia)",
+      "fromLocationType": "AWS Region",
+      "toLocation": "Global",
+      "toLocationType": "Other",
+      "usagetype": "USE1-Storage:25GB-DataXfer-Out-Overage-Bytes",
+      "operation": "Storage25GB-DataXferOutOverage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "fromRegionCode": "us-east-1",
+      "overageType": "Storage:25GB Data Transfer",
+      "servicename": "Amazon Lightsail",
+      "toRegionCode": ""
+    },
+    "description": "$0.09 / GB for data transfer-out of US East (N. Virginia) above bundle quota",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "2GB",
+      "storage": "60GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:2GB",
+      "operation": "Bundle:2GB",
+      "dataTransferQuota": "3TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01612 / Hour of 2GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0161200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "240GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:8GB_ha",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.2TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.3091 / Hour of 8GB High Availability Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3091400000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "240GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:8GB",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.2TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.1546 / Hour of 8GB Standard Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1545700000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "2GB",
+      "storage": "60GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:2GB_win_IPv6",
+      "operation": "Bundle:2GB_IPv6",
+      "dataTransferQuota": "3TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.02688 / Hour of 2GB IPv6 bundle Instance  (Windows) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0268800000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail unused static IP",
+      "groupDescription": "Number of unused Lightsail static IP hours",
+      "usagetype": "USE1-UnusedStaticIP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.00 / hour of Static IP address not attached to an instance (first hour free)",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail unused static IP",
+      "groupDescription": "Number of unused Lightsail static IP hours",
+      "usagetype": "USE1-UnusedStaticIP",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.005 / hour of Static IP address not attached to an instance",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "0.5GB",
+      "storage": "30GB",
+      "operatingSystem": "Windows",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:0.5GB_win",
+      "operation": "Bundle:0.5GB",
+      "dataTransferQuota": "1TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.01276 / Hour of 0.5GB bundle Instance including public IPv4 address (Windows)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0127600000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "memory": "1GB",
+      "storage": "40GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:1GB_ha",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0403 / Hour of 1GB High Availability Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0403200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "120GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:4GB",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0806 / Hour of 4GB Standard Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0806500000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "1GB",
+      "group": "Lightsail Block Storage",
+      "groupDescription": "Amount of Lightsail block storage disk usage in GB-Month",
+      "usagetype": "USE1-DiskUsage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.10 / GB-Month of attached block storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail object storage",
+      "groupDescription": "Lightsail object storage bundle subscription fee",
+      "usagetype": "USE1-Storage-BundleUsage:250GB",
+      "operation": "Storage-Bundle:250GB",
+      "dataTransferQuota": "500GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail",
+      "storageCapacityQuota": "250GB"
+    },
+    "description": "$5.00 / Storage Bundle:250GB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail object storage",
+      "groupDescription": "Lightsail object storage bundle subscription fee",
+      "usagetype": "USE1-Storage-BundleUsage:5GB_FreeTrial",
+      "operation": "Storage-Bundle:5GB_FreeTrial",
+      "dataTransferQuota": "25GB (Free Trial)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail",
+      "storageCapacityQuota": "5GB (Free Trial)"
+    },
+    "description": "$0.00 / Storage Bundle:5GBFreeTrial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8GB",
+      "storage": "160GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:8GB",
+      "operation": "Bundle:8GB",
+      "dataTransferQuota": "5TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.05913 / Hour of 8GB bundle Instance including public IPv4 address",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0591300000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Containers",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "0.5",
+      "memory": "1GB",
+      "storage": "NA",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Container",
+      "groupDescription": "Number of Lightsail Container Service hours",
+      "usagetype": "USE1-ContainerSvcUsage:Small-0.5CPU-1GB",
+      "operation": "ContainerSvc:Small-0.5CPU-1GB",
+      "dataTransferQuota": "500GB",
+      "isfree": "No",
+      "power": "Small",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0202 / Hour for Container Service Node of Power-Small(0.5CPU-1GB) - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0201612900"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4GB",
+      "storage": "80GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:4GB_IPv6",
+      "operation": "Bundle:4GB_IPv6",
+      "dataTransferQuota": "4TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.02688 / Hour of 4GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0268800000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Storage",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail Overages",
+      "groupDescription": "Lightsail overages - usage above allocated free quota",
+      "usagetype": "USE1-Storage:5GB-StorageOverage-Bytes",
+      "operation": "Storage5GB-Storage-Overage",
+      "countsAgainstQuota": "Yes",
+      "freeOverage": "No",
+      "overageType": "Storage:5GB Storage Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.023 per GB Storage Capacity in US East (N. Virginia) above bundle quota (5GB Bundle)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Database",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "1",
+      "memory": "2GB",
+      "storage": "80GB",
+      "group": "Lightsail Database",
+      "groupDescription": "Number of Lightsail Database hours",
+      "usagetype": "USE1-DatabaseUsage:2GB",
+      "operation": "RelationalDatabase",
+      "dataTransferQuota": "0.1TB",
+      "engine": "MySQL/PostgreSQL",
+      "highAvailability": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.0403 / Hour of 2GB Standard Database bundle",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0403200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Instance",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16GB",
+      "storage": "320GB",
+      "operatingSystem": "Linux",
+      "group": "Lightsail Instance",
+      "groupDescription": "Number of IPv6-only Lightsail Instance hours",
+      "usagetype": "USE1-BundleUsage:16GB_IPv6",
+      "operation": "Bundle:16GB_IPv6",
+      "dataTransferQuota": "6TB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$0.10752 / Hour of 16GB IPv6 bundle Instance ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1075200000"
+    }
+  },
+  {
+    "productFamily": "Lightsail Networking",
+    "attributes": {
+      "servicecode": "AmazonLightsail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Lightsail CDN",
+      "groupDescription": "Lightsail CDN bundle subscription fee",
+      "usagetype": "CDN-BundleUsage:50GB",
+      "operation": "CDN-Bundle:50GB",
+      "dataTransferQuota": "50GB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Lightsail"
+    },
+    "description": "$2.50 / CDN Bundle: 50GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bundles",
+    "pricePerUnit": {
+      "USD": "2.5000000000"
+    }
+  }
+]

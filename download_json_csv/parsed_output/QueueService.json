@@ -1,0 +1,168 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "At Least Once",
+      "messageDeliveryOrder": "Not Guaranteed",
+      "queueType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.40 per million Amazon SQS standard requests in Tier1 in US East (N Virginia)",
+    "beginRange": "0",
+    "endRange": "100000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "At Least Once",
+      "messageDeliveryOrder": "Not Guaranteed",
+      "queueType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.30 per million Amazon SQS standard requests in Tier2 in US East (N Virginia)",
+    "beginRange": "100000000000",
+    "endRange": "200000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000003000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "At Least Once",
+      "messageDeliveryOrder": "Not Guaranteed",
+      "queueType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.24 per million Amazon SQS standard requests in Tier3 in US East (N Virginia)",
+    "beginRange": "200000000000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000002400"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Global-Requests",
+      "operation": "",
+      "queueType": "Any",
+      "regionCode": "",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "First 1,000,000 Amazon SQS Requests per month are free",
+    "beginRange": "0",
+    "endRange": "1000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-FIFO-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "Exactly Once",
+      "messageDeliveryOrder": "Guaranteed",
+      "queueType": "FIFO (first-in, first-out)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.50 per million Amazon SQS FIFO requests in Tier1 in US East (N Virginia)",
+    "beginRange": "0",
+    "endRange": "100000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-FIFO-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "Exactly Once",
+      "messageDeliveryOrder": "Guaranteed",
+      "queueType": "FIFO (first-in, first-out)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.40 per million Amazon SQS FIFO requests in Tier2 in US East (N Virginia)",
+    "beginRange": "100000000000",
+    "endRange": "200000000000",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSQueueService",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SQS-APIRequest-Tier1",
+      "groupDescription": "Amazon SQS Requests",
+      "usagetype": "Requests-FIFO-RBP",
+      "operation": "",
+      "messageDeliveryFrequency": "Exactly Once",
+      "messageDeliveryOrder": "Guaranteed",
+      "queueType": "FIFO (first-in, first-out)",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Queue Service"
+    },
+    "description": "$0.35 per million Amazon SQS FIFO requests in Tier3 in US East (N Virginia)",
+    "beginRange": "200000000000",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000003500"
+    }
+  }
+]

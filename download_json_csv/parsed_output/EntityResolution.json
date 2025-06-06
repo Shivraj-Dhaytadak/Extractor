@@ -1,0 +1,191 @@
+[
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowFee",
+      "operation": "DataMatchingFeeForCollab",
+      "operationType": "Data Matching Fee For Collaboration",
+      "regionCode": "us-east-1",
+      "resolutionType": "WorkflowFee",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$100 fee per workflow for WorkflowFee:DataMatchingFeeForCollab",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DataMatchingFee",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KnownIdentifiers",
+      "operation": "ProviderEntityResolution",
+      "operationType": "Provider Entity Resolution",
+      "regionCode": "us-east-1",
+      "resolutionType": "Known Identifiers",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0001 per Records for KnownIdentifiers:ProviderEntityResolution in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RecordsMatched",
+      "operation": "DataMatchingForCollab",
+      "operationType": "Data Matching For Collaboration",
+      "regionCode": "us-east-1",
+      "resolutionType": "Records Matched",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0005 per Records for RecordsMatched:DataMatchingForCollab",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RecordsMatched",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-RecordsMatched",
+      "operation": "DataMatching",
+      "operationType": "Data Matching",
+      "regionCode": "us-east-1",
+      "resolutionType": "Records Matched",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0005 per Records for RecordsMatched:DataMatching",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RecordsMatched",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KnownIdentifiers",
+      "operation": "EntityResolution",
+      "operationType": "Entity Resolution",
+      "regionCode": "us-east-1",
+      "resolutionType": "Known Identifiers",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.00025 per Records for KnownIdentifiers:EntityResolution in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0002500000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KnownIdentifiers",
+      "operation": "ProviderIDMappingForCollab",
+      "operationType": "Provider ID Mapping For Collaboration",
+      "regionCode": "us-east-1",
+      "resolutionType": "Known Identifiers",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0001 per Records for KnownIdentifiers:ProviderIDMappingForCollaboration in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowFee",
+      "operation": "DataMatchingFee",
+      "operationType": "Data Matching Fee",
+      "regionCode": "us-east-1",
+      "resolutionType": "WorkflowFee",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$100 fee per workflow for WorkflowFee:DataMatchingFee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "DataMatchingFee",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KnownIdentifiers",
+      "operation": "ProviderIDMapping",
+      "operationType": "Provider ID Mapping",
+      "regionCode": "us-east-1",
+      "resolutionType": "Known Identifiers",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0001 per Records for KnownIdentifiers:ProviderIDMapping in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "AWS Entity Resolution",
+    "attributes": {
+      "servicecode": "AWSEntityResolution",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KnownIdentifiers",
+      "operation": "DataPreparationForCollab",
+      "operationType": "Data Preparation For Collaboration",
+      "regionCode": "us-east-1",
+      "resolutionType": "Known Identifiers",
+      "servicename": "AWS Entity Resolution"
+    },
+    "description": "$0.0001 per Records for KnownIdentifiers:DataPreparationForCollaboration in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Records",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  }
+]

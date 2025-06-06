@@ -1,0 +1,781 @@
+[
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.xlplus",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:ra3.xlplus",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.00 per Redshift Concurrency Scaling RA3.XLPLUS Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ds2.xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:ds2.xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Storage"
+    },
+    "description": "$0 per Redshift Concurrency Scaling  DS2.XL Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.4xlarge",
+      "currentGeneration": "Yes",
+      "vcpu": "12",
+      "memory": "96 GiB",
+      "storage": "64TB RMS",
+      "io": "2.00 GB/s",
+      "usagetype": "Node:ra3.4xlarge",
+      "operation": "RunComputeNode:0001",
+      "ecu": "37.125",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$3.26 per Redshift RA3.4XL Compute Node-hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.2600000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.4xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:ra3.4xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.0 per Redshift Concurrency Scaling RA3.4XL Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.large",
+      "currentGeneration": "Yes",
+      "vcpu": "2",
+      "memory": "15 GiB",
+      "storage": "0.16TB SSD",
+      "io": "0.60 GB/s",
+      "usagetype": "Node:dc2.large",
+      "operation": "RunComputeNode:0001",
+      "ecu": "7",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$0.250 per Redshift Dense Compute Large (DC2.L) Compute Node-hour (or partial hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Inter Region Data Transfer",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Redshift Cross-Region Data Sharing Charges",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Redshift:InterRegionDataSharing",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "Redshift Cross Region Data Sharing transfer charges",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.16xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:ra3.16xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.00362 per Redshift Concurrency Scaling RA3.16XL Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0036200000"
+    }
+  },
+  {
+    "productFamily": "Redshift Managed Storage",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "USE1-RMS:Serverless",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "Storage charges with Redshift managed storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.8xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:dc2.8xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$0 per Redshift Concurrency Scaling  DC2.8XL Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.16xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:ra3.16xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0 per Redshift Concurrency Scaling RA3.16XL Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.xlplus",
+      "currentGeneration": "Yes",
+      "vcpu": "4",
+      "memory": "32 GiB",
+      "storage": "32TB RMS",
+      "io": "0.65 GB/s",
+      "usagetype": "Node:ra3.xlplus",
+      "operation": "RunComputeNode:0001",
+      "ecu": "12.375",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$1.086 per Redshift RA3.XLPLUS Compute Node-hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0860000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Managed Storage",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Storage charges with Redshift managed storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.large",
+      "currentGeneration": "Yes",
+      "usagetype": "RMS:ra3.large",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "Storage charges with Redshift managed storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Storage Snapshot",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "Redshift:PaidSnapshots",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "$0.022 per GB-month of snapshot storage exceeding free allocation - next 450 TB/month of storage used",
+    "beginRange": "51200",
+    "endRange": "512000",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0220000000"
+    }
+  },
+  {
+    "productFamily": "Storage Snapshot",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "Redshift:PaidSnapshots",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "$0.021 per GB-month of snapshot storage exceeding free allocation - storage used over 500 TB/month",
+    "beginRange": "512000",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0210000000"
+    }
+  },
+  {
+    "productFamily": "Storage Snapshot",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "Redshift:PaidSnapshots",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "$0.023 per GB-month of snapshot storage exceeding free allocation - first 50 TB/month of storage used",
+    "beginRange": "0",
+    "endRange": "51200",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Redshift:ServerlessUsage-CR-1YR-NU",
+      "operation": "RunServerlessCompute:001",
+      "paymentOption": "No Upfront",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "term": "1 Year"
+    },
+    "description": "$0.293 per RPU for Redshift serverless capacity reservations usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RPU-Hr",
+    "pricePerUnit": {
+      "USD": "0.2930000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.16xlarge",
+      "currentGeneration": "Yes",
+      "vcpu": "48",
+      "memory": "384 GiB",
+      "storage": "64TB RMS",
+      "io": "8.00 GB/s",
+      "usagetype": "Node:ra3.16xlarge",
+      "operation": "RunComputeNode:0001",
+      "ecu": "148.5",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$13.04 per Redshift RA3.16XL Compute Node-hour (or partial hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "13.0400000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Data Scan",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Data scanned per query for each successful or cancelled query",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "$5 per TB of data scanned",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Terabytes",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ds2.xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:ds2.xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Storage"
+    },
+    "description": "$0.00024 per Redshift Concurrency Scaling DS2.XL Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0002400000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.large",
+      "currentGeneration": "Yes",
+      "vcpu": "2",
+      "memory": "16 GiB",
+      "storage": "8TB RMS",
+      "io": "0.325 GB/s",
+      "usagetype": "Node:ra3.large",
+      "operation": "RunComputeNode:0001",
+      "ecu": "6.1875",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.543 per Redshift RA3.LARGE Compute Node-hour (or partial hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5430000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Managed Storage",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Storage charges with Redshift managed storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.xlplus",
+      "currentGeneration": "Yes",
+      "usagetype": "RMS:ra3.xlplus",
+      "operation": "",
+      "pricingUnit": "GB-Mo",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "Storage charges with Redshift managed storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.8xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:dc2.8xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$0.00133 per Redshift Concurrency Scaling DC2.8XL Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0013300000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.xlplus",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:ra3.xlplus",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.0003 per Redshift Concurrency Scaling RA3.XLPLUS Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0003000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ds2.8xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:ds2.8xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Storage"
+    },
+    "description": "$0 per Redshift Concurrency Scaling  DS2.8XL Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Redshift Serverless compute charges",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Redshift:ServerlessUsage",
+      "operation": "RunServerlessCompute:001",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "$0.375 per RPU-Hr for Redshift serverless usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RPU-Hr",
+    "pricePerUnit": {
+      "USD": "0.3750000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.8xlarge",
+      "currentGeneration": "Yes",
+      "vcpu": "32",
+      "memory": "244 GiB",
+      "storage": "2.56TB SSD",
+      "io": "7.50 GB/s",
+      "usagetype": "Node:dc2.8xlarge",
+      "operation": "RunComputeNode:0001",
+      "ecu": "99",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$4.800 per Redshift Dense Compute Eight Extra Large (DC2.8XL) Compute Node-hour (or partial hour)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.8000000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Managed Storage",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Storage charges with Redshift managed storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.16xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "RMS:ra3.16xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.024 per GB-Mo for RMS:ra3.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.4xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:ra3.4xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "$0.0009 per Redshift Concurrency Scaling RA3.4XL Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0009000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.large",
+      "currentGeneration": "Yes",
+      "usagetype": "CSFreeUsage:dc2.large",
+      "operation": "",
+      "concurrencyscalingfreeusage": "Yes",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$0 per Redshift Concurrency Scaling  DC2.L Node-second - Free Usage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Serverless",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Redshift:ServerlessUsage-CR-1YR-AU",
+      "operation": "RunServerlessCompute:001",
+      "paymentOption": "All Upfront",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "term": "1 Year"
+    },
+    "description": "$2,430 per RPU for Redshift serverless capacity reservations all-upfront usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "RPU-Hr",
+    "pricePerUnit": {
+      "USD": "2430.0000000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "dc2.large",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:dc2.large",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Compute"
+    },
+    "description": "$0.00007 per Redshift Concurrency Scaling DC2.L Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "Redshift Concurrency Scaling",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ds2.8xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "CS:ds2.8xlarge",
+      "operation": "",
+      "concurrencyscalingfreeusage": "No",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "Dense Storage"
+    },
+    "description": "$0.00189 per Redshift Concurrency Scaling DS2.8XL Node-second",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0018900000"
+    }
+  },
+  {
+    "productFamily": "Redshift Managed Storage",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Storage charges with Redshift managed storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ra3.4xlarge",
+      "currentGeneration": "Yes",
+      "usagetype": "RMS:ra3.4xlarge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift",
+      "usageFamily": "RA3"
+    },
+    "description": "Storage charges with Redshift managed storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Redshift Inter Region Data Transfer",
+    "attributes": {
+      "servicecode": "AmazonRedshift",
+      "description": "Redshift Cross-Region Snapshot Copy Charges",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Redshift:InterRegionSnapshotCopy",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Redshift"
+    },
+    "description": "Redshift Cross Region Data Sharing transfer charges",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  }
+]

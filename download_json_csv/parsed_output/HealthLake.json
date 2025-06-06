@@ -1,0 +1,190 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRDataExport",
+      "operation": "FHIRDataExport",
+      "datatype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake"
+    },
+    "description": "$0.19 per GB for FHIRDataExport",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1900000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRDataStore",
+      "operation": "FHIRDataStore",
+      "datatype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake",
+      "storageclass": "FHIR-R4"
+    },
+    "description": "$0.27 per hour for FHIR R4 DataStore",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2700000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRDataStorage",
+      "operation": "FHIRDataStorage",
+      "datatype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake",
+      "storageclass": "FHIR-R4"
+    },
+    "description": "First 10 GB-mo of FHIRDataStorage is free",
+    "beginRange": "0",
+    "endRange": "10",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRDataStorage",
+      "operation": "FHIRDataStorage",
+      "datatype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake",
+      "storageclass": "FHIR-R4"
+    },
+    "description": "$0.25 per GB-mo of FHIRDataStorage",
+    "beginRange": "10",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-IntegratedMedicalNLP",
+      "operation": "IntegratedMedicalNLP",
+      "inputtype": "Text",
+      "nlpclass": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake"
+    },
+    "description": "$0.001 per 100-character unit for IntegratedMedicalNLP",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRQueries",
+      "operation": "FHIRQueries",
+      "bundle": "Default",
+      "querytype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake"
+    },
+    "description": "First 2,520,000 FHIRQueries are free",
+    "beginRange": "0",
+    "endRange": "2520000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FHIRQueries",
+      "operation": "FHIRQueries",
+      "bundle": "Default",
+      "querytype": "FHIR-R4",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake"
+    },
+    "description": "$0.015 per 10K FHIRQueries",
+    "beginRange": "2520000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AdvancedDataStorage",
+      "operation": "AdvancedDataStorage",
+      "datatype": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake",
+      "storageclass": "FHIR-Index"
+    },
+    "description": "First 10 GB-mo of FHIR and Index data storage is free",
+    "beginRange": "0",
+    "endRange": "10",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonHealthLake",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AdvancedDataStorage",
+      "operation": "AdvancedDataStorage",
+      "datatype": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon HealthLake",
+      "storageclass": "FHIR-Index"
+    },
+    "description": "$0.37 per GB-mo of FHIR and Index data storage",
+    "beginRange": "10",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.3700000000"
+    }
+  }
+]

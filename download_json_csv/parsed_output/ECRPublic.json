@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "EC2 Container Registry",
+    "attributes": {
+      "servicecode": "AmazonECRPublic",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Container Registry Public",
+      "storagetype": "S3"
+    },
+    "description": "50 GB-Mo Free storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "50",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "EC2 Container Registry",
+    "attributes": {
+      "servicecode": "AmazonECRPublic",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TimedStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Elastic Container Registry Public",
+      "storagetype": "S3"
+    },
+    "description": "$0.1 per GB-Mo for TimedStorage-ByteHrs in US East (N. Virginia)",
+    "beginRange": "50",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

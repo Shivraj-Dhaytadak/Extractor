@@ -1,0 +1,222 @@
+[
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "DNS Firewall Advanced",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AdvancedDNS-ThreatProtectionsVPCAssociationHours",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.16 per hour per Firewall Rule Group-VPC association for DNS Firewall Advanced",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1600000000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "DNS Firewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-FirewallQueries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.60 per 1,000,000 queries inspected by the firewall for the first 1 Billion queries",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000006000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "DNS Firewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-FirewallQueries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.40 per 1,000,000 queries inspected by the firewall over 1 Billion queries",
+    "beginRange": "1000000000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "DoH Endpoint",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ResolverNetworkInterface-SecurityEnabled",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.125 per hour per DoH Resolver Network Interface in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1250000000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Endpoint",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ResolverNetworkInterface",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.125 per hour per Resolver Network Interface",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hours",
+    "pricePerUnit": {
+      "USD": "0.1250000000"
+    }
+  },
+  {
+    "productFamily": "DNS Domain Names",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "DNS Firewall",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-FirewallDomainName",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.0005 per DomainName stored within domain lists.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Mo",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Profiles-Base Price",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-ProfileBasePackage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.75 per hour for up to 100 Profile-VPC associations in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Endpoint",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Outposts",
+      "usagetype": "USE1-OutpostRNI",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.125 per hour per Resolver Network Interface on AWS Outpost in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1250000000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Queries",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.40 per 1,000,000 resolver queries for the first 1 Billion queries",
+    "beginRange": "0",
+    "endRange": "1000000000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Queries",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.20 per 1,000,000 resolver queries over 1 Billion queries",
+    "beginRange": "1000000000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "DNS Query",
+    "attributes": {
+      "servicecode": "AmazonRoute53",
+      "description": "Profiles",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DNS-ProfileAssociationCount",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Route 53"
+    },
+    "description": "$0.0014 per hour per association beyond the first 100 Profile-VPC associations in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0014000000"
+    }
+  }
+]

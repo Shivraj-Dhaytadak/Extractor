@@ -1,0 +1,981 @@
+[
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-XL",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XL"
+    },
+    "description": "$0.000025 per Request for Query-Public-XL:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.xlarge",
+      "usagetype": "USE1-Node:bc.c5.xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.272 per hour for Hyperledger Fabric - Standard Edition bc.c5.xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2720000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-XL",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XL"
+    },
+    "description": "$0.000025 per Request for Access-Public-XL:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.medium",
+      "usagetype": "USE1-Node:bc.t3.medium",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.067 per hour for Hyperledger Fabric - Standard Edition bc.t3.medium node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0670000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-S",
+      "operation": "Public-Ethereum-Mainnet",
+      "frameworkType": "Ethereum-Mainnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "S"
+    },
+    "description": "$0.000007 per Request for Query-Public-S:Public-Ethereum-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000070000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.small",
+      "usagetype": "USE1-Node:bc.t3.small",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.034 per hour for Hyperledger Fabric - Standard Edition bc.t3.small node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0340000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.small",
+      "usagetype": "USE1-Node:bc.t3.small",
+      "operation": "Fabric:Starter",
+      "frameworkType": "Hyperledger Fabric - Starter",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.034 per hour for Hyperledger Fabric - Starter Edition bc.t3.small node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0340000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.large",
+      "usagetype": "USE1-Node:bc.m5.large",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.154 per hour for Hyperledger Fabric - Standard Edition bc.m5.large node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1540000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.2xlarge",
+      "usagetype": "USE1-Node:bc.m5.2xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.617 per hour for Node:bc.m5.2xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6170000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.medium",
+      "usagetype": "USE1-Node:bc.t3.medium",
+      "operation": "Fabric:Starter",
+      "frameworkType": "Hyperledger Fabric - Starter",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.067 per hour for Hyperledger Fabric - Starter Edition bc.t3.medium node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0670000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-XS",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XS"
+    },
+    "description": "$0.000005 per Request for Access-Public-XS:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Node Storage",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Node-Storage",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.10 per GB-Mo for Hyperledger Fabric - Standard Edition node storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-S",
+      "operation": "Public-Ethereum-Sepolia-Testnet",
+      "frameworkType": "Ethereum-Sepolia-Testnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "S"
+    },
+    "description": "$0.000007 per Request for Query-Public-S:Public-Ethereum-Sepolia-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000070000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-M",
+      "operation": "Public-Ethereum-Sepolia-Testnet",
+      "frameworkType": "Ethereum-Sepolia-Testnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "M"
+    },
+    "description": "$0.000009 per Request for Query-Public-M:Public-Ethereum-Sepolia-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000090000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-S",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "S"
+    },
+    "description": "$0.000007 per Request for Query-Public-S:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000070000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.large",
+      "usagetype": "USE1-Node:bc.m5.large",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.154 per hour for Node:bc.m5.large:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1540000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Data Written",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Data-Written-To-Network",
+      "operation": "Fabric:Starter",
+      "frameworkType": "Hyperledger Fabric - Starter",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.10 per GB for Hyperledger Fabric - Starter Edition data written in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Request",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.000003 per Request ($3 per million requests) for Request:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000030000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-XL",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XL"
+    },
+    "description": "$0.000025 per Request for Access-Public-XL:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.4xlarge",
+      "usagetype": "USE1-Node:bc.c5.4xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$1.088 per hour for Hyperledger Fabric - Standard Edition bc.c5.4xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0880000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.4xlarge",
+      "usagetype": "USE1-Node:bc.m5.4xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$1.229 per hour for Hyperledger Fabric - Standard Edition bc.m5.4xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2290000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-L",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "L"
+    },
+    "description": "$0.000016 per Request for Access-Public-L:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000160000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Member",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Member",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.55 per hr for Hyperledger Fabric - Standard Edition member in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5500000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.xlarge",
+      "usagetype": "USE1-Node:bc.t3.xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.267 per hour for Node:bc.t3.xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2670000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Node Storage",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Node-Storage",
+      "operation": "Fabric:Starter",
+      "frameworkType": "Hyperledger Fabric - Starter",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.10 per GB-Mo for Hyperledger Fabric - Starter Edition node storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-S",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "S"
+    },
+    "description": "$0.000007 per Request for Query-Public-S:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000070000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.xlarge",
+      "usagetype": "USE1-Node:bc.c5.xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.272 per hour for Node:bc.c5.xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2720000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.large",
+      "usagetype": "USE1-Node:bc.t3.large",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.134 per hour for Hyperledger Fabric - Standard Edition bc.t3.large node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1340000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.large",
+      "usagetype": "USE1-Node:bc.c5.large",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.136 per hour for Hyperledger Fabric - Standard Edition bc.c5.large node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1360000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-L",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "L"
+    },
+    "description": "$0.000016 per Request for Access-Public-L:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000160000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-M",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "M"
+    },
+    "description": "$0.000009 per Request for Query-Public-M:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000090000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.4xlarge",
+      "usagetype": "USE1-Node:bc.c5.4xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$1.088 per hour for Node:bc.c5.4xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0880000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.large",
+      "usagetype": "USE1-Node:bc.t3.large",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.134 per hour for Node:bc.t3.large:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.1340000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.2xlarge",
+      "usagetype": "USE1-Node:bc.c5.2xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.544 per hour for Node:bc.c5.2xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5440000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Member",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Member",
+      "operation": "Fabric:Starter",
+      "frameworkType": "Hyperledger Fabric - Starter",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.30 per hr for Hyperledger Fabric - Starter Edition member in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-XL",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XL"
+    },
+    "description": "$0.000025 per Request for Query-Public-XL:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.xlarge",
+      "usagetype": "USE1-Node:bc.m5.xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.307 per hour for Node:bc.m5.xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3070000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Node Storage",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Node-Storage",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.10 per GB-Mo for Node-Storage:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-M",
+      "operation": "Public-Bitcoin-Mainnet",
+      "frameworkType": "Bitcoin-Mainnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "M"
+    },
+    "description": "$0.000009 per Request for Query-Public-M:Public-Bitcoin-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000090000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.c5.2xlarge",
+      "usagetype": "USE1-Node:bc.c5.2xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.544 per hour for Hyperledger Fabric - Standard Edition bc.c5.2xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5440000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.2xlarge",
+      "usagetype": "USE1-Node:bc.m5.2xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.617 per hour for Hyperledger Fabric - Standard Edition bc.m5.2xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.6170000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.t3.xlarge",
+      "usagetype": "USE1-Node:bc.t3.xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.267 per hour for Hyperledger Fabric - Standard Edition bc.t3.xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.2670000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Query-Public-M",
+      "operation": "Public-Ethereum-Mainnet",
+      "frameworkType": "Ethereum-Mainnet-Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "M"
+    },
+    "description": "$0.000009 per Request for Query-Public-M:Public-Ethereum-Mainnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000090000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Data Written",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Data-Written-To-Network",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.10 per GB for Hyperledger Fabric - Standard Edition data written in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.xlarge",
+      "usagetype": "USE1-Node:bc.m5.xlarge",
+      "operation": "Fabric:Standard",
+      "frameworkType": "Hyperledger Fabric - Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$0.307 per hour for Hyperledger Fabric - Standard Edition bc.m5.xlarge node in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3070000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Instance",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "bc.m5.4xlarge",
+      "usagetype": "USE1-Node:bc.m5.4xlarge",
+      "operation": "Ethereum:Public",
+      "frameworkType": "Ethereum - Public",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain"
+    },
+    "description": "$1.229 per hour for Node:bc.m5.4xlarge:Ethereum:Public in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2290000000"
+    }
+  },
+  {
+    "productFamily": "Blockchain Request",
+    "attributes": {
+      "servicecode": "AmazonManagedBlockchain",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Access-Public-XS",
+      "operation": "Public-Bitcoin-Testnet",
+      "frameworkType": "Bitcoin-Testnet-Access",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Blockchain",
+      "size": "XS"
+    },
+    "description": "$0.000005 per Request for Access-Public-XS:Public-Bitcoin-Testnet in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkMail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkMail-FreeTier-UserHrs",
+      "operation": "",
+      "freeTier": "Y",
+      "mailboxStorage": "50GB",
+      "regionCode": "us-east-1",
+      "servicename": "AmazonWorkMail"
+    },
+    "description": "$0 per user per month under the free tier in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Enterprise Applications",
+    "attributes": {
+      "servicecode": "AmazonWorkMail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkMail-NormalTier-UserHrs",
+      "operation": "",
+      "freeTier": "N",
+      "mailboxStorage": "50GB",
+      "regionCode": "us-east-1",
+      "servicename": "AmazonWorkMail"
+    },
+    "description": "$4 per user per month in the USE1 region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "4.0000000000"
+    }
+  }
+]

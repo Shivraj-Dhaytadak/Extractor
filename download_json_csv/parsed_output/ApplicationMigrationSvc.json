@@ -1,0 +1,42 @@
+[
+  {
+    "productFamily": "Server Migration",
+    "attributes": {
+      "servicecode": "AWSApplicationMigrationSvc",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MGN-Replication",
+      "operation": "Free_replication",
+      "regionCode": "us-east-1",
+      "replicationType": "Free",
+      "servicename": "AWS Application Migration Service"
+    },
+    "description": "$0.0 per Replication-hour for MGN-Replication:Free_replication in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Replication-hour",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Server Migration",
+    "attributes": {
+      "servicecode": "AWSApplicationMigrationSvc",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MGN-Replication",
+      "operation": "Paid_replication",
+      "regionCode": "us-east-1",
+      "replicationType": "Normal",
+      "servicename": "AWS Application Migration Service"
+    },
+    "description": "$0.042 per Replication-hour for MGN-Replication:Paid_replication in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Replication-hour",
+    "pricePerUnit": {
+      "USD": "0.0420000000"
+    }
+  }
+]

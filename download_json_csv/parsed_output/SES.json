@@ -1,0 +1,662 @@
+[
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "Recipients-MailManager",
+      "operation": "Send",
+      "contentType": "Full Message Send",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.00015 per Count for emails with single recipient sent by Mail Manager in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Receiving Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for chunks of 256 KB, applicable to incoming mail",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "ReceivedChunk",
+      "operation": "Receive",
+      "contentType": "Full Message",
+      "recipient": "Amazon SES",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per mail chunk received in USE1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReceivedChunk",
+    "pricePerUnit": {
+      "USD": "0.0000900000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "USE1-Recipients-MultiRegnEP",
+      "operation": "Send",
+      "contentType": "Global Endpoint Message",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.00003 per Count for Global Endpoint Message in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "Recipients-VirtDelivMgr",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.00007 per Count from 0 to 10,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000700000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "Recipients-VirtDelivMgr",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.00005 per Count from 10,000,000 to 100,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "100000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "Recipients-VirtDelivMgr",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.00002 per Count from 100,000,000 for Outbound emails processed by Virtual Deliverability Manager in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "Sending Attachments",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for attachments sent",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "AttachmentsSize-Bytes",
+      "operation": "Send",
+      "contentType": "Mail Attachment",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per GB of attachments",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1200000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AddOnExecution-SPAMHAUS_DBL",
+      "operation": "Processing",
+      "contentType": "Message Body SpamHaus",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD0.000125 per Count for Message processed by Spamhaus Add on in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001250000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "DIP-Hours",
+      "operation": "Lease",
+      "contentType": "Dedicated IPs (USE1)",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per dedicated IP in US-East-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Mo",
+    "pricePerUnit": {
+      "USD": "24.9500000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AddOnExecution-ABUSIX_MAIL_INTELLIGENCE",
+      "operation": "Processing",
+      "contentType": "Message Body Abusix",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD0.000125 per Count for Message processed by Abusix Add on in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001250000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for each email sent to an external recipient",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per recipient of SendEmail or SendRawEmail",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AddOnExecution-TRENDMICRO_VSAPI",
+      "operation": "Processing",
+      "contentType": "Full Message Trend Micro",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD0.0001875 per Count for Message scanned by Trend Micro in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001875000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "DIP-Managed-Acc-Sub-Hours",
+      "operation": "Subscription",
+      "contentType": "Dedicated IPs (managed)",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost of Dedicated IPs (managed) subscription in IAD",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Mo",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ReceivedChunk",
+      "operation": "Processing",
+      "contentType": "Full Message Chunk",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD9.0E-5 per ReceivedChunk for Mail Manager Processed email in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ReceivedChunk",
+    "pricePerUnit": {
+      "USD": "0.0000900000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients-DIP-Managed",
+      "operation": "Send",
+      "contentType": "Dedicated IPs (managed)",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Dedicated IPs (managed) pricing for less than 10 Million emails per month in USE1",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000800000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients-DIP-Managed",
+      "operation": "Send",
+      "contentType": "Dedicated IPs (managed)",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Dedicated IPs (managed) pricing for between 10 Million and 50 Million emails per month in USE1",
+    "beginRange": "10000000",
+    "endRange": "50000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000400000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients-DIP-Managed",
+      "operation": "Send",
+      "contentType": "Dedicated IPs (managed)",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Dedicated IPs (managed) pricing for between 50 Million and 100 Million emails per month in USE1",
+    "beginRange": "50000000",
+    "endRange": "100000000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients-DIP-Managed",
+      "operation": "Send",
+      "contentType": "Dedicated IPs (managed)",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Dedicated IPs (managed) pricing for more than 100 Million emails per month in USE1",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000040000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for each email sent from AmazonEC2 to an external recipient",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Amazon EC2",
+      "usagetype": "Recipients-EC2",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Other",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per recipient of SendEmail or SendRawEmail invoked from EC2",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for each email sent from AmazonEC2 to SES Mailbox Simulator",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Amazon EC2",
+      "usagetype": "Recipients-MailboxSim-EC2",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Amazon SES Mailbox Simulator",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per recipient of SendEmail or SendRawEmail invoked from EC2 sent to the Mailbox Simulator",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for each email sent to SES Mailbox Simulator",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Recipients-MailboxSim",
+      "operation": "Send",
+      "contentType": "Message Body",
+      "recipient": "Amazon SES Mailbox Simulator",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per recipient of SendEmail or SendRawEmail sent to the Mailbox Simulator",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Message",
+      "operation": "Processing",
+      "contentType": "Message Body Processing",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD0.00015 per Count for Message processed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001500000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ArchiveStorageSize-ByteHrs",
+      "operation": "ArchiveStorage",
+      "contentType": "Archive Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD0.19 per GB per Mo for archive storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1900000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-VirtDelivMgr",
+      "operation": "Query",
+      "apiCategory": "Query",
+      "regionCode": "",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Free queries for Virtual Deliverability Manager",
+    "beginRange": "0",
+    "endRange": "5000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Bundle",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "group": "SES-MonthlyFree-OutgoingEmail-Simulator",
+      "groupDescription": "Monthly free outgoing emails from AmazonEC2 to Amazon SES Mailbox Simulator",
+      "usagetype": "Global-Recipients-MailboxSim-EC2",
+      "operation": "Send",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per recipient of SendEmail or SendRawEmail invoked from EC2 sent to the Mailbox Simulator Global",
+    "beginRange": "0",
+    "endRange": "62000",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "VirtDelivMgr",
+      "operation": "Query",
+      "apiCategory": "Query",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Queries for Virtual Deliverability Manager in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000005000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AddOnExecution-VADE_ADVANCED_EMAIL_SECURITY",
+      "operation": "Processing",
+      "contentType": "Message Body Vade",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "$0.000415 per Count for USE1-AddOnExecution-VADE_ADVANCED_EMAIL_SECURITY in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0004150000"
+    }
+  },
+  {
+    "productFamily": "Receiving Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "description": "Charged for each received e-mail communication",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Other",
+      "usagetype": "Message",
+      "operation": "Receive",
+      "recipient": "Amazon SES",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per email received in USE1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Sending Email",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "origin": "Any",
+      "usagetype": "USE1-DIP-Hours",
+      "operation": "Lease",
+      "contentType": "Dedicated IPs",
+      "recipient": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "Cost per dedicated IP in US-East-1",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Mo",
+    "pricePerUnit": {
+      "USD": "24.9500000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ArchiveIngestedSize-Byte",
+      "operation": "ArchiveIngestion",
+      "contentType": "Archive Ingestion",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD2 per GB for data acceptance into archive  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Email Management",
+    "attributes": {
+      "servicecode": "AmazonSES",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-IngressPoint-Subscription",
+      "operation": "IngressPoint",
+      "contentType": "Ingress Endpoint",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Simple Email Service"
+    },
+    "description": "USD50 per dedicated ingress endpoint subscription in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Mo",
+    "pricePerUnit": {
+      "USD": "50.0000000000"
+    }
+  }
+]

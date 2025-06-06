@@ -1,0 +1,420 @@
+[
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 Scanning including continuous vulnerability and network reachability checks",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-Scanning-agentless",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "Agentless vulnerability scans"
+    },
+    "description": "$0.00243 per Instance-hrs for EC2-Scanning-agentless in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.0024300000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 Scanning including continuous vulnerability and network reachability checks",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-Scanning-free-Trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "Continuous EC2 scans"
+    },
+    "description": "$0.0 per null for EC2-Scanning-free-Trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Standard-Scanning-free-trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "scanType": "Standard Scanning",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Hourly for Lambda-Standard-Scanning-free-trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Code-free-metering",
+      "operation": "",
+      "freeUsageIncluded": "Free-metering",
+      "regionCode": "us-east-1",
+      "scanType": "Code Scanning",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Hourly for Lambda-Code-free-metering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container image assessment in Continuous Integration/ Continuous Deployment (CI/CD) pipelines",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CICD-container-image-assessment",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "scanType": "CI/CD scan",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.03 per container image assessment in CI/CD in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "resource assessment",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-container-image-initial-scan",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "scanType": "Initial Scan (on-push to ECR)",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.09 per Resource-assessment for container-image-initial-scan in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ECR-free-metering",
+      "operation": "",
+      "freeUsageIncluded": "Free-metering",
+      "regionCode": "us-east-1",
+      "scanType": "free-metering",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Resource-assessment for ECR-free-metering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Code-Scanning",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "scanType": "Code Scanning",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.00084 per Hourly for Lambda-Code-Scanning in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0008400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda Code scanning includes continuous scanning of Lambda functions for code vulnerabilities",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Code-Scanning-free-trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "scanType": "Code Scanning",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Hourly for Lambda-Code-Scanning-free-trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-container-image-re-scan",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "scanType": "Automated re-scan",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.01 per Resource-assessment for container-image-re-scan in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Standard-Scanning",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "scanType": "Standard Scanning",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.000417 per Hourly for Lambda-Standard-Scanning in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0004170000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 Scanning including continuous vulnerability and network reachability checks",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-free-metering",
+      "operation": "",
+      "freeUsageIncluded": "Free-metering",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "Continuous EC2 scans"
+    },
+    "description": "$0.0 per Instance-hrs for EC2-free-metering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 Scanning including continuous vulnerability and network reachability checks",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-Scanning",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "Continuous EC2 scans"
+    },
+    "description": "$0.00174 per Instance-hrs for EC2-Scanning in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.0017400000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Lambda standard scanning includes continuous vulnerability scanning of Lambda functions and associated dependencies",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Lambda-Standard-free-metering",
+      "operation": "",
+      "freeUsageIncluded": "Free-metering",
+      "regionCode": "us-east-1",
+      "scanType": "free-metering",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Hourly for Lambda-Standard-free-metering in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-container-image-re-scan-free-trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "scanType": "Automated re-scan",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Resource-assessment for container-image-re-scan-free-trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 Scanning including continuous vulnerability and network reachability checks",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-Scanning-agentless-free-trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "Agentless vulnerability scans"
+    },
+    "description": "$0.0 per Instance-hrs for EC2-Scanning-agentless in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container Image scanning includes an initial scan when an image is pushed to the ECR or an automated re-scan or an ad-hoc image scan",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-container-image-initial-scan-free-trial",
+      "operation": "",
+      "freeUsageIncluded": "15-Days unlimited free trial",
+      "regionCode": "us-east-1",
+      "scanType": "Initial Scan (on-push to ECR)",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per Resource-assessment for container-image-initial-scan-free-trial in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "EC2 CIS checks for operating systems (OS)",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EC2-CIS-checks",
+      "operation": "",
+      "freeUsageIncluded": "None",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Inspector",
+      "usageVolume": "CIS checks"
+    },
+    "description": "$0.03 per instance per assessment for CIS checks in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Resource-assessment",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Inspector",
+    "attributes": {
+      "servicecode": "AmazonInspectorV2",
+      "description": "Container image assessment in Continuous Integration/ Continuous Deployment (CI/CD) pipelines",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CICD-container-image-assessment-free",
+      "operation": "",
+      "freeUsageIncluded": "Free",
+      "regionCode": "us-east-1",
+      "scanType": "CI/CD scan",
+      "servicename": "Amazon Inspector"
+    },
+    "description": "$0.0 per container image assessment in CI/CD in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "resource assessment",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

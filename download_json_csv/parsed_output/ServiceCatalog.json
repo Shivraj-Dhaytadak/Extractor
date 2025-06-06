@@ -1,0 +1,102 @@
+[
+  {
+    "productFamily": "Portfolio",
+    "attributes": {
+      "servicecode": "AWSServiceCatalog",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "ServiceCatalogPerPortfolio",
+      "operation": "ServiceCatalogActivePortfolio",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Service Catalog",
+      "withActiveUsers": "No"
+    },
+    "description": "Per active portfolio",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ServiceCatalogPerPortfolio_IAD",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Portfolio",
+    "attributes": {
+      "servicecode": "AWSServiceCatalog",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "SCPerActivePortfolio",
+      "operation": "ActivePortfolio",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Service Catalog",
+      "withActiveUsers": "Yes"
+    },
+    "description": "$0.00 per Active Portfolio",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ActivePortfolios",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AWSServiceCatalog",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AR-App-API-Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Service Catalog",
+      "withActiveUsers": "Yes"
+    },
+    "description": "$0.00 per API Calls for AppRegistry Application API-Calls in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AWSServiceCatalog",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SC-API-Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Service Catalog",
+      "withActiveUsers": "Yes"
+    },
+    "description": "$0.00 per API Calls for SC-API-Calls in US East (N. Virginia) - Free Tier",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AWSServiceCatalog",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SC-API-Calls",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Service Catalog",
+      "withActiveUsers": "Yes"
+    },
+    "description": "$0.0007 per API Calls for SC-API-Calls in US East (N. Virginia) - Paid Tier",
+    "beginRange": "1000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0007000000"
+    }
+  }
+]

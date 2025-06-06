@@ -1,0 +1,152 @@
+[
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen4n_win2022",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA T4 Tensor GPU",
+      "ram": "32",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen4n_win2022",
+      "vcpu": "8",
+      "vram": "16"
+    },
+    "description": "$1.512 per Hrs for USE1-GameLiftStreamsUsage:gen4n_win2022 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.5120000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen5n_high",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA A10G Tensor GPU",
+      "ram": "16",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen5n_high",
+      "vcpu": "4",
+      "vram": "12"
+    },
+    "description": "$0.7544 per Hrs for USE1-GameLiftStreamsUsage:gen5n_high in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7544000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen4n_high",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA T4 Tensor GPU",
+      "ram": "16",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen4n_high",
+      "vcpu": "4",
+      "vram": "8"
+    },
+    "description": "$0.5205 per Hrs for USE1-GameLiftStreamsUsage:gen4n_high in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5205000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen5n_ultra",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA A10G Tensor GPU",
+      "ram": "32",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen5n_ultra",
+      "vcpu": "8",
+      "vram": "24"
+    },
+    "description": "$1.4544 per Hrs for USE1-GameLiftStreamsUsage:gen5n_ultra in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.4544000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen4n_ultra",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA T4 Tensor GPU",
+      "ram": "32",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen4n_ultra",
+      "vcpu": "8",
+      "vram": "16"
+    },
+    "description": "$0.9927 per Hrs for USE1-GameLiftStreamsUsage:gen4n_ultra in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.9927000000"
+    }
+  },
+  {
+    "productFamily": "Compute Instance",
+    "attributes": {
+      "servicecode": "AmazonGameLiftStreams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-GameLiftStreamsUsage:gen5n_win2022",
+      "operation": "OnDemandStreamHours",
+      "gpu": "NVIDIA A10G Tensor GPU",
+      "ram": "32",
+      "regionCode": "us-east-1",
+      "reservationClass": "OnDemand",
+      "servicename": "Amazon GameLift Streams",
+      "streamClass": "gen5n_win2022",
+      "vcpu": "8",
+      "vram": "24"
+    },
+    "description": "$2.13 per Hrs for USE1-GameLiftStreamsUsage:gen5n_win2022 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.1300000000"
+    }
+  }
+]

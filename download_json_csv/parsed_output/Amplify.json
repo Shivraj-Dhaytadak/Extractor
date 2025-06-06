@@ -1,0 +1,125 @@
+[
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BuildDuration",
+      "operation": "",
+      "instancetype": "InstanceType",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Amplify"
+    },
+    "description": "$0.01 per build minute (4 vCPU, 7 GB Memory)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-HostingComputeRequestDuration",
+      "operation": "HostingComputeRequestDuration",
+      "regionCode": "us-east-1",
+      "requestCount": "NoRequestCount",
+      "requestDuration": "RequestDuration",
+      "servicename": "AWS Amplify"
+    },
+    "description": "USD 0.20 per GB-Hour for Amplify Hosting Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000555556"
+    }
+  },
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "NoStorage",
+      "usagetype": "USE1-DataTransferOut",
+      "operation": "",
+      "datatransferout": "DataTransferOut",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Amplify"
+    },
+    "description": "$0.15 per GB served (data transfer out)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storage": "Storage",
+      "usagetype": "USE1-DataStorage",
+      "operation": "",
+      "datatransferout": "NoDataTransferOut",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Amplify"
+    },
+    "description": "$0.023 per GB build artifacts stored",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GigaBytes",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-HostingComputeRequestCount",
+      "operation": "HostingComputeRequestCount",
+      "regionCode": "us-east-1",
+      "requestCount": "RequestCount",
+      "requestDuration": "NoRequestDuration",
+      "servicename": "AWS Amplify"
+    },
+    "description": "USD 0.30 per 1 million requests for Amplify Hosting Compute",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000003000"
+    }
+  },
+  {
+    "productFamily": "AWS Amplify",
+    "attributes": {
+      "servicecode": "AWSAmplify",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AmplifyWAF",
+      "operation": "HOSTING_WAF",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Amplify"
+    },
+    "description": "$15.00 per Months for USE1-AmplifyWAF in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Months",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  }
+]

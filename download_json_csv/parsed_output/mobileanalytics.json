@@ -1,0 +1,44 @@
+[
+  {
+    "productFamily": "AWSMobile-Analytics",
+    "attributes": {
+      "servicecode": "mobileanalytics",
+      "description": "Amazon Mobile Analytics events recorded per month",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "EventsRecorded",
+      "operation": "PutEvents",
+      "includedEvents": "First 100M events recorded per month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Mobile Analytics"
+    },
+    "description": "$1.00 per 1,000,000 Amazon Mobile Analytics events per month thereafter",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWSMobile-Analytics",
+    "attributes": {
+      "servicecode": "mobileanalytics",
+      "description": "Amazon Mobile Analytics events recorded per month",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "EventsRecorded",
+      "operation": "PutEvents",
+      "includedEvents": "First 100M events recorded per month",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Mobile Analytics"
+    },
+    "description": "First 100,000,000 Amazon Mobile Analytics events per month are free",
+    "beginRange": "0",
+    "endRange": "100000000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

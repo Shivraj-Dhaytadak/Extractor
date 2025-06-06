@@ -1,0 +1,128 @@
+[
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SFN-StateTransitions",
+      "groupDescription": "Number of State Transitions",
+      "usagetype": "USE1-StateTransition",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "$0.000025 per state transition",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "StateTransitions",
+    "pricePerUnit": {
+      "USD": "0.0000250000"
+    }
+  },
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SFN-ExpressWorkflows-Duration",
+      "groupDescription": "Duration of Workflows",
+      "usagetype": "USE1-StepFunctions-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "Express Workflows - Duration - USD 0.00001667 per GB-S for the first 3.6 million GB-Seconds",
+    "beginRange": "0",
+    "endRange": "3600000",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000166700"
+    }
+  },
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SFN-ExpressWorkflows-Duration",
+      "groupDescription": "Duration of Workflows",
+      "usagetype": "USE1-StepFunctions-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "Express Workflows - Duration - USD 0.00000833 per GB-S for the next 14.4 million GB-Seconds",
+    "beginRange": "3600000",
+    "endRange": "18000000",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000083300"
+    }
+  },
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SFN-ExpressWorkflows-Duration",
+      "groupDescription": "Duration of Workflows",
+      "usagetype": "USE1-StepFunctions-GB-Second",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "Express Workflows - Duration - USD 0.00000456 per GB-S above 18 million GB-Seconds",
+    "beginRange": "18000000",
+    "endRange": "Inf",
+    "unit": "GB-Seconds",
+    "pricePerUnit": {
+      "USD": "0.0000045600"
+    }
+  },
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "SFN-StateTransitions",
+      "groupDescription": "Number of State Transitions",
+      "usagetype": "Global-StateTransition",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "$0 for first 4,000 state transitions",
+    "beginRange": "0",
+    "endRange": "4000",
+    "unit": "StateTransitions",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Step Functions",
+    "attributes": {
+      "servicecode": "AmazonStates",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "SFN-ExpressWorkflows-Requests",
+      "groupDescription": "Number of Workflow Requests",
+      "usagetype": "USE1-StepFunctions-Request",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Step Functions"
+    },
+    "description": "Express Workflows - Total Requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  }
+]

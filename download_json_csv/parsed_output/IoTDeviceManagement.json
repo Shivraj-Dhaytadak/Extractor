@@ -1,0 +1,164 @@
+[
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CommandExecution-FW",
+      "operation": "",
+      "eventType": "Operation-FW",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$6.5 per 1,000,000 executions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0000065000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Queries",
+      "operation": "",
+      "eventType": "Queries",
+      "indexingSource": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$0.05 per 10,000 queries",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThingRegistration",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$0.10 per 1,000 things registered",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Things Registered",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TunnelsOpened",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$1.00 per Count for TunnelsOpened in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CommandExecution",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$6.5 per 1,000,000 executions",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Executions",
+    "pricePerUnit": {
+      "USD": "0.0000065000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JobExecutions",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$0.003 per remote action - first 250,000 remote actions / month",
+    "beginRange": "0",
+    "endRange": "250000",
+    "unit": "Remote Actions",
+    "pricePerUnit": {
+      "USD": "0.0030000000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-JobExecutions",
+      "operation": "",
+      "eventType": "Operation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$0.0015 per remote action - over 250,000 remote actions / month",
+    "beginRange": "250000",
+    "endRange": "Inf",
+    "unit": "Remote Actions",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "IoTDeviceManagement",
+    "attributes": {
+      "servicecode": "IoTDeviceManagement",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-IndexedData",
+      "operation": "",
+      "eventType": "Operation",
+      "indexingSource": "Any",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Management"
+    },
+    "description": "$2.25 per 1 million index updates of 1KB size",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Index Updates",
+    "pricePerUnit": {
+      "USD": "0.0000022500"
+    }
+  }
+]

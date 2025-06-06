@@ -1,0 +1,206 @@
+[
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Preconditions",
+      "usagetype": "AWS-Preconditions-freq",
+      "operation": "",
+      "executionFrequency": "More than once a day",
+      "executionLocation": "AWS",
+      "frequencyMode": "High",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "1 per month per high frequency precondition on AWS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Preconditions",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Preconditions",
+      "usagetype": "local-Preconditions-infreq",
+      "operation": "",
+      "executionFrequency": "One time a day or less",
+      "executionLocation": "On-Premise",
+      "frequencyMode": "Low",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "1.50 per month per low frequency precondition on premise",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Preconditions",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Preconditions",
+      "usagetype": "local-Preconditions-freq",
+      "operation": "",
+      "executionFrequency": "More than once a day",
+      "executionLocation": "On-Premise",
+      "frequencyMode": "High",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "2.50 per month per high frequency precondition on-premise",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Preconditions",
+    "pricePerUnit": {
+      "USD": "2.5000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Activities",
+      "usagetype": "local-Activities-freq",
+      "operation": "",
+      "executionFrequency": "More than once a day",
+      "executionLocation": "On-Premise",
+      "frequencyMode": "High",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "2.50 per month per high frequency activity on-premise",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Activities",
+    "pricePerUnit": {
+      "USD": "2.5000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Activities",
+      "usagetype": "AWS-Activities-infreq",
+      "operation": "",
+      "executionFrequency": "One time a day or less",
+      "executionLocation": "AWS",
+      "frequencyMode": "Low",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": ".60 per month per low frequency activity on AWS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Activities",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Inactive Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "description": "Inactive pipelines per month",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "InactivePipelines",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "1 per month per inactive pipeline",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Preconditions",
+      "usagetype": "AWS-Preconditions-infreq",
+      "operation": "",
+      "executionFrequency": "One time a day or less",
+      "executionLocation": "AWS",
+      "frequencyMode": "Low",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": ".60 per month per low frequency precondition on AWS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Preconditions",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Activities",
+      "usagetype": "local-Activities-infreq",
+      "operation": "",
+      "executionFrequency": "One time a day or less",
+      "executionLocation": "On-Premise",
+      "frequencyMode": "Low",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "1.50 per month per low frequency activity on-premise",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Activities",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "Active Pipeline",
+    "attributes": {
+      "servicecode": "datapipeline",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Activities",
+      "usagetype": "AWS-Activities-freq",
+      "operation": "",
+      "executionFrequency": "More than once a day",
+      "executionLocation": "AWS",
+      "frequencyMode": "High",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Data Pipeline"
+    },
+    "description": "1 per month per high frequency activity on AWS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Activities",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  }
+]

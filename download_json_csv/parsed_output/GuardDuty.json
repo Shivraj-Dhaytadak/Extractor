@@ -1,0 +1,2282 @@
+[
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free S3 Data Events Processed",
+      "usagetype": "USE1-FreeS3DataEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0 per S3 Data Event analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance:0016",
+      "usagetype": "USE1-PaidRDSACULimitlessMonitored",
+      "operation": "CreateDBInstance:0016",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed in US East (N. Virginia) region for Limitless instances",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0005",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0005",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0002",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0002",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0020",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0020",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0015",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0015",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free EC2 vCPU Monitored",
+      "usagetype": "USE1-FreeEC2vCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month monitored (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0014",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0014",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0006",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0006",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0005",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0005",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0011",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0010",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0010",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0006",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0006",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0012",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0012",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0009",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0009",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0015",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0015",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0010",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0010",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance:0021",
+      "usagetype": "USE1-PaidRDSACULimitlessMonitored",
+      "operation": "CreateDBInstance:0021",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed in US East (N. Virginia) region for Limitless instances",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0004",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0004",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0008",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0008",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0019",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0019",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0004",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0004",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0002",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0002",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0014",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0014",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free Kubernetes Audit Logs Events Processed",
+      "usagetype": "USE1-FreeKubernetesAuditLogsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0 per Kubernetes Audit Log Analyzed (free trial) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Data Events Processed",
+      "usagetype": "USE1-PaidEventsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1.00 per GB for the first 500 GB / month of data analyzed US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Data Events Processed",
+      "usagetype": "USE1-PaidEventsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.50 per GB for the next 2000 GB / month of data analyzed US East (N.Virginia) region",
+    "beginRange": "500",
+    "endRange": "2500",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Data Events Processed",
+      "usagetype": "USE1-PaidEventsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per GB for the next 7500 GB / month of data analyzed US East (N.Virginia) region",
+    "beginRange": "2500",
+    "endRange": "10000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Data Events Processed",
+      "usagetype": "USE1-PaidEventsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.15 per GB over 10000 GB / month of data analyzed US East (N.Virginia) region",
+    "beginRange": "10000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0011",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0008",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0008",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0019",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0019",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0019",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0019",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0018",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0018",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Malware Protection S3 Data Scanned",
+      "usagetype": "USE1-MalwareProtectionS3DataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per GB - for the first 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Malware Protection S3 Data Scanned",
+      "usagetype": "USE1-MalwareProtectionS3DataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.09 per GB - for above 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0005",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0005",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid S3 Data Events Processed",
+      "usagetype": "USE1-PaidS3DataEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0000008 per S3 Data Event for the first 500000000 events / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "500000000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid S3 Data Events Processed",
+      "usagetype": "USE1-PaidS3DataEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0000004 per S3 Data Event for the next 4500000000 events / month analyzed in US East (N. Virginia) region",
+    "beginRange": "500000000",
+    "endRange": "5000000000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid S3 Data Events Processed",
+      "usagetype": "USE1-PaidS3DataEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0000002 per S3 Data Event over 5000000000 events / month analyzed in US East (N. Virginia) region",
+    "beginRange": "5000000000",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0021",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0021",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0004",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0004",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Lambda Data Events Processed",
+      "usagetype": "USE1-PaidLambdaNetworkLogsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1.00 per GB for the first 500 GB / month of Lambda based network data analyzed in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Lambda Data Events Processed",
+      "usagetype": "USE1-PaidLambdaNetworkLogsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.50 per GB for the next 2000 GB / month of Lambda based network data analyzed in US East (N.Virginia) region",
+    "beginRange": "500",
+    "endRange": "2500",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Lambda Data Events Processed",
+      "usagetype": "USE1-PaidLambdaNetworkLogsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per GB for the next 7500 GB / month of Lambda based network data analyzed in US East (N.Virginia) region",
+    "beginRange": "2500",
+    "endRange": "10000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Lambda Data Events Processed",
+      "usagetype": "USE1-PaidLambdaNetworkLogsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.15 per GB over 10000 GB / month of Lambda based network data analyzed in US East (N.Virginia) region",
+    "beginRange": "10000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0016",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0016",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0019",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0019",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free EKS vCPU Monitored",
+      "usagetype": "USE1-FreeEKSvCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month monitored (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0016",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0016",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0016",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0016",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0020",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0020",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0012",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0012",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0018",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0018",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0006",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0006",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0002",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0002",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0003",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0003",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0021",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0021",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0006",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0006",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0002",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0002",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Kubernetes Audit Logs Events Processed",
+      "usagetype": "USE1-PaidKubernetesAuditLogsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00000160 per Kubernetes Audit Log for the first 100000000 logs / month in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "100000000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000016000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Kubernetes Audit Logs Events Processed",
+      "usagetype": "USE1-PaidKubernetesAuditLogsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00000080 per Kubernetes Audit Log for the next 100000000 logs / month in US East (N. Virginia) region",
+    "beginRange": "100000000",
+    "endRange": "200000000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000008000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Kubernetes Audit Logs Events Processed",
+      "usagetype": "USE1-PaidKubernetesAuditLogsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00000020 per Kubernetes Audit Log over 200000000 logs / month in US East (N. Virginia) region",
+    "beginRange": "200000000",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0015",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0015",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0003",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0003",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid CloudTrail Events Processed",
+      "usagetype": "USE1-PaidEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.000004 per CloudTrail event analyzed in US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000040000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0003",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0003",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0016",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0016",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0011",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0005",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0005",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0011",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0011",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free Fargate vCPU Monitored",
+      "usagetype": "USE1-FreeFargatevCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month monitored (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0012",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0012",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance",
+      "usagetype": "USE1-PaidRDSACULimitlessMonitored",
+      "operation": "CreateDBInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed in US East (N. Virginia) region for Limitless instances",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free Malware Protection EBS Data Scanned",
+      "usagetype": "USE1-FreeMalwareProtectionEBSDataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.0 per GB for FreeMalwareProtectionEBSDataScanned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0003",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0003",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free CloudTrail Events Processed",
+      "usagetype": "USE1-FreeEventsAnalyzed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per CloudTrail events analyzed (free trial) US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0010",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0010",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0020",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0020",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0008",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0008",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0009",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0009",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free Lambda Data Events Processed",
+      "usagetype": "USE1-FreeLambdaNetworkLogsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per GB of Lambda based VPC Flow Log & DNS log data analyzed in (free trial) US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0020",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0020",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0009",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0009",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0009",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0009",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EKS vCPU Monitored",
+      "usagetype": "USE1-PaidEKSvCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1.5 per vCPU for the first 500 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EKS vCPU Monitored",
+      "usagetype": "USE1-PaidEKSvCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.75 per vCPU for the next 4500 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "500",
+    "endRange": "5000",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EKS vCPU Monitored",
+      "usagetype": "USE1-PaidEKSvCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per vCPU for above 5000 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "5000",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Malware Protection S3 Request Monitored",
+      "usagetype": "USE1-MalwareProtectionS3ScanRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0 per request for the first 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Malware Protection S3 Request Monitored",
+      "usagetype": "USE1-MalwareProtectionS3ScanRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.000215 per request for above 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
+    "beginRange": "1000",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0002150000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0015",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0015",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0012",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0012",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free Data Events Processed",
+      "usagetype": "USE1-FreeEventsAnalyzed-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per GB of VPC Flow Log & DNS log data analyzed (free trial) US East (N.Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0008",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0008",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0004",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0004",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0014",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0014",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EC2 vCPU Monitored",
+      "usagetype": "USE1-PaidEC2vCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1.5 per vCPU for the first 500 EC2 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EC2 vCPU Monitored",
+      "usagetype": "USE1-PaidEC2vCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.75 per vCPU for the next 4500 EC2 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "500",
+    "endRange": "5000",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid EC2 vCPU Monitored",
+      "usagetype": "USE1-PaidEC2vCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per vCPU for above 5000 EC2 vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "5000",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Fargate vCPU Monitored",
+      "usagetype": "USE1-PaidFargatevCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1.5 per vCPU for the first 500 Fargate vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "500",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.5000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Fargate vCPU Monitored",
+      "usagetype": "USE1-PaidFargatevCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.75 per vCPU for the next 4500 Fargate vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "500",
+    "endRange": "5000",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Fargate vCPU Monitored",
+      "usagetype": "USE1-PaidFargatevCPUMonitored",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per vCPU for above 5000 Fargate vCPU / month monitored in US East (N. Virginia) region",
+    "beginRange": "5000",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0021",
+      "usagetype": "USE1-FreeRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0021",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid Malware Protection EBS Data Scanned",
+      "usagetype": "USE1-PaidMalwareProtectionEBSDataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.03 per GB for PaidMalwareProtectionEBSDataScanned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0014",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0014",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid On Demand Malware Protection EBS Volume Data Scanned",
+      "usagetype": "USE1-PaidOnDemandEBSVolumeDataScanned",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.03 per GB for PaidOnDemandEBSVolumeDataScanned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0018",
+      "usagetype": "USE1-PaidRDSACUMonitored",
+      "operation": "CreateDBInstance:0018",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0021",
+      "usagetype": "USE1-FreeRDSACUMonitored",
+      "operation": "CreateDBInstance:0021",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "ACU-Months",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0018",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0018",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "GuardDuty",
+    "attributes": {
+      "servicecode": "AmazonGuardDuty",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0010",
+      "usagetype": "USE1-PaidRDSvCPUMonitored",
+      "operation": "CreateDBInstance:0010",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon GuardDuty"
+    },
+    "description": "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "vCPU-Months",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  }
+]

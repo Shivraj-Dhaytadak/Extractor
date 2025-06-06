@@ -1,0 +1,45 @@
+[
+  {
+    "productFamily": "PayPerRequestProcessing",
+    "attributes": {
+      "servicecode": "AWSGlueElasticViews",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ViewProcessingUnit",
+      "groupDescription": "Elastic Views Pay Per Request Processing",
+      "usagetype": "USE1-ViewProcessing-VPUHrs",
+      "operation": "PayPerRequestProcessing",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue Elastic Views"
+    },
+    "description": "$0.16 per VPU-Hr for View Processing in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "VPU-Hr",
+    "pricePerUnit": {
+      "USD": "0.1600000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSGlueElasticViews",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "EV - Table Storage",
+      "group": "TableStorage",
+      "groupDescription": "TimedTableStorage",
+      "usagetype": "USE1-TimedTableStorage-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Glue Elastic Views"
+    },
+    "description": "$0.023 per GB-Mo for Table Storage  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  }
+]

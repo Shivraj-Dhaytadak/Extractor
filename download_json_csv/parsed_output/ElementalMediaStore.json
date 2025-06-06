@@ -1,0 +1,470 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "DESCRIBE Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-DescribeObject",
+      "operation": "DescribeObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "DESCRIBE Requests $0.0040 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Get Request Ephemeral",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-GetEphemeral",
+      "operation": "GetObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "GET Requests $0.0040 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Ingest Optimization",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Ingest-Optimized-Bytes",
+      "operation": "PutObjectTemporal",
+      "ingestType": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Ingest Optimization $0.0200 Per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "GET IA Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-GetIA",
+      "operation": "GetObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Infrequent Access GET Requests $0.01 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Put Request Stream Ephemeral",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-PutSEphemeral",
+      "operation": "PutObjectStream",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "PUT Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "LIST Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-ListItems",
+      "operation": "ListItems",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "LIST Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Egress-IA-Bytes",
+      "operation": "GetObject",
+      "ingestType": "Egress IA",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Infrequent Access Data Retrievals $0.01 Per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Get Request Stream Ephemeral",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-GetSEphemeral",
+      "operation": "GetObjectStream",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "GET Requests $0.0040 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Ingest Optimization - Alternate Usage Type",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Ingest-Optimized-Bytes",
+      "operation": "PutObjectStream",
+      "ingestType": "Streaming",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Ingest Optimization $0.0200 Per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "PUT Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-PutTemporal",
+      "operation": "PutObjectTemporal",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "PUT Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "DELETE Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-DeleteObject",
+      "operation": "DeleteObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "DELETE Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Lifecycle Transition",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Storage-IATransition",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Infrequent Access Lifecycle Transition Requests $0.01 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "PUT Request S3",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-PutS3",
+      "operation": "PutObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "PUT Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Put Request Ephemeral",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-PutTEphemeral",
+      "operation": "PutObjectTemporal",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "PUT Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "DELETE IA Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-DeleteIA",
+      "operation": "DeleteObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Infrequent Access DELETE Requests $0.01 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Storage-S3",
+      "operation": "",
+      "durability": "99.999999999",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore",
+      "storageclass": "Standard"
+    },
+    "description": "Storage $0.0230 Per GB-Month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "GET Request",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-GetObject",
+      "operation": "GetObject",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "GET Requests $0.0040 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Ingest-Ephemeral-Bytes",
+      "operation": "PutObjectStream",
+      "ingestType": "Streaming Ephemeral",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Ingest Optimization $0.0200 Per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "Storage",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Storage-S3IA",
+      "operation": "",
+      "durability": "99.999999999",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore",
+      "storageclass": "Infrequent Access"
+    },
+    "description": "Infrequent Access Storage $0.0125 Per GB-Month",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-months",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "PUT Request Stream",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-PutStream",
+      "operation": "PutObjectStream",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "PUT Requests $0.0050 Per 1,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-Ingest-Ephemeral-Bytes",
+      "operation": "PutObjectTemporal",
+      "ingestType": "Standard Ephemeral",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "Ingest Optimization $0.0200 Per GB",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AWSElementalMediaStore",
+      "description": "GET Request Stream",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "99.9",
+      "usagetype": "USE1-APIRequest-GetStream",
+      "operation": "GetObjectStream",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Elemental MediaStore"
+    },
+    "description": "GET Requests $0.0040 Per 10,000",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  }
+]

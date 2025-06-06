@@ -1,0 +1,212 @@
+[
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Collected-SampleCount",
+      "groupDescription": "Metric samples collected",
+      "usagetype": "USE1-AMP:MetricSamplesCollected",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.03 per 10M metric samples collected in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000030"
+    }
+  },
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Ingest-SampleCount",
+      "groupDescription": "Prometheus Metrics",
+      "usagetype": "USE1-AMP:MetricSampleCount",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.00 per metric samples for first 40M in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "40000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Ingest-SampleCount",
+      "groupDescription": "Prometheus Metrics",
+      "usagetype": "USE1-AMP:MetricSampleCount",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.90 per 10M metric samples up to 2B metric samples in US East (N. Virginia)",
+    "beginRange": "40000000",
+    "endRange": "2000000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000900"
+    }
+  },
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Ingest-SampleCount",
+      "groupDescription": "Prometheus Metrics",
+      "usagetype": "USE1-AMP:MetricSampleCount",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.35 per 10M metric samples for the next 250B metric samples in US East (N. Virginia)",
+    "beginRange": "2000000000",
+    "endRange": "252000000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000350"
+    }
+  },
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Ingest-SampleCount",
+      "groupDescription": "Prometheus Metrics",
+      "usagetype": "USE1-AMP:MetricSampleCount",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.16 per 10M metric samples for over 252B metric samples in US East (N. Virginia)",
+    "beginRange": "252000000000",
+    "endRange": "Inf",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000160"
+    }
+  },
+  {
+    "productFamily": "Metric",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Collector",
+      "groupDescription": "Managed collector for Prometheus metrics",
+      "usagetype": "USE1-AMP:CollectorHours",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.04 per collector hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Collector Hours",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Query",
+      "groupDescription": "Metric samples processed to evaluate queries and rules",
+      "usagetype": "USE1-AMP:QuerySamplesProcessed",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.10 per 1B query samples processed in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000001"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Storage",
+      "groupDescription": "Stored metric samples and metadata",
+      "usagetype": "USE1-AMP:MetricStorageByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.00 per GB-Mo for the first 10GB per month of storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Storage",
+      "groupDescription": "Stored metric samples and metadata",
+      "usagetype": "USE1-AMP:MetricStorageByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.03 per GB-Mo for storage above 10GB in US East (N. Virginia)",
+    "beginRange": "10",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonPrometheus",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "group": "Query",
+      "groupDescription": "Metric samples processed to evaluate queries and rules",
+      "usagetype": "Global-AMP:QuerySamplesProcessed",
+      "operation": "",
+      "regionCode": "",
+      "servicename": "Amazon Managed Service for Prometheus"
+    },
+    "description": "$0.00 per query sample processed for first 200B",
+    "beginRange": "0",
+    "endRange": "200000000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

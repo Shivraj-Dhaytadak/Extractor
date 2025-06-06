@@ -1,0 +1,904 @@
+[
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-IT-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Italy"
+    },
+    "description": "Call me minute usage to Italy",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0842000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-NZ-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "New Zealand"
+    },
+    "description": "Call me minute usage to New Zealand",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0614100000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-CZ-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Czech Republic"
+    },
+    "description": "Call me minute usage to Czech Republic",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1433600000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-PR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Puerto Rico"
+    },
+    "description": "Call me minute usage to Puerto Rico",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-BE-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Belgium"
+    },
+    "description": "Call me minute usage to Belgium",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1575000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-DE-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Germany"
+    },
+    "description": "Call me minute usage to Germany",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0389200000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-GB-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "United Kingdom"
+    },
+    "description": "Call me minute usage to United Kingdom",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0190000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-BR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Brazil"
+    },
+    "description": "Call me minute usage to Brazil",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0684100000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-LT-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Lithuania"
+    },
+    "description": "Call me minute usage to Lithuania",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1214800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-PT-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Portugal"
+    },
+    "description": "Call me minute usage to Portugal",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0894800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-MT-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Malta"
+    },
+    "description": "Call me minute usage to Malta",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0197700000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-JP-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Japan"
+    },
+    "description": "Call me minute usage to Japan",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0648000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-FR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "France"
+    },
+    "description": "Call me minute usage to France",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0692000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-PL-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Poland"
+    },
+    "description": "Call me minute usage to Poland",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1189800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-HK-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Hong Kong"
+    },
+    "description": "Call me minute usage to Hong Kong",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0789600000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-CA-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Canada"
+    },
+    "description": "Call me minute usage to Canada",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0054000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-US-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "United States of America"
+    },
+    "description": "Call me minute usage to United States of America",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0048000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-NL-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Netherlands"
+    },
+    "description": "Call me minute usage to Netherlands",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1272600000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-HU-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Hungary"
+    },
+    "description": "Call me minute usage to Hungary",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0920000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-MX-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Mexico"
+    },
+    "description": "Call me minute usage to Mexico",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0162500000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-DK-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Denmark"
+    },
+    "description": "Call me minute usage to Denmark",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0257800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-ZA-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "South Africa"
+    },
+    "description": "Call me minute usage to South Africa",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0273250000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-AT-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Austria"
+    },
+    "description": "Call me minute usage to Austria",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0380000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-FI-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Finland"
+    },
+    "description": "Call me minute usage to Finland",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0546800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-SE-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Sweden"
+    },
+    "description": "Call me minute usage to Sweden",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0253600000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-IE-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Ireland"
+    },
+    "description": "Call me minute usage to Ireland",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0289100000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-GR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Greece"
+    },
+    "description": "Call me minute usage to Greece",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.2566900000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-AU-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Australia"
+    },
+    "description": "Call me minute usage to Australia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0476800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-RO-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Romania"
+    },
+    "description": "Call me minute usage to Romania",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0362700000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-CO-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Colombia"
+    },
+    "description": "Call me minute usage to Colombia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0656000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-AR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Argentina"
+    },
+    "description": "Call me minute usage to Argentina",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.4271100000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-NO-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Norway"
+    },
+    "description": "Call me minute usage to Norway",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0253200000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-ES-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Spain"
+    },
+    "description": "Call me minute usage to Spain",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0712200000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-PE-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Peru"
+    },
+    "description": "Call me minute usage to Peru",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0645500000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-LU-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Luxembourg"
+    },
+    "description": "Call me minute usage to Luxembourg",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0674600000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-IL-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Israel"
+    },
+    "description": "Call me minute usage to Israel",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.0386800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-PA-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Panama"
+    },
+    "description": "Call me minute usage to Panama",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.3336800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-TR-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Turkey"
+    },
+    "description": "Call me minute usage to Turkey",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.4301800000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-CH-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Switzerland"
+    },
+    "description": "Call me minute usage to Switzerland",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1926000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-LV-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Latvia"
+    },
+    "description": "Call me minute usage to Latvia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.1834000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChimeCallMeProductFamily",
+    "attributes": {
+      "servicecode": "AmazonChimeCallMeAMCS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-US-CY-callme-minutes",
+      "operation": "",
+      "country": "United States of America",
+      "primaryplaceofuse": "Customer Billing Address",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime Call Me a service sold by AMCS LLC",
+      "tocountry": "Cyprus"
+    },
+    "description": "Call me minute usage to Cyprus",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "callme-minutes",
+    "pricePerUnit": {
+      "USD": "0.2170700000"
+    }
+  }
+]

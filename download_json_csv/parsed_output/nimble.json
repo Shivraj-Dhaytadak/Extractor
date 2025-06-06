@@ -1,0 +1,711 @@
+[
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g3.4xlarge",
+      "vcpu": "16",
+      "memory": "122",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g3.4xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.404 per Linux g3.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.4040000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "memory": "32",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g5.2xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.905 per Windows g5.2xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.9050000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.16xlarge",
+      "vcpu": "64",
+      "memory": "256",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.16xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$8.172 per Windows g4dn.16xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "8.1720000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g3.4xlarge",
+      "vcpu": "16",
+      "memory": "122",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g3.4xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$2.229 per Windows g3.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.2290000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "memory": "16",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g5.xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.445 per Windows g5.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.4450000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.xlarge",
+      "vcpu": "4",
+      "memory": "16",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$0.589 per Linux g4dn.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.5890000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.4xlarge",
+      "vcpu": "16",
+      "memory": "64",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.4xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.348 per Linux g4dn.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.3480000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "SSD-backed",
+      "volumeType": "General Purpose",
+      "maxIopsvolume": "16000",
+      "maxThroughputvolume": "1000 MiB/s",
+      "usagetype": "EBS:VolumeUsage.gp3",
+      "operation": "",
+      "maaxVolumeSize": "16 TiB",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio",
+      "volumeApiName": "gp3"
+    },
+    "description": "$0.10 per GB-Mo for Nimble-EBS-Storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.2xlarge",
+      "vcpu": "8",
+      "memory": "32",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.2xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$0.842 per Linux g4dn.2xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8420000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.xlarge",
+      "vcpu": "4",
+      "memory": "16",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$0.795 per Windows g4dn.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.7950000000"
+    }
+  },
+  {
+    "productFamily": "User Fees",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WindowsRDSLicense",
+      "operation": "WindowsRDSLicense",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$4.19 per Windows user",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "user",
+    "pricePerUnit": {
+      "USD": "4.1900000000"
+    }
+  },
+  {
+    "productFamily": "System Operation",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "provisioned": "Yes",
+      "group": "EBS IOPS",
+      "groupDescription": "IOPS",
+      "usagetype": "EBS:VolumeP-IOPS.gp3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio",
+      "volumeApiName": "gp3"
+    },
+    "description": "$0.0063 per IOPS-Mo for Nimble-VolumeIO in US East (N. Virginia); First 3,000 IOPS free",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0063000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "provisioned": "Yes",
+      "group": "EBS Throughput",
+      "groupDescription": "Charge per Provisioned mbps",
+      "usagetype": "EBS:VolumeP-Throughput.gp3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio",
+      "volumeApiName": "gp3"
+    },
+    "description": "$0.05 per GiBps-mo for Nimble-EBS-Throughput-GP3 in US East (N. Virginia); First 125 MB/s free",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GiBps-mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.12xlarge",
+      "vcpu": "48",
+      "memory": "192",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.12xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$6.854 per Windows g4dn.12xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "6.8540000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g3s.xlarge",
+      "vcpu": "4",
+      "memory": "30.5",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g3s.xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.105 per Windows g3s.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.1050000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.4xlarge",
+      "vcpu": "16",
+      "memory": "64",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.4xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$2.173 per Windows g4dn.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.1730000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.4xlarge",
+      "vcpu": "16",
+      "memory": "64",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g5.4xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$2.001 per Linux g5.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.0010000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.12xlarge",
+      "vcpu": "48",
+      "memory": "192",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.12xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$4.381 per Linux g4dn.12xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.3810000000"
+    }
+  },
+  {
+    "productFamily": "Storage Snapshot",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageMedia": "Amazon S3",
+      "usagetype": "EBS:SnapshotUsage",
+      "operation": "",
+      "platovolumetype": "SnapshotUsage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$0.0625 per GB-Mo for Nimble-EBS-Snapshot in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0625000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "memory": "32",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g5.2xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.493 per Linux g5.2xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.4930000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.8xlarge",
+      "vcpu": "32",
+      "memory": "128",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g5.8xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$4.665 per Windows g5.8xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.6650000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.2xlarge",
+      "vcpu": "8",
+      "memory": "32",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.2xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.254 per Windows g4dn.2xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2540000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.8xlarge",
+      "vcpu": "32",
+      "memory": "128",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.8xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$2.437 per Linux g4dn.8xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.4370000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.8xlarge",
+      "vcpu": "32",
+      "memory": "128",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g5.8xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$3.016 per Linux g5.8xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "3.0160000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.16xlarge",
+      "vcpu": "64",
+      "memory": "256",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g5.16xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$8.344 per Windows g5.16xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "8.3440000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.4xlarge",
+      "vcpu": "16",
+      "memory": "64",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g5.4xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$2.825 per Windows g5.4xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "2.8250000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "memory": "16",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g5.xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$1.239 per Linux g5.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "1.2390000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g5.16xlarge",
+      "vcpu": "64",
+      "memory": "256",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g5.16xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$5.046 per Linux g5.16xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "5.0460000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.16xlarge",
+      "vcpu": "64",
+      "memory": "256",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g4dn.16xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$4.874 per Linux g4dn.16xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.8740000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g4dn.8xlarge",
+      "vcpu": "32",
+      "memory": "128",
+      "operatingSystem": "Windows",
+      "usagetype": "USE1-g4dn.8xlarge",
+      "operation": "RunStreamingSessionWindows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$4.086 per Windows g4dn.8xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "4.0860000000"
+    }
+  },
+  {
+    "productFamily": "Streaming Instance",
+    "attributes": {
+      "servicecode": "nimble",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "g3s.xlarge",
+      "vcpu": "4",
+      "memory": "30.5",
+      "operatingSystem": "Linux",
+      "usagetype": "USE1-g3s.xlarge",
+      "operation": "RunStreamingSessionLinux",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Nimble Studio"
+    },
+    "description": "$0.899 per Linux g3s.xlarge Streaming Hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.8990000000"
+    }
+  }
+]

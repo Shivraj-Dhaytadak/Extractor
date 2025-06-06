@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonConnectVoiceID",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Enrollment",
+      "operation": "Enrollment",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Connect Voice ID",
+      "type": "Enrollment"
+    },
+    "description": "$0.025 per transaction for Enrollment in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonConnectVoiceID",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Authentication",
+      "operation": "Authentication",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Connect Voice ID",
+      "type": "Authentication"
+    },
+    "description": "$0.025 per transaction for Authentication in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonConnectVoiceID",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudDetection",
+      "operation": "FraudDetection",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Connect Voice ID",
+      "type": "Fraud Detection"
+    },
+    "description": "$0.025 per transaction for FraudDetection in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonConnectVoiceID",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Registration",
+      "operation": "Registration",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Connect Voice ID",
+      "type": "Registration"
+    },
+    "description": "$0.025 per transaction for Registration in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "1",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  }
+]

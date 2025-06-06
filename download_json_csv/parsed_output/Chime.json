@@ -1,0 +1,182 @@
+[
+  {
+    "productFamily": "AmazonChime",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-HD-capacity-minutes",
+      "operation": "",
+      "licenseType": "SDK Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0001 per minutes for Chime-SDK-FHD-capacity-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChime",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-amazonchime-meetings",
+      "operation": "",
+      "licenseType": "Meetings",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "Amazon Chime Meetings Active Host Days",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "AmazonChime_Meetings_Active_Host_Days",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-VC-kinesis-audio-streaming",
+      "operation": "",
+      "licenseType": "audio_stream",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0028 per minutes for VC-kinesis-audio-streaming in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0028000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChime",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ChimeMeetings-Free",
+      "operation": "",
+      "licenseType": "ActiveHostsFree",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "Amazon Chime Meetings Active Host Days billed at $0",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Sessions",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SMA-VoiceFocus-Minutes",
+      "operation": "",
+      "licenseType": "VoiceFocus",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0045 per minutes for SMA-VoiceFocus minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0045000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChime",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-attendee-minutes",
+      "operation": "",
+      "licenseType": "sdk",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0017 per minutes for Chime-SDK-attendee-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0017000000"
+    }
+  },
+  {
+    "productFamily": "AmazonChime",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Chime-SDK-HD-attendee-minutes",
+      "operation": "",
+      "licenseType": "FHD SDK",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0034 per minutes for Chime-SDK-FHD-attendee-minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SMA-CallRecording-Minutes",
+      "operation": "",
+      "licenseType": "CallRecording",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.0028 per minutes for SIP Media App Call Recording  in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0028000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonChime",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SIP-Media-App-Minutes",
+      "operation": "",
+      "licenseType": "Sip_Media",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Chime"
+    },
+    "description": "$0.002 per minutes for SIP-Media-App-Minutes in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0020000000"
+    }
+  }
+]

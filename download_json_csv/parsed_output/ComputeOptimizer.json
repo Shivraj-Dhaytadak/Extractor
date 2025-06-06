@@ -1,0 +1,46 @@
+[
+  {
+    "productFamily": "AWS Compute Optimizer",
+    "attributes": {
+      "servicecode": "AWSComputeOptimizer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EnhancedInfrastructureMetrics",
+      "operation": "RDSDBInstance",
+      "enhancedInfrastructureMetrics": "Active",
+      "pricingUnit": "Hrs",
+      "regionCode": "us-east-1",
+      "resourceType": "RDS DB Instance",
+      "servicename": "AWS Compute Optimizer"
+    },
+    "description": "$0.0003360215 per Hrs for Enhanced Infrastructure Metrics usage for RDS DB instances in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0003360215"
+    }
+  },
+  {
+    "productFamily": "AWS Compute Optimizer",
+    "attributes": {
+      "servicecode": "AWSComputeOptimizer",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EnhancedInfrastructureMetrics",
+      "operation": "EC2Instance",
+      "enhancedInfrastructureMetrics": "Active",
+      "pricingUnit": "Hrs",
+      "regionCode": "us-east-1",
+      "resourceType": "EC2 Instance",
+      "servicename": "AWS Compute Optimizer"
+    },
+    "description": "$0.0003360215 per Hrs for Enhanced Infrastructure Metrics usage for EC2 instances in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0003360215"
+    }
+  }
+]

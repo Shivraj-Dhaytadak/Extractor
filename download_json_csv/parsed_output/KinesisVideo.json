@@ -1,0 +1,322 @@
+[
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data read from Kinesis Video Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Consumption",
+      "usagetype": "USE1-BytesOut",
+      "operation": "GetMediaforFragmentList",
+      "readtype": "Fragment based",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0085 Per GB of data read from Kinesis Video Streams",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0085000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per million images generated - getImages (1080p or lower resolution)",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Images Generated",
+      "usagetype": "USE1-LowRes-ImagesCount",
+      "operation": "GetImages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.00001 Per million images generated - getImages (1080p or lower resolution)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data ingested into Kinesis Video Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Ingestion",
+      "usagetype": "USE1-BytesIn",
+      "operation": "PutMedia",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0085 Per GB of data ingested into Kinesis Video Streams",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0085000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per million signaling messages",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Signaling Messages",
+      "usagetype": "USE1-SignalingMessages",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$2.25 per million signaling messages",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Messages",
+    "pricePerUnit": {
+      "USD": "0.0000022500"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per million images generated - getImages (greater than 1080p resolution)",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Images Generated",
+      "usagetype": "USE1-HighRes-ImagesCount",
+      "operation": "GetImages",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.000018 Per million images generated - getImages (greater than 1080p resolution)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000180000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per month for an active signaling channel",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Active Signaling Channel",
+      "usagetype": "USE1-SignalingChannel",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.03 per month for an active signaling channel",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data read from Kinesis Video Streams for HLS",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Consumption",
+      "usagetype": "USE1-BytesOut",
+      "operation": "GetClip",
+      "readtype": "Fragment based",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0119 per GB for BytesOut:GetClip in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0119000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data read from Kinesis Video Streams for HLS  or MPEG-DASH",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Consumption",
+      "usagetype": "USE1-BytesOut",
+      "operation": "GetMP4MediaFragment",
+      "readtype": "Streaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0119 Per GB of data read from Kinesis Video Streams for HLS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0119000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data read from Kinesis Video Streams for HLS  or MPEG-DASH",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Consumption",
+      "usagetype": "USE1-BytesOut",
+      "operation": "GetTSFragment",
+      "readtype": "Fragment based",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0119 Per GB of data read from Kinesis Video Streams for HLS",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0119000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per million images generated - S3 Delivery (greater than 1080p resolution)",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Images Generated",
+      "usagetype": "USE1-HighRes-ImagesCount",
+      "operation": "S3ImageGeneration",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.000018 Per million images generated - S3 Delivery (greater than 1080p resolution)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000180000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB-Month of data stored in Kinesis Video Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Storage",
+      "usagetype": "USE1-BytesHr",
+      "operation": "PutMedia",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.023 Per GB-Month of data stored in Kinesis Video Streams",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Month",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per minute of media stream recorded into Kinesis Video Streams via WebRTC",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "WebRTC Streaming minutes for Storage",
+      "usagetype": "USE1-WebRTCRecording",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "Per minute of media stream recorded into Kinesis Video Streams via WebRTC",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minute",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per thousand TURN streaming minutes",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "TURN Streaming Minutes",
+      "usagetype": "USE1-TURNMinutes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.12 per 1000 TURN streaming minutes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0001200000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per GB of data read from Kinesis Video Streams",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Data Consumption",
+      "usagetype": "USE1-BytesOut",
+      "operation": "GetMedia",
+      "readtype": "Streaming",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.0085 Per GB of data read from Kinesis Video Streams",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0085000000"
+    }
+  },
+  {
+    "productFamily": "Kinesis Video",
+    "attributes": {
+      "servicecode": "AmazonKinesisVideo",
+      "description": "Per million images generated - S3 Delivery (1080p or lower resolution)",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Images Generated",
+      "usagetype": "USE1-LowRes-ImagesCount",
+      "operation": "S3ImageGeneration",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kinesis Video Streams"
+    },
+    "description": "$0.00001 Per million images generated - S3 Delivery (1080p or lower resolution)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Images Processed",
+    "pricePerUnit": {
+      "USD": "0.0000100000"
+    }
+  }
+]

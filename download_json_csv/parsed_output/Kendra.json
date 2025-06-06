@@ -1,0 +1,317 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Connector-Documents-Scanned",
+      "groupDescription": "Kendra Pay Per Document Scanned Unit",
+      "usagetype": "USE1-DocumentsScanned",
+      "operation": "DocumentsScanned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra documents scanned - $0.000001 per document in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-GenAI-Enterprise-Capacity",
+      "groupDescription": "Kendra GenAI Enterprise Additional Query Capacity",
+      "usagetype": "USE1-Kendra-GenAI-Ent-Addl-QueryCap",
+      "operation": "Kendra-GenAI-Ent-Addl-QueryCap",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Kendra GenAI Enterprise Additional Query Capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0700000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Capacity",
+      "groupDescription": "Kendra Enterprise Additional Query/Storage Capacity",
+      "usagetype": "USE1-Kendra-Query-Capacity-Unit",
+      "operation": "Kendra-Query-Capacity-Unit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Additional Query Capacity Unit - $0.70 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Capacity",
+      "groupDescription": "Kendra Enterprise Additional Storage Capacity",
+      "usagetype": "USE1-Kendra-Storage-Capacity-Unit",
+      "operation": "Kendra-Storage-Capacity-Unit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Additional Storage Capacity Unit - $0.7 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-GenAI-Enterprise-Capacity",
+      "groupDescription": "Kendra GenAI Enterprise Base Capacity",
+      "usagetype": "USE1-Kendra-GenAI-Ent-Base-Capacity",
+      "operation": "Kendra-GenAI-Ent-Base-Capacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Kendra GenAI Enterprise BaseCapacity paid tier usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3200000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Connector-Monthly",
+      "groupDescription": "Kendra connector monthly fee",
+      "usagetype": "USE1-Kendra-Connector-MonthlyFee",
+      "operation": "Kendra-Connector-MonthlyFee",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Kendra connector monthly fee in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Count",
+    "pricePerUnit": {
+      "USD": "30.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Additional-Capacity",
+      "groupDescription": "Kendra Pay Per Query/Storage Capacity Units",
+      "usagetype": "USE1-KendraQueryCapacityUnit",
+      "operation": "KendraQueryCapacityUnit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Additional Query Capacity Unit - $3.50 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.5000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Intelligent-Ranking",
+      "groupDescription": "Kendra Intelligent Ranking Capacity Units",
+      "usagetype": "USE1-KendraIntelligentRanking-CapacityUnits",
+      "operation": "CapacityUnits",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "KendraIntelligentRanking Additional CapacityUnits - $0.0035 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0035000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Developer-Capacity",
+      "groupDescription": "Kendra Developer Base Query/Storage Capacity",
+      "usagetype": "USE1-KendraDeveloperEdition",
+      "operation": "KendraDeveloperEdition",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Developer Edition - $1.125 per hour in  US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.1250000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Capacity",
+      "groupDescription": "Kendra Pay Per Query/Storage Capacity Units",
+      "usagetype": "USE1-KendraEnterpriseEdition",
+      "operation": "KendraEnterpriseEdition",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Enterprise Edition - $7 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7.0000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Additional-Capacity",
+      "groupDescription": "Kendra Enterprise Additional Query/Storage Capacity",
+      "usagetype": "USE1-KendraStorageCapacityUnit",
+      "operation": "KendraStorageCapacityUnit",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Additional Storage Capacity Unit - $3.50 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.5000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-GenAI-Enterprise-Capacity",
+      "groupDescription": "Kendra GenAI Enterprise Additional Storage Capacity",
+      "usagetype": "USE1-Kendra-GenAI-Ent-Addl-StorageCap",
+      "operation": "Kendra-GenAI-Ent-Addl-StorageCap",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Kendra GenAI Enterprise Additional Storage Capacity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Connector-Compute",
+      "groupDescription": "Kendra Pay Per Hour Connector Compute",
+      "usagetype": "USE1-ConnectorSync",
+      "operation": "ConnectorSync",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra connector run time - $0.35 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3500000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Enterprise-Capacity",
+      "groupDescription": "Kendra Enterprise Base Query/Storage Capacity",
+      "usagetype": "USE1-Kendra-Enterprise-Edition",
+      "operation": "Kendra-Enterprise-Edition",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "Amazon Kendra Enterprise Edition - $1.4 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.4000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonKendra",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Kendra-Intelligent-Ranking",
+      "groupDescription": "Kendra Intelligent Ranking Base Capacity",
+      "usagetype": "USE1-KendraIntelligentRanking-BaseCapacity",
+      "operation": "BaseCapacity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Kendra"
+    },
+    "description": "KendraIntelligentRanking Additional BaseCapacity - $0.14 per hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  }
+]

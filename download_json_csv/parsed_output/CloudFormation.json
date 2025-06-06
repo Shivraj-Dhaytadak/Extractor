@@ -1,0 +1,102 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Resource-Invocation-Count",
+      "operation": "ProcessResourceHandlers",
+      "cloudformationresourceProvider": "CloudFormation-ResourceProvider-Invocation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudFormation"
+    },
+    "description": "$0.0009 per CloudFormation resource handler operation.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0009000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudFormation",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Resource-Invocation-Count-FreeTier",
+      "operation": "",
+      "cloudformationresourceProvider": "CloudFormation-ResourceProvider-Invocation",
+      "regionCode": "",
+      "servicename": "AWS CloudFormation"
+    },
+    "description": "Global",
+    "beginRange": "0",
+    "endRange": "1000",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Hook-Invocation-Duration",
+      "operation": "ProcessHookHandlers",
+      "cloudformationresourceProvider": "CloudFormation-Hook-Duration",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudFormation"
+    },
+    "description": "$0.00008 per seconds for Hook-Invocation-Duration:ProcessHookHandlers in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "seconds",
+    "pricePerUnit": {
+      "USD": "0.0000800000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Hook-Invocation-Count",
+      "operation": "ProcessResourceHandlers",
+      "cloudformationresourceProvider": "CloudFormation-Hook-Invocation",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudFormation"
+    },
+    "description": "$0.0009 per Operations for Hook-Invocation-Count:ProcessResourceHandlers in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Unit",
+    "pricePerUnit": {
+      "USD": "0.0009000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AWSCloudFormation",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Resource-Processing-Time",
+      "operation": "ProcessResourceHandlers",
+      "cloudformationresourceProvider": "CloudFormation-ResourceProvider-Duration",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CloudFormation"
+    },
+    "description": "$0.00008 per second of CloudFormation resource handler duration overage.",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Second",
+    "pricePerUnit": {
+      "USD": "0.0000800000"
+    }
+  }
+]

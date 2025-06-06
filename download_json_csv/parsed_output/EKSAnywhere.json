@@ -1,0 +1,44 @@
+[
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonEKSAnywhere",
+      "location": "US East (N. Virginia)",
+      "locationType": "Other",
+      "usagetype": "USE1-AmazonEKSAnywhereSubscription-monthly-12month:perCluster",
+      "operation": "",
+      "licenseType": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon EKS Anywhere",
+      "term": "12month"
+    },
+    "description": "EKS Anywhere Enterprise Subscription cluster license usage (1-year term) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "licenses",
+    "pricePerUnit": {
+      "USD": "2000.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonEKSAnywhere",
+      "location": "US East (N. Virginia)",
+      "locationType": "Other",
+      "usagetype": "USE1-AmazonEKSAnywhereSubscription-monthly-36month:perCluster",
+      "operation": "",
+      "licenseType": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon EKS Anywhere",
+      "term": "36month"
+    },
+    "description": "EKS Anywhere Enterprise Subscription cluster license usage (3-year term) ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "licenses",
+    "pricePerUnit": {
+      "USD": "1500.0000000000"
+    }
+  }
+]

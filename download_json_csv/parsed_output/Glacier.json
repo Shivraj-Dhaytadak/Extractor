@@ -1,0 +1,339 @@
+[
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Glacier-Tier1",
+      "groupDescription": "UPLOAD and RETRIEVAL Requests",
+      "usagetype": "Requests-Tier1",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.03 per 1,000 Requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Provisioned-Capacity",
+      "feeDescription": "Fee for Provisioned Retrieval Request Capacity",
+      "usagetype": "ProvisionedCapacityUnit",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$100 per Provisioned Capacity Unit",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Units",
+    "pricePerUnit": {
+      "USD": "100.0000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Expedited-Retrieval",
+      "feeDescription": "Fee for Expedited Retrieval of data stored",
+      "usagetype": "Expedited-Retrieval-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.03 per GB - Expedited retrieval fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Bulk-Retrieval",
+      "feeDescription": "Fee for Bulk Retrieval of data stored",
+      "usagetype": "Bulk-Retrieval-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.00 per GB - Bulk retrieval fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Bulk-Select-Scanned",
+      "feeDescription": "Fee for Select Data Scanned using Bulk tier",
+      "usagetype": "Bulk-Select-Scanned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.001 per GB - Bulk Select Data Scanned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Glacier-Tier3",
+      "groupDescription": "Expedited UPLOAD or RETRIEVAL requests",
+      "usagetype": "Requests-Tier3",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.01 per Expedited request",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Standard-Select-Scanned",
+      "feeDescription": "Fee for Select Data Scanned using Standard tier",
+      "usagetype": "Std-Select-Scanned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.008 per GB - Standard Select Data Scanned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Standard-Select-Returned",
+      "feeDescription": "Fee for Select Data Returned using Standard tier",
+      "usagetype": "Std-Select-Returned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.01 per GB - Standard Select Data Returned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "availability": "N/A",
+      "volumeType": "Amazon Glacier (Standard)",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "",
+      "durability": "99.999999999%",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.0036 per GB / month - Storage",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0036000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-EarlyDelete",
+      "feeDescription": "Pro-rated fee for deleting items prior to 90 days",
+      "usagetype": "EarlyDelete-ByteHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.0036 per GB-month for Early Delete",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0036000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Expedited-Select-Scanned",
+      "feeDescription": "Fee for Select Data Scanned using Expedited tier",
+      "usagetype": "Exp-Select-Scanned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.02 per GB - Expedited Select Data Scanned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Standard-Retrieval",
+      "feeDescription": "Fee for Standard Retrieval of data stored",
+      "usagetype": "Standard-Retrieval-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.01 per GB - Standard retrieval fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "API Request",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Glacier-Tier2",
+      "groupDescription": "Bulk UPLOAD or RETRIEVAL requests",
+      "usagetype": "Requests-Tier2",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.00 per 1,000 - Bulk requests",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Requests",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Expedited-Select-Returned",
+      "feeDescription": "Fee for Select Data Returned using Expedited tier",
+      "usagetype": "Exp-Select-Returned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.03 per GB - Expedited Select Data Returned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-Bulk-Select-Returned",
+      "feeDescription": "Fee for Select Data Returned using Bulk tier",
+      "usagetype": "Bulk-Select-Returned-Bytes",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.0025 per GB - Bulk Select Data Returned Bytes",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0025000000"
+    }
+  },
+  {
+    "productFamily": "Fee",
+    "attributes": {
+      "servicecode": "AmazonGlacier",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Glacier-PeakRestore",
+      "feeDescription": "Pro-rated fee for retrieving greater than 5% of data stored",
+      "usagetype": "Peak-Retrieval-Bytes-Delta",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Glacier"
+    },
+    "description": "$0.0067 per GB - Retrieval Fee",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0067000000"
+    }
+  }
+]

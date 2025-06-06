@@ -1,0 +1,272 @@
+[
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Hosting",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-HostingHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.06 per Hr for HostingHrs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Training",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingHrs",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.39 per Hr for TrainingHrs in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hrs",
+    "pricePerUnit": {
+      "USD": "0.3900000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-TransactionFraudInsights",
+      "operation": "",
+      "predictionType": "Transaction Fraud Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "$0.0075 per Predictions for FraudPrediction-TransactionFraudInsights in US East (N. Virginia)",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0075000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-TransactionFraudInsights",
+      "operation": "",
+      "predictionType": "Transaction Fraud Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "$0.03 per Predictions for FraudPrediction-TransactionFraudInsights in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-RulesOnly",
+      "operation": "",
+      "predictionType": "Rules Only",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.005 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "400000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0050000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-RulesOnly",
+      "operation": "",
+      "predictionType": "Rules Only",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.00125 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+    "beginRange": "1200000",
+    "endRange": "Inf",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0012500000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-RulesOnly",
+      "operation": "",
+      "predictionType": "Rules Only",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.0025 per Prediction for FraudPrediction-RulesOnly in US East (N. Virginia)",
+    "beginRange": "400000",
+    "endRange": "1200000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0025000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-AccountTakeoverInsights",
+      "operation": "",
+      "predictionType": "Account Takeover Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.001 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "10000000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-AccountTakeoverInsights",
+      "operation": "",
+      "predictionType": "Account Takeover Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.0003 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0003000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-AccountTakeoverInsights",
+      "operation": "",
+      "predictionType": "Account Takeover Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.0005 per Prediction for FraudPrediction-AccountTakeoverInsights in US East (N. Virginia)",
+    "beginRange": "10000000",
+    "endRange": "100000000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0005000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Stored Dataset",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StoredDataset",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "$0.1 per GB-month for StoredDataset in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-OnlineFraudInsights",
+      "operation": "",
+      "predictionType": "Online Fraud Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.03 per Prediction for FraudPrediction-OnlineFraudInsights in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonFraudDetector",
+      "description": "Pricing for Amazon Fraud Detector Predictions",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FraudPrediction-OnlineFraudInsights",
+      "operation": "",
+      "predictionType": "Online Fraud Insights",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Fraud Detector"
+    },
+    "description": "USD0.0075 per Prediction for FraudPrediction-OnlineFraudInsights in US East (N. Virginia)",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Predictions",
+    "pricePerUnit": {
+      "USD": "0.0075000000"
+    }
+  }
+]

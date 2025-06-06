@@ -1,0 +1,168 @@
+[
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-QinConnectSelfServiceVoice",
+      "operation": "SelfServiceVoice",
+      "connectchannel": "Voice",
+      "electron": "None",
+      "mode": "SelfService",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$0.008 per Minutes for USE1-QinConnectSelfServiceVoice in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ai-QinConnectSelfServiceChat",
+      "operation": "SelfServiceChat",
+      "connectchannel": "Chat",
+      "electron": "ai-",
+      "mode": "SelfService",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$0.00 per Chats for USE1-ai-QinConnectSelfServiceChat in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Chats",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-QinConnectSelfServiceChat",
+      "operation": "SelfServiceChat",
+      "connectchannel": "Chat",
+      "electron": "None",
+      "mode": "SelfService",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$0.0015 per Chats for USE1-QinConnectSelfServiceChat in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Chats",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ai-QinConnectSelfServiceVoice",
+      "operation": "SelfServiceVoice",
+      "connectchannel": "Voice",
+      "electron": "ai-",
+      "mode": "SelfService",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$0.00 per Minutes for USE1-ai-QinConnectSelfServiceVoice in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-QinConnectAgents",
+      "operation": "AgentUsage",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$40 per agent per month ",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsersPerMonth",
+    "pricePerUnit": {
+      "USD": "40.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-QinConnectAgentsTrial",
+      "operation": "AgentUsageTrial",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "Q in Connect agent trial",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsersPerMonth",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ai-QinConnectAgents",
+      "operation": "AgentUsage",
+      "electron": "ai-",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect"
+    },
+    "description": "$0.00 per UsersPerMonth for USE1-ai-QinConnectAgents in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "UsersPerMonth",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AmazonConnect",
+    "attributes": {
+      "servicecode": "AWSWisdom",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WisdomContacts",
+      "operation": "CreateSession",
+      "regionCode": "us-east-1",
+      "servicename": "Q in Connect",
+      "transactionType": "Contacts"
+    },
+    "description": "$0.04 per Wisdom Contact in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Contact",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  }
+]

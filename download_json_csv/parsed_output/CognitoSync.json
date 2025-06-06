@@ -1,0 +1,40 @@
+[
+  {
+    "productFamily": "Sync Operation",
+    "attributes": {
+      "servicecode": "AmazonCognitoSync",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "CognitoSyncOperation",
+      "operation": "CognitoSync",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Cognito Sync"
+    },
+    "description": "Cognito Sync operation",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "CognitoSyncOp-Mo",
+    "pricePerUnit": {
+      "USD": "0.0000150000"
+    }
+  },
+  {
+    "productFamily": "Sync Storage",
+    "attributes": {
+      "servicecode": "AmazonCognitoSync",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "TimedStorage-ByteHrs",
+      "operation": "CognitoStorage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Cognito Sync"
+    },
+    "description": "Cognito Sync store space",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  }
+]

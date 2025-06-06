@@ -1,0 +1,482 @@
+[
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker"
+    },
+    "description": "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker"
+    },
+    "description": "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier4-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier4"
+    },
+    "description": "24 million Queries executed for IoTTwinMaker-Queries included in bundle Tier4 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "24000000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier4-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier4"
+    },
+    "description": "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+    "beginRange": "24000000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier4-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier4"
+    },
+    "description": "160 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier4 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "160000000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier4-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier4"
+    },
+    "description": "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+    "beginRange": "160000000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Entity",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier4-Entities",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier4"
+    },
+    "description": "$1950 per month for IoTTwinMaker bundle Tier4 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "1950.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Entity",
+      "usagetype": "USE1-IoTTwinMaker-Entities",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker"
+    },
+    "description": "$0.05 per entity per month for IoTTwinMaker-Entities in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Entity",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier2-Entities",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier2"
+    },
+    "description": "$650 per month for IoTTwinMaker bundle Tier2 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "650.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier2-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier2"
+    },
+    "description": "9 million Queries executed for IoTTwinMaker-Queries included in bundle Tier2 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "9000000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier2-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier2"
+    },
+    "description": "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+    "beginRange": "9000000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Entity",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier1-Entities",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier1"
+    },
+    "description": "$220 per month for IoTTwinMaker bundle Tier1 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "220.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Entity",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier3-Entities",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier3"
+    },
+    "description": "$1100 per month for IoTTwinMaker bundle Tier3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Month",
+    "pricePerUnit": {
+      "USD": "1100.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier1-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier1"
+    },
+    "description": "25 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier1 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "25000000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier1-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier1"
+    },
+    "description": "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+    "beginRange": "25000000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier3-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier3"
+    },
+    "description": "95 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "95000000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier3-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier3"
+    },
+    "description": "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+    "beginRange": "95000000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier2-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier2"
+    },
+    "description": "60 million API Calls for IoTTwinMaker-UnifiedDataAccess included in bundle Tier2 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "60000000",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "IoT TwinMaker Unified Data Access",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier2-UnifiedDataAccess",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier2"
+    },
+    "description": "$1.50 per million API Calls for IoTTwinMaker-UnifiedDataAccess in US East (N. Virginia)",
+    "beginRange": "60000000",
+    "endRange": "Inf",
+    "unit": "API Calls",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier1-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier1"
+    },
+    "description": "3.8 million Queries executed for IoTTwinMaker-Queries included in bundle Tier1 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "3800000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier1-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier1"
+    },
+    "description": "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+    "beginRange": "3800000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier3-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier3"
+    },
+    "description": "14.3 million Queries executed for IoTTwinMaker-Queries included in bundle Tier3 in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "14300000",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoTTwinMaker",
+    "attributes": {
+      "servicecode": "IoTTwinMaker",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Queries",
+      "usagetype": "USE1-IoTTwinMaker-BaseTier3-Queries",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT TwinMaker",
+      "tiers": "Tier3"
+    },
+    "description": "$0.50 per 10K Queries executed for IoTTwinMaker-Queries in US East (N. Virginia)",
+    "beginRange": "14300000",
+    "endRange": "Inf",
+    "unit": "Queries",
+    "pricePerUnit": {
+      "USD": "0.0000500000"
+    }
+  }
+]

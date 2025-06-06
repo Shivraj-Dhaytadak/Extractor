@@ -1,0 +1,82 @@
+[
+  {
+    "productFamily": "Synthesize Speech",
+    "attributes": {
+      "servicecode": "AmazonPolly",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SynthesizeSpeechLongForm-Characters",
+      "operation": "",
+      "engine": "Long-Form",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Polly"
+    },
+    "description": "$100 per million characters for SynthesizeSpeechLongForm-Characters in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Characters",
+    "pricePerUnit": {
+      "USD": "0.0001000000"
+    }
+  },
+  {
+    "productFamily": "Synthesize Speech",
+    "attributes": {
+      "servicecode": "AmazonPolly",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SynthesizeSpeech-Characters",
+      "operation": "",
+      "engine": "Standard",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Polly"
+    },
+    "description": "$4 per million characters",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Characters",
+    "pricePerUnit": {
+      "USD": "0.0000040000"
+    }
+  },
+  {
+    "productFamily": "AmazonPolly",
+    "attributes": {
+      "servicecode": "AmazonPolly",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SynthesizeSpeechNeural-Characters",
+      "operation": "",
+      "engine": "Neural",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Polly"
+    },
+    "description": "$16 per million characters for SynthesizeSpeechNeural-Characters in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Characters",
+    "pricePerUnit": {
+      "USD": "0.0000160000"
+    }
+  },
+  {
+    "productFamily": "AmazonPolly",
+    "attributes": {
+      "servicecode": "AmazonPolly",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-SynthesizeSpeechGenerative-Characters",
+      "operation": "",
+      "engine": "Generative",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Polly"
+    },
+    "description": "$30 per million characters for SynthesizeSpeechGenerative-Characters in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Characters",
+    "pricePerUnit": {
+      "USD": "0.0000300000"
+    }
+  }
+]

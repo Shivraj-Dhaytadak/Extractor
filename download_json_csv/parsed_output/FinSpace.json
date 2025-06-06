@@ -1,0 +1,856 @@
+[
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Clusters:XXLarge",
+      "operation": "RunCluster",
+      "computesize": "XXLarge",
+      "computetype": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$2.00 per minutes for Clusters:XXLarge:RunCluster in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "432",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.16xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.16xlarge",
+      "node": "kx.sg.16xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$10.08 USD per hour for kx.sg.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "10.0800000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-StandardUser",
+      "operation": "UserEnabled",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "usertype": "Standard"
+    },
+    "description": "$150 per Month for StandardUser:UserEnabled in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "User-Mo",
+    "pricePerUnit": {
+      "USD": "150.0000000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "432",
+      "usagetype": "USE1-KdbNode:kx.s.16xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.16xlarge",
+      "node": "kx.s.16xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$10.08 per Node-hour for KdbNode:kx.s.16xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "10.0800000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "216",
+      "usagetype": "USE1-KdbNode:kx.s.8xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.8xlarge",
+      "node": "kx.s.8xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$5.04 per Node-hour for KdbNode:kx.s.8xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "5.0400000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "108",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.4xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.4xlarge",
+      "node": "kx.sg.4xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$2.52 USD per hour for kx.sg.4xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "2.5200000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "27",
+      "usagetype": "USE1-KdbNode:kx.s.xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.xlarge",
+      "node": "kx.s.xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.63 per Node-hour for KdbNode:kx.s.xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.6300000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "108",
+      "usagetype": "USE1-KdbNode:kx.s.4xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.4xlarge",
+      "node": "kx.s.4xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$2.52 per Node-hour for KdbNode:kx.s.4xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "2.5200000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "12",
+      "usagetype": "USE1-KdbNode:kx.s.large",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.large",
+      "node": "kx.s.large",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.318 per Node-hour for KdbNode:kx.s.large:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.3180000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Clusters:XLarge",
+      "operation": "RunCluster",
+      "computesize": "XLarge",
+      "computetype": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$1.00 per minutes for Clusters:XLarge:RunCluster in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "12",
+      "usagetype": "USE1-KdbNode:kx.s.large",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.large",
+      "node": "kx.s.large",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.318 per Node-hour for KdbNode:kx.s.large:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.3180000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbNode:savedownstorage",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "SaveDownStorage"
+    },
+    "description": "$0.3328 per GB-month for KdbNode:savedownstorage:StorageProvisioned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.3328000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "864",
+      "usagetype": "USE1-KdbNode:kx.s.32xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.32xlarge",
+      "node": "kx.s.32xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$20.16 per Node-hour for KdbNode:kx.s.32xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "20.1600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "216",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.8xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.8xlarge",
+      "node": "kx.sg.8xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$5.04 USD per hour for kx.sg.8xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "5.0400000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Clusters:Large",
+      "operation": "RunCluster",
+      "computesize": "Large",
+      "computetype": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.50 per minutes for Clusters:Large:RunCluster in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "27",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.xlarge",
+      "node": "kx.sg.xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.63 USD per hour for kx.sg.xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.6300000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "54",
+      "usagetype": "USE1-KdbNode:kx.s.2xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.2xlarge",
+      "node": "kx.s.2xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$1.26 per Node-hour for KdbNode:kx.s.2xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "1.2600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "54",
+      "usagetype": "USE1-KdbNode:kx.s.2xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.2xlarge",
+      "node": "kx.s.2xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$1.26 per Node-hour for KdbNode:kx.s.2xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "1.2600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbCluster:dbcache250",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "DBCache250"
+    },
+    "description": "$0.21 per GB-month for KdbCluster:dbcache250:StorageProvisioned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.2100000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbVolume:kdbfilefs1000",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "SSD 1000 MB/s/TiB"
+    },
+    "description": "$0.72 per GB-month for 1000 MB/s/TiB Volume SSD Volume in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.7200000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Clusters:Medium",
+      "operation": "RunCluster",
+      "computesize": "Medium",
+      "computetype": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.25 per minutes for Clusters:Medium:RunCluster in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "54",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.2xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.2xlarge",
+      "node": "kx.sg.2xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$1.26 USD per hour for kx.sg.2xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "1.2600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbDatabase:changeset",
+      "operation": "DataStored",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "Changeset"
+    },
+    "description": "$0.0264 per GB-month for KdbDatabase:changeset:DataStored in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0264000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Clusters:Small",
+      "operation": "RunCluster",
+      "computesize": "Small",
+      "computetype": "Cluster",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.14 per minutes for Clusters:Small:RunCluster in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "12",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.large",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.large",
+      "node": "kx.sg.large",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.318 USD per hour for kx.sg.large in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.3180000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbCluster:dbcache12",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "DBCache12"
+    },
+    "description": "$0.041 per GB-month for KdbCluster:dbcache12:StorageProvisioned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0410000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "432",
+      "usagetype": "USE1-KdbNode:kx.s.16xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.16xlarge",
+      "node": "kx.s.16xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$10.08 per Node-hour for KdbNode:kx.s.16xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "10.0800000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "1949",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg1.16xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg1.16xlarge",
+      "node": "kx.sg1.16xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$33.345 USD per hour for kx.sg1.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "33.3450000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "864",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg.32xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg.32xlarge",
+      "node": "kx.sg.32xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$20.16 USD per hour for kx.sg.32xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "20.1600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "108",
+      "usagetype": "USE1-KdbNode:kx.s.4xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.4xlarge",
+      "node": "kx.s.4xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$2.52 per Node-hour for KdbNode:kx.s.4xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "2.5200000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "27",
+      "usagetype": "USE1-KdbNode:kx.s.xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.xlarge",
+      "node": "kx.s.xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$0.63 per Node-hour for KdbNode:kx.s.xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "0.6300000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbVolume:kdbfilefs250",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "SSD 250 MB/s/TiB"
+    },
+    "description": "$0.21 per GB-month for 250 MB/s/TiB Volume SSD Volume in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.2100000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "864",
+      "usagetype": "USE1-KdbNode:kx.s.32xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "1AZ-kx.s.32xlarge",
+      "node": "kx.s.32xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$20.16 per Node-hour for KdbNode:kx.s.32xlarge:RunClusterSingleAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "20.1600000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbCluster:dbcache",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "DBCache"
+    },
+    "description": "$0.72 per GB-month for KdbCluster:dbcache:StorageProvisioned in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.7200000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "216",
+      "usagetype": "USE1-KdbNode:kx.s.8xlarge",
+      "operation": "RunClusterMultiAz",
+      "details": "MAZ-kx.s.8xlarge",
+      "node": "kx.s.8xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$5.04 per Node-hour for KdbNode:kx.s.8xlarge:RunClusterMultiAz in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "5.0400000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-KdbVolume:kdbfilefs12",
+      "operation": "StorageProvisioned",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "HDD 12 MB/s/TiB"
+    },
+    "description": "$0.041 per GB-month for 12 MB/s/TiB Volume HDD Volume in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0410000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "2948",
+      "usagetype": "USE1-KdbScalingGroupHost:kx.sg1.24xlarge",
+      "operation": "RunClusterSingleAz",
+      "details": "kx.sg1.24xlarge",
+      "node": "kx.sg1.24xlarge",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace"
+    },
+    "description": "$50.018 USD per hour for kx.sg1.24xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Node-hour",
+    "pricePerUnit": {
+      "USD": "50.0180000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataStorage:changeset",
+      "operation": "DataStored",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "Changeset"
+    },
+    "description": "$0.0 per GB-month for DataStorage:changeset:DataStored in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "150",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "FinSpace",
+    "attributes": {
+      "servicecode": "AmazonFinSpace",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataStorage:changeset",
+      "operation": "DataStored",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FinSpace",
+      "storagetype": "Changeset"
+    },
+    "description": "$0.14 per GB-month for DataStorage:changeset:DataStored in US East (N. Virginia)",
+    "beginRange": "150",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  }
+]

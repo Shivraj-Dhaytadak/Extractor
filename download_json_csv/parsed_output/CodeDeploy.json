@@ -1,0 +1,22 @@
+[
+  {
+    "productFamily": "CodeDeploy",
+    "attributes": {
+      "servicecode": "AWSCodeDeploy",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "On-Premises-Instance",
+      "operation": "UpdateDeploymentStatus",
+      "deploymentLocation": "On Premises",
+      "regionCode": "us-east-1",
+      "servicename": "AWS CodeDeploy"
+    },
+    "description": "$0.02 per on-premises instance update",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "OnPremUpdates",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  }
+]

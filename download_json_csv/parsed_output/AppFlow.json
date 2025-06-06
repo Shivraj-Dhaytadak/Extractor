@@ -1,0 +1,102 @@
+[
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AppFlow",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-FlowRun",
+      "operation": "ExecuteFlow",
+      "flow": "Flow Run",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon AppFlow"
+    },
+    "description": "per flow run",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Flow runs",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AppFlow",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataProcDestAWSPL-Bytes",
+      "operation": "PrivateLinkDataProcessing",
+      "flow": "Data processing over PL",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon AppFlow"
+    },
+    "description": "GB of data processed (PrivateLink)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Processing-Bytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AppFlow",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataProcDestAWS-Bytes",
+      "operation": "DataProcessing",
+      "flow": "Data processing within AWS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon AppFlow"
+    },
+    "description": "GB of data processed",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Processing-Bytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AppFlow",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataProcDestExt-Bytes",
+      "operation": "DataProcessing",
+      "flow": "Data processing outside AWS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon AppFlow"
+    },
+    "description": "GB of data processed (dest. outside AWS)",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "Processing-Bytes",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "API Calls",
+    "attributes": {
+      "servicecode": "AppFlow",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataProcDestExt-Bytes",
+      "operation": "DataProcessing",
+      "flow": "Data processing outside AWS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon AppFlow"
+    },
+    "description": "GB of data processed (dest. outside AWS)",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "Processing-Bytes",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  }
+]

@@ -1,0 +1,1804 @@
+[
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5n.9xlarge-Training",
+      "memory": "96 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5n.9xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "36"
+    },
+    "description": "$0.03888 per minute for running a Braket Job (ml.c5n.9xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0388800000"
+    }
+  },
+  {
+    "productFamily": "Quantum Reservation",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Reservation-IonQ-Aria-1",
+      "operation": "ReservationEnd",
+      "devicename": "Aria-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$7,000 per hour for IonQ-Aria-1 device in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7000.0000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-IonQ-Forte-1",
+      "operation": "CompleteTask",
+      "devicename": "Forte-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.08 per-shot for IonQ-Forte-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-Forte-Enterprise-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Forte-Enterprise-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30 per Job Task for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p2.16xlarge-Training",
+      "memory": "732 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p2.16xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "64"
+    },
+    "description": "$0.276 per minute for running a Braket Job (ml.p2.16xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2760000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.16xlarge-Training",
+      "memory": "256 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.16xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "64"
+    },
+    "description": "$0.09067 per minute for running a Braket Job (ml.g4dn.16xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0906700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5n.2xlarge-Training",
+      "memory": "21 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5n.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.00863 per minute for running a Braket Job (ml.c5n.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0086300000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-Forte-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Forte-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30 per Job Task for IonQ-Forte-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Reservation",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Reservation-IonQ-Forte-1",
+      "operation": "ReservationEnd",
+      "devicename": "Forte-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$7,000 per hour for IonQ-Forte-1 device in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7000.0000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p4d.24xlarge-Training",
+      "memory": "1152 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p4d.24xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "96"
+    },
+    "description": "$0.62813 per minute for running a Braket Job (ml.p4d.24xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.6281300000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.8xlarge-Training",
+      "memory": "128 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.8xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "32"
+    },
+    "description": "$0.04533 per minute for running a Braket Job (ml.g4dn.8xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0453300000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task",
+      "operation": "Task",
+      "devicename": "IonQdevice",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per-task for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-IonQ-Forte-Enterprise-1",
+      "operation": "CompleteTask",
+      "devicename": "Forte-Enterprise-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.08 per shot for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-IonQdevice",
+      "operation": "Managed-Jobs",
+      "deviceName": "IonQdevice",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.01000 per Job Task Shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Reservation",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Reservation-QuEra-Aquila",
+      "operation": "ReservationEnd",
+      "devicename": "Aquila",
+      "provider": "QuEra",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$2,500 per hour for QuEra-Aquila device in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "2500.0000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-IonQ-Aria-2",
+      "operation": "Task",
+      "devicename": "Aria-2",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per-task for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "Any",
+      "locationType": "AWS Region",
+      "usagetype": "Global-Simulators-Task",
+      "operation": "",
+      "operationOutcome": "Completed",
+      "productType": "Managed-Simulators",
+      "producttype": "Managed-Simulators",
+      "regionCode": "",
+      "servicename": "Amazon Braket",
+      "version": "MS1"
+    },
+    "description": "Global rate for Simulators-Task",
+    "beginRange": "0",
+    "endRange": "60",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m4.4xlarge-Training",
+      "memory": "64 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m4.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.016 per minute for running a Braket Job (ml.m4.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0160000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-Simulator-Task-ExecutionDuration-DM1",
+      "operation": "Managed-Jobs",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "simulatorName": "Density Matrix",
+      "version": "DM1"
+    },
+    "description": "$0.075 per minute for Job Simulator (DM1) Task in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-IonQ-Aria-1",
+      "operation": "Task",
+      "devicename": "Aria-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per-task for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Reservation",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Reservation-IonQ-Aria-2",
+      "operation": "ReservationEnd",
+      "devicename": "Aria-2",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$7,000 per hour for IonQ-Aria-2 device in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7000.0000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.4xlarge-Training",
+      "memory": "64 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.02508 per minute for running a Braket Job (ml.g4dn.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0250800000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-Harmony",
+      "operation": "Managed-Jobs",
+      "deviceName": "Harmony",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.01000 per Job Task Shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p3.2xlarge-Training",
+      "memory": "61 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p3.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.06375 per minute for running a Braket Job (ml.p3.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0637500000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.12xlarge-Training",
+      "memory": "192 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.12xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "48"
+    },
+    "description": "$0.04608 per minute for running a Braket Job (ml.m5.12xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0460800000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-Simulator-Task-ExecutionDuration-SV1",
+      "operation": "Managed-Jobs",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "simulatorName": "State Vector",
+      "version": "SV1"
+    },
+    "description": "$0.075 per minute for Job Simulator(SV1) Task in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-QuEra-Aquila",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aquila",
+      "deviceProvider": "QuEra",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.01 per Job Task Shot for QuEra-Aquila in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c4.4xlarge-Training",
+      "memory": "30 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c4.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.01592 per minute for running a Braket Job (ml.c4.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0159200000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-IonQ-Forte-Enterprise-1",
+      "operation": "Task",
+      "devicename": "Forte-Enterprise-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per task for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Volume",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "volumeType": "General Purpose (SSD) Storage",
+      "usagetype": "USE1-Job-VolumeUsage",
+      "operation": "Managed-Jobs",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.14 per GB-month of provisioned storage for a Braket Job in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-IonQ-Aria-1",
+      "operation": "CompleteTask",
+      "devicename": "Aria-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.03 per-shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m4.10xlarge-Training",
+      "memory": "160 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m4.10xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "40"
+    },
+    "description": "$0.04 per minute for running a Braket Job (ml.m4.10xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0400000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-QuEra-Aquila",
+      "operation": "CompleteTask",
+      "devicename": "Aquila",
+      "provider": "QuEra",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.01 per-shot for QuEra-Aquila in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c4.xlarge-Training",
+      "memory": "7.5 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c4.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.00398 per minute for running a Braket Job (ml.c4.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0039800000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5.4xlarge-Training",
+      "memory": "32 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.0136 per minute for running a Braket Job (ml.c5.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0136000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c4.2xlarge-Training",
+      "memory": "15 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c4.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.00797 per minute for running a Braket Job (ml.c4.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0079700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5.18xlarge-Training",
+      "memory": "144 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5.18xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "72"
+    },
+    "description": "$0.0612 per minute for running a Braket Job (ml.c5.18xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0612000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c4.8xlarge-Training",
+      "memory": "60 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c4.8xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "36"
+    },
+    "description": "$0.03182 per minute for running a Braket Job (ml.c4.8xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0318200000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m4.xlarge-Training",
+      "memory": "16 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m4.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.004 per minute for running a Braket Job (ml.m4.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5.9xlarge-Training",
+      "memory": "72 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5.9xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "36"
+    },
+    "description": "$0.0306 per minute for running a Braket Job (ml.c5.9xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0306000000"
+    }
+  },
+  {
+    "productFamily": "Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Completed-Task-ExecutionDuration-SV1",
+      "operation": "CompleteTask",
+      "operationOutcome": "Completed",
+      "productType": "StateVector",
+      "producttype": "StateVector",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "version": "SV1"
+    },
+    "description": "$0.075 per minute for Simulator(SV1) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot",
+      "operation": "CompleteTask",
+      "devicename": "IonQdevice",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.01 per-shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.large-Training",
+      "memory": "8 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.large",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "2"
+    },
+    "description": "$0.00192 per minute for running a Braket Job (ml.m5.large) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0019200000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-Aria-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aria-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.03000 per Job Task Shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p3.16xlarge-Training",
+      "memory": "488 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p3.16xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "64"
+    },
+    "description": "$0.4692 per minute for running a Braket Job (ml.p3.16xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.4692000000"
+    }
+  },
+  {
+    "productFamily": "Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Completed-Task-ExecutionDuration-TN1",
+      "operation": "CompleteTask",
+      "operationOutcome": "Completed",
+      "productType": "TensorNetwork",
+      "producttype": "TensorNetwork",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "version": "TN1"
+    },
+    "description": "$0.275 per minute for Simulator(TN1) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2750000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-IonQ-Harmony",
+      "operation": "Task",
+      "devicename": "Harmony",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per-task for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5n.4xlarge-Training",
+      "memory": "42 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5n.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.01728 per minute for running a Braket Job (ml.c5n.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0172800000"
+    }
+  },
+  {
+    "productFamily": "Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Rehearsal-Completed-Task-ExecutionDuration-TN1",
+      "operation": "FailedTask",
+      "operationOutcome": "Rehearsal-Completed",
+      "productType": "TensorNetwork",
+      "producttype": "TensorNetwork",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "version": "TN1"
+    },
+    "description": "$0.275 per minute for Simulator(TN1) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2750000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-Aria-2",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aria-2",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.03000 per Job Task Shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Reservation",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Reservation-IonQ-Forte-Enterprise-1",
+      "operation": "ReservationEnd",
+      "devicename": "Forte-Enterprise-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$7000.00 per hour for IonQ-Forte-Enterprise-1 device in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "7000.0000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-Harmony",
+      "operation": "Managed-Jobs",
+      "deviceName": "Harmony",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30000 per Job Task for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-IonQ-Forte-1",
+      "operation": "Task",
+      "devicename": "Forte-1",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.30 per-task for IonQ-Forte-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m4.16xlarge-Training",
+      "memory": "256 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m4.16xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "64"
+    },
+    "description": "$0.064 per minute for running a Braket Job (ml.m4.16xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0640000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-IonQ-Aria-2",
+      "operation": "CompleteTask",
+      "devicename": "Aria-2",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.03 per-shot for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0300000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-QuEra-Aquila",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aquila",
+      "deviceProvider": "QuEra",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.3 per Job Task for QuEra-Aquila in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p2.xlarge-Training",
+      "memory": "61 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p2.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.01875 per minute for running a Braket Job (ml.p2.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0187500000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-Forte-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Forte-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.08 per Job Task Shot for IonQ-Forte-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5n.xlarge-Training",
+      "memory": "10.5 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5n.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.00432 per minute for running a Braket Job (ml.c5n.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0043200000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.xlarge-Training",
+      "memory": "16 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.00383 per minute for running a Braket Job (ml.m5.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0038300000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5n.18xlarge-Training",
+      "memory": "192 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5n.18xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "72"
+    },
+    "description": "$0.07777 per minute for running a Braket Job (ml.c5n.18xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0777700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-Simulator-Task-ExecutionDuration-TN1",
+      "operation": "Managed-Jobs",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "simulatorName": "Tensor Network",
+      "version": "TN1"
+    },
+    "description": "$0.275 per minute for Job Simulator(TN1) Task in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2750000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p3.8xlarge-Training",
+      "memory": "244 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p3.8xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "32"
+    },
+    "description": "$0.2448 per minute for running a Braket Job (ml.p3.8xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.2448000000"
+    }
+  },
+  {
+    "productFamily": "Simulator Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Completed-Task-ExecutionDuration-DM1",
+      "operation": "CompleteTask",
+      "operationOutcome": "Completed",
+      "productType": "DensityMatrix",
+      "producttype": "DensityMatrix",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "version": "DM1"
+    },
+    "description": "$0.075 per minute for Simulator (DM1) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0750000000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-QuEra-Aquila",
+      "operation": "Task",
+      "devicename": "Aquila",
+      "provider": "QuEra",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.3 per-task for QuEra-Aquila in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.2xlarge-Training",
+      "memory": "32 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.01567 per minute for running a Braket Job (ml.g4dn.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0156700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-IonQdevice",
+      "operation": "Managed-Jobs",
+      "deviceName": "IonQdevice",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30000 per Job Task for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.2xlarge-Training",
+      "memory": "32 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.00768 per minute for running a Braket Job (ml.m5.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0076800000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.12xlarge-Training",
+      "memory": "192 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.12xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "48"
+    },
+    "description": "$0.0815 per minute for running a Braket Job (ml.g4dn.12xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0815000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-Aria-2",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aria-2",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30000 per Job Task for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p3dn.24xlarge-Training",
+      "memory": "768 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p3dn.24xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "96"
+    },
+    "description": "$0.59823 per minute for running a Braket Job (ml.p3dn.24xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.5982300000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m4.2xlarge-Training",
+      "memory": "32 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m4.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.008 per minute for running a Braket Job (ml.m4.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0080000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-IonQ-Aria-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Aria-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task"
+    },
+    "description": "$0.30000 per Job Task for IonQ-Aria-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Task",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.p2.8xlarge-Training",
+      "memory": "488 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.p2.8xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "32"
+    },
+    "description": "$0.144 per minute for running a Braket Job (ml.p2.8xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.1440000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5.2xlarge-Training",
+      "memory": "16 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5.2xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "8"
+    },
+    "description": "$0.0068 per minute for running a Braket Job (ml.c5.2xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0068000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.4xlarge-Training",
+      "memory": "64 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.4xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "16"
+    },
+    "description": "$0.01537 per minute for running a Braket Job (ml.m5.4xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0153700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs QPU Task Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Job-QPU-Task-Shot-IonQ-Forte-Enterprise-1",
+      "operation": "Managed-Jobs",
+      "deviceName": "Forte-Enterprise-1",
+      "deviceProvider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "type": "Task Shot"
+    },
+    "description": "$0.08 per Job Task Shot for IonQ-Forte-Enterprise-1 in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.g4dn.xlarge-Training",
+      "memory": "16 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.g4dn.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Accelerated Computing Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.01227 per minute for running a Braket Job (ml.g4dn.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0122700000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.c5.xlarge-Training",
+      "memory": "8 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.c5.xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "4"
+    },
+    "description": "$0.0034 per minute for running a Braket Job (ml.c5.xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0034000000"
+    }
+  },
+  {
+    "productFamily": "Braket Managed Jobs Instance",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "instanceType": "ml.m5.24xlarge-Training",
+      "memory": "384 GiB",
+      "usagetype": "USE1-Job-ExecutionDuration-ml.m5.24xlarge",
+      "operation": "Managed-Jobs",
+      "computeType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket",
+      "vcpu": "96"
+    },
+    "description": "$0.09217 per minute for running a Braket Job (ml.m5.24xlarge) in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "minutes",
+    "pricePerUnit": {
+      "USD": "0.0921700000"
+    }
+  },
+  {
+    "productFamily": "Quantum Task-Shot",
+    "attributes": {
+      "servicecode": "AmazonBraket",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Task-Shot-IonQ-Harmony",
+      "operation": "CompleteTask",
+      "devicename": "Harmony",
+      "provider": "IonQ",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Braket"
+    },
+    "description": "$0.01 per-shot for IonQ-IonQdevice in US East (N. Virginia) Region",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Quantum-Shot",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  }
+]

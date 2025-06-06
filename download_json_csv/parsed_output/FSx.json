@@ -1,0 +1,1579 @@
+[
+  {
+    "productFamily": "Request",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.SAZ_2N:CPoolStdRd",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "requestType": "Read",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.00040 per 1,000 read requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ_2N:SSD",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.125 per GB-Month of provisioned ONTAP Single-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1250000000"
+    }
+  },
+  {
+    "productFamily": "Request",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.MAZ:CPoolStdRd",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "requestType": "Read",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.00040 per 1,000 read requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:INT_FA",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "Frequent Access",
+      "storageType": "INT",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0230 per GB-Month of OpenZFS Intelligent-Tiering storage in the Frequent Access tier - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0230000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.500",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "500"
+    },
+    "description": "$0.340 per GB-Month of persistent SSD Lustre storage with 500 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.3400000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.HDD.12",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "12"
+    },
+    "description": "$0.025 per GB-Month of persistent HDD Lustre storage with 12 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.MultiAZ",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$4.500 per MB-per-second-Month of provisioned Multi-AZ Windows File Server throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "4.5000000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ_HA2",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_HA_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.52 per MBps-Month for provisioned Single-AZ (HA) OpenZFS throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.5200000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.50",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "No",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "50"
+    },
+    "description": "$0.140 per GB-Month of provisioned persistent Lustre storage with 50 MB/s per TB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.MAZ2",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$2.500 per MBps-Month of provisioned ONTAP Multi-AZ-2 throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "2.5000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ_2N2:SSD",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_2N-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.125 per GB-Month of provisioned ONTAP Single-AZ-2 SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1250000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:INT_Monitoring",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "Monitoring",
+      "storageType": "INT",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0006 per GB-Month of OpenZFS Intelligent-Tiering storage for monitoring and automation - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0006000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.HDD.40",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "40"
+    },
+    "description": "$0.083 per GB-Month of persistent HDD Lustre storage with 40 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0830000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.MultiAZ",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.024 per IOPS-Month of Windows File Server Multi-AZ provisioned SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.HDD.40.RC20",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "RC20",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "40"
+    },
+    "description": "$0.099 per GB-Month of persistent HDD Lustre storage with 40 MB/s per TiB with SSD cache - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0990000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "N/A",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.050 per GB-Month of ONTAP backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:SSD",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.250 per GB-Month of provisioned ONTAP Multi-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage.MAZ",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.05 per GB-Month of OpenZFS Multi-AZ Backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ2:SSD",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.250 per GB-Month of provisioned ONTAP Multi-AZ-2 SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:SSD",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.18 per GB-Month of provisioned OpenZFS Multi-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1800000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.HDD.12.RC20",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "RC20",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "12"
+    },
+    "description": "$0.041 per GB-Month of persistent HDD Lustre storage with 12 MB/s per TiB with SSD cache - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0410000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.MAZ:INT_Write",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "requestType": "Write",
+      "servicename": "Amazon FSx",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0050 per 1,000 write requests to OpenZFS Intelligent-Tiering storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.26 per MBps-Month for provisioned Single-AZ OpenZFS throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.2600000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.MAZ",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.024 per IOPS-Month of OpenZFS Multi-AZ Provisioned SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0240000000"
+    }
+  },
+  {
+    "productFamily": "Request",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.SAZ_2N:CPoolStdWr",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "requestType": "Write",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0050 per 1,000 write requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ_2N",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0170 per IOPS-Month of provisioned ONTAP Single-AZ SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0170000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:INT_SSDCache",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "SSD",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "SSD cache",
+      "storageType": "INT",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.1800 per GB-Month of OpenZFS Intelligent-Tiering Multi-AZ provisioned SSD read cache - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1800000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.006 per IOPS-Month for provisioned OpenZFS Single-AZ SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ_HA2",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_HA_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.012 per IOPS-Month for provisioned OpenZFS Single-AZ (HA) SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Request",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.MAZ:CPoolStdWr",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "requestType": "Write",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0050 per 1,000 write requests to ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "N/A",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.05 per GB-Month for OpenZFS backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.125",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "125"
+    },
+    "description": "$0.145 per GB-Month of persistent SSD Lustre storage with 125 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1450000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.140 per GB-Month of provisioned Lustre storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1400000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ_HA",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_HA",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.52 per MBps-Month for provisioned Single-AZ (HA) OpenZFS throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.5200000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ2",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.26 per MBps-Month for provisioned Single-AZ OpenZFS throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.2600000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-MetadataIOPS",
+      "operation": "CreateFileSystem:Lustre",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.055 per IOPS-Month of provisioned Lustre Metadata IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0550000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.1000",
+      "operation": "CreateFileCache:Lustre",
+      "fileCacheType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "throughputCapacity": "1000"
+    },
+    "description": "$1.33 per GB-Month of File Cache Lustre storage with 1000 MB/s/TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "1.3300000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ_HA",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_HA",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.012 per IOPS-Month for provisioned OpenZFS Single-AZ (HA) SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.250",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "250"
+    },
+    "description": "$0.210 per GB-Month of persistent SSD Lustre storage with 250 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2100000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ_2N2",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0170 per IOPS-Month of provisioned ONTAP Single-AZ-2 SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0170000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.MAZ",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.87 per MBps-Month of OpenZFS Multi-AZ Provisioned throughput - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.8700000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.MAZ",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0340 per IOPS-Month of provisioned ONTAP Multi-AZ SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0340000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.012 per IOPS-Month of Windows File Server Single-AZ provisioned SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0120000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.200",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "No",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "200"
+    },
+    "description": "$0.290 per GB-Month of provisioned persistent Lustre storage with 200 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2900000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage:HDD",
+      "operation": "CreateFileSystem:Windows",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.013 per GB-Month of provisioned Windows File Server Single-AZ HDD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0130000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:INT_IA",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "Infrequent Access",
+      "storageType": "INT",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0125 per GB-Month of OpenZFS Intelligent-Tiering storage in the Infrequent Access tier - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0125000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.05 per GB-Month of Windows File Server backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ2:SSD",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.09 per GB-Month for provisioned OpenZFS Single-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ_2N",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.720 per MBps-Month of provisioned ONTAP Single-AZ throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.7200000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ_HA2:SSD",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_HA_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.09 per GB-Month for provisioned OpenZFS Single-AZ (HA) SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Requests.MAZ:INT_Read",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "requestType": "Read",
+      "servicename": "Amazon FSx",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0004 per 1,000 read requests to OpenZFS Intelligent-Tiering storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Operations",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MultiAZ:SSD",
+      "operation": "CreateFileSystem:Windows",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.230 per GB-Month of provisioned Windows File Server Multi-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.2300000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage",
+      "operation": "CreateFileSystem:Lustre",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.05 per GB-Month of FSx for Lustre backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ:SSD",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.09 per GB-Month for provisioned OpenZFS Single-AZ SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ_HA:SSD",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_HA",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.09 per GB-Month for provisioned OpenZFS Single-AZ (HA) SSD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0900000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-BackupUsage.MultiAZ",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.05 per GB-Month of Multi-AZ Windows File Server backup storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MultiAZ:HDD",
+      "operation": "CreateFileSystem:Windows",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "HDD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.025 per GB-Month of provisioned Windows File Server Multi-AZ HDD storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0250000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.MAZ2",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.0340 per IOPS-Month of provisioned ONTAP Multi-AZ-2 SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0340000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity",
+      "operation": "CreateFileSystem:Windows",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$2.20 per MB-per-second-Month of provisioned Windows File Server throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "2.2000000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.SAZ_2N2",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Single-AZ_2N-2",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$1.600 per MBps-Month of provisioned ONTAP Single-AZ-2 throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "1.6000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.1000",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "Yes",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "1000"
+    },
+    "description": "$0.600 per GB-Month of persistent SSD Lustre storage with 1000 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage",
+      "operation": "CreateFileSystem:Windows",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ",
+      "fileSystemType": "Windows",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.130 per GB-Month of provisioned Windows File Server storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1300000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:INT_AIA",
+      "operation": "CreateFileSystem:OpenZFS",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "Archive Instant Access",
+      "storageType": "INT",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0040 per GB-Month of OpenZFS Intelligent-Tiering storage in the Archive Instant Access tier - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0040000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SAZ_2N:CPoolStd",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Single-AZ_2N",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "Capacity pool - Standard",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0219 per GB-Month of ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0219000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned Throughput",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ThroughputCapacity.MAZ",
+      "operation": "CreateFileSystem:ONTAP",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$1.200 per MBps-Month of provisioned ONTAP Multi-AZ throughput capacity - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "1.2000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.MAZ:CPoolStd",
+      "operation": "CreateFileSystem:ONTAP",
+      "cacheType": "N/A",
+      "deploymentOption": "Multi-AZ",
+      "fileSystemType": "ONTAP",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "Capacity pool - Standard",
+      "throughputCapacity": "N/A"
+    },
+    "description": "$0.0438 per GB-Month of ONTAP standard capacity pool storage - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0438000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Storage.SSD.100",
+      "operation": "CreateFileSystem:Lustre",
+      "cacheType": "N/A",
+      "currentGeneration": "No",
+      "deploymentOption": "Persistent",
+      "fileSystemType": "Lustre",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx",
+      "storageTier": "N/A",
+      "storageType": "SSD",
+      "throughputCapacity": "100"
+    },
+    "description": "$0.190 per GB-Month of provisioned persistent Lustre storage with 100 MB/s per TiB - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1900000000"
+    }
+  },
+  {
+    "productFamily": "Provisioned IOPS",
+    "attributes": {
+      "servicecode": "AmazonFSx",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ProvisionedSSDIOPS.SAZ2",
+      "operation": "CreateFileSystem:OpenZFS",
+      "deploymentOption": "Single-AZ_2",
+      "fileSystemType": "OpenZFS",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon FSx"
+    },
+    "description": "$0.006 per IOPS-Month for provisioned OpenZFS Single-AZ SSD IOPS - US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "IOPS-Mo",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  }
+]

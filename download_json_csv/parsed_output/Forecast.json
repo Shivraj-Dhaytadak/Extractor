@@ -1,0 +1,222 @@
+[
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Forecasts",
+      "operation": "",
+      "groupDetails": "For Pricing Number of Forecasts for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Forecast: 0.6 USD per 1000 Forecasts generated",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Forecast",
+    "pricePerUnit": {
+      "USD": "0.6000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-DataInjection",
+      "operation": "",
+      "groupDetails": "For Pricing Data Injection for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "DataInjection: 0.088 USD per GB of data Injested",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0880000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ForecastDataPoints",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Data Points for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Forecast Data Points per Month (greater than 100K and less than 1M): 0.80 USD",
+    "beginRange": "100",
+    "endRange": "1000",
+    "unit": "ForecastDataPoints_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.8000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ForecastDataPoints",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Data Points for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Forecast Data Points per Month (less than 100K): 2.00 USD",
+    "beginRange": "0",
+    "endRange": "100",
+    "unit": "ForecastDataPoints_in_Thousands",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ForecastDataPoints",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Data Points for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Forecast Data Points per Month (greater than 50M): 0.02 USD",
+    "beginRange": "50000",
+    "endRange": "Inf",
+    "unit": "ForecastDataPoints_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.0200000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ForecastDataPoints",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Data Points for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Forecast Data Points per Month (greater than 1M and less than 50M): 0.20 USD",
+    "beginRange": "1000",
+    "endRange": "50000",
+    "unit": "ForecastDataPoints_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.2000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-TrainingHours",
+      "operation": "",
+      "groupDetails": "For Pricing Training hours for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "TrainingHours: 0.24 USD per training hour",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "TrainingHour",
+    "pricePerUnit": {
+      "USD": "0.2400000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Explanations",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Explanations for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Explanations per Month (greater than 1M and less than 10M): 0.25 USD per 1000 Explanations",
+    "beginRange": "1000",
+    "endRange": "10000",
+    "unit": "Explanations_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Explanations",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Explanations for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Explanations per Month (greater than 50K and less than 1M): 0.80 USD per 1000 Explanations",
+    "beginRange": "50",
+    "endRange": "1000",
+    "unit": "Explanations_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.8000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Explanations",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Explanations for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Explanations per Month (greater than 10M): 0.15 USD per 1000 Explanations",
+    "beginRange": "10000",
+    "endRange": "Inf",
+    "unit": "Explanations_in_Thousands",
+    "pricePerUnit": {
+      "USD": "0.1500000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "AmazonForecast",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Explanations",
+      "operation": "",
+      "groupDetails": "For Pricing Forecast Explanations for Amazon Forecast",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Forecast"
+    },
+    "description": "Explanations per Month (less than 50K): 2.00 USD per 1000 Explanations",
+    "beginRange": "0",
+    "endRange": "50",
+    "unit": "Explanations_in_Thousands",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  }
+]

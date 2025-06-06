@@ -1,0 +1,2439 @@
+[
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.24xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "96 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$10.9944 per Instance-hr for omics.g5.24xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "10.9944000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonLongReadforPacBioHiFi-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon LongRead for PacBio HiFi",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$7.50 per Sentieon Long Read for PacBio HiFi-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "7.5000000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AnalyticsType:Annotation-Bytes-hour",
+      "operation": "",
+      "analyticsType": "Datastore",
+      "datastoreType": "Annotation",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.035 per GB-month for annotation store in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.12xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "192 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$14.1651 per Instance-hr for omics.g6e.12xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "14.1651000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.16xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$4.1472 per omics.m.16xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "4.1472000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.2xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.5184 per omics.m.2xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.5184000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Private-DynamicRunStorage-Bytes-hour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "resourceType": "Dynamic Run Storage",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.0004110 per GB-hour for dynamic run storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Hours",
+    "pricePerUnit": {
+      "USD": "0.0004110000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.4xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "48 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$4.0557 per Instance-hr for omics.g6e.4xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "4.0557000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "96 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.12xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.754 per omics.c.12xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.7540000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.3402 per omics.r.xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.3402000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "192",
+      "memory": "1,536 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.48xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.48xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$17.1461 per Instance-hr for omics.r.48xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "17.1461000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.4xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.0368 per omics.m.4xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.0368000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "192 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.12xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "64 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$5.2812 per omics.g4dn.12xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "5.2812000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWESforupto300x-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Germline FASTQ WES for up to 300x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$3.00 per Sentieon Germline FASTQ WES for up to 300x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "3.0000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "OmicsStorage-API-S3GetRequest",
+      "groupDescription": "S3 Get Request",
+      "usagetype": "USE1-OmicsStorage:API-S3GetRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.0004 per 1000 Requests forOmicsStorage:API-S3GetRequest in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000004000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.large-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.large",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.1701 per omics.r.large-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.1701000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "16 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.7101 per omics.g4dn.xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.7101000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto5X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline DeepVariant WGS for up to 5X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$2.31 per NVIDIA Parabricks Germline DeepVariant WGS for up to 5X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "2.3100000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "4 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.large-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.large",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.1148 per omics.c.large-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.1148000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "192 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.12xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "96 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$7.6572 per omics.g5.12xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "7.6572000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto5X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 5X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.39 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 5X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.3900000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "192 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.12xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "96 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$6.2122 per Instance-hr for omics.g6.12xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "6.2122000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto30X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline DeepVariant WGS for up to 30X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$11.12 per NVIDIA Parabricks Germline DeepVariant WGS for up to 30X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "11.1200000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineDeepVariantWGSforupto50X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline DeepVariant WGS for up to 50X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$18.76 per NVIDIA Parabricks Germline DeepVariant WGS for up to 50X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "18.7600000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.12xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$4.0824 per omics.r.12xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "4.0824000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.16xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$5.5296 per Instance-hr for omics.g5.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "5.5296000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "512 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.32xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.32xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$8.2944 per Instance-hr for omics.m.32xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "8.2944000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "OmicsStorage-API-GetRequest",
+      "groupDescription": "Get requests",
+      "usagetype": "USE1-OmicsStorage:API-GetRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.005 per 1000 Requests for OmicsStorage:API-GetRequest in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-scRNAseqwithSalmonAlevin-fry-v1.0-run",
+      "operation": "",
+      "publisher": "nf-core",
+      "ready2runWorkflowName": "scRNAseq with Salmon Alevin-fry",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.56 per scRNAseq with Salmon Alevin-fry-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.5600000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto50X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 50X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$14.74 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 50X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "14.7400000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Private-RunStorage-GB-hour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "resourceType": "Run Storage",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.0001918 per GB-hour for run storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Hours",
+    "pricePerUnit": {
+      "USD": "0.0001918000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.2xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "48 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$3.0268 per Instance-hr for omics.g6e.2xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "3.0268000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.8xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$3.3048 per omics.g5.8xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "3.3048000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "memory": "8 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.large-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.large",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.1296 per omics.m.large-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.1296000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "512 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.16xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$5.4432 per omics.r.16xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "5.4432000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "OmicsStorage-API-S3ListRequest",
+      "groupDescription": "S3 List Request",
+      "usagetype": "USE1-OmicsStorage:API-S3ListRequest",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.005 per 1000 Requests forOmicsStorage:API-S3ListRequest in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Request",
+    "pricePerUnit": {
+      "USD": "0.0000050000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-scRNAseqwithSTARsolo-v1.0-run",
+      "operation": "",
+      "publisher": "nf-core",
+      "ready2runWorkflowName": "scRNAseq with STARsolo",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$5.31 per scRNAseq with STARsolo-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "5.3100000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.32xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.32xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$7.344 per Instance-hr for omics.c.32xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "7.3440000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "memory": "192 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.12xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.12xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$3.1104 per omics.m.12xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "3.1104000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.16xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$3.672 per omics.c.16xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "3.6720000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.16xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$4.5857 per Instance-hr for omics.g6.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "4.5857000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "8 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.2295 per omics.c.xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.2295000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto30X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks FQ2BAM WGS for up to 30X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$5.68 per NVIDIA Parabricks FQ2BAM WGS for up to 30X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "5.6800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWGSforupto32x-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Germline FASTQ WGS for up to 32x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$4.00 per Sentieon Germline FASTQ WGS for up to 32x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "4.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto5X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 5X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.15 per NVIDIA Parabricks Germline Haplotype Caller WGS for up to 5X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.1500000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.4xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.1924 per omics.g5.4xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.1924000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.8xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.0736 per omics.m.8xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.0736000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "192",
+      "memory": "768 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.48xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.48xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$13.0637 per Instance-hr for omics.m.48xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "13.0637000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.2xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.459 per omics.c.2xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.4590000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.8xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "16 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.9376 per omics.g4dn.8xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.9376000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto50X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks FQ2BAM WGS for up to 50X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$9.60 per NVIDIA Parabricks FQ2BAM WGS for up to 50X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "9.6000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "48 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.5124 per Instance-hr for omics.g6e.xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.5124000000"
+    }
+  },
+  {
+    "productFamily": "Machine Learning",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-AnalyticsType:Variant-Bytes-hour",
+      "operation": "",
+      "analyticsType": "Datastore",
+      "datastoreType": "Variant",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.035 per GB-month for variant store in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-month",
+    "pricePerUnit": {
+      "USD": "0.0350000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-GATK-BPGermlinefq2vcffor30xgenome-v1.0-run",
+      "operation": "",
+      "publisher": "Broad Institute",
+      "ready2runWorkflowName": "GATK-BP Germline fq2vcf for 30x genome",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$10.00 per GATK-BP Germline fq2vcf for 30x genome-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonSomaticWES-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Somatic WES",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$4.50 per Sentieon Somatic WES-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "4.5000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.4xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "16 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.6254 per omics.g4dn.4xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.6254000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonLongReadforONT-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon LongRead for ONT",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.78 per Sentieon Long Read for ONT-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.7800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.8xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.7216 per omics.r.8xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.7216000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.0865 per Instance-hr for omics.g6.xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.0865000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-UltimaGenomicsDeepVariantforupto40x-v1.0-run",
+      "operation": "",
+      "publisher": "Ultima Genomics",
+      "ready2runWorkflowName": "Ultima Genomics DeepVariant for up to 40x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$2.00 per Ultima Genomics DeepVariant for up to 40x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "2.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.3581 per omics.g5.xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.3581000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto30X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 30X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$6.50 per NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 30X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "6.5000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "192 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.24xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$5.508 per omics.c.24xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "5.5080000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "768 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.24xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$8.1648 per omics.r.24xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "8.1648000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksBAM2FQ2BAMWGSforupto30X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks BAM2FQ2BAM WGS for up to 30X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$8.84 per NVIDIA Parabricks BAM2FQ2BAM WGS for up to 30X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "8.8400000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.16xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "16 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$5.8752 per Instance-hr for omics.g4dn.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "5.8752000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.24xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "96 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$9.0115 per Instance-hr for omics.g6.24xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "9.0115000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "memory": "512 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.16xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "48 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.16xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$10.2292 per Instance-hr for omics.g6e.16xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "10.2292000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonGermlineFASTQWESforupto100x-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Germline FASTQ WES for up to 100x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$0.57 per Sentieon Germline FASTQ WES for up to 100x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "0.5700000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.24xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$6.2208 per omics.m.24xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "6.2208000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g5.2xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g5.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.6362 per omics.g5.2xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.6362000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonGermlineBAMWESforupto300x-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Germline BAM WES for up to 300x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$0.98 per Sentieon Germline BAM WES for up to 300x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "0.9800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.4xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.3608 per omics.r.4xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.3608000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "memory": "768 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.24xlarge-hours",
+      "operation": "",
+      "gpu": "4",
+      "gpuMemory": "192 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.24xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$20.3385 per Instance-hr for omics.g6e.24xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "20.3385000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.4xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.918 per omics.c.4xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.9180000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "128",
+      "memory": "1,024 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.32xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.32xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$10.8864 per Instance-hr for omics.r.32xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "10.8864000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x150-v1.0-run",
+      "operation": "",
+      "publisher": "Element Biosciences",
+      "ready2runWorkflowName": "Bases2Fastq for 2x150",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$2.62 per Bases2Fastq for 2x150-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "2.6200000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-GATK-BPSomaticWESbam2vcf-v1.0-run",
+      "operation": "",
+      "publisher": "Broad Institute",
+      "ready2runWorkflowName": "GATK-BP Somatic WES bam2vcf",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$4.68 per GATK-BP Somatic WES bam2vcf-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "4.6800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-AlphaFoldfor601-1200residues-v1.0-run",
+      "operation": "",
+      "publisher": "DeepMind",
+      "ready2runWorkflowName": "AlphaFold for 601-1200 residues",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$9.00 per AlphaFold for up to 601-1200 residues-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "9.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksSomaticMutect2WGSforupto50X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Somatic Mutect2 WGS for up to 50X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$3.50 per NVIDIA Parabricks Somatic Mutect2 WGS for up to 50X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "3.5000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x300-v1.0-run",
+      "operation": "",
+      "publisher": "Element Biosciences",
+      "ready2runWorkflowName": "Bases2Fastq for 2x300",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$2.57 per Bases2Fastq for 2x300-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "2.5700000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonSomaticWGS-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Somatic WGS",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$8.05 per Sentieon Somatic WGS-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "8.0500000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksGermlineHaplotypeCallerWGSforupto50X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 50X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$10.50 per NVIDIA Parabricks Germline HaplotypeCaller WGS for up to 50X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "10.5000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.4xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.4xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.7863 per Instance-hr for omics.g6.4xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.7863000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-AlphaFoldforupto600residues-v1.0-run",
+      "operation": "",
+      "publisher": "DeepMind",
+      "ready2runWorkflowName": "AlphaFold for up to 600 residues",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$6.00 per AlphaFold for up to 600 residues-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "6.0000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "256 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6e.8xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "48 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6e.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$6.1136 per Instance-hr for omics.g6e.8xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "6.1136000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.8xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.836 per omics.c.8xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.8360000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "64 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.r.2xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Memory Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.r.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.6804 per omics.r.2xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.6804000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.2xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.3198 per Instance-hr for omics.g6.2xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.3198000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "memory": "32 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g4dn.2xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "16 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g4dn.2xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$1.0152 per omics.g4dn.2xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "1.0152000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-Bases2Fastqfor2x75-v1.0-run",
+      "operation": "",
+      "publisher": "Element Biosciences",
+      "ready2runWorkflowName": "Bases2Fastq for 2x75",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$0.84 per Bases2Fastq for 2x75-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "0.8400000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "memory": "16 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.m.xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Standard Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.m.xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$0.2592 per omics.m.xlarge-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "0.2592000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-GATK-BPfq2bam-v1.0-run",
+      "operation": "",
+      "publisher": "Broad Institute",
+      "ready2runWorkflowName": "GATK-BP fq2bam",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$8.00 per GATK-BP fq2bam-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "8.0000000000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Active",
+      "usagetype": "USE1-StorageClass:Active-Gigabase-hour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.005769 per Gigabase-month for active storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabase-month",
+    "pricePerUnit": {
+      "USD": "0.0057690000"
+    }
+  },
+  {
+    "productFamily": "Storage",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "storageClass": "Archive",
+      "usagetype": "USE1-StorageClass:Archive-Gigabase-hour",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics"
+    },
+    "description": "$0.001154 per Gigabase-month for archive storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Gigabase-month",
+    "pricePerUnit": {
+      "USD": "0.0011540000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "memory": "128 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.g6.8xlarge-hours",
+      "operation": "",
+      "gpu": "1",
+      "gpuMemory": "24 GiB",
+      "omicsInstanceType": "Accelerated Computing",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.g6.8xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$2.7194 per Instance-hr for omics.g6.8xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "2.7194000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-scRNAseqwithKallistoBUStools-v1.0-run",
+      "operation": "",
+      "publisher": "nf-core",
+      "ready2runWorkflowName": "scRNAseq with KallistoBUStools",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.10 per scRNAseq with KallistoBUStools-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.1000000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-ESMFoldforupto800residues-v1.0-run",
+      "operation": "",
+      "publisher": "Meta Research",
+      "ready2runWorkflowName": "ESMFold for up to 800 residues",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$0.25 per ESMFold for up to 800 residues-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-GATK-BPGermlinebam2vcffor30xgenome-v1.0-run",
+      "operation": "",
+      "publisher": "Broad Institute",
+      "ready2runWorkflowName": "GATK-BP Germline bam2vcf for 30x genome",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$4.58 per GATK-BP Germline bam2vcf for 30x genome-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "4.5800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "192",
+      "memory": "384 GiB",
+      "usagetype": "USE1-WorkflowType:Private-omics.c.48xlarge-hours",
+      "operation": "",
+      "omicsInstanceType": "Compute Optimized Instances",
+      "regionCode": "us-east-1",
+      "resourceType": "omics.c.48xlarge",
+      "servicename": "Amazon Omics",
+      "workflowType": "Private"
+    },
+    "description": "$11.5668 per Instance-hr for omics.c.48xlarge in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Instance-hrs",
+    "pricePerUnit": {
+      "USD": "11.5668000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-NVIDIAParabricksFQ2BAMWGSforupto5X-v1.0-run",
+      "operation": "",
+      "publisher": "NVIDIA Corporation",
+      "ready2runWorkflowName": "NVIDIA Parabricks FQ2BAM WGS for up to 5X",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$0.88 per NVIDIA Parabricks FQ2BAM WGS for up to 5X-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "0.8800000000"
+    }
+  },
+  {
+    "productFamily": "Compute",
+    "attributes": {
+      "servicecode": "AmazonOmics",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-WorkflowType:Ready2Run-SentieonGermlineBAMWGSforupto32x-v1.0-run",
+      "operation": "",
+      "publisher": "Sentieon, Inc.",
+      "ready2runWorkflowName": "Sentieon Germline BAM WGS for up to 32x",
+      "ready2runWorkflowVersion": "1.0",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Omics",
+      "workflowType": "Ready2Run"
+    },
+    "description": "$1.71 per Sentieon Germline BAM WGS for up to 32x-run in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Run",
+    "pricePerUnit": {
+      "USD": "1.7100000000"
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ML-Detect",
+      "operation": "",
+      "feature": "ML Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$2.00 per one hundred thousand metric datapoints",
+    "beginRange": "0",
+    "endRange": "300000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000200000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ML-Detect",
+      "operation": "",
+      "feature": "ML Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$0.75 per one hundred thousand metric datapoints",
+    "beginRange": "300000",
+    "endRange": "10000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000075000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ML-Detect",
+      "operation": "",
+      "feature": "ML Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$0.15 per one hundred thousand metric datapoints",
+    "beginRange": "10000000",
+    "endRange": "100000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000015000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-ML-Detect",
+      "operation": "",
+      "feature": "ML Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$0.10 per one hundred thousand metric datapoints",
+    "beginRange": "100000000",
+    "endRange": "Inf",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000010000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Audit",
+      "operation": "",
+      "feature": "Audit",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$1.10 per thousand devices",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "0.0011000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Audit",
+      "operation": "",
+      "feature": "Audit",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$1.00 per thousand devices",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Devices",
+    "pricePerUnit": {
+      "USD": "0.0010000000"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Detect",
+      "operation": "",
+      "feature": "Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$0.25 per million metric datapoints",
+    "beginRange": "0",
+    "endRange": "10000000000",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000002500"
+    }
+  },
+  {
+    "productFamily": "AWSIoT",
+    "attributes": {
+      "servicecode": "IoTDeviceDefender",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Detect",
+      "operation": "",
+      "feature": "Detect",
+      "regionCode": "us-east-1",
+      "servicename": "AWS IoT Device Defender"
+    },
+    "description": "$0.20 per million metric datapoints",
+    "beginRange": "10000000000",
+    "endRange": "Inf",
+    "unit": "Metric Datapoints",
+    "pricePerUnit": {
+      "USD": "0.0000002000"
+    }
+  }
+]

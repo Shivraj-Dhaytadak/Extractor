@@ -1,0 +1,910 @@
+[
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Replicator-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Replicator",
+      "usagetype": "USE1-KafkaReplication-ReplicatorHours",
+      "operation": "RunReplicator",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "$0.30 per hours for MSK Replicator in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.3000000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "96",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.24xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.24xlarge",
+      "memoryGib": "384",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 10.08 per Kafka.m5.24xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "10.0800000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.xlarge",
+      "memoryGib": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.816 per Express.m7g.xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Per-GB data ingressed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Serverless",
+      "usagetype": "USE1-KafkaServerless-In-Bytes",
+      "operation": "Serverless",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.10 per GB data in for serverless cluster in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Express.Storage",
+      "operation": "Storage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka",
+      "storageFamily": "Express storage"
+    },
+    "description": "USD 0.1 per GB-Month for storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.4xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.4xlarge",
+      "memoryGib": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 3.264 per Express.m7g.4xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.2640000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.2xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.2xlarge",
+      "memoryGib": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 1.632 per Express.m7g.2xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6320000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.12xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.12xlarge",
+      "memoryGib": "192",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 5.04 per Kafka.m5.12xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "5.0400000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.large",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.large",
+      "memoryGib": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.408 per Express.m7g.large broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Per-GB data ingressed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "ExpressIngress",
+      "usagetype": "USE1-Express.In-Bytes",
+      "operation": "Data-In",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.01 per GB of data written to an Express broker in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0100000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.t3.small",
+      "operation": "RunBroker",
+      "computeFamily": "t3.small",
+      "memoryGib": "2",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.0456 per Kafka.t3.small broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0456000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.xlarge",
+      "memoryGib": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.42 per Kafka.m5.xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4200000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Cluster-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Serverless",
+      "usagetype": "USE1-KafkaServerless-ClusterHours",
+      "operation": "Serverless",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.75 per cluster-hour for serverless cluster in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.7500000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Bytes Processed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Connectivity",
+      "usagetype": "USE1-Kafka.PrivateConnectivity.BytesProcessed",
+      "operation": "PrivateConnectivity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.006 per GB data processed for private connectivity in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0060000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.4xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.4xlarge",
+      "memoryGib": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 1.632 per Kafka.m7g.4xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6320000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Throughput-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Storage",
+      "usagetype": "USE1-Kafka.Throughput",
+      "operation": "RunVolume",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka",
+      "storageFamily": "General"
+    },
+    "description": "USD 0.08 per MiBs/Month for provisioned storage throughput in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "MiBps-Mo",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.8xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.8xlarge",
+      "memoryGib": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 3.36 per Kafka.m5.8xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.3600000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Per-GB same-region data replicated",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Replicator",
+      "usagetype": "USE1-KafkaReplication-Processed-Bytes",
+      "operation": "SameRegionSource",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "$0.08 per GB for MSK Replicator in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Kafka.Storage.Tiered",
+      "operation": "TieredStorage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka",
+      "storageFamily": "Tiered storage"
+    },
+    "description": "USD0.06 per GB-Mo in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.0600000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Per-GB cross-region data replicated",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Replicator",
+      "usagetype": "USE1-KafkaReplication-Processed-Bytes",
+      "operation": "CrossRegionSourceLocal",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "$0.08 per GB for MSK Replicator in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0800000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Per-GB data egressed",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Serverless",
+      "usagetype": "USE1-KafkaServerless-Out-Bytes",
+      "operation": "Serverless",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.05 per GB data out for serverless cluster in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.large",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.large",
+      "memoryGib": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.204 per Kafka.m7g.large broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2040000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.8xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.8xlarge",
+      "memoryGib": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 3.264 per Kafka.m7g.8xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "3.2640000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.16xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.16xlarge",
+      "memoryGib": "256",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 6.528 per Kafka.m7g.16xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "6.5280000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.2xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.2xlarge",
+      "memoryGib": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.816 per Kafka.m7g.2xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8160000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.12xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.12xlarge",
+      "memoryGib": "192",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 9.792 per Express.m7g.12xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "9.7920000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.16xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.16xlarge",
+      "memoryGib": "256",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 13.056 per Express.m7g.16xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "13.0560000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Private connectivity-hours per authentication scheme",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Connectivity",
+      "usagetype": "USE1-Kafka.PrivateConnectivityHours",
+      "operation": "PrivateConnectivity",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.0225 per private connectivity hour per authentication scheme in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0225000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "16",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.4xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.4xlarge",
+      "memoryGib": "64",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 1.68 per Kafka.m5.4xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "1.6800000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "4",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.xlarge",
+      "memoryGib": "16",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.408 per Kafka.m7g.xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.4080000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "48",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m7g.12xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m7g.12xlarge",
+      "memoryGib": "192",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 4.896 per Kafka.m7g.12xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "4.8960000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "General",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Connect",
+      "usagetype": "USE1-Kafka.mcu.general",
+      "operation": "RunConnect",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.110 per MCU-hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.1100000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-Kafka.DataRetrieval.Tiered",
+      "operation": "TieredStorage",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka",
+      "storageFamily": "Tiered storage-DataRetrieval"
+    },
+    "description": "USD0.0015 per GB in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Partition-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Serverless",
+      "usagetype": "USE1-KafkaServerless-PartitionHours",
+      "operation": "Serverless",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.0015 per partition-hour for serverless cluster in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.0015000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "8",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.2xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.2xlarge",
+      "memoryGib": "32",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.84 per Kafka.m5.2xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.8400000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "32",
+      "group": "ExpressBroker",
+      "usagetype": "USE1-Express.m7g.8xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "express.m7g.8xlarge",
+      "memoryGib": "128",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 6.528 per Express.m7g.8xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "6.5280000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "64",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.16xlarge",
+      "operation": "RunBroker",
+      "computeFamily": "m5.16xlarge",
+      "memoryGib": "256",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 6.73 per Kafka.m5.16xlarge broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "6.7300000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Broker-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "vcpu": "2",
+      "group": "Broker",
+      "usagetype": "USE1-Kafka.m5.large",
+      "operation": "RunBroker",
+      "computeFamily": "m5.large",
+      "memoryGib": "8",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.21 per Kafka.m5.large broker hour in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "hours",
+    "pricePerUnit": {
+      "USD": "0.2100000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Storage-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Storage",
+      "usagetype": "USE1-Kafka.Storage.GP2",
+      "operation": "RunVolume",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka",
+      "storageFamily": "GP2"
+    },
+    "description": "USD 0.1 per GB-Month for storage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  },
+  {
+    "productFamily": "Managed Streaming for Apache Kafka (MSK)",
+    "attributes": {
+      "servicecode": "AmazonMSK",
+      "description": "Storage-hours",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Serverless",
+      "usagetype": "USE1-KafkaServerless-StorageHours",
+      "operation": "Serverless",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Managed Streaming for Apache Kafka"
+    },
+    "description": "USD 0.10 per GB-Month for serverless cluster storage in US East (N.Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB-Mo",
+    "pricePerUnit": {
+      "USD": "0.1000000000"
+    }
+  }
+]

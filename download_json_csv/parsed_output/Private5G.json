@@ -1,0 +1,68 @@
+[
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSPrivate5G",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-60DaysCommit",
+      "operation": "",
+      "accessPointType": "CBRS LTE RU",
+      "capability": "Outdoor CatA",
+      "commitmentDays": "60",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Private 5G"
+    },
+    "description": "$10 per hour for each CBRS LTE radio unit with a minimum 60 day commitment",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "10.0000000000"
+    }
+  },
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSPrivate5G",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-3YearCommit",
+      "operation": "",
+      "accessPointType": "CBRS LTE RU",
+      "capability": "Outdoor CatA",
+      "commitmentDays": "1095",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Private 5G"
+    },
+    "description": "$3.50 per hour for each CBRS LTE radio unit with a 3 year commitment in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "3.5000000000"
+    }
+  },
+  {
+    "productFamily": "Private Networks",
+    "attributes": {
+      "servicecode": "AWSPrivate5G",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-CloudCore-CBRS_LTE_RU-OutdoorCatA-1YearCommit",
+      "operation": "",
+      "accessPointType": "CBRS LTE RU",
+      "capability": "Outdoor CatA",
+      "commitmentDays": "365",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Private 5G"
+    },
+    "description": "$5.35 per hour for each CBRS LTE radio unit with a 1 year commitment in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Hourly",
+    "pricePerUnit": {
+      "USD": "5.3500000000"
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Paid Object Monitoring",
+      "usagetype": "USE1-PaidAutomatedObjectMonitoring",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.01 per 100K Objects for PaidAutomatedObjectMonitoring in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Object-days",
+    "pricePerUnit": {
+      "USD": "0.0000000033"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Paid Data Inventory Evaluation",
+      "usagetype": "USE1-PaidDataInventoryEvaluation",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.0033 per S3 Bucket analyzed daily in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bucket-days",
+    "pricePerUnit": {
+      "USD": "0.0032880000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Sensitive Data Discovery",
+      "usagetype": "USE1-SensitiveDataDiscovery",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.00 per GB first 1 GB / month of Sensitive Data Discovery in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Sensitive Data Discovery",
+      "usagetype": "USE1-SensitiveDataDiscovery",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$1.00 per GB for the next 50,000 GB / month of Sensitive Data Discovery in US East (N. Virginia)",
+    "beginRange": "1",
+    "endRange": "50000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "1.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Sensitive Data Discovery",
+      "usagetype": "USE1-SensitiveDataDiscovery",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.50 per GB for the next 450,000 GB / month of Sensitive Data Discovery in US East (N. Virginia)",
+    "beginRange": "50000",
+    "endRange": "500000",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.5000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Sensitive Data Discovery",
+      "usagetype": "USE1-SensitiveDataDiscovery",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.25 per GB over 500,000 GB / month of Sensitive Data Discovery in US East (N. Virginia)",
+    "beginRange": "500000",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.2500000000"
+    }
+  },
+  {
+    "productFamily": "AWS Security Services - Macie Content Processing",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-S3ClassificationInfoStorage",
+      "operation": "",
+      "activityType": "Results Storage",
+      "classificationType": "Full",
+      "contentSource": "AWS",
+      "contentType": "AmazonS3",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.05 per GB per month for extended storage of Macie Classic classification results",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0500000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Free Data Inventory Evaluation",
+      "usagetype": "USE1-FreeDataInventoryEvaluation",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.00 per S3 Bucket analyzed (free trial) in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Bucket-days",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Security Services - Macie Log Processing",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EventsProcessing",
+      "operation": "",
+      "activityType": "Aggregation",
+      "logsSource": "AWS",
+      "logsType": "AWSCloudTrail",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "First 100,000 CloudTrail events processed by Macie Classic are free",
+    "beginRange": "0",
+    "endRange": "100000",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Security Services - Macie Log Processing",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-EventsProcessing",
+      "operation": "",
+      "activityType": "Aggregation",
+      "logsSource": "AWS",
+      "logsType": "AWSCloudTrail",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$4 per 1 million CloudTrail events processed by Macie Classic",
+    "beginRange": "100000",
+    "endRange": "Inf",
+    "unit": "Events",
+    "pricePerUnit": {
+      "USD": "0.0000040000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Free Object Monitoring",
+      "usagetype": "USE1-FreeAutomatedObjectMonitoring",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.0 per 100K Objects for FreeAutomatedObjectMonitoring in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "Object-days",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Free Automated Sensitive Data Discovery",
+      "usagetype": "USE1-FreeAutomatedSensitiveDataDiscovery",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.0 per GB for Free Automated Sensitive Data Discovery in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Security Services - Macie Content Processing",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-S3ContentClassification",
+      "operation": "",
+      "activityType": "Classification",
+      "classificationType": "Full",
+      "contentSource": "AWS",
+      "contentType": "AmazonS3",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "First 1 GB of S3 content classified by Macie Classic is free",
+    "beginRange": "0",
+    "endRange": "1",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  },
+  {
+    "productFamily": "AWS Security Services - Macie Content Processing",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "USE1-S3ContentClassification",
+      "operation": "",
+      "activityType": "Classification",
+      "classificationType": "Full",
+      "contentSource": "AWS",
+      "contentType": "AmazonS3",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$5 per GB of S3 content classified by Macie Classic",
+    "beginRange": "1",
+    "endRange": "Inf",
+    "unit": "GB",
+    "pricePerUnit": {
+      "USD": "5.0000000000"
+    }
+  },
+  {
+    "productFamily": "Amazon Macie",
+    "attributes": {
+      "servicecode": "AmazonMacie",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "group": "Security Services - Amazon Macie Daily Usage",
+      "usagetype": "USE1-MacieDailyUsage",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "Amazon Macie"
+    },
+    "description": "$0.00 for Macie daily usage in US East (N. Virginia)",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "days",
+    "pricePerUnit": {
+      "USD": "0.0000000000"
+    }
+  }
+]

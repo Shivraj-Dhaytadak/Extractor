@@ -1,0 +1,146 @@
+[
+  {
+    "productFamily": "Extra Days",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Snowball-Extra-Days-Fee-Standard",
+      "feeDescription": "Fee for extra days of Snowball Standard",
+      "usagetype": "Snowball-Extra-Day-Charge",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Standard"
+    },
+    "description": "Snowball Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-SBE-C-ED",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "SBE Compute Optimized"
+    },
+    "description": "Snowball Edge Compute Optimized Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "125.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-SSD-Extra-Day",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Snowcone SSD"
+    },
+    "description": "Snowcone SSD Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "15.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-SBE-SO-V35S-Extra-Day",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Edge_V3_5S"
+    },
+    "description": "Snowball Edge Storage Optimized 210TB Extra Day Fee - Us-east-1 - N.Vriginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "250.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-SBE-EC2-Extra-Day",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Edge with EC2"
+    },
+    "description": "Snowball Edge Storage Optimized with EC2 Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "50.0000000000"
+    }
+  },
+  {
+    "productFamily": "Extra Days",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "feeCode": "Snowball-Extra-Days-Fee-Edge",
+      "feeDescription": "Fee for extra days of Snowball Edge",
+      "usagetype": "IAD-Snowball-Edge-Extra-Day",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Edge"
+    },
+    "description": "Snowball Edge Storage Optimized Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "day",
+    "pricePerUnit": {
+      "USD": "30.0000000000"
+    }
+  },
+  {
+    "productFamily": "N/A",
+    "attributes": {
+      "servicecode": "SnowballExtraDays",
+      "location": "US East (N. Virginia)",
+      "locationType": "AWS Region",
+      "usagetype": "IAD-Snowcone-Extra-Day",
+      "operation": "",
+      "regionCode": "us-east-1",
+      "servicename": "AWS Snowball Extra Days",
+      "snowballType": "Snowcone"
+    },
+    "description": "Snowcone Extra Day Fee - US-East-1 - N. Virginia",
+    "beginRange": "0",
+    "endRange": "Inf",
+    "unit": "days",
+    "pricePerUnit": {
+      "USD": "6.0000000000"
+    }
+  }
+]
