@@ -10,7 +10,9 @@ import os
 import json
 from pydantic import BaseModel
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import HumanMessage
+from langchain_ollama import ChatOllama
+
+from langchain_core.messages import HumanMessage , SystemMessage
 
 from langgraph.graph import StateGraph, END
 from langchain_core.runnables import RunnableLambda
@@ -22,6 +24,8 @@ gemini = ChatGoogleGenerativeAI(
     api_key="AIzaSyDPaPrhk1d9JDjWH-rnE4CdEWUgkWUgO7E",
     model="gemini-2.0-flash"
 )
+# gemini = ChatOllama(
+#     model="gemma3:4b")
 
 class Relation(BaseModel):
     target: str
@@ -37,6 +41,16 @@ class Service(BaseModel):
 
 class Diagram(BaseModel):
     services: List[Service]
+
+    def group_services(self) -> Dict[str, List[Service]]:
+        """Group services by their type or other criteria."""
+        grouped = {}
+        for service in self.services:
+            group_key = service.type  # Grouping by type, can be modified as needed
+            if group_key not in grouped:
+                grouped[group_key] = []
+            grouped[group_key].append(service)
+        return grouped
 
 class PricingService(Service):
     cost: float
@@ -159,60 +173,106 @@ def make_cost_node(user_inputs: Dict[str, Dict[str, Any]]):
 # -------------------------
 
 st.set_page_config(page_title="AWS Arch + Cost Analyzer", layout="centered")
-st.title("📊 AWS Architecture & Cost Analyzer")
 
-# 3.1 Upload and display diagram
-uploaded = st.file_uploader("Upload AWS diagram (PNG/JPG)", type=["png", "jpg", "jpeg"])
-if not uploaded:
-    st.info("Please upload an architecture diagram.")
-    st.stop()
-
-img = Image.open(uploaded)
-st.image(img, use_container_width=True)
-
-# Convert image to base64 for LLM input
-buffer = BytesIO()
-img.save(buffer, format="PNG")
-b64 = base64.b64encode(buffer.getvalue()).decode()
-
-msg = HumanMessage(content=[
-    {"type": "text", "text": "Extract all AWS services from this image."},
-    {"type": "image_url", "image_url": f"data:image/png;base64,{b64}"}
-])
-
-# 3.2 Extract services via Gemini
-with st.spinner("Extracting services..."):
-    diagram: Diagram = gemini.with_structured_output(Diagram).invoke([msg])
-    services = [s for s in diagram.services if s.type == "AWS service"]
-    st.success(f"Found {len(services)} AWS services.")
-
-if not services:
-    st.info("No AWS services found in the image.")
-    st.stop()
-
-# 3.3 Collect user inputs per service
+# Ensure navigation state and required session state keys are properly initialized
+if 'page' not in st.session_state:
+    st.session_state.page = 'extraction'
+if 'grouped_services' not in st.session_state:
+    st.session_state.grouped_services = {}
 if 'service_inputs' not in st.session_state:
     st.session_state.service_inputs = {}
+if 'current_group' not in st.session_state and st.session_state.grouped_services:
+    st.session_state.current_group = list(st.session_state.grouped_services.keys())[0]
 
-st.subheader("🧩 Configure Detected AWS Services")
-for service in services:
-    with st.expander(f"Configure {service.name}"):
-        description = st.text_area(
-            f"{service.name} Configuration Description",
-            key=f"desc_{service.name}",
-            placeholder="e.g. 5 million requests, 256MB memory, 500ms average duration"
-        )
-        if st.button(f"Save {service.name} Configuration", key=f"save_{service.name}"):
-            st.session_state.service_inputs[service.name] = {"description": description or ""}
-            st.success(f"Configuration for {service.name} saved.")
+# Page: Extraction
+if st.session_state.page == 'extraction':
+    st.title("📊 AWS Architecture & Cost Analyzer")
 
-# 3.4 Once inputs are provided, run cost analysis
+    # 3.1 Upload and display diagram
+    uploaded = st.file_uploader("Upload AWS diagram (PNG/JPG)", type=["png", "jpg", "jpeg"])
+    if not uploaded:
+        st.info("Please upload an architecture diagram.")
+        st.stop()
 
-if st.button("Run Cost Analysis"):
+    img = Image.open(uploaded)
+    st.image(img, use_container_width=True)
+
+    # Convert image to base64 for LLM input
+    buffer = BytesIO()
+    img.save(buffer, format="PNG")
+    b64 = base64.b64encode(buffer.getvalue()).decode()
+    sysmsg = SystemMessage(content="You are an expert in AWS architecture diagrams. Your task is to extract all AWS services from the provided image and group them based on there diagram context. Each service should include its name, type, description, account context, and any relations to other services.")
+    msg = HumanMessage(content=[
+        {"type": "text", "text": "Extract all AWS services from this image."},
+        {"type": "image_url", "image_url": f"data:image/png;base64,{b64}"}
+    ])
+
+    # 3.2 Extract services via Gemini
+    with st.spinner("Extracting services..."):
+        diagram: Diagram = gemini.with_structured_output(Diagram).invoke([sysmsg,msg])
+        grouped_services = diagram.group_services()
+        st.session_state.grouped_services = grouped_services
+        st.success(f"Found {sum(len(v) for v in grouped_services.values())} AWS services across {len(grouped_services)} groups.")
+
+    if not grouped_services:
+        st.info("No AWS services found in the image.")
+        st.stop()
+
+    # Use session state to handle button click
+    if st.button("Proceed to Service Configuration"):
+        st.session_state.page = 'configuration'
+        st.rerun()
+
+# Page: Configuration
+elif st.session_state.page == 'configuration':
+    st.title("🧩 Configure Detected AWS Services")
+
+    current_group = st.session_state.current_group
+    services_in_group = st.session_state.grouped_services.get(current_group, [])
+
+    st.subheader(f"Configure Services in Group: {current_group}")
+
+    for idx, service in enumerate(services_in_group):
+        with st.expander(f"Configure {service.name}"):
+            description = st.text_area(
+                f"{service.name} Configuration Description",
+                key=f"desc_{service.name}_{idx}",  # Append index to ensure unique keys
+                placeholder="e.g. 5 million requests, 256MB memory, 500ms average duration"
+            )
+            if st.button(f"Save {service.name} Configuration", key=f"save_{service.name}_{idx}"):
+                st.session_state.service_inputs[f"{service.name}_{idx}"] = {"description": description or ""}
+                st.success(f"Configuration for {service.name} saved.")
+
+    # Navigation between groups
+    group_keys = list(st.session_state.grouped_services.keys())
+    current_index = group_keys.index(current_group)
+
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("Previous Group") and current_index > 0:
+            st.session_state.current_group = group_keys[current_index - 1]
+            st.rerun()
+    with col2:
+        if st.button("Next Group") and current_index < len(group_keys) - 1:
+            st.session_state.current_group = group_keys[current_index + 1]
+            st.rerun()
+
+    # Button to proceed to cost analysis
+    if current_index == len(group_keys) - 1:
+        if st.button("Run Cost Analysis"):
+            st.session_state.page = 'cost_analysis'
+            st.rerun()
+
+# Page: Cost Analysis
+elif st.session_state.page == 'cost_analysis':
+    st.title("💰 Cost Analysis")
+
     # Ensure each service has a config; if missing, default to empty description
     user_inputs: Dict[str, Dict[str, Any]] = {}
-    for s in services:
-        user_inputs[s.name] = st.session_state.service_inputs.get(s.name, {"description": ""})
+    for group, services in st.session_state.grouped_services.items():
+        for idx, service in enumerate(services):
+            key = f"{service.name}_{idx}"
+            user_inputs[service.name] = st.session_state.service_inputs.get(key, {"description": ""})
 
     # Build and run LangGraph with the cost node factory
     cost_node_fn = make_cost_node(user_inputs)
@@ -223,7 +283,7 @@ if st.button("Run Cost Analysis"):
     graph.add_conditional_edges("cost", lambda s: END if not s["queue"] else "cost")
     cost_runner = graph.compile(debug=True)
 
-    initial_state = PricingState(queue=services, completed=[])
+    initial_state = PricingState(queue=[s for services in st.session_state.grouped_services.values() for s in services], completed=[])
     final_state = cost_runner.invoke(initial_state)
 
     # Build DataFrame for display
