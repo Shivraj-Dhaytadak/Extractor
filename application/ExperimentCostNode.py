@@ -38,6 +38,7 @@ class Service(BaseModel):
     account_context: str
     count: int
     relations: List[Relation]
+    unique_id: Optional[str] = None  # Add unique_id field with default None
 
 class Diagram(BaseModel):
     services: List[Service]
@@ -142,15 +143,31 @@ class PricingState(TypedDict):
 
 
 def compute_cost(service: Service, config: Dict[str, Any]) -> Cost:
+    # Get the original service name from config if available
+    service_name = config.get("service_name", service.name)
+    
+    # Clean the service name for file lookup (remove spaces and special characters)
+    clean_name = service_name.lower().replace(" ", "").replace("-", "").replace("_", "")
+    
+    # List of possible JSON file names
+    possible_names = [
+        f"{clean_name}.json",
+        f"amazon{clean_name}.json",
+        f"aws{clean_name}.json"
+    ]
+    
+    # Search for the JSON file in the json directory
     dirname = os.path.join(os.path.dirname(__file__), "json")
-    print(dirname)
-    json_filename = f"{service.name.replace(' ', '')}.json"
-    print(json_filename)
-    json_path = os.path.join(dirname, json_filename)
-    print(json_path)
-
-    if not os.path.exists(json_path):
-        return Cost(cost=0.0, explanation="Service not supported or JSON file missing.")
+    json_path = None
+    
+    for name in possible_names:
+        temp_path = os.path.join(dirname, name)
+        if os.path.exists(temp_path):
+            json_path = temp_path
+            break
+            
+    if not json_path:
+        return Cost(cost=0.0, explanation=f"Service pricing not found for {service_name}. Please ensure the pricing JSON file exists.")
 
     with open(json_path, "r", encoding="utf-8") as f:
         contents = f.read()
@@ -160,7 +177,7 @@ def compute_cost(service: Service, config: Dict[str, Any]) -> Cost:
         {
             "type": "text",
             "text": (
-                f"Given the {service.name} service with configuration: {user_desc}, "
+                f"Given the {service_name} service with configuration: {user_desc}, "
                 "compute the total monthly cost while explicitly ignoring any Free Tier pricing. "
                 "Provide a detailed breakdown of the cost calculations."
             )
@@ -174,13 +191,14 @@ def compute_cost(service: Service, config: Dict[str, Any]) -> Cost:
     return gemini.with_structured_output(Cost).invoke([msg])
 
 
-def make_cost_node(user_inputs: Dict[str, Dict[str, Any]]):
+def make_cost_node(user_inputs: Dict[str, Dict[str, Any]]):    
     def cost_node(state: PricingState) -> PricingState:
         if not state["queue"]:
             return state
         current = state["queue"][0]
         rest = state["queue"][1:]
-        config = user_inputs.get(current.name, {})
+        # Use unique_id to get the correct configuration for this specific instance
+        config = user_inputs.get(current.unique_id, {}) if current.unique_id else user_inputs.get(current.name, {})
         cost = compute_cost(current, config)
         new = PricingService(**current.model_dump(),
                              cost=cost.cost,
@@ -252,11 +270,11 @@ elif st.session_state.page == 'configuration':
     if 'configured_services' not in st.session_state:
         st.session_state.configured_services = []
 
-    # Flatten all remaining services into a single list
+    # Flatten all remaining services into a single list with unique identifiers
     all_services = [
-        (group, service)
+        (group, service, f"{service.name}_{i}")
         for group, services in st.session_state.grouped_services.items()
-        for service in services
+        for i, service in enumerate(services)
     ]
 
     if not all_services:  # If no more services to configure
@@ -266,13 +284,13 @@ elif st.session_state.page == 'configuration':
             st.rerun()
     else:
         # Dropdown for selecting a service to configure
-        service_options = [f"{service.name} ({group})" for group, service in all_services]
+        service_options = [f"{service.name} ({group})" for group, service, _ in all_services]
         selected_service = st.selectbox("Select a service to configure", service_options)
 
         if selected_service:
-            # Extract the selected service and group
-            selected_group, selected_service_obj = next(
-                (group, service) for group, service in all_services
+            # Extract the selected service, group and unique_id
+            selected_group, selected_service_obj, unique_id = next(
+                (group, service, uid) for group, service, uid in all_services
                 if f"{service.name} ({group})" == selected_service
             )
 
@@ -280,14 +298,19 @@ elif st.session_state.page == 'configuration':
             with st.expander(f"Configure {selected_service_obj.name}", expanded=True):
                 description = st.text_area(
                     f"{selected_service_obj.name} Configuration Description",
-                    key=f"desc_{selected_service_obj.name}",
+                    key=f"desc_{unique_id}",
                     placeholder="e.g. 5 million requests, 256MB memory, 500ms average duration"
                 )
                 if st.button(f"Save {selected_service_obj.name} Configuration"):
-                    # Save the configuration
-                    st.session_state.service_inputs[selected_service_obj.name] = {"description": description or ""}
-                    # Add to configured services
-                    st.session_state.configured_services.append(selected_service_obj)
+                    # Save the configuration with unique ID
+                    st.session_state.service_inputs[unique_id] = {
+                        "description": description or "",
+                        "service_name": selected_service_obj.name
+                    }                    # Create a new service object with the unique_id
+                    service_data = selected_service_obj.model_dump()
+                    service_data['unique_id'] = unique_id
+                    configured_service = Service(**service_data)
+                    st.session_state.configured_services.append(configured_service)
                     # Remove from grouped services
                     st.session_state.grouped_services[selected_group].remove(selected_service_obj)
                     if not st.session_state.grouped_services[selected_group]:
@@ -309,7 +332,36 @@ elif st.session_state.page == 'cost_analysis':
         # Use configured services for cost analysis
         user_inputs: Dict[str, Dict[str, Any]] = {}
         for service in st.session_state.configured_services:
-            user_inputs[service.name] = st.session_state.service_inputs.get(service.name, {"description": ""})
+            # Use unique_id to look up configuration
+            if service.unique_id:
+                user_inputs[service.name] = st.session_state.service_inputs.get(service.unique_id, {
+                    "description": "",
+                    "service_name": service.name
+                })
+
+        # Update make_cost_node to use unique_ids
+        def make_cost_node(user_inputs: Dict[str, Dict[str, Any]]):
+            def cost_node(state: PricingState) -> PricingState:
+                if not state["queue"]:
+                    return state
+                current = state["queue"][0]
+                rest = state["queue"][1:]
+                
+                # Get configuration using unique_id
+                if current.unique_id:
+                    config = st.session_state.service_inputs.get(current.unique_id, {
+                        "description": "",
+                        "service_name": current.name
+                    })
+                else:
+                    config = user_inputs.get(current.name, {})
+                
+                cost = compute_cost(current, config)
+                new = PricingService(**current.model_dump(),
+                                   cost=cost.cost,
+                                   explanation=cost.explanation or "No explanation provided")
+                return PricingState(queue=rest, completed=state["completed"] + [new])
+            return cost_node
 
         # Build and run LangGraph with the cost node factory
         cost_node_fn = make_cost_node(user_inputs)
@@ -327,7 +379,7 @@ elif st.session_state.page == 'cost_analysis':
         df_state = pd.DataFrame(
             [
                 {
-                    "Service": s.name,
+                    "Service": f"{s.name} ({s.unique_id})" if s.unique_id else s.name,
                     "Cost (Monthly USD)": f"${s.cost:.2f}",
                     "Cost (Yearly USD)": f"${s.cost * 12:.2f}",
                     "Status": "Completed",
@@ -337,7 +389,7 @@ elif st.session_state.page == 'cost_analysis':
             ] +
             [
                 {
-                    "Service": s.name,
+                    "Service": f"{s.name} ({s.unique_id})" if s.unique_id else s.name,
                     "Cost (Monthly USD)": "",
                     "Cost (Yearly USD)": "",
                     "Status": "Pending"
