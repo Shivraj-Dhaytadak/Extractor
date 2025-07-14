@@ -40,7 +40,7 @@ def process_directory(input_dir, output_dir):
     for file_name in os.listdir(input_dir):
         if file_name.lower().endswith(".json"):
             input_path = os.path.join(input_dir, file_name)
-            output_filename = clean_filename(file_name)
+            output_filename = clean_filename(file_name).lower()
             output_path = os.path.join(output_dir, output_filename)
 
             try:

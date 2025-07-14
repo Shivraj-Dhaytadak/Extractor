@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSDataTransfer",
-  "version" : "20250505215631",
-  "publicationDate" : "2025-05-05T21:56:31Z",
+  "version" : "20250605175536",
+  "publicationDate" : "2025-06-05T17:55:36Z",
   "products" : {
     "H5E9YMCWD6EFJMVB" : {
       "sku" : "H5E9YMCWD6EFJMVB",
@@ -1127,6 +1127,23 @@
         "toRegionCode" : "us-east-2"
       }
     },
+    "DHRQB72BF9B9DE8M" : {
+      "sku" : "DHRQB72BF9B9DE8M",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
+      }
+    },
     "YEA9B958JHTCC9WV" : {
       "sku" : "YEA9B958JHTCC9WV",
       "productFamily" : "Data Transfer",
@@ -1346,6 +1363,23 @@
         "fromRegionCode" : "us-west-1",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "us-east-1"
+      }
+    },
+    "QZSQUUQH72NAQ242" : {
+      "sku" : "QZSQUUQH72NAQ242",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound using edge locations within US, Europe or Japan",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-Out-ABytes-T1",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
       }
     },
     "EEVCZHBBK79328V5" : {
@@ -2844,6 +2878,23 @@
         "toRegionCode" : "af-south-1-los-1"
       }
     },
+    "5PCTUZM3CZ52FEWJ" : {
+      "sku" : "5PCTUZM3CZ52FEWJ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound using edge locations outside US, Europe or Japan",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-In-ABytes-T2",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
+      }
+    },
     "CMVYT8WN77UUCF76" : {
       "sku" : "CMVYT8WN77UUCF76",
       "productFamily" : "Data Transfer",
@@ -4085,6 +4136,23 @@
         "toRegionCode" : "ap-northeast-2"
       }
     },
+    "ZK3WV5HWB7A864EJ" : {
+      "sku" : "ZK3WV5HWB7A864EJ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
     "5BZ2YFMJZHFCYG6J" : {
       "sku" : "5BZ2YFMJZHFCYG6J",
       "productFamily" : "Data Transfer",
@@ -4510,6 +4578,23 @@
         "toRegionCode" : "ap-east-1"
       }
     },
+    "AF7J3WXSAEUVT39Q" : {
+      "sku" : "AF7J3WXSAEUVT39Q",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound from close by location",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-Out-ABytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
+      }
+    },
     "YNTAMXJQ2UR3ZHHK" : {
       "sku" : "YNTAMXJQ2UR3ZHHK",
       "productFamily" : "Data Transfer",
@@ -4797,6 +4882,23 @@
         "fromRegionCode" : "us-east-1",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "ap-south-1-ccu-1"
+      }
+    },
+    "P3336KKFR32MBNAM" : {
+      "sku" : "P3336KKFR32MBNAM",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound using edge locations outside US, Europe or Japan",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-Out-ABytes-T2",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
       }
     },
     "8CZY8BDW7YY4NRU3" : {
@@ -5938,6 +6040,23 @@
         "toRegionCode" : "us-east-1"
       }
     },
+    "GWKQ3HJA4VXGNQ56" : {
+      "sku" : "GWKQ3HJA4VXGNQ56",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
     "XYWDKWWF2DC9UEMZ" : {
       "sku" : "XYWDKWWF2DC9UEMZ",
       "productFamily" : "Data Transfer",
@@ -6907,6 +7026,23 @@
         "toRegionCode" : "us-west-2-lax-1"
       }
     },
+    "KB4QJFDRSNVSZVY2" : {
+      "sku" : "KB4QJFDRSNVSZVY2",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound using edge locations outside US, Europe or Japan",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-Out-ABytes-T2",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
     "SP8VCJSNX64ESCM8" : {
       "sku" : "SP8VCJSNX64ESCM8",
       "productFamily" : "Data Transfer",
@@ -7041,6 +7177,23 @@
         "fromRegionCode" : "us-east-1",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "eu-west-3"
+      }
+    },
+    "5YA55EHJ5VWXTQ9X" : {
+      "sku" : "5YA55EHJ5VWXTQ9X",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
       }
     },
     "5TKGBUBGN9GPFT8P" : {
@@ -8233,6 +8386,23 @@
         "toRegionCode" : "ap-southeast-1"
       }
     },
+    "GD9837S3GMGMPHKU" : {
+      "sku" : "GD9837S3GMGMPHKU",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound from close by location",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-Out-ABytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
     "PAV3TCYGE4N3YT8E" : {
       "sku" : "PAV3TCYGE4N3YT8E",
       "productFamily" : "Data Transfer",
@@ -9355,6 +9525,23 @@
         "toRegionCode" : "eu-west-3"
       }
     },
+    "UUMR82D4PAUVW84S" : {
+      "sku" : "UUMR82D4PAUVW84S",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound using edge locations within US, Europe or Japan",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-In-ABytes-T1",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
+      }
+    },
     "P6XTJN72ADTEEZM9" : {
       "sku" : "P6XTJN72ADTEEZM9",
       "productFamily" : "Data Transfer",
@@ -9963,6 +10150,23 @@
         "usagetype" : "HEL1-USE1-AWS-In-ABytes-T1",
         "operation" : "",
         "fromRegionCode" : "eu-north-1-hel-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "Q3NT5HUEVTP6N46C" : {
+      "sku" : "Q3NT5HUEVTP6N46C",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound using edge locations within US, Europe or Japan",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-In-ABytes-T1",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "us-east-1"
       }
@@ -11682,6 +11886,23 @@
         "fromRegionCode" : "us-east-1",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "ap-northeast-1-tpe-1"
+      }
+    },
+    "U4UQ4D2NAJXWJ3WJ" : {
+      "sku" : "U4UQ4D2NAJXWJ3WJ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound from close by location",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-AWS-In-ABytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "ap-east-2"
       }
     },
     "89YW8TCQTS8MREHR" : {
@@ -14727,6 +14948,23 @@
         "toRegionCode" : "af-south-1-los-1"
       }
     },
+    "NPZ93E7UW8YXQDN4" : {
+      "sku" : "NPZ93E7UW8YXQDN4",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Outbound using edge locations within US, Europe or Japan",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-Out-ABytes-T1",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
     "46CVPCNHA6C2JG7K" : {
       "sku" : "46CVPCNHA6C2JG7K",
       "productFamily" : "Data Transfer",
@@ -15233,6 +15471,23 @@
         "usagetype" : "CAN1-USE1-AWS-Out-Bytes",
         "operation" : "",
         "fromRegionCode" : "ca-central-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "NEHG8B6RCJ8B74GB" : {
+      "sku" : "NEHG8B6RCJ8B74GB",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound from close by location",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-In-ABytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "us-east-1"
       }
@@ -16491,6 +16746,23 @@
         "usagetype" : "PHX1-USE1-AWS-Out-Bytes",
         "operation" : "",
         "fromRegionCode" : "us-west-2-phx-1",
+        "servicename" : "AWS Data Transfer",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "T973XM8EQ2UESHFZ" : {
+      "sku" : "T973XM8EQ2UESHFZ",
+      "productFamily" : "Data Transfer",
+      "attributes" : {
+        "servicecode" : "AWSDataTransfer",
+        "transferType" : "Accelerated InterRegion Inbound using edge locations outside US, Europe or Japan",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-AWS-In-ABytes-T2",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
         "servicename" : "AWS Data Transfer",
         "toRegionCode" : "us-east-1"
       }
@@ -19338,6 +19610,27 @@
           "termAttributes" : { }
         }
       },
+      "5PCTUZM3CZ52FEWJ" : {
+        "5PCTUZM3CZ52FEWJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5PCTUZM3CZ52FEWJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5PCTUZM3CZ52FEWJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5PCTUZM3CZ52FEWJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "Q3A9USK3TCA5E7KW" : {
         "Q3A9USK3TCA5E7KW.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -20106,6 +20399,27 @@
           "termAttributes" : { }
         }
       },
+      "DHRQB72BF9B9DE8M" : {
+        "DHRQB72BF9B9DE8M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DHRQB72BF9B9DE8M",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DHRQB72BF9B9DE8M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DHRQB72BF9B9DE8M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (N. Virginia) data transfer from Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "J5F97VTUKDBTW8X5" : {
         "J5F97VTUKDBTW8X5.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -20304,6 +20618,27 @@
             "63BS2Z6YM78TBUFH.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "63BS2Z6YM78TBUFH.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - India (Kolkata) Amazon S3 accelerated data transfer to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AF7J3WXSAEUVT39Q" : {
+        "AF7J3WXSAEUVT39Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AF7J3WXSAEUVT39Q",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AF7J3WXSAEUVT39Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AF7J3WXSAEUVT39Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -20883,6 +21218,27 @@
           "termAttributes" : { }
         }
       },
+      "5YA55EHJ5VWXTQ9X" : {
+        "5YA55EHJ5VWXTQ9X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5YA55EHJ5VWXTQ9X",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5YA55EHJ5VWXTQ9X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5YA55EHJ5VWXTQ9X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - US East (N. Virginia) data transfer to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "49E2QHYFD4ECSP9K" : {
         "49E2QHYFD4ECSP9K.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -20913,6 +21269,27 @@
             "XTJ6X8ER3WM2C58D.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "XTJ6X8ER3WM2C58D.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - US East (Northern Virginia) Amazon S3 accelerated data transfer to South America (Sao Paulo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T973XM8EQ2UESHFZ" : {
+        "T973XM8EQ2UESHFZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T973XM8EQ2UESHFZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "T973XM8EQ2UESHFZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T973XM8EQ2UESHFZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -21123,6 +21500,27 @@
             "B7KB7GWW9AC27WUT.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "B7KB7GWW9AC27WUT.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - EU (Germany) Amazon S3 accelerated data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P3336KKFR32MBNAM" : {
+        "P3336KKFR32MBNAM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P3336KKFR32MBNAM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "P3336KKFR32MBNAM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P3336KKFR32MBNAM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -21900,6 +22298,27 @@
             "DCJ9PQPS73GB5KW9.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "DCJ9PQPS73GB5KW9.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - Asia Pacific (Singapore) Amazon S3 accelerated data transfer to US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q3NT5HUEVTP6N46C" : {
+        "Q3NT5HUEVTP6N46C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q3NT5HUEVTP6N46C",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q3NT5HUEVTP6N46C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q3NT5HUEVTP6N46C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -24768,6 +25187,27 @@
           "termAttributes" : { }
         }
       },
+      "KB4QJFDRSNVSZVY2" : {
+        "KB4QJFDRSNVSZVY2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KB4QJFDRSNVSZVY2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KB4QJFDRSNVSZVY2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KB4QJFDRSNVSZVY2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "994QEN5SK9FXNU3J" : {
         "994QEN5SK9FXNU3J.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -25083,6 +25523,27 @@
           "termAttributes" : { }
         }
       },
+      "ZK3WV5HWB7A864EJ" : {
+        "ZK3WV5HWB7A864EJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZK3WV5HWB7A864EJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZK3WV5HWB7A864EJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZK3WV5HWB7A864EJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Taipei) data transfer from US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "TT64TJQCPFZYUNPM" : {
         "TT64TJQCPFZYUNPM.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -25160,6 +25621,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U4UQ4D2NAJXWJ3WJ" : {
+        "U4UQ4D2NAJXWJ3WJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4UQ4D2NAJXWJ3WJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4UQ4D2NAJXWJ3WJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4UQ4D2NAJXWJ3WJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
               },
               "appliesTo" : [ ]
             }
@@ -25286,6 +25768,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0860000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NEHG8B6RCJ8B74GB" : {
+        "NEHG8B6RCJ8B74GB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NEHG8B6RCJ8B74GB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NEHG8B6RCJ8B74GB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NEHG8B6RCJ8B74GB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
               },
               "appliesTo" : [ ]
             }
@@ -26784,6 +27287,27 @@
           "termAttributes" : { }
         }
       },
+      "GWKQ3HJA4VXGNQ56" : {
+        "GWKQ3HJA4VXGNQ56.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GWKQ3HJA4VXGNQ56",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GWKQ3HJA4VXGNQ56.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GWKQ3HJA4VXGNQ56.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB - Asia Pacific (Taipei) data transfer to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "W5DN252RZAQ78N4M" : {
         "W5DN252RZAQ78N4M.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -27045,6 +27569,27 @@
             "Q4VYDT3WVXH9CV48.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "Q4VYDT3WVXH9CV48.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - Finland (Helsinki) Amazon S3 accelerated data transfer from US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GD9837S3GMGMPHKU" : {
+        "GD9837S3GMGMPHKU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GD9837S3GMGMPHKU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GD9837S3GMGMPHKU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GD9837S3GMGMPHKU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -35373,6 +35918,27 @@
           "termAttributes" : { }
         }
       },
+      "QZSQUUQH72NAQ242" : {
+        "QZSQUUQH72NAQ242.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QZSQUUQH72NAQ242",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QZSQUUQH72NAQ242.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QZSQUUQH72NAQ242.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "PYGPVTGGW5GRFAPU" : {
         "PYGPVTGGW5GRFAPU.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -36465,6 +37031,27 @@
           "termAttributes" : { }
         }
       },
+      "UUMR82D4PAUVW84S" : {
+        "UUMR82D4PAUVW84S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UUMR82D4PAUVW84S",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UUMR82D4PAUVW84S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UUMR82D4PAUVW84S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - US East (N. Virginia) Amazon S3 accelerated data transfer to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "CN3VDMCXRZJXZ9RC" : {
         "CN3VDMCXRZJXZ9RC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -37020,6 +37607,27 @@
             "M4M4WMB5GD7ATU3H.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "M4M4WMB5GD7ATU3H.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.040 per GB - Taiwan (Taipei) Amazon S3 accelerated data transfer from US East (Northern Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NPZ93E7UW8YXQDN4" : {
+        "NPZ93E7UW8YXQDN4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NPZ93E7UW8YXQDN4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "NPZ93E7UW8YXQDN4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NPZ93E7UW8YXQDN4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04 per GB - Asia Pacific (Taipei) Amazon S3 accelerated data transfer to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",

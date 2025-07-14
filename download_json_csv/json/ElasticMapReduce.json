@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "ElasticMapReduce",
-  "version" : "20250522174621",
-  "publicationDate" : "2025-05-22T17:46:21Z",
+  "version" : "20250605175715",
+  "publicationDate" : "2025-06-05T17:57:15Z",
   "products" : {
     "Q8PS6T57ACHFNU5H" : {
       "sku" : "Q8PS6T57ACHFNU5H",
@@ -623,6 +623,22 @@
         "instanceType" : "x1e.2xlarge",
         "instanceFamily" : "Memory optimized",
         "usagetype" : "BoxUsage:x1e.2xlarge",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Elastic MapReduce",
+        "softwareType" : "EMR"
+      }
+    },
+    "RY8Z3EESB9WHK366" : {
+      "sku" : "RY8Z3EESB9WHK366",
+      "productFamily" : "Elastic Map Reduce Instance",
+      "attributes" : {
+        "servicecode" : "ElasticMapReduce",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "instanceType" : "i8g.48xlarge",
+        "instanceFamily" : "Storage optimized",
+        "usagetype" : "BoxUsage:i8g.48xlarge",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Elastic MapReduce",
@@ -25374,6 +25390,27 @@
               "unit" : "Hrs",
               "pricePerUnit" : {
                 "USD" : "1.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RY8Z3EESB9WHK366" : {
+        "RY8Z3EESB9WHK366.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RY8Z3EESB9WHK366",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RY8Z3EESB9WHK366.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RY8Z3EESB9WHK366.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$4.1184 per hour for EMR i8g.48xlarge",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.1184000000"
               },
               "appliesTo" : [ ]
             }

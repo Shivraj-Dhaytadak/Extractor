@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSNetworkFirewall",
-  "version" : "20250326210920",
-  "publicationDate" : "2025-03-26T21:09:20Z",
+  "version" : "20250528194033",
+  "publicationDate" : "2025-05-28T19:40:33Z",
   "products" : {
     "M2YB3S9RC6PQZW4H" : {
       "sku" : "M2YB3S9RC6PQZW4H",
@@ -60,6 +60,20 @@
         "servicename" : "AWS Network Firewall",
         "subcategory" : "Endpoint"
       }
+    },
+    "VMYHJJHQX9MR5ZJZ" : {
+      "sku" : "VMYHJJHQX9MR5ZJZ",
+      "productFamily" : "AWS Firewall",
+      "attributes" : {
+        "servicecode" : "AWSNetworkFirewall",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Secondary-Endpoint-Hour",
+        "operation" : "Operation:Metering",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Network Firewall",
+        "subcategory" : "Endpoint-Secondary"
+      }
     }
   },
   "terms" : {
@@ -78,6 +92,27 @@
               "unit" : "Hourly",
               "pricePerUnit" : {
                 "USD" : "0.3800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VMYHJJHQX9MR5ZJZ" : {
+        "VMYHJJHQX9MR5ZJZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VMYHJJHQX9MR5ZJZ",
+          "effectiveDate" : "2025-03-01T00:00:00Z",
+          "priceDimensions" : {
+            "VMYHJJHQX9MR5ZJZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VMYHJJHQX9MR5ZJZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.158 per secondary endpoint hour for AWS Network Firewall in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.1580000000"
               },
               "appliesTo" : [ ]
             }

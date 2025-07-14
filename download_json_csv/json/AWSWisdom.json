@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSWisdom",
-  "version" : "20250408205332",
-  "publicationDate" : "2025-04-08T20:53:32Z",
+  "version" : "20250606135105",
+  "publicationDate" : "2025-06-06T13:51:05Z",
   "products" : {
     "9JXSRTU686J53UVZ" : {
       "sku" : "9JXSRTU686J53UVZ",
@@ -35,6 +35,22 @@
         "servicename" : "Q in Connect"
       }
     },
+    "24KZ5QEMGB3D5E6N" : {
+      "sku" : "24KZ5QEMGB3D5E6N",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-QinConnectAgentAssistanceTask",
+        "operation" : "AgentAssistanceTask",
+        "connectchannel" : "Task",
+        "electron" : "ai-",
+        "mode" : "AgentAssistance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
     "TVA55WF6HRUKP4AD" : {
       "sku" : "TVA55WF6HRUKP4AD",
       "productFamily" : "AmazonConnect",
@@ -47,6 +63,100 @@
         "connectchannel" : "Voice",
         "electron" : "ai-",
         "mode" : "SelfService",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "N78FX2MUJ452EBGJ" : {
+      "sku" : "N78FX2MUJ452EBGJ",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QinConnectAgentAssistanceTask",
+        "operation" : "AgentAssistanceTask",
+        "connectchannel" : "Task",
+        "electron" : "None",
+        "mode" : "AgentAssistance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "8UPXJ5FF9W65ED6T" : {
+      "sku" : "8UPXJ5FF9W65ED6T",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QinConnectAgentAssistanceEmail",
+        "operation" : "AgentAssistanceEmail",
+        "connectchannel" : "Email",
+        "electron" : "None",
+        "mode" : "AgentAssistance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "ZDTRZB6SJRB9M76J" : {
+      "sku" : "ZDTRZB6SJRB9M76J",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-QinConnectAgents",
+        "operation" : "AgentUsage",
+        "electron" : "ai-",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "CU8H8837NS2PBG7E" : {
+      "sku" : "CU8H8837NS2PBG7E",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QinConnectAgentAssistanceVoice",
+        "operation" : "AgentAssistanceVoice",
+        "connectchannel" : "Voice",
+        "electron" : "None",
+        "mode" : "AgentAssistance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "X7QXB6AAHFNUWRWB" : {
+      "sku" : "X7QXB6AAHFNUWRWB",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QinConnectSelfServiceEmail",
+        "operation" : "SelfServiceEmail",
+        "connectchannel" : "Email",
+        "electron" : "None",
+        "mode" : "SelfService",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "BGDPG6X5GY2ST2VQ" : {
+      "sku" : "BGDPG6X5GY2ST2VQ",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-QinConnectAgentAssistanceChat",
+        "operation" : "AgentAssistanceChat",
+        "connectchannel" : "Chat",
+        "electron" : "None",
+        "mode" : "AgentAssistance",
         "regionCode" : "us-east-1",
         "servicename" : "Q in Connect"
       }
@@ -83,16 +193,34 @@
         "servicename" : "Q in Connect"
       }
     },
-    "ZDTRZB6SJRB9M76J" : {
-      "sku" : "ZDTRZB6SJRB9M76J",
+    "ZK766RCE6JVS629K" : {
+      "sku" : "ZK766RCE6JVS629K",
       "productFamily" : "AmazonConnect",
       "attributes" : {
         "servicecode" : "AWSWisdom",
         "location" : "US East (N. Virginia)",
         "locationType" : "AWS Region",
-        "usagetype" : "USE1-ai-QinConnectAgents",
-        "operation" : "AgentUsage",
+        "usagetype" : "USE1-ai-QinConnectAgentAssistanceChat",
+        "operation" : "AgentAssistanceChat",
+        "connectchannel" : "Chat",
         "electron" : "ai-",
+        "mode" : "AgentAssistance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "SG4P8GSXWKS96KYG" : {
+      "sku" : "SG4P8GSXWKS96KYG",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-QinConnectAgentAssistanceEmail",
+        "operation" : "AgentAssistanceEmail",
+        "connectchannel" : "Email",
+        "electron" : "ai-",
+        "mode" : "AgentAssistance",
         "regionCode" : "us-east-1",
         "servicename" : "Q in Connect"
       }
@@ -106,6 +234,22 @@
         "locationType" : "AWS Region",
         "usagetype" : "USE1-QinConnectAgentsTrial",
         "operation" : "AgentUsageTrial",
+        "regionCode" : "us-east-1",
+        "servicename" : "Q in Connect"
+      }
+    },
+    "KBPTTAVQF3QFVW2V" : {
+      "sku" : "KBPTTAVQF3QFVW2V",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AWSWisdom",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-QinConnectAgentAssistanceVoice",
+        "operation" : "AgentAssistanceVoice",
+        "connectchannel" : "Voice",
+        "electron" : "ai-",
+        "mode" : "AgentAssistance",
         "regionCode" : "us-east-1",
         "servicename" : "Q in Connect"
       }
@@ -130,7 +274,7 @@
         "NRBVSKA9N6BFSC42.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "NRBVSKA9N6BFSC42",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "NRBVSKA9N6BFSC42.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "NRBVSKA9N6BFSC42.JRTCKXETXF.6YS6EN2CT7",
@@ -147,11 +291,32 @@
           "termAttributes" : { }
         }
       },
+      "SG4P8GSXWKS96KYG" : {
+        "SG4P8GSXWKS96KYG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SG4P8GSXWKS96KYG",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "SG4P8GSXWKS96KYG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SG4P8GSXWKS96KYG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Emails for USE1-ai-QinConnectAgentAssistanceEmail in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Emails",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "W9U5CCKGDBV7H4SN" : {
         "W9U5CCKGDBV7H4SN.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "W9U5CCKGDBV7H4SN",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "W9U5CCKGDBV7H4SN.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "W9U5CCKGDBV7H4SN.JRTCKXETXF.6YS6EN2CT7",
@@ -172,7 +337,7 @@
         "6J88GSBJS65YEXJP.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "6J88GSBJS65YEXJP",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "6J88GSBJS65YEXJP.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "6J88GSBJS65YEXJP.JRTCKXETXF.6YS6EN2CT7",
@@ -189,11 +354,32 @@
           "termAttributes" : { }
         }
       },
+      "BGDPG6X5GY2ST2VQ" : {
+        "BGDPG6X5GY2ST2VQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BGDPG6X5GY2ST2VQ",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "BGDPG6X5GY2ST2VQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BGDPG6X5GY2ST2VQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0015 per Chats for USE1-QinConnectAgentAssistanceChat in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Chats",
+              "pricePerUnit" : {
+                "USD" : "0.0015000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "TVA55WF6HRUKP4AD" : {
         "TVA55WF6HRUKP4AD.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "TVA55WF6HRUKP4AD",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "TVA55WF6HRUKP4AD.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "TVA55WF6HRUKP4AD.JRTCKXETXF.6YS6EN2CT7",
@@ -210,11 +396,53 @@
           "termAttributes" : { }
         }
       },
+      "8UPXJ5FF9W65ED6T" : {
+        "8UPXJ5FF9W65ED6T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8UPXJ5FF9W65ED6T",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "8UPXJ5FF9W65ED6T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8UPXJ5FF9W65ED6T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per Emails for USE1-QinConnectAgentAssistanceEmail in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Emails",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZK766RCE6JVS629K" : {
+        "ZK766RCE6JVS629K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZK766RCE6JVS629K",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZK766RCE6JVS629K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZK766RCE6JVS629K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Chats for USE1-ai-QinConnectAgentAssistanceChat in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Chats",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "T7R8Y42JJVUTHY98" : {
         "T7R8Y42JJVUTHY98.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "T7R8Y42JJVUTHY98",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "T7R8Y42JJVUTHY98.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "T7R8Y42JJVUTHY98.JRTCKXETXF.6YS6EN2CT7",
@@ -231,11 +459,32 @@
           "termAttributes" : { }
         }
       },
+      "X7QXB6AAHFNUWRWB" : {
+        "X7QXB6AAHFNUWRWB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X7QXB6AAHFNUWRWB",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "X7QXB6AAHFNUWRWB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X7QXB6AAHFNUWRWB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per Emails for USE1-QinConnectSelfServiceEmail in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Emails",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "7V43MNAHAR5C5AQE" : {
         "7V43MNAHAR5C5AQE.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "7V43MNAHAR5C5AQE",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "7V43MNAHAR5C5AQE.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "7V43MNAHAR5C5AQE.JRTCKXETXF.6YS6EN2CT7",
@@ -252,11 +501,95 @@
           "termAttributes" : { }
         }
       },
+      "CU8H8837NS2PBG7E" : {
+        "CU8H8837NS2PBG7E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CU8H8837NS2PBG7E",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "CU8H8837NS2PBG7E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CU8H8837NS2PBG7E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per Minutes for USE1-QinConnectAgentAssistanceVoice in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N78FX2MUJ452EBGJ" : {
+        "N78FX2MUJ452EBGJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N78FX2MUJ452EBGJ",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "N78FX2MUJ452EBGJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N78FX2MUJ452EBGJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per Tasks for USE1-QinConnectAgentAssistanceTask in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KBPTTAVQF3QFVW2V" : {
+        "KBPTTAVQF3QFVW2V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KBPTTAVQF3QFVW2V",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "KBPTTAVQF3QFVW2V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KBPTTAVQF3QFVW2V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Minutes for USE1-ai-QinConnectAgentAssistanceVoice in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "24KZ5QEMGB3D5E6N" : {
+        "24KZ5QEMGB3D5E6N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "24KZ5QEMGB3D5E6N",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "24KZ5QEMGB3D5E6N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "24KZ5QEMGB3D5E6N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Tasks for USE1-ai-QinConnectAgentAssistanceTask in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "ZDTRZB6SJRB9M76J" : {
         "ZDTRZB6SJRB9M76J.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "ZDTRZB6SJRB9M76J",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "ZDTRZB6SJRB9M76J.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "ZDTRZB6SJRB9M76J.JRTCKXETXF.6YS6EN2CT7",
@@ -277,7 +610,7 @@
         "9JXSRTU686J53UVZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "9JXSRTU686J53UVZ",
-          "effectiveDate" : "2025-04-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "9JXSRTU686J53UVZ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "9JXSRTU686J53UVZ.JRTCKXETXF.6YS6EN2CT7",

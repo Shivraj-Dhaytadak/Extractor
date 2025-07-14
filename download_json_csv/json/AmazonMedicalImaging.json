@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonMedicalImaging",
-  "version" : "20240711140016",
-  "publicationDate" : "2024-07-11T14:00:16Z",
+  "version" : "20250529162135",
+  "publicationDate" : "2025-05-29T16:21:35Z",
   "products" : {
     "2UTNXUEVVTAZUKP2" : {
       "sku" : "2UTNXUEVVTAZUKP2",
@@ -14,6 +14,32 @@
         "locationType" : "AWS Region",
         "storageClass" : "Frequent Access",
         "usagetype" : "USE1-TimedStorage-ActiveByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS HealthImaging"
+      }
+    },
+    "TDZRKX8REH6YMSUV" : {
+      "sku" : "TDZRKX8REH6YMSUV",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMedicalImaging",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-TimedStorage-IndexedByteHrs",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS HealthImaging"
+      }
+    },
+    "CWMW77VJPB9FEN8U" : {
+      "sku" : "CWMW77VJPB9FEN8U",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonMedicalImaging",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-DataStore-Hours",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "AWS HealthImaging"
@@ -51,11 +77,32 @@
   },
   "terms" : {
     "OnDemand" : {
+      "TDZRKX8REH6YMSUV" : {
+        "TDZRKX8REH6YMSUV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TDZRKX8REH6YMSUV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "TDZRKX8REH6YMSUV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TDZRKX8REH6YMSUV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.44 per GB-month for USE1-TimedStorage-IndexedByteHrs in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "C2KWN57F5P4VD58H" : {
         "C2KWN57F5P4VD58H.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "C2KWN57F5P4VD58H",
-          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "C2KWN57F5P4VD58H.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "C2KWN57F5P4VD58H.JRTCKXETXF.6YS6EN2CT7",
@@ -76,7 +123,7 @@
         "2UTNXUEVVTAZUKP2.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "2UTNXUEVVTAZUKP2",
-          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "2UTNXUEVVTAZUKP2.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "2UTNXUEVVTAZUKP2.JRTCKXETXF.6YS6EN2CT7",
@@ -93,11 +140,32 @@
           "termAttributes" : { }
         }
       },
+      "CWMW77VJPB9FEN8U" : {
+        "CWMW77VJPB9FEN8U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CWMW77VJPB9FEN8U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CWMW77VJPB9FEN8U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CWMW77VJPB9FEN8U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.00 per months for USE1-DataStore-Hours in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "months",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "PDX8VAD4SKXJWQGQ" : {
         "PDX8VAD4SKXJWQGQ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "PDX8VAD4SKXJWQGQ",
-          "effectiveDate" : "2024-07-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "PDX8VAD4SKXJWQGQ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "PDX8VAD4SKXJWQGQ.JRTCKXETXF.6YS6EN2CT7",

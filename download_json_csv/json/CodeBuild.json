@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "CodeBuild",
-  "version" : "20250516192810",
-  "publicationDate" : "2025-05-16T19:28:10Z",
+  "version" : "20250610165933",
+  "publicationDate" : "2025-06-10T16:59:33Z",
   "products" : {
     "VQAN8B9HU3R6HAHJ" : {
       "sku" : "VQAN8B9HU3R6HAHJ",
@@ -9289,6 +9289,25 @@
         "servicename" : "CodeBuild"
       }
     },
+    "RFWJJ7DXPCM7PVWP" : {
+      "sku" : "RFWJJ7DXPCM7PVWP",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "CodeBuild",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "128 GiB",
+        "operatingSystem" : "Linux",
+        "usagetype" : "USE1-Build-Min:Linux:Reserved:x86-64.64cpu.128gib.NVME",
+        "operation" : "",
+        "architecture" : "x86-64",
+        "computeFamily" : "Reserved-EC2-Attributes",
+        "computeType" : "reserved.x86-64.64cpu.128gib.nvme",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeBuild"
+      }
+    },
     "H475SPT3Y22UMUTM" : {
       "sku" : "H475SPT3Y22UMUTM",
       "productFamily" : "Compute",
@@ -15914,6 +15933,25 @@
         "servicename" : "CodeBuild"
       }
     },
+    "5N9RPZG9QZ3UHN3C" : {
+      "sku" : "5N9RPZG9QZ3UHN3C",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "CodeBuild",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "32",
+        "memory" : "64 GiB",
+        "operatingSystem" : "Linux",
+        "usagetype" : "USE1-Build-Min:Linux:Reserved:x86-64.32cpu.64gib",
+        "operation" : "",
+        "architecture" : "x86-64",
+        "computeFamily" : "Reserved-EC2-Attributes",
+        "computeType" : "reserved.x86-64.32cpu.64gib",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeBuild"
+      }
+    },
     "QH77TAYBD9X5X3TV" : {
       "sku" : "QH77TAYBD9X5X3TV",
       "productFamily" : "Compute",
@@ -17275,6 +17313,25 @@
         "architecture" : "Arm64",
         "computeFamily" : "OnDemand-Lambda",
         "computeType" : "lambda.arm.2GB",
+        "regionCode" : "us-east-1",
+        "servicename" : "CodeBuild"
+      }
+    },
+    "PEAB9F2NF23Y68MF" : {
+      "sku" : "PEAB9F2NF23Y68MF",
+      "productFamily" : "Compute",
+      "attributes" : {
+        "servicecode" : "CodeBuild",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "vcpu" : "64",
+        "memory" : "128 GiB",
+        "operatingSystem" : "Linux",
+        "usagetype" : "USE1-Build-Min:Linux:Reserved:x86-64.64cpu.128gib",
+        "operation" : "",
+        "architecture" : "x86-64",
+        "computeFamily" : "Reserved-EC2-Attributes",
+        "computeType" : "reserved.x86-64.64cpu.128gib",
         "regionCode" : "us-east-1",
         "servicename" : "CodeBuild"
       }
@@ -29803,6 +29860,27 @@
               "unit" : "minutes",
               "pricePerUnit" : {
                 "USD" : "0.1658900000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PEAB9F2NF23Y68MF" : {
+        "PEAB9F2NF23Y68MF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PEAB9F2NF23Y68MF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PEAB9F2NF23Y68MF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PEAB9F2NF23Y68MF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08568 per minute for Build-Min:Linux:Reserved:x86-64.64cpu.128gib in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0856800000"
               },
               "appliesTo" : [ ]
             }
@@ -43166,6 +43244,27 @@
           "termAttributes" : { }
         }
       },
+      "RFWJJ7DXPCM7PVWP" : {
+        "RFWJJ7DXPCM7PVWP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RFWJJ7DXPCM7PVWP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RFWJJ7DXPCM7PVWP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RFWJJ7DXPCM7PVWP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09677 per minute for Build-Min:Linux:Reserved:x86-64.64cpu.128gib.NVME in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0967700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "UAWFM9W5XR3Q5T4Z" : {
         "UAWFM9W5XR3Q5T4Z.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -50366,6 +50465,27 @@
               "unit" : "minutes",
               "pricePerUnit" : {
                 "USD" : "0.3235200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5N9RPZG9QZ3UHN3C" : {
+        "5N9RPZG9QZ3UHN3C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5N9RPZG9QZ3UHN3C",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5N9RPZG9QZ3UHN3C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5N9RPZG9QZ3UHN3C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.04284 per minute for Build-Min:Linux:Reserved:x86-64.32cpu.64gib in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0428400000"
               },
               "appliesTo" : [ ]
             }

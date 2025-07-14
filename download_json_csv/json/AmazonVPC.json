@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonVPC",
-  "version" : "20250521033543",
-  "publicationDate" : "2025-05-21T03:35:43Z",
+  "version" : "20250607001702",
+  "publicationDate" : "2025-06-07T00:17:02Z",
   "products" : {
     "Z2ZYE9BNTKZB3ZQ8" : {
       "sku" : "Z2ZYE9BNTKZB3ZQ8",
@@ -213,6 +213,20 @@
         "operation" : "ClientVPNConnections",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "QJC5VA75VUUBER8P" : {
+      "sku" : "QJC5VA75VUUBER8P",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OdbPeering-AZ-In-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "AZ-In-Bytes"
       }
     },
     "QCP92DSX72Q3CE8J" : {
@@ -480,6 +494,20 @@
         "servicename" : "Amazon Virtual Private Cloud"
       }
     },
+    "TT8R6YKCHQRWRPQH" : {
+      "sku" : "TT8R6YKCHQRWRPQH",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OdbPeering-In-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "In-Bytes"
+      }
+    },
     "DJR6RVPWHDN423JY" : {
       "sku" : "DJR6RVPWHDN423JY",
       "attributes" : {
@@ -552,6 +580,20 @@
         "servicename" : "Amazon Virtual Private Cloud"
       }
     },
+    "UMGWBSQ7AD933J4M" : {
+      "sku" : "UMGWBSQ7AD933J4M",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OdbPeering-Out-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "Out-Bytes"
+      }
+    },
     "NYTF84WY2A8AHZZC" : {
       "sku" : "NYTF84WY2A8AHZZC",
       "attributes" : {
@@ -578,6 +620,20 @@
         "operation" : "VpcLattice",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "766FHQ9WQXB4HMPS" : {
+      "sku" : "766FHQ9WQXB4HMPS",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-OdbPeering-AZ-Out-Bytes",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "AZ-Out-Bytes"
       }
     },
     "6QWMNMNS4H37T5JU" : {
@@ -616,7 +672,7 @@
         "PGNDUBPKV98PF5TB.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "PGNDUBPKV98PF5TB",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "PGNDUBPKV98PF5TB.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "PGNDUBPKV98PF5TB.JRTCKXETXF.6YS6EN2CT7",
@@ -637,7 +693,7 @@
         "AK5AFB32HAKBFRSV.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "AK5AFB32HAKBFRSV",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "AK5AFB32HAKBFRSV.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "AK5AFB32HAKBFRSV.JRTCKXETXF.6YS6EN2CT7",
@@ -658,7 +714,7 @@
         "ZG7JTGZ4S7E5N26T.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "ZG7JTGZ4S7E5N26T",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "ZG7JTGZ4S7E5N26T.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "ZG7JTGZ4S7E5N26T.JRTCKXETXF.6YS6EN2CT7",
@@ -679,7 +735,7 @@
         "BJ5T77AX98TZRG6J.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "BJ5T77AX98TZRG6J",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "BJ5T77AX98TZRG6J.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "BJ5T77AX98TZRG6J.JRTCKXETXF.6YS6EN2CT7",
@@ -700,7 +756,7 @@
         "6TQVKSWSMZMGQ66P.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "6TQVKSWSMZMGQ66P",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "6TQVKSWSMZMGQ66P.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "6TQVKSWSMZMGQ66P.JRTCKXETXF.6YS6EN2CT7",
@@ -721,7 +777,7 @@
         "MH5MV7B93CBZYHYH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "MH5MV7B93CBZYHYH",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "MH5MV7B93CBZYHYH.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "MH5MV7B93CBZYHYH.JRTCKXETXF.6YS6EN2CT7",
@@ -742,7 +798,7 @@
         "KPTJWQRPRKHTH73R.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "KPTJWQRPRKHTH73R",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "KPTJWQRPRKHTH73R.JRTCKXETXF.YHRGHAZCQU" : {
               "rateCode" : "KPTJWQRPRKHTH73R.JRTCKXETXF.YHRGHAZCQU",
@@ -774,7 +830,7 @@
         "EC5BHP9ZANKN9EQD.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "EC5BHP9ZANKN9EQD",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "EC5BHP9ZANKN9EQD.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "EC5BHP9ZANKN9EQD.JRTCKXETXF.6YS6EN2CT7",
@@ -795,7 +851,7 @@
         "4GQUNXTFWVSGPUZK.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "4GQUNXTFWVSGPUZK",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "4GQUNXTFWVSGPUZK.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "4GQUNXTFWVSGPUZK.JRTCKXETXF.6YS6EN2CT7",
@@ -816,7 +872,7 @@
         "CJWGHHWNZBJQ72FC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "CJWGHHWNZBJQ72FC",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "CJWGHHWNZBJQ72FC.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "CJWGHHWNZBJQ72FC.JRTCKXETXF.6YS6EN2CT7",
@@ -837,7 +893,7 @@
         "DQYYEZBCWSW5XS2R.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "DQYYEZBCWSW5XS2R",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "DQYYEZBCWSW5XS2R.JRTCKXETXF.D7RZ6WCPVW" : {
               "rateCode" : "DQYYEZBCWSW5XS2R.JRTCKXETXF.D7RZ6WCPVW",
@@ -880,7 +936,7 @@
         "ZRFZCHNHEEPEHEJY.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "ZRFZCHNHEEPEHEJY",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "ZRFZCHNHEEPEHEJY.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "ZRFZCHNHEEPEHEJY.JRTCKXETXF.6YS6EN2CT7",
@@ -901,7 +957,7 @@
         "F6U9HDNT75GWAMM2.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "F6U9HDNT75GWAMM2",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "F6U9HDNT75GWAMM2.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "F6U9HDNT75GWAMM2.JRTCKXETXF.6YS6EN2CT7",
@@ -922,7 +978,7 @@
         "2Z8EJNMUG8MRUAQM.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "2Z8EJNMUG8MRUAQM",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "2Z8EJNMUG8MRUAQM.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "2Z8EJNMUG8MRUAQM.JRTCKXETXF.6YS6EN2CT7",
@@ -943,7 +999,7 @@
         "7DA87KWXES4HFUJX.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "7DA87KWXES4HFUJX",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "7DA87KWXES4HFUJX.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "7DA87KWXES4HFUJX.JRTCKXETXF.6YS6EN2CT7",
@@ -960,11 +1016,32 @@
           "termAttributes" : { }
         }
       },
+      "UMGWBSQ7AD933J4M" : {
+        "UMGWBSQ7AD933J4M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UMGWBSQ7AD933J4M",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "UMGWBSQ7AD933J4M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UMGWBSQ7AD933J4M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for USE1-OdbPeering-Out-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "6QWMNMNS4H37T5JU" : {
         "6QWMNMNS4H37T5JU.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "6QWMNMNS4H37T5JU",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "6QWMNMNS4H37T5JU.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "6QWMNMNS4H37T5JU.JRTCKXETXF.6YS6EN2CT7",
@@ -985,7 +1062,7 @@
         "NWMDJWA6SF7Z3MXD.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "NWMDJWA6SF7Z3MXD",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "NWMDJWA6SF7Z3MXD.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "NWMDJWA6SF7Z3MXD.JRTCKXETXF.6YS6EN2CT7",
@@ -1006,7 +1083,7 @@
         "6FV8M2VENJXE5B4X.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "6FV8M2VENJXE5B4X",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "6FV8M2VENJXE5B4X.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "6FV8M2VENJXE5B4X.JRTCKXETXF.6YS6EN2CT7",
@@ -1027,7 +1104,7 @@
         "9N2FHGMMCZBKDCGH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "9N2FHGMMCZBKDCGH",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "9N2FHGMMCZBKDCGH.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "9N2FHGMMCZBKDCGH.JRTCKXETXF.6YS6EN2CT7",
@@ -1048,7 +1125,7 @@
         "DQCNPSF4YK7XKQW8.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "DQCNPSF4YK7XKQW8",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "DQCNPSF4YK7XKQW8.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "DQCNPSF4YK7XKQW8.JRTCKXETXF.6YS6EN2CT7",
@@ -1069,7 +1146,7 @@
         "YGVQQQ3WT9VAX47N.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "YGVQQQ3WT9VAX47N",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "YGVQQQ3WT9VAX47N.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "YGVQQQ3WT9VAX47N.JRTCKXETXF.6YS6EN2CT7",
@@ -1090,7 +1167,7 @@
         "CGTM7UBZH2TVW4HH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "CGTM7UBZH2TVW4HH",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "CGTM7UBZH2TVW4HH.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "CGTM7UBZH2TVW4HH.JRTCKXETXF.6YS6EN2CT7",
@@ -1111,7 +1188,7 @@
         "CUP7BB8T9H2HZPVT.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "CUP7BB8T9H2HZPVT",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "CUP7BB8T9H2HZPVT.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "CUP7BB8T9H2HZPVT.JRTCKXETXF.6YS6EN2CT7",
@@ -1132,7 +1209,7 @@
         "GJC3A7G9QS9MK3K3.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "GJC3A7G9QS9MK3K3",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "GJC3A7G9QS9MK3K3.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "GJC3A7G9QS9MK3K3.JRTCKXETXF.6YS6EN2CT7",
@@ -1153,7 +1230,7 @@
         "EN2N5TATXE673A3B.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "EN2N5TATXE673A3B",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "EN2N5TATXE673A3B.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "EN2N5TATXE673A3B.JRTCKXETXF.6YS6EN2CT7",
@@ -1174,7 +1251,7 @@
         "3MQ9DPVXQ37SYP6U.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "3MQ9DPVXQ37SYP6U",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "3MQ9DPVXQ37SYP6U.JRTCKXETXF.D7RZ6WCPVW" : {
               "rateCode" : "3MQ9DPVXQ37SYP6U.JRTCKXETXF.D7RZ6WCPVW",
@@ -1213,11 +1290,53 @@
           "termAttributes" : { }
         }
       },
+      "766FHQ9WQXB4HMPS" : {
+        "766FHQ9WQXB4HMPS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "766FHQ9WQXB4HMPS",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "766FHQ9WQXB4HMPS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "766FHQ9WQXB4HMPS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB for USE1-OdbPeering-AZ-Out-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TT8R6YKCHQRWRPQH" : {
+        "TT8R6YKCHQRWRPQH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TT8R6YKCHQRWRPQH",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "TT8R6YKCHQRWRPQH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TT8R6YKCHQRWRPQH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for USE1-OdbPeering-In-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "QCP92DSX72Q3CE8J" : {
         "QCP92DSX72Q3CE8J.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "QCP92DSX72Q3CE8J",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "QCP92DSX72Q3CE8J.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "QCP92DSX72Q3CE8J.JRTCKXETXF.6YS6EN2CT7",
@@ -1238,7 +1357,7 @@
         "WJVJ7M2CHEBD98JZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "WJVJ7M2CHEBD98JZ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "WJVJ7M2CHEBD98JZ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "WJVJ7M2CHEBD98JZ.JRTCKXETXF.6YS6EN2CT7",
@@ -1259,7 +1378,7 @@
         "JJTHUHDDR6A6AMZ2.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "JJTHUHDDR6A6AMZ2",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "JJTHUHDDR6A6AMZ2.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "JJTHUHDDR6A6AMZ2.JRTCKXETXF.6YS6EN2CT7",
@@ -1280,7 +1399,7 @@
         "T6YDQKTMVWKNJFJ8.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "T6YDQKTMVWKNJFJ8",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "T6YDQKTMVWKNJFJ8.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "T6YDQKTMVWKNJFJ8.JRTCKXETXF.6YS6EN2CT7",
@@ -1301,7 +1420,7 @@
         "3MUZ8GNDVB5XPGSB.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "3MUZ8GNDVB5XPGSB",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "3MUZ8GNDVB5XPGSB.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "3MUZ8GNDVB5XPGSB.JRTCKXETXF.6YS6EN2CT7",
@@ -1322,7 +1441,7 @@
         "NYTF84WY2A8AHZZC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "NYTF84WY2A8AHZZC",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "NYTF84WY2A8AHZZC.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "NYTF84WY2A8AHZZC.JRTCKXETXF.6YS6EN2CT7",
@@ -1343,7 +1462,7 @@
         "GR84NRRRB5UQHD5W.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "GR84NRRRB5UQHD5W",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "GR84NRRRB5UQHD5W.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "GR84NRRRB5UQHD5W.JRTCKXETXF.6YS6EN2CT7",
@@ -1364,7 +1483,7 @@
         "G45CEDSGU2ER8WPQ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "G45CEDSGU2ER8WPQ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "G45CEDSGU2ER8WPQ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "G45CEDSGU2ER8WPQ.JRTCKXETXF.6YS6EN2CT7",
@@ -1385,7 +1504,7 @@
         "FBSC9FB2KXJ38ZUZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "FBSC9FB2KXJ38ZUZ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "FBSC9FB2KXJ38ZUZ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "FBSC9FB2KXJ38ZUZ.JRTCKXETXF.6YS6EN2CT7",
@@ -1406,7 +1525,7 @@
         "7W9NVPG8YS74A6WC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "7W9NVPG8YS74A6WC",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "7W9NVPG8YS74A6WC.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "7W9NVPG8YS74A6WC.JRTCKXETXF.6YS6EN2CT7",
@@ -1427,7 +1546,7 @@
         "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "Z2ZYE9BNTKZB3ZQ8",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "Z2ZYE9BNTKZB3ZQ8.JRTCKXETXF.6YS6EN2CT7",
@@ -1448,7 +1567,7 @@
         "YJ3BCMKN6N4V4VX3.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "YJ3BCMKN6N4V4VX3",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "YJ3BCMKN6N4V4VX3.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "YJ3BCMKN6N4V4VX3.JRTCKXETXF.6YS6EN2CT7",
@@ -1469,7 +1588,7 @@
         "DJUV5YF82V6MHHV2.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "DJUV5YF82V6MHHV2",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "DJUV5YF82V6MHHV2.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "DJUV5YF82V6MHHV2.JRTCKXETXF.6YS6EN2CT7",
@@ -1486,11 +1605,32 @@
           "termAttributes" : { }
         }
       },
+      "QJC5VA75VUUBER8P" : {
+        "QJC5VA75VUUBER8P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QJC5VA75VUUBER8P",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "QJC5VA75VUUBER8P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QJC5VA75VUUBER8P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB for USE1-OdbPeering-AZ-In-Bytes in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "NJF9DVF9AEMQYT6B" : {
         "NJF9DVF9AEMQYT6B.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "NJF9DVF9AEMQYT6B",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "NJF9DVF9AEMQYT6B.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "NJF9DVF9AEMQYT6B.JRTCKXETXF.6YS6EN2CT7",
@@ -1511,7 +1651,7 @@
         "DJR6RVPWHDN423JY.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "DJR6RVPWHDN423JY",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "DJR6RVPWHDN423JY.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "DJR6RVPWHDN423JY.JRTCKXETXF.6YS6EN2CT7",

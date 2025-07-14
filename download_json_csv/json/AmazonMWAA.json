@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonMWAA",
-  "version" : "20241119193153",
-  "publicationDate" : "2024-11-19T19:31:53Z",
+  "version" : "20250605034900",
+  "publicationDate" : "2025-06-05T03:49:00Z",
   "products" : {
     "XEMKGUN6VJNX6KH5" : {
       "sku" : "XEMKGUN6VJNX6KH5",
@@ -140,21 +140,6 @@
         "version" : "1"
       }
     },
-    "PBWDE47X9FJDP5VF" : {
-      "sku" : "PBWDE47X9FJDP5VF",
-      "attributes" : {
-        "servicecode" : "AmazonMWAA",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "usagetype" : "USE1-Airflow-MediumWorker",
-        "operation" : "",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon Managed Workflows for Apache Airflow",
-        "size" : "Medium",
-        "type" : "Worker",
-        "version" : "1"
-      }
-    },
     "MVVCAMXWU28HHUFD" : {
       "sku" : "MVVCAMXWU28HHUFD",
       "attributes" : {
@@ -166,6 +151,21 @@
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Managed Workflows for Apache Airflow",
         "size" : "Large",
+        "type" : "Worker",
+        "version" : "1"
+      }
+    },
+    "PBWDE47X9FJDP5VF" : {
+      "sku" : "PBWDE47X9FJDP5VF",
+      "attributes" : {
+        "servicecode" : "AmazonMWAA",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Airflow-MediumWorker",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Workflows for Apache Airflow",
+        "size" : "Medium",
         "type" : "Worker",
         "version" : "1"
       }
@@ -198,21 +198,6 @@
         "version" : "1"
       }
     },
-    "4N3MTQQKXSRT5UYQ" : {
-      "sku" : "4N3MTQQKXSRT5UYQ",
-      "attributes" : {
-        "servicecode" : "AmazonMWAA",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "usagetype" : "USE1-Airflow-2XLargeScheduler",
-        "operation" : "",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon Managed Workflows for Apache Airflow",
-        "size" : "2XLarge",
-        "type" : "Scheduler",
-        "version" : "1"
-      }
-    },
     "94F3JPKJ9HG8FFXH" : {
       "sku" : "94F3JPKJ9HG8FFXH",
       "attributes" : {
@@ -224,6 +209,21 @@
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Managed Workflows for Apache Airflow",
         "size" : "Small",
+        "type" : "Scheduler",
+        "version" : "1"
+      }
+    },
+    "4N3MTQQKXSRT5UYQ" : {
+      "sku" : "4N3MTQQKXSRT5UYQ",
+      "attributes" : {
+        "servicecode" : "AmazonMWAA",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Airflow-2XLargeScheduler",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Workflows for Apache Airflow",
+        "size" : "2XLarge",
         "type" : "Scheduler",
         "version" : "1"
       }
@@ -258,21 +258,6 @@
         "version" : "1"
       }
     },
-    "AA73WJ5KJMCWN4N5" : {
-      "sku" : "AA73WJ5KJMCWN4N5",
-      "attributes" : {
-        "servicecode" : "AmazonMWAA",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "usagetype" : "USE1-Airflow-LargeEnvironment",
-        "operation" : "",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon Managed Workflows for Apache Airflow",
-        "size" : "Large",
-        "type" : "Environment",
-        "version" : "1"
-      }
-    },
     "KF2WZ5CESCBQ7CQJ" : {
       "sku" : "KF2WZ5CESCBQ7CQJ",
       "attributes" : {
@@ -300,6 +285,21 @@
         "servicename" : "Amazon Managed Workflows for Apache Airflow",
         "size" : "Small",
         "type" : "Worker",
+        "version" : "1"
+      }
+    },
+    "AA73WJ5KJMCWN4N5" : {
+      "sku" : "AA73WJ5KJMCWN4N5",
+      "attributes" : {
+        "servicecode" : "AmazonMWAA",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Airflow-LargeEnvironment",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Managed Workflows for Apache Airflow",
+        "size" : "Large",
+        "type" : "Environment",
         "version" : "1"
       }
     },
@@ -336,179 +336,11 @@
   },
   "terms" : {
     "OnDemand" : {
-      "4872FWQ75ENMT82Y" : {
-        "4872FWQ75ENMT82Y.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "4872FWQ75ENMT82Y",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "4872FWQ75ENMT82Y.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "4872FWQ75ENMT82Y.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.10 per GB-month of Airflow consumed standard database storage",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Gigabyte Month",
-              "pricePerUnit" : {
-                "USD" : "0.1000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "XTRZ7FGQJJBAAP3H" : {
-        "XTRZ7FGQJJBAAP3H.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "XTRZ7FGQJJBAAP3H",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "XTRZ7FGQJJBAAP3H.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "XTRZ7FGQJJBAAP3H.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.74 per hour for Airflow medium environment",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.7400000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "ZHTBJCZ48YYXM28K" : {
-        "ZHTBJCZ48YYXM28K.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "ZHTBJCZ48YYXM28K",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "ZHTBJCZ48YYXM28K.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "ZHTBJCZ48YYXM28K.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.44 per hour for Airflow 2XL webserver",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.4400000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "4N3MTQQKXSRT5UYQ" : {
-        "4N3MTQQKXSRT5UYQ.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "4N3MTQQKXSRT5UYQ",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "4N3MTQQKXSRT5UYQ.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "4N3MTQQKXSRT5UYQ.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.88 per hour for Airflow 2XL scheduler",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.8800000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "AA73WJ5KJMCWN4N5" : {
-        "AA73WJ5KJMCWN4N5.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "AA73WJ5KJMCWN4N5",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "AA73WJ5KJMCWN4N5.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "AA73WJ5KJMCWN4N5.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.99 per hour for Airflow large environment",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.9900000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "94F3JPKJ9HG8FFXH" : {
-        "94F3JPKJ9HG8FFXH.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "94F3JPKJ9HG8FFXH",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "94F3JPKJ9HG8FFXH.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "94F3JPKJ9HG8FFXH.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.055 per hour for Airflow small schedulers",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.0550000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "6FW89S9DDHFSFGM2" : {
-        "6FW89S9DDHFSFGM2.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "6FW89S9DDHFSFGM2",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "6FW89S9DDHFSFGM2.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "6FW89S9DDHFSFGM2.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.055 per hour for Airflow small webserver",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.0550000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "EU2KYPFPFMJHWX8X" : {
-        "EU2KYPFPFMJHWX8X.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "EU2KYPFPFMJHWX8X",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "EU2KYPFPFMJHWX8X.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "EU2KYPFPFMJHWX8X.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 3.96 per hour for Airflow 2XL environment",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "3.9600000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "KF2WZ5CESCBQ7CQJ" : {
         "KF2WZ5CESCBQ7CQJ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "KF2WZ5CESCBQ7CQJ",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "KF2WZ5CESCBQ7CQJ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "KF2WZ5CESCBQ7CQJ.JRTCKXETXF.6YS6EN2CT7",
@@ -525,15 +357,78 @@
           "termAttributes" : { }
         }
       },
-      "MN7FNW9KEX77GWR6" : {
-        "MN7FNW9KEX77GWR6.JRTCKXETXF" : {
+      "VHNMWUANZ5MS529W" : {
+        "VHNMWUANZ5MS529W.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
-          "sku" : "MN7FNW9KEX77GWR6",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "sku" : "VHNMWUANZ5MS529W",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
-            "MN7FNW9KEX77GWR6.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "MN7FNW9KEX77GWR6.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.44 per hour for Airflow XL worker",
+            "VHNMWUANZ5MS529W.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VHNMWUANZ5MS529W.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.055 per hour for Airflow small workers",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "94F3JPKJ9HG8FFXH" : {
+        "94F3JPKJ9HG8FFXH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "94F3JPKJ9HG8FFXH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "94F3JPKJ9HG8FFXH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "94F3JPKJ9HG8FFXH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.055 per hour for Airflow small schedulers",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XTRZ7FGQJJBAAP3H" : {
+        "XTRZ7FGQJJBAAP3H.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XTRZ7FGQJJBAAP3H",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XTRZ7FGQJJBAAP3H.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XTRZ7FGQJJBAAP3H.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.74 per hour for Airflow medium environment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.7400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "US2U49YPKQP3TP24" : {
+        "US2U49YPKQP3TP24.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "US2U49YPKQP3TP24",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "US2U49YPKQP3TP24.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "US2U49YPKQP3TP24.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.44 per hour for Airflow XL scheduler",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "Hrs",
@@ -546,11 +441,116 @@
           "termAttributes" : { }
         }
       },
+      "AA73WJ5KJMCWN4N5" : {
+        "AA73WJ5KJMCWN4N5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AA73WJ5KJMCWN4N5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AA73WJ5KJMCWN4N5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AA73WJ5KJMCWN4N5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.99 per hour for Airflow large environment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.9900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6FW89S9DDHFSFGM2" : {
+        "6FW89S9DDHFSFGM2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6FW89S9DDHFSFGM2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6FW89S9DDHFSFGM2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6FW89S9DDHFSFGM2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.055 per hour for Airflow small webserver",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0550000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BNVM8FFAH586DRYH" : {
+        "BNVM8FFAH586DRYH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BNVM8FFAH586DRYH",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BNVM8FFAH586DRYH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BNVM8FFAH586DRYH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 1.98 per hour for Airflow XL environment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4872FWQ75ENMT82Y" : {
+        "4872FWQ75ENMT82Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4872FWQ75ENMT82Y",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4872FWQ75ENMT82Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4872FWQ75ENMT82Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.10 per GB-month of Airflow consumed standard database storage",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Gigabyte Month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MVVCAMXWU28HHUFD" : {
+        "MVVCAMXWU28HHUFD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVVCAMXWU28HHUFD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVVCAMXWU28HHUFD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVVCAMXWU28HHUFD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.22 per hour for Airflow large workers",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "D4TE9AUW6VEUY8YZ" : {
         "D4TE9AUW6VEUY8YZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "D4TE9AUW6VEUY8YZ",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "D4TE9AUW6VEUY8YZ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "D4TE9AUW6VEUY8YZ.JRTCKXETXF.6YS6EN2CT7",
@@ -571,7 +571,7 @@
         "EP6A6W26BU6Z27AF.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "EP6A6W26BU6Z27AF",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "EP6A6W26BU6Z27AF.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "EP6A6W26BU6Z27AF.JRTCKXETXF.6YS6EN2CT7",
@@ -588,53 +588,11 @@
           "termAttributes" : { }
         }
       },
-      "XEMKGUN6VJNX6KH5" : {
-        "XEMKGUN6VJNX6KH5.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "XEMKGUN6VJNX6KH5",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "XEMKGUN6VJNX6KH5.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "XEMKGUN6VJNX6KH5.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.88 per hour for Airflow 2XL worker",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.8800000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "VHNMWUANZ5MS529W" : {
-        "VHNMWUANZ5MS529W.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "VHNMWUANZ5MS529W",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "VHNMWUANZ5MS529W.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "VHNMWUANZ5MS529W.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.055 per hour for Airflow small workers",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.0550000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "RFXXQEP9WYSBT94U" : {
         "RFXXQEP9WYSBT94U.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "RFXXQEP9WYSBT94U",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "RFXXQEP9WYSBT94U.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "RFXXQEP9WYSBT94U.JRTCKXETXF.6YS6EN2CT7",
@@ -651,20 +609,20 @@
           "termAttributes" : { }
         }
       },
-      "PBWDE47X9FJDP5VF" : {
-        "PBWDE47X9FJDP5VF.JRTCKXETXF" : {
+      "ZHTBJCZ48YYXM28K" : {
+        "ZHTBJCZ48YYXM28K.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
-          "sku" : "PBWDE47X9FJDP5VF",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "sku" : "ZHTBJCZ48YYXM28K",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
-            "PBWDE47X9FJDP5VF.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "PBWDE47X9FJDP5VF.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.11 per hour for Airflow medium workers",
+            "ZHTBJCZ48YYXM28K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZHTBJCZ48YYXM28K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.44 per hour for Airflow 2XL webserver",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "Hrs",
               "pricePerUnit" : {
-                "USD" : "0.1100000000"
+                "USD" : "0.4400000000"
               },
               "appliesTo" : [ ]
             }
@@ -676,7 +634,7 @@
         "D9DUVSJEMJAKYVN9.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "D9DUVSJEMJAKYVN9",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "D9DUVSJEMJAKYVN9.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "D9DUVSJEMJAKYVN9.JRTCKXETXF.6YS6EN2CT7",
@@ -693,74 +651,11 @@
           "termAttributes" : { }
         }
       },
-      "US2U49YPKQP3TP24" : {
-        "US2U49YPKQP3TP24.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "US2U49YPKQP3TP24",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "US2U49YPKQP3TP24.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "US2U49YPKQP3TP24.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.44 per hour for Airflow XL scheduler",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.4400000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "6BHH8YTJ6V9FQ4E9" : {
-        "6BHH8YTJ6V9FQ4E9.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "6BHH8YTJ6V9FQ4E9",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "6BHH8YTJ6V9FQ4E9.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "6BHH8YTJ6V9FQ4E9.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.11 per hour for Airflow medium schedulers",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "0.1100000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "BNVM8FFAH586DRYH" : {
-        "BNVM8FFAH586DRYH.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "BNVM8FFAH586DRYH",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "BNVM8FFAH586DRYH.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "BNVM8FFAH586DRYH.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 1.98 per hour for Airflow XL environment",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Hrs",
-              "pricePerUnit" : {
-                "USD" : "1.9800000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "H6UQ8CGUQ8B6W2DS" : {
         "H6UQ8CGUQ8B6W2DS.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "H6UQ8CGUQ8B6W2DS",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "H6UQ8CGUQ8B6W2DS.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "H6UQ8CGUQ8B6W2DS.JRTCKXETXF.6YS6EN2CT7",
@@ -777,20 +672,125 @@
           "termAttributes" : { }
         }
       },
-      "MVVCAMXWU28HHUFD" : {
-        "MVVCAMXWU28HHUFD.JRTCKXETXF" : {
+      "PBWDE47X9FJDP5VF" : {
+        "PBWDE47X9FJDP5VF.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
-          "sku" : "MVVCAMXWU28HHUFD",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "sku" : "PBWDE47X9FJDP5VF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
-            "MVVCAMXWU28HHUFD.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "MVVCAMXWU28HHUFD.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "USD 0.22 per hour for Airflow large workers",
+            "PBWDE47X9FJDP5VF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PBWDE47X9FJDP5VF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.11 per hour for Airflow medium workers",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "Hrs",
               "pricePerUnit" : {
-                "USD" : "0.2200000000"
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6BHH8YTJ6V9FQ4E9" : {
+        "6BHH8YTJ6V9FQ4E9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6BHH8YTJ6V9FQ4E9",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "6BHH8YTJ6V9FQ4E9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6BHH8YTJ6V9FQ4E9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.11 per hour for Airflow medium schedulers",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MN7FNW9KEX77GWR6" : {
+        "MN7FNW9KEX77GWR6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MN7FNW9KEX77GWR6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MN7FNW9KEX77GWR6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MN7FNW9KEX77GWR6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.44 per hour for Airflow XL worker",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.4400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4N3MTQQKXSRT5UYQ" : {
+        "4N3MTQQKXSRT5UYQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4N3MTQQKXSRT5UYQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4N3MTQQKXSRT5UYQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4N3MTQQKXSRT5UYQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.88 per hour for Airflow 2XL scheduler",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EU2KYPFPFMJHWX8X" : {
+        "EU2KYPFPFMJHWX8X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EU2KYPFPFMJHWX8X",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EU2KYPFPFMJHWX8X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EU2KYPFPFMJHWX8X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 3.96 per hour for Airflow 2XL environment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "3.9600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XEMKGUN6VJNX6KH5" : {
+        "XEMKGUN6VJNX6KH5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XEMKGUN6VJNX6KH5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XEMKGUN6VJNX6KH5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XEMKGUN6VJNX6KH5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.88 per hour for Airflow 2XL worker",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.8800000000"
               },
               "appliesTo" : [ ]
             }

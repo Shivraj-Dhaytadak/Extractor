@@ -2,23 +2,9 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSServiceCatalog",
-  "version" : "20230804202721",
-  "publicationDate" : "2023-08-04T20:27:21Z",
+  "version" : "20250606115232",
+  "publicationDate" : "2025-06-06T11:52:32Z",
   "products" : {
-    "WXX7BGTXBHJZD37A" : {
-      "sku" : "WXX7BGTXBHJZD37A",
-      "productFamily" : "Portfolio",
-      "attributes" : {
-        "servicecode" : "AWSServiceCatalog",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "usagetype" : "SCPerActivePortfolio",
-        "operation" : "ActivePortfolio",
-        "regionCode" : "us-east-1",
-        "servicename" : "AWS Service Catalog",
-        "withActiveUsers" : "Yes"
-      }
-    },
     "BH43KCPC4SGE5NC3" : {
       "sku" : "BH43KCPC4SGE5NC3",
       "productFamily" : "API Calls",
@@ -30,21 +16,8 @@
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "AWS Service Catalog",
+        "type" : "ServiceCatalog",
         "withActiveUsers" : "Yes"
-      }
-    },
-    "XCNM8KVDZEAPXNUB" : {
-      "sku" : "XCNM8KVDZEAPXNUB",
-      "productFamily" : "Portfolio",
-      "attributes" : {
-        "servicecode" : "AWSServiceCatalog",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "usagetype" : "ServiceCatalogPerPortfolio",
-        "operation" : "ServiceCatalogActivePortfolio",
-        "regionCode" : "us-east-1",
-        "servicename" : "AWS Service Catalog",
-        "withActiveUsers" : "No"
       }
     },
     "BSBPSYKABKAHXZJD" : {
@@ -58,59 +31,18 @@
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "AWS Service Catalog",
+        "type" : "AppRegistry",
         "withActiveUsers" : "Yes"
       }
     }
   },
   "terms" : {
     "OnDemand" : {
-      "XCNM8KVDZEAPXNUB" : {
-        "XCNM8KVDZEAPXNUB.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "XCNM8KVDZEAPXNUB",
-          "effectiveDate" : "2023-08-01T00:00:00Z",
-          "priceDimensions" : {
-            "XCNM8KVDZEAPXNUB.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "XCNM8KVDZEAPXNUB.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "Per active portfolio",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ServiceCatalogPerPortfolio_IAD",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "WXX7BGTXBHJZD37A" : {
-        "WXX7BGTXBHJZD37A.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "WXX7BGTXBHJZD37A",
-          "effectiveDate" : "2023-08-01T00:00:00Z",
-          "priceDimensions" : {
-            "WXX7BGTXBHJZD37A.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "WXX7BGTXBHJZD37A.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per Active Portfolio",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ActivePortfolios",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "BSBPSYKABKAHXZJD" : {
         "BSBPSYKABKAHXZJD.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "BSBPSYKABKAHXZJD",
-          "effectiveDate" : "2023-08-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "BSBPSYKABKAHXZJD.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "BSBPSYKABKAHXZJD.JRTCKXETXF.6YS6EN2CT7",
@@ -131,7 +63,7 @@
         "BH43KCPC4SGE5NC3.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "BH43KCPC4SGE5NC3",
-          "effectiveDate" : "2023-08-01T00:00:00Z",
+          "effectiveDate" : "2025-06-01T00:00:00Z",
           "priceDimensions" : {
             "BH43KCPC4SGE5NC3.JRTCKXETXF.JXGPBPHWFF" : {
               "rateCode" : "BH43KCPC4SGE5NC3.JRTCKXETXF.JXGPBPHWFF",

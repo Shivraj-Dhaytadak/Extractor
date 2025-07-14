@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonS3",
-  "version" : "20250507212902",
-  "publicationDate" : "2025-05-07T21:29:02Z",
+  "version" : "20250605175657",
+  "publicationDate" : "2025-06-05T17:56:57Z",
   "products" : {
     "Z8X7XRC6YMB3B8CX" : {
       "sku" : "Z8X7XRC6YMB3B8CX",
@@ -548,6 +548,22 @@
         "usagetype" : "USE1-APS3-MRAP-In-Bytes",
         "operation" : "MRAP-Dtransfer",
         "fromRegionCode" : "ap-south-1",
+        "servicename" : "Amazon Simple Storage Service",
+        "toRegionCode" : "us-east-1"
+      }
+    },
+    "MVX8VTYJJXHVHHJQ" : {
+      "sku" : "MVX8VTYJJXHVHHJQ",
+      "attributes" : {
+        "servicecode" : "AmazonS3",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-S3RTC-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
         "servicename" : "Amazon Simple Storage Service",
         "toRegionCode" : "us-east-1"
       }
@@ -1477,6 +1493,22 @@
         "toRegionCode" : "us-east-1"
       }
     },
+    "45FBW3F3W32C5B9U" : {
+      "sku" : "45FBW3F3W32C5B9U",
+      "attributes" : {
+        "servicecode" : "AmazonS3",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-S3RTC-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Storage Service",
+        "toRegionCode" : "ap-east-2"
+      }
+    },
     "V3FJPYVPSSZPUJ4K" : {
       "sku" : "V3FJPYVPSSZPUJ4K",
       "attributes" : {
@@ -1754,6 +1786,22 @@
         "durability" : "99.999999999%",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Simple Storage Service"
+      }
+    },
+    "D9Q4V2XGPTM5SMSW" : {
+      "sku" : "D9Q4V2XGPTM5SMSW",
+      "attributes" : {
+        "servicecode" : "AmazonS3",
+        "transferType" : "InterRegion Outbound",
+        "fromLocation" : "Asia Pacific (Taipei)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-S3RTC-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-east-2",
+        "servicename" : "Amazon Simple Storage Service",
+        "toRegionCode" : "us-east-1"
       }
     },
     "NEWK2RS9PZ6RTYY4" : {
@@ -2205,6 +2253,22 @@
         "operation" : "S3-GDATransition",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Simple Storage Service"
+      }
+    },
+    "W955A9F2K5JHJGAV" : {
+      "sku" : "W955A9F2K5JHJGAV",
+      "attributes" : {
+        "servicecode" : "AmazonS3",
+        "transferType" : "InterRegion Inbound",
+        "fromLocation" : "US East (N. Virginia)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-S3RTC-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "us-east-1",
+        "servicename" : "Amazon Simple Storage Service",
+        "toRegionCode" : "ap-east-2"
       }
     },
     "5JFW39E6V2Q4CXZE" : {
@@ -7049,6 +7113,27 @@
           "termAttributes" : { }
         }
       },
+      "MVX8VTYJJXHVHHJQ" : {
+        "MVX8VTYJJXHVHHJQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MVX8VTYJJXHVHHJQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MVX8VTYJJXHVHHJQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MVX8VTYJJXHVHHJQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - Asia Pacific (Taipei) Data Transfer In for Replication Time Control to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "3R4CWPJ2QPFCJXNR" : {
         "3R4CWPJ2QPFCJXNR.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -9814,6 +9899,27 @@
           "termAttributes" : { }
         }
       },
+      "45FBW3F3W32C5B9U" : {
+        "45FBW3F3W32C5B9U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "45FBW3F3W32C5B9U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "45FBW3F3W32C5B9U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "45FBW3F3W32C5B9U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.015 per GB - US East (N. Virginia) Data Transfer Out for Replication Time Control to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "ESFQQG64AEBSX4WC" : {
         "ESFQQG64AEBSX4WC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -11139,6 +11245,27 @@
           "termAttributes" : { }
         }
       },
+      "D9Q4V2XGPTM5SMSW" : {
+        "D9Q4V2XGPTM5SMSW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D9Q4V2XGPTM5SMSW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D9Q4V2XGPTM5SMSW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D9Q4V2XGPTM5SMSW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.015 per GB - Asia Pacific (Taipei) Data Transfer Out for Replication Time Control to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "FNY42KJ9K6HTBP79" : {
         "FNY42KJ9K6HTBP79.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -11174,6 +11301,27 @@
               "unit" : "Requests",
               "pricePerUnit" : {
                 "USD" : "0.0000300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W955A9F2K5JHJGAV" : {
+        "W955A9F2K5JHJGAV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W955A9F2K5JHJGAV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "W955A9F2K5JHJGAV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W955A9F2K5JHJGAV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB - US East (N. Virginia) Data Transfer In for Replication Time Control to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
               },
               "appliesTo" : [ ]
             }

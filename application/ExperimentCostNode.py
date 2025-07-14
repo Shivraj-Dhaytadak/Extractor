@@ -173,6 +173,7 @@ def compute_cost(service: Service, config: Dict[str, Any]) -> Cost:
         contents = f.read()
 
     user_desc = config.get("description", "Suggest a default configuration based on the service type")
+    sysmsg = SystemMessage(content="You are an expert in AWS architecture diagrams. Your task is to calculate the total monthly cost for the given AWS service configuration, explicitly ignoring any Free Tier pricing. Provide a detailed breakdown of the cost calculations.")
     msg_content = [
         {
             "type": "text",
@@ -188,7 +189,7 @@ def compute_cost(service: Service, config: Dict[str, Any]) -> Cost:
         }
     ]
     msg = HumanMessage(content=msg_content)
-    return gemini.with_structured_output(Cost).invoke([msg])
+    return gemini.with_structured_output(Cost).invoke([sysmsg,msg])
 
 
 def make_cost_node(user_inputs: Dict[str, Dict[str, Any]]):    

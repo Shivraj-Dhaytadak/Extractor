@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSWickr",
-  "version" : "20241120151036",
-  "publicationDate" : "2024-11-20T15:10:36Z",
+  "version" : "20250527181301",
+  "publicationDate" : "2025-05-27T18:13:01Z",
   "products" : {
     "6TS3ST98HETMPGG7" : {
       "sku" : "6TS3ST98HETMPGG7",
@@ -68,7 +68,7 @@
         "HRZR8PFG22CXR4VE.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "HRZR8PFG22CXR4VE",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "HRZR8PFG22CXR4VE.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "HRZR8PFG22CXR4VE.JRTCKXETXF.6YS6EN2CT7",
@@ -85,32 +85,11 @@
           "termAttributes" : { }
         }
       },
-      "ZTJFP6Q7DAH65NHF" : {
-        "ZTJFP6Q7DAH65NHF.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "ZTJFP6Q7DAH65NHF",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
-          "priceDimensions" : {
-            "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0 per Users for AWSWickr-Free:Wickr in US East (N. Virginia)",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Users",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "6TS3ST98HETMPGG7" : {
         "6TS3ST98HETMPGG7.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "6TS3ST98HETMPGG7",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "6TS3ST98HETMPGG7.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "6TS3ST98HETMPGG7.JRTCKXETXF.6YS6EN2CT7",
@@ -131,7 +110,7 @@
         "UVM6A2N7JYN7PZ2V.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
           "sku" : "UVM6A2N7JYN7PZ2V",
-          "effectiveDate" : "2024-11-01T00:00:00Z",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
           "priceDimensions" : {
             "UVM6A2N7JYN7PZ2V.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "UVM6A2N7JYN7PZ2V.JRTCKXETXF.6YS6EN2CT7",
@@ -141,6 +120,27 @@
               "unit" : "Users",
               "pricePerUnit" : {
                 "USD" : "15.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZTJFP6Q7DAH65NHF" : {
+        "ZTJFP6Q7DAH65NHF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZTJFP6Q7DAH65NHF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZTJFP6Q7DAH65NHF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per Users for AWSWickr-Free:Wickr in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Users",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
               },
               "appliesTo" : [ ]
             }

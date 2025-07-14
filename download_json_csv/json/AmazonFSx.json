@@ -2,9 +2,25 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonFSx",
-  "version" : "20250516170145",
-  "publicationDate" : "2025-05-16T17:01:45Z",
+  "version" : "20250529201121",
+  "publicationDate" : "2025-05-29T20:11:21Z",
   "products" : {
+    "CF2TQVKFQXZ5VSQ8" : {
+      "sku" : "CF2TQVKFQXZ5VSQ8",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.P2:INT_Read",
+        "operation" : "CreateFileSystem:Lustre",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "requestType" : "Read",
+        "servicename" : "Amazon FSx"
+      }
+    },
     "7BCUWZN7JRJAUQAC" : {
       "sku" : "7BCUWZN7JRJAUQAC",
       "productFamily" : "Storage",
@@ -57,6 +73,25 @@
         "fileSystemType" : "Lustre",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon FSx"
+      }
+    },
+    "9KB82E8FTPSGHQV2" : {
+      "sku" : "9KB82E8FTPSGHQV2",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.P2:INT_FA",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Frequent Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
       }
     },
     "5B2VYQKCG82UNAKV" : {
@@ -226,6 +261,25 @@
         "fileSystemType" : "OpenZFS",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon FSx"
+      }
+    },
+    "3GA54ZYZWNDJSZ62" : {
+      "sku" : "3GA54ZYZWNDJSZ62",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.P2:INT_Monitoring",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Monitoring",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
       }
     },
     "8TYDU8XPGGYA7FNZ" : {
@@ -434,6 +488,25 @@
         "throughputCapacity" : "N/A"
       }
     },
+    "PFESFZMGUFUWKSVZ" : {
+      "sku" : "PFESFZMGUFUWKSVZ",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.P2:INT_AIA",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Archive Instant Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
+      }
+    },
     "CWFT9WYREKCEDGZZ" : {
       "sku" : "CWFT9WYREKCEDGZZ",
       "productFamily" : "Provisioned IOPS",
@@ -462,6 +535,25 @@
         "fileSystemType" : "Lustre",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon FSx"
+      }
+    },
+    "DKKUUNFRABRXGASM" : {
+      "sku" : "DKKUUNFRABRXGASM",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.P2:INT_SSDCache",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "SSD",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "SSD cache",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
       }
     },
     "QPFC9SWZVYSK25J4" : {
@@ -497,6 +589,40 @@
         "storageTier" : "N/A",
         "storageType" : "SSD",
         "throughputCapacity" : "500"
+      }
+    },
+    "7DCK2UXZCN3E48XP" : {
+      "sku" : "7DCK2UXZCN3E48XP",
+      "productFamily" : "Provisioned Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ThroughputCapacity.P2",
+        "operation" : "CreateFileSystem:Lustre",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx"
+      }
+    },
+    "PTT56NXYYTW3GUM5" : {
+      "sku" : "PTT56NXYYTW3GUM5",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Storage.P2:INT_IA",
+        "operation" : "CreateFileSystem:Lustre",
+        "cacheType" : "N/A",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon FSx",
+        "storageTier" : "Infrequent Access",
+        "storageType" : "INT",
+        "throughputCapacity" : "N/A"
       }
     },
     "62TQNJKM9Y5GSQJQ" : {
@@ -1005,6 +1131,22 @@
         "throughputCapacity" : "N/A"
       }
     },
+    "5HK7465JRQUAHVXC" : {
+      "sku" : "5HK7465JRQUAHVXC",
+      "productFamily" : "Storage",
+      "attributes" : {
+        "servicecode" : "AmazonFSx",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Requests.P2:INT_Write",
+        "operation" : "CreateFileSystem:Lustre",
+        "deploymentOption" : "Persistent",
+        "fileSystemType" : "Lustre",
+        "regionCode" : "us-east-1",
+        "requestType" : "Write",
+        "servicename" : "Amazon FSx"
+      }
+    },
     "3ATMX2THG9YVHAJ6" : {
       "sku" : "3ATMX2THG9YVHAJ6",
       "productFamily" : "Storage",
@@ -1261,6 +1403,27 @@
           "termAttributes" : { }
         }
       },
+      "CF2TQVKFQXZ5VSQ8" : {
+        "CF2TQVKFQXZ5VSQ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CF2TQVKFQXZ5VSQ8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CF2TQVKFQXZ5VSQ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CF2TQVKFQXZ5VSQ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00040 per 1,000 read requests to Lustre Intelligent-Tiering storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "2K2PVNVMAB6NC9UP" : {
         "2K2PVNVMAB6NC9UP.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1296,6 +1459,27 @@
               "unit" : "GB-Mo",
               "pricePerUnit" : {
                 "USD" : "0.0250000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PFESFZMGUFUWKSVZ" : {
+        "PFESFZMGUFUWKSVZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PFESFZMGUFUWKSVZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PFESFZMGUFUWKSVZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PFESFZMGUFUWKSVZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0040 per GB-Month of Lustre Intelligent-Tiering storage in the Archive Instant Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
               },
               "appliesTo" : [ ]
             }
@@ -1744,6 +1928,48 @@
           "termAttributes" : { }
         }
       },
+      "9KB82E8FTPSGHQV2" : {
+        "9KB82E8FTPSGHQV2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9KB82E8FTPSGHQV2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9KB82E8FTPSGHQV2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9KB82E8FTPSGHQV2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0230 per GB-Month of Lustre Intelligent-Tiering storage in the Frequent Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DKKUUNFRABRXGASM" : {
+        "DKKUUNFRABRXGASM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DKKUUNFRABRXGASM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DKKUUNFRABRXGASM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DKKUUNFRABRXGASM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.090 per GB-Month of Lustre Intelligent-Tiering provisioned SSD read cache - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "7MNKJJ33XGRY7JFB" : {
         "7MNKJJ33XGRY7JFB.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1996,6 +2222,27 @@
           "termAttributes" : { }
         }
       },
+      "5HK7465JRQUAHVXC" : {
+        "5HK7465JRQUAHVXC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5HK7465JRQUAHVXC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5HK7465JRQUAHVXC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5HK7465JRQUAHVXC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00500 per 1,000 write requests to Lustre Intelligent-Tiering storage - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Operations",
+              "pricePerUnit" : {
+                "USD" : "0.0000050000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "CWFT9WYREKCEDGZZ" : {
         "CWFT9WYREKCEDGZZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2206,6 +2453,48 @@
           "termAttributes" : { }
         }
       },
+      "3GA54ZYZWNDJSZ62" : {
+        "3GA54ZYZWNDJSZ62.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3GA54ZYZWNDJSZ62",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3GA54ZYZWNDJSZ62.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3GA54ZYZWNDJSZ62.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0006 per GB-Month of Lustre Intelligent-Tiering storage for monitoring and automation - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0006000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7DCK2UXZCN3E48XP" : {
+        "7DCK2UXZCN3E48XP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7DCK2UXZCN3E48XP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7DCK2UXZCN3E48XP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7DCK2UXZCN3E48XP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.520 per MBps-Month of persistent Intelligent-Tiering Lustre provisioned throughput - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "MiBps-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.5200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "CMU9RBYV27A8G66T" : {
         "CMU9RBYV27A8G66T.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2409,6 +2698,27 @@
               "unit" : "MiBps-Mo",
               "pricePerUnit" : {
                 "USD" : "2.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PTT56NXYYTW3GUM5" : {
+        "PTT56NXYYTW3GUM5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PTT56NXYYTW3GUM5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PTT56NXYYTW3GUM5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PTT56NXYYTW3GUM5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0125 per GB-Month of Lustre Intelligent-Tiering storage in the Infrequent Access tier - US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0125000000"
               },
               "appliesTo" : [ ]
             }

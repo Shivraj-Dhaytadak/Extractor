@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonConnect",
-  "version" : "20250515204541",
-  "publicationDate" : "2025-05-15T20:45:41Z",
+  "version" : "20250604152230",
+  "publicationDate" : "2025-06-04T15:22:30Z",
   "products" : {
     "2QMRU5HRAQNQACG7" : {
       "sku" : "2QMRU5HRAQNQACG7",
@@ -253,6 +253,19 @@
         "servicename" : "Amazon Connect"
       }
     },
+    "7DPNDGCJ64J9W4J2" : {
+      "sku" : "7DPNDGCJ64J9W4J2",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-email-message",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect"
+      }
+    },
     "3Z8M3SEG5RTFJ7RB" : {
       "sku" : "3Z8M3SEG5RTFJ7RB",
       "productFamily" : "AmazonConnect",
@@ -357,6 +370,19 @@
         "servicename" : "Amazon Connect"
       }
     },
+    "652X4G99CXRG3DHD" : {
+      "sku" : "652X4G99CXRG3DHD",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-tasks",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect"
+      }
+    },
     "BRZMFXFZUH5UVXAR" : {
       "sku" : "BRZMFXFZUH5UVXAR",
       "productFamily" : "AmazonConnect",
@@ -404,6 +430,19 @@
         "location" : "US East (N. Virginia)",
         "locationType" : "AWS Region",
         "usagetype" : "USE1-ai-contact-lens-integration-mins",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect"
+      }
+    },
+    "X7MA955W88R937QG" : {
+      "sku" : "X7MA955W88R937QG",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-multi-region-tasks",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Connect"
@@ -508,6 +547,19 @@
         "location" : "US East (N. Virginia)",
         "locationType" : "AWS Region",
         "usagetype" : "USE1-ai-multi-region-AMB-message",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect"
+      }
+    },
+    "SCQKA23579W4QKFA" : {
+      "sku" : "SCQKA23579W4QKFA",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ai-multi-region-email-messages",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Connect"
@@ -638,6 +690,19 @@
         "location" : "US East (N. Virginia)",
         "locationType" : "AWS Region",
         "usagetype" : "USE1-web-calling-audio-mins",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon Connect"
+      }
+    },
+    "PJ5T8D5SMQUZERJ6" : {
+      "sku" : "PJ5T8D5SMQUZERJ6",
+      "productFamily" : "AmazonConnect",
+      "attributes" : {
+        "servicecode" : "AmazonConnect",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-multi-region-email-message",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon Connect"
@@ -783,6 +848,27 @@
               "unit" : "Messages",
               "pricePerUnit" : {
                 "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "652X4G99CXRG3DHD" : {
+        "652X4G99CXRG3DHD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "652X4G99CXRG3DHD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "652X4G99CXRG3DHD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "652X4G99CXRG3DHD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Tasks created",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
               },
               "appliesTo" : [ ]
             }
@@ -1014,6 +1100,27 @@
               "unit" : "Month",
               "pricePerUnit" : {
                 "USD" : "3100.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PJ5T8D5SMQUZERJ6" : {
+        "PJ5T8D5SMQUZERJ6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PJ5T8D5SMQUZERJ6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PJ5T8D5SMQUZERJ6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PJ5T8D5SMQUZERJ6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Email messages handled GR",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0720000000"
               },
               "appliesTo" : [ ]
             }
@@ -1631,6 +1738,27 @@
           "termAttributes" : { }
         }
       },
+      "7DPNDGCJ64J9W4J2" : {
+        "7DPNDGCJ64J9W4J2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7DPNDGCJ64J9W4J2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7DPNDGCJ64J9W4J2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7DPNDGCJ64J9W4J2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Email Message",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "VYRN2B4A3Q84G9FY" : {
         "VYRN2B4A3Q84G9FY.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1726,6 +1854,27 @@
           "termAttributes" : { }
         }
       },
+      "SCQKA23579W4QKFA" : {
+        "SCQKA23579W4QKFA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SCQKA23579W4QKFA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "SCQKA23579W4QKFA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SCQKA23579W4QKFA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Email Message GR",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.1150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "KQRX8XQ72E3BD6KK" : {
         "KQRX8XQ72E3BD6KK.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1761,6 +1910,27 @@
               "unit" : "Minute",
               "pricePerUnit" : {
                 "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X7MA955W88R937QG" : {
+        "X7MA955W88R937QG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X7MA955W88R937QG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "X7MA955W88R937QG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X7MA955W88R937QG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Amazon Connect AI Tasks created GR",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Tasks",
+              "pricePerUnit" : {
+                "USD" : "0.1010000000"
               },
               "appliesTo" : [ ]
             }

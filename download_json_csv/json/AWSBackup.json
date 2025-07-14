@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AWSBackup",
-  "version" : "20250521031938",
-  "publicationDate" : "2025-05-21T03:19:38Z",
+  "version" : "20250605194419",
+  "publicationDate" : "2025-06-05T19:44:19Z",
   "products" : {
     "YKDPQ7XH6UEQ8H88" : {
       "sku" : "YKDPQ7XH6UEQ8H88",
@@ -404,6 +404,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "S2G394TMQGW7TBRD" : {
+      "sku" : "S2G394TMQGW7TBRD",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-CrossRegion-WarmBytes-S3",
+        "operation" : "DataTransfer",
+        "backupservice" : "S3",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-east-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "YCW4HUEYP8ZQ9Q22" : {
       "sku" : "YCW4HUEYP8ZQ9Q22",
       "productFamily" : "AWS Backup Storage",
@@ -665,6 +684,41 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "GFQW8C67GNRGRG3G" : {
+      "sku" : "GFQW8C67GNRGRG3G",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-CrossRegion-WarmBytes-DynamoDB",
+        "operation" : "DataTransfer",
+        "backupservice" : "DDB",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-east-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "5N8CGEEGHXJ5FMAB" : {
+      "sku" : "5N8CGEEGHXJ5FMAB",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ColdStorage-ByteHrs-DSQL-LAGV",
+        "operation" : "Storage",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Cold",
+        "vaulttype" : "LAGVault"
+      }
+    },
     "2F7JH7PWTGVSS6VY" : {
       "sku" : "2F7JH7PWTGVSS6VY",
       "productFamily" : "AWS Backup Storage",
@@ -777,6 +831,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-gov-west-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "PRS65QS4CCMGB2ZK" : {
+      "sku" : "PRS65QS4CCMGB2ZK",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "Asia Pacific (Tokyo)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN1-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "ap-northeast-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "H8BMV7KYWFTGSUPA" : {
@@ -1194,6 +1267,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "ZQ3B6FP3D2WRHR6U" : {
+      "sku" : "ZQ3B6FP3D2WRHR6U",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Sydney)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "4S3CURJGE643FX39" : {
       "sku" : "4S3CURJGE643FX39",
       "productFamily" : "AWS Backup Storage",
@@ -1230,6 +1322,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "eu-west-3",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "GGG5F3NAM8AVP6UJ" : {
+      "sku" : "GGG5F3NAM8AVP6UJ",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Europe (Zurich)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUC2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-central-2",
+        "vaulttype" : "BackupVault"
       }
     },
     "468MD47JR2Y65E94" : {
@@ -1588,6 +1699,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "VB2JFA9KK2WKKD5T" : {
+      "sku" : "VB2JFA9KK2WKKD5T",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Europe (Spain)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUS2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-south-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "QSR4DC9AHJSBCQTX" : {
       "sku" : "QSR4DC9AHJSBCQTX",
       "productFamily" : "AWS Backup Storage",
@@ -1643,6 +1773,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "eu-west-2",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "U93SHAN7MV7SQM5P" : {
+      "sku" : "U93SHAN7MV7SQM5P",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Tokyo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-northeast-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "YMHP9WZFG942PQ99" : {
@@ -2361,6 +2510,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "RRJSSXC5SX97PPNS" : {
+      "sku" : "RRJSSXC5SX97PPNS",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Seoul)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-northeast-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "8U96ZTQEJ6RNTZPV" : {
       "sku" : "8U96ZTQEJ6RNTZPV",
       "productFamily" : "AWS Backup Storage",
@@ -2504,6 +2672,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "ap-southeast-4",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "DF53GQ2Z6YNXYRHK" : {
+      "sku" : "DF53GQ2Z6YNXYRHK",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Hong Kong)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-east-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "3X67KB9DV6VGZPX9" : {
@@ -2651,6 +2838,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
         "vaulttype" : "BackupVault"
+      }
+    },
+    "K4FTJRWDCSTZ53XW" : {
+      "sku" : "K4FTJRWDCSTZ53XW",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Thailand)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS9-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-7",
+        "vaulttype" : "Any"
       }
     },
     "N23VYD49SQ7PHQZA" : {
@@ -3475,6 +3681,21 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "J4WR92MK26MBKNFM" : {
+      "sku" : "J4WR92MK26MBKNFM",
+      "productFamily" : "AWS Backup Early Delete Size",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-EarlyDelete-ColdByteHrs-DSQL",
+        "operation" : "Storage",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Cold"
+      }
+    },
     "9P9SRFDP5DC7HPGF" : {
       "sku" : "9P9SRFDP5DC7HPGF",
       "productFamily" : "AWS Backup Storage",
@@ -3563,6 +3784,25 @@
         "operation" : "DataTransfer",
         "backupservice" : "DDB",
         "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "3E25DHXTP4ANAEDN" : {
+      "sku" : "3E25DHXTP4ANAEDN",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "EU (London)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW2-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "eu-west-2",
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
@@ -3797,6 +4037,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "SK5BWAKGNARCPQAP" : {
+      "sku" : "SK5BWAKGNARCPQAP",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (Ireland)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EU-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-west-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "P5W8CUUYFR463XKX" : {
       "sku" : "P5W8CUUYFR463XKX",
       "productFamily" : "AWS Backup Storage",
@@ -4025,6 +4284,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "9GF2UQYVHU3XYQPD" : {
+      "sku" : "9GF2UQYVHU3XYQPD",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Middle East (Bahrain)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-MES1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "me-south-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "SEKNCWY5JMEG42AY" : {
       "sku" : "SEKNCWY5JMEG42AY",
       "productFamily" : "AWS Backup Storage",
@@ -4098,6 +4376,25 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "ap-northeast-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "257SWB9W2XBAKE2P" : {
+      "sku" : "257SWB9W2XBAKE2P",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Mumbai)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS3-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-south-1",
         "vaulttype" : "BackupVault"
       }
     },
@@ -4194,6 +4491,44 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "RVBQEKBS4ZKWS8FW" : {
+      "sku" : "RVBQEKBS4ZKWS8FW",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Hyderabad)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS5-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-south-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "FSW75459XVNSPSBC" : {
+      "sku" : "FSW75459XVNSPSBC",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (Milan)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUS1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-south-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "YXFT6NEW56Y52WZ5" : {
@@ -4326,6 +4661,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "JSJD9BKKJ42BG9XV" : {
+      "sku" : "JSJD9BKKJ42BG9XV",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Middle East (UAE)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-MEC1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "me-central-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "69J9DEDG7V6UBRZE" : {
       "sku" : "69J9DEDG7V6UBRZE",
       "productFamily" : "AWS Backup Storage",
@@ -4435,6 +4789,25 @@
         "storagetype" : "Cold"
       }
     },
+    "VBU3YNX6N3Z49AA8" : {
+      "sku" : "VBU3YNX6N3Z49AA8",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "AWS GovCloud (US-East)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-UGE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-gov-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "AZRFK2KAZSENZVCB" : {
       "sku" : "AZRFK2KAZSENZVCB",
       "productFamily" : "AWS Backup Storage",
@@ -4524,6 +4897,25 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "ap-south-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "Q745X4HET6Q92CZD" : {
+      "sku" : "Q745X4HET6Q92CZD",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "Asia Pacific (Taipei)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-CrossRegion-WarmBytes-DynamoDB",
+        "operation" : "DataTransfer",
+        "backupservice" : "DDB",
+        "regionCode" : "ap-east-2",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
         "vaulttype" : "BackupVault"
       }
     },
@@ -5211,6 +5603,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "D2VG2KRABYA7SYA4" : {
+      "sku" : "D2VG2KRABYA7SYA4",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "AWS GovCloud (US-West)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-UGW1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-gov-west-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "35ETSBTFUZDNW94Q" : {
       "sku" : "35ETSBTFUZDNW94Q",
       "productFamily" : "AWS Backup Storage",
@@ -5304,6 +5715,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "9DCDJF54F8TTN3BV" : {
+      "sku" : "9DCDJF54F8TTN3BV",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Osaka)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APN3-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-northeast-3",
+        "vaulttype" : "BackupVault"
       }
     },
     "B92KG3NBBDE6NHSD" : {
@@ -5454,6 +5884,22 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
+        "vaulttype" : "LAGVault"
+      }
+    },
+    "88CY99D584ZGSNJW" : {
+      "sku" : "88CY99D584ZGSNJW",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WarmStorage-ByteHrs-DSQL-LAGV",
+        "operation" : "Storage",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Warm",
         "vaulttype" : "LAGVault"
       }
     },
@@ -6214,6 +6660,44 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "QNY8QJPGK88CSP77" : {
+      "sku" : "QNY8QJPGK88CSP77",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Singapore)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "66NMWBB8A8H8PQQM" : {
+      "sku" : "66NMWBB8A8H8PQQM",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Canada (Central)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-CAN1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ca-central-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "PKW2C62ZJ2ZHHWQQ" : {
       "sku" : "PKW2C62ZJ2ZHHWQQ",
       "productFamily" : "AWS Backup Storage",
@@ -6231,6 +6715,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-gov-west-1",
         "vaulttype" : "BackupVault"
+      }
+    },
+    "ZBVQ9BBYPUBGZED7" : {
+      "sku" : "ZBVQ9BBYPUBGZED7",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Mexico (Central)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-MXC1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "mx-central-1",
+        "vaulttype" : "Any"
       }
     },
     "YVYJUYHTSUESGF4T" : {
@@ -6509,6 +7012,25 @@
         "regionCode" : "us-east-1",
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer"
+      }
+    },
+    "7MGACC552588RUU6" : {
+      "sku" : "7MGACC552588RUU6",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "EU (Paris)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EUW3-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "eu-west-3",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "Q5DSCU6M4DRQAF6X" : {
@@ -7281,6 +7803,44 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "SYM2RQY8G5FMKH69" : {
+      "sku" : "SYM2RQY8G5FMKH69",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (Ohio)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE2-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-2",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "JT9BYFRF5S7SXXC4" : {
+      "sku" : "JT9BYFRF5S7SXXC4",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US West (Oregon)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USW2-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-west-2",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "ZJCMDQY9TYEHTZB7" : {
       "sku" : "ZJCMDQY9TYEHTZB7",
       "productFamily" : "AWS Backup Restore Data Size",
@@ -7332,6 +7892,44 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-gov-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "MP4H4PG7PW9257Q5" : {
+      "sku" : "MP4H4PG7PW9257Q5",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Jakarta)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS4-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-3",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "UQYVPN98838DN7S5" : {
+      "sku" : "UQYVPN98838DN7S5",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (Frankfurt)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUC1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-central-1",
         "vaulttype" : "BackupVault"
       }
     },
@@ -7542,6 +8140,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "eu-north-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "JQGMU73D688SCH47" : {
+      "sku" : "JQGMU73D688SCH47",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "Asia Pacific (Taipei)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-CrossRegion-WarmBytes-S3",
+        "operation" : "DataTransfer",
+        "backupservice" : "S3",
+        "regionCode" : "ap-east-2",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "VYHV296NA7RAJRPS" : {
@@ -7862,6 +8479,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "eu-central-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "8QWT4FAYV442EATU" : {
+      "sku" : "8QWT4FAYV442EATU",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (Stockholm)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUN1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-north-1",
+        "vaulttype" : "BackupVault"
       }
     },
     "QSFWFA2V8WE46R65" : {
@@ -8234,6 +8870,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "P3UP28RAW2SRKW37" : {
+      "sku" : "P3UP28RAW2SRKW37",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "EU (Ireland)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "EU-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "eu-west-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "2YDUB2EVT3H4SFWG" : {
       "sku" : "2YDUB2EVT3H4SFWG",
       "productFamily" : "AWS Backup Storage",
@@ -8554,6 +9209,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "QXAPSZNQGBA9PSD7" : {
+      "sku" : "QXAPSZNQGBA9PSD7",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Canada West (Calgary)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-CAN2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ca-west-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "PFZ7G2CHYMZHY7EB" : {
       "sku" : "PFZ7G2CHYMZHY7EB",
       "productFamily" : "AWS Backup Storage",
@@ -8782,6 +9456,44 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "3V2BJA4MB37M4Q5N" : {
+      "sku" : "3V2BJA4MB37M4Q5N",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Israel (Tel Aviv)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-ILC1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "il-central-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "GM3KXVU2J7BZWPHD" : {
+      "sku" : "GM3KXVU2J7BZWPHD",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Malaysia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS7-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-5",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "GGMG6X8438APPZR8" : {
       "sku" : "GGMG6X8438APPZR8",
       "productFamily" : "AWS Backup Storage",
@@ -8890,6 +9602,25 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "RAPY4VRJ3RQYKYM6" : {
+      "sku" : "RAPY4VRJ3RQYKYM6",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (Ohio)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USE2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-2",
         "vaulttype" : "BackupVault"
       }
     },
@@ -9192,6 +9923,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "KYTPNTM63H74EK4N" : {
+      "sku" : "KYTPNTM63H74EK4N",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-CrossRegion-WarmBytes-EFS",
+        "operation" : "DataTransfer",
+        "backupservice" : "EFS",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-east-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "NZBNRAKWN5U4DCRJ" : {
       "sku" : "NZBNRAKWN5U4DCRJ",
       "productFamily" : "AWS Backup Storage",
@@ -9433,6 +10183,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "E4BJB9PUE66M9JXA" : {
+      "sku" : "E4BJB9PUE66M9JXA",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "South America (Sao Paulo)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-SAE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "sa-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "AATXRF7A36C4C376" : {
       "sku" : "AATXRF7A36C4C376",
       "productFamily" : "AWS Backup Storage",
@@ -9566,6 +10335,44 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "VXEM7FT8F9C7WPWK" : {
+      "sku" : "VXEM7FT8F9C7WPWK",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Africa (Cape Town)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-AFS1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "af-south-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "CCFW3BKRJ7XNE5PS" : {
+      "sku" : "CCFW3BKRJ7XNE5PS",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Taipei)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APE2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-east-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "YQ3DBAV7CUTAXVBX" : {
       "sku" : "YQ3DBAV7CUTAXVBX",
       "productFamily" : "AWS Backup Storage",
@@ -9690,6 +10497,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "GYFG6G7A29MT53W4" : {
+      "sku" : "GYFG6G7A29MT53W4",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US West (N. California)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-west-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "9T9HMA46WERBU8WC" : {
       "sku" : "9T9HMA46WERBU8WC",
       "productFamily" : "AWS Backup Storage",
@@ -9706,6 +10532,25 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "JVG9R4XMWEQ53CQP" : {
+      "sku" : "JVG9R4XMWEQ53CQP",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (Paris)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW3-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-west-3",
         "vaulttype" : "BackupVault"
       }
     },
@@ -10156,6 +11001,25 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "FP59798KZAJ6EXYU" : {
+      "sku" : "FP59798KZAJ6EXYU",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "Asia Pacific (Osaka)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APN3-USE1-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "ap-northeast-3",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "HA6FPRBJSZYQD9W2" : {
       "sku" : "HA6FPRBJSZYQD9W2",
       "productFamily" : "AWS Backup Storage",
@@ -10551,6 +11415,22 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "EVQAFD8F9S46RRUZ" : {
+      "sku" : "EVQAFD8F9S46RRUZ",
+      "productFamily" : "AWS Backup Restore Data Size",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Restore-ColdBytes-DSQL",
+        "operation" : "RestoreRecoveryPoint",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Cold",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "4QYZZWCTG49MUYWU" : {
       "sku" : "4QYZZWCTG49MUYWU",
       "productFamily" : "AWS Backup Storage",
@@ -10606,6 +11486,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
         "vaulttype" : "Any"
+      }
+    },
+    "Y4E4YB6A39DSM3GN" : {
+      "sku" : "Y4E4YB6A39DSM3GN",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "EU (London)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-EUW2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "eu-west-2",
+        "vaulttype" : "BackupVault"
       }
     },
     "3NTRP55EDSDRY8YC" : {
@@ -10946,6 +11845,22 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "af-south-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "JBG6TUF7DW8UM5AV" : {
+      "sku" : "JBG6TUF7DW8UM5AV",
+      "productFamily" : "AWS Backup Restore Data Size",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-Restore-WarmBytes-DSQL",
+        "operation" : "RestoreRecoveryPoint",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Warm",
         "vaulttype" : "BackupVault"
       }
     },
@@ -11766,6 +12681,25 @@
         "vaulttype" : "LAGVault"
       }
     },
+    "DMT7WH95E9NE6QAJ" : {
+      "sku" : "DMT7WH95E9NE6QAJ",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "Asia Pacific (Taipei)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US East (N. Virginia)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APE2-USE1-CrossRegion-WarmBytes-EFS",
+        "operation" : "DataTransfer",
+        "backupservice" : "EFS",
+        "regionCode" : "ap-east-2",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "CQYEAQT5KA4RMUDJ" : {
       "sku" : "CQYEAQT5KA4RMUDJ",
       "productFamily" : "AWS Backup Storage",
@@ -11855,6 +12789,22 @@
         "servicename" : "AWS Backup",
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "AYTUDHNUP36TR75C" : {
+      "sku" : "AYTUDHNUP36TR75C",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-ColdStorage-ByteHrs-DSQL",
+        "operation" : "Storage",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Cold",
         "vaulttype" : "BackupVault"
       }
     },
@@ -11988,6 +12938,41 @@
         "vaulttype" : "BackupVault"
       }
     },
+    "KC4VEPWGN7A9REWT" : {
+      "sku" : "KC4VEPWGN7A9REWT",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "usagetype" : "USE1-WarmStorage-ByteHrs-DSQL",
+        "operation" : "Storage",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storagetype" : "Warm",
+        "vaulttype" : "BackupVault"
+      }
+    },
+    "YMMCX89C9JARXH6D" : {
+      "sku" : "YMMCX89C9JARXH6D",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "US West (Oregon)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-USW2-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "us-west-2",
+        "vaulttype" : "BackupVault"
+      }
+    },
     "5RA3PV7GBAEAYEPT" : {
       "sku" : "5RA3PV7GBAEAYEPT",
       "productFamily" : "AWS Backup Storage",
@@ -12024,6 +13009,25 @@
         "storageType" : "AWSBackup-DataTransfer",
         "toRegionCode" : "us-east-1",
         "vaulttype" : "LAGVault"
+      }
+    },
+    "P5WTZCB77HZFEQAJ" : {
+      "sku" : "P5WTZCB77HZFEQAJ",
+      "productFamily" : "AWS Backup Storage",
+      "attributes" : {
+        "servicecode" : "AWSBackup",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Melbourne)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "USE1-APS6-CrossRegion-WarmBytes-DSQL",
+        "operation" : "DataTransfer",
+        "backupservice" : "Aurora DSQL",
+        "regionCode" : "us-east-1",
+        "servicename" : "AWS Backup",
+        "storageType" : "AWSBackup-DataTransfer",
+        "toRegionCode" : "ap-southeast-4",
+        "vaulttype" : "BackupVault"
       }
     },
     "RYGY7AA6PZ8Q79YV" : {
@@ -12756,6 +13760,27 @@
           "termAttributes" : { }
         }
       },
+      "JVG9R4XMWEQ53CQP" : {
+        "JVG9R4XMWEQ53CQP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JVG9R4XMWEQ53CQP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JVG9R4XMWEQ53CQP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JVG9R4XMWEQ53CQP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (Paris)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "3MTQEWWFAFZENT6W" : {
         "3MTQEWWFAFZENT6W.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -12770,6 +13795,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MP4H4PG7PW9257Q5" : {
+        "MP4H4PG7PW9257Q5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MP4H4PG7PW9257Q5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MP4H4PG7PW9257Q5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MP4H4PG7PW9257Q5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Jakarta)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -13043,6 +14089,48 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JQGMU73D688SCH47" : {
+        "JQGMU73D688SCH47.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JQGMU73D688SCH47",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JQGMU73D688SCH47.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JQGMU73D688SCH47.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for cross-Region backup data transfer for S3 to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JT9BYFRF5S7SXXC4" : {
+        "JT9BYFRF5S7SXXC4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JT9BYFRF5S7SXXC4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JT9BYFRF5S7SXXC4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JT9BYFRF5S7SXXC4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -14079,6 +15167,27 @@
           "termAttributes" : { }
         }
       },
+      "QNY8QJPGK88CSP77" : {
+        "QNY8QJPGK88CSP77.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QNY8QJPGK88CSP77",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QNY8QJPGK88CSP77.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QNY8QJPGK88CSP77.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "JPFS38RJ8KMQ387C" : {
         "JPFS38RJ8KMQ387C.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -14109,6 +15218,27 @@
             "7KQJPQ95B2WY9J6T.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "7KQJPQ95B2WY9J6T.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for StorageGateway to Middle East (UAE)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7MGACC552588RUU6" : {
+        "7MGACC552588RUU6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7MGACC552588RUU6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "7MGACC552588RUU6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7MGACC552588RUU6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -14898,6 +16028,27 @@
           "termAttributes" : { }
         }
       },
+      "QXAPSZNQGBA9PSD7" : {
+        "QXAPSZNQGBA9PSD7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QXAPSZNQGBA9PSD7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QXAPSZNQGBA9PSD7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QXAPSZNQGBA9PSD7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Canada West (Calgary)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "ZHVS69TY93WG6NGM" : {
         "ZHVS69TY93WG6NGM.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -15255,6 +16406,27 @@
           "termAttributes" : { }
         }
       },
+      "GM3KXVU2J7BZWPHD" : {
+        "GM3KXVU2J7BZWPHD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GM3KXVU2J7BZWPHD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GM3KXVU2J7BZWPHD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GM3KXVU2J7BZWPHD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Malaysia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "WEPQ3CD29SG4MF6H" : {
         "WEPQ3CD29SG4MF6H.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -15306,6 +16478,27 @@
             "5JPXRMWST4ENFKNG.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "5JPXRMWST4ENFKNG.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.02 per GB for restore from warm backup storage for S3",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8QWT4FAYV442EATU" : {
+        "8QWT4FAYV442EATU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8QWT4FAYV442EATU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8QWT4FAYV442EATU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8QWT4FAYV442EATU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (Stockholm)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -16221,6 +17414,27 @@
           "termAttributes" : { }
         }
       },
+      "FP59798KZAJ6EXYU" : {
+        "FP59798KZAJ6EXYU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FP59798KZAJ6EXYU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FP59798KZAJ6EXYU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FP59798KZAJ6EXYU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "UCS35DJV8A6CWD23" : {
         "UCS35DJV8A6CWD23.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -16298,6 +17512,48 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "88CY99D584ZGSNJW" : {
+        "88CY99D584ZGSNJW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "88CY99D584ZGSNJW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "88CY99D584ZGSNJW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "88CY99D584ZGSNJW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.115 per GB-month for warm backup storage in logically air-gapped vault for DSQL",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1150000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VXEM7FT8F9C7WPWK" : {
+        "VXEM7FT8F9C7WPWK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VXEM7FT8F9C7WPWK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VXEM7FT8F9C7WPWK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VXEM7FT8F9C7WPWK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Africa (Cape Town)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -16419,6 +17675,27 @@
             "BUYEVCA3HX89CSPN.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "BUYEVCA3HX89CSPN.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for Neptune to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RVBQEKBS4ZKWS8FW" : {
+        "RVBQEKBS4ZKWS8FW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RVBQEKBS4ZKWS8FW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RVBQEKBS4ZKWS8FW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RVBQEKBS4ZKWS8FW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Hyderabad)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -16725,6 +18002,27 @@
           "termAttributes" : { }
         }
       },
+      "VB2JFA9KK2WKKD5T" : {
+        "VB2JFA9KK2WKKD5T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VB2JFA9KK2WKKD5T",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VB2JFA9KK2WKKD5T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VB2JFA9KK2WKKD5T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Europe (Spain)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "YZS3369UZSXWER9G" : {
         "YZS3369UZSXWER9G.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -16809,6 +18107,27 @@
           "termAttributes" : { }
         }
       },
+      "AYTUDHNUP36TR75C" : {
+        "AYTUDHNUP36TR75C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AYTUDHNUP36TR75C",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "AYTUDHNUP36TR75C.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AYTUDHNUP36TR75C.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB-month for Cold backup storage for Aurora DSQL in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "HE5EY7EHBUCBXQEE" : {
         "HE5EY7EHBUCBXQEE.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -16823,6 +18142,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5N8CGEEGHXJ5FMAB" : {
+        "5N8CGEEGHXJ5FMAB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5N8CGEEGHXJ5FMAB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5N8CGEEGHXJ5FMAB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5N8CGEEGHXJ5FMAB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD 0.0345 per GB-month for cold backup storage in logically air-gapped vault for DSQL",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0345000000"
               },
               "appliesTo" : [ ]
             }
@@ -16860,6 +18200,27 @@
             "AJG9NKHQEPHBQW4F.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "AJG9NKHQEPHBQW4F.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for Neptune to Europe (Zurich)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CCFW3BKRJ7XNE5PS" : {
+        "CCFW3BKRJ7XNE5PS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CCFW3BKRJ7XNE5PS",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CCFW3BKRJ7XNE5PS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CCFW3BKRJ7XNE5PS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Taipei)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -17082,6 +18443,27 @@
           "termAttributes" : { }
         }
       },
+      "SK5BWAKGNARCPQAP" : {
+        "SK5BWAKGNARCPQAP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SK5BWAKGNARCPQAP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "SK5BWAKGNARCPQAP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SK5BWAKGNARCPQAP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (Ireland)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "4P7AAW6ZF5XBSVXE" : {
         "4P7AAW6ZF5XBSVXE.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -17292,6 +18674,27 @@
           "termAttributes" : { }
         }
       },
+      "UQYVPN98838DN7S5" : {
+        "UQYVPN98838DN7S5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UQYVPN98838DN7S5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UQYVPN98838DN7S5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UQYVPN98838DN7S5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (Frankfurt)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "ASN8AY4K5NFUWZAH" : {
         "ASN8AY4K5NFUWZAH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -17306,6 +18709,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VBU3YNX6N3Z49AA8" : {
+        "VBU3YNX6N3Z49AA8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VBU3YNX6N3Z49AA8",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "VBU3YNX6N3Z49AA8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VBU3YNX6N3Z49AA8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to AWS GovCloud (US-East)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -18027,6 +19451,27 @@
           "termAttributes" : { }
         }
       },
+      "DF53GQ2Z6YNXYRHK" : {
+        "DF53GQ2Z6YNXYRHK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DF53GQ2Z6YNXYRHK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DF53GQ2Z6YNXYRHK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DF53GQ2Z6YNXYRHK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Hong Kong)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "DR2NQXZXR2HSFJEX" : {
         "DR2NQXZXR2HSFJEX.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -18204,6 +19649,27 @@
             "THYEHMA8T3A35AN8.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "THYEHMA8T3A35AN8.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for StorageGateway to Canada West (Calgary)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S2G394TMQGW7TBRD" : {
+        "S2G394TMQGW7TBRD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S2G394TMQGW7TBRD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "S2G394TMQGW7TBRD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S2G394TMQGW7TBRD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for S3 to Asia Pacific (Taipei)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -18972,6 +20438,27 @@
           "termAttributes" : { }
         }
       },
+      "3V2BJA4MB37M4Q5N" : {
+        "3V2BJA4MB37M4Q5N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3V2BJA4MB37M4Q5N",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3V2BJA4MB37M4Q5N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3V2BJA4MB37M4Q5N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Israel (Tel Aviv)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "JYFDF6JHBG64A5TP" : {
         "JYFDF6JHBG64A5TP.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -19161,6 +20648,27 @@
           "termAttributes" : { }
         }
       },
+      "J4WR92MK26MBKNFM" : {
+        "J4WR92MK26MBKNFM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J4WR92MK26MBKNFM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "J4WR92MK26MBKNFM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J4WR92MK26MBKNFM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB-month for early delete from Cold backup storage for Aurora DSQL in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "WJUE67YVQ8UJAN5U" : {
         "WJUE67YVQ8UJAN5U.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -19191,6 +20699,27 @@
             "ZHRPGDWM2S4VKWM9.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "ZHRPGDWM2S4VKWM9.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.08 per GB for cross-Region backup data transfer for EFS to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K4FTJRWDCSTZ53XW" : {
+        "K4FTJRWDCSTZ53XW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K4FTJRWDCSTZ53XW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "K4FTJRWDCSTZ53XW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K4FTJRWDCSTZ53XW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for CrossRegion-WarmBytes-DSQL to Asia Pacific (Thailand)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -19280,6 +20809,27 @@
               "unit" : "GB-month",
               "pricePerUnit" : {
                 "USD" : "0.0115000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EVQAFD8F9S46RRUZ" : {
+        "EVQAFD8F9S46RRUZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EVQAFD8F9S46RRUZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "EVQAFD8F9S46RRUZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EVQAFD8F9S46RRUZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per GB for restore from Cold backup storage for Aurora DSQL in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0300000000"
               },
               "appliesTo" : [ ]
             }
@@ -19770,6 +21320,27 @@
           "termAttributes" : { }
         }
       },
+      "E4BJB9PUE66M9JXA" : {
+        "E4BJB9PUE66M9JXA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E4BJB9PUE66M9JXA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "E4BJB9PUE66M9JXA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E4BJB9PUE66M9JXA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to South America (Sao Paulo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "ZMEQ2QF4PMEYGA9N" : {
         "ZMEQ2QF4PMEYGA9N.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -19931,6 +21502,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y4E4YB6A39DSM3GN" : {
+        "Y4E4YB6A39DSM3GN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y4E4YB6A39DSM3GN",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y4E4YB6A39DSM3GN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y4E4YB6A39DSM3GN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (London)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -20451,6 +22043,48 @@
             "VVSQR7WMTJMQVNDB.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "VVSQR7WMTJMQVNDB.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for FSx to Asia Pacific (Hyderabad)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9GF2UQYVHU3XYQPD" : {
+        "9GF2UQYVHU3XYQPD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9GF2UQYVHU3XYQPD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9GF2UQYVHU3XYQPD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9GF2UQYVHU3XYQPD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Middle East (Bahrain)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9DCDJF54F8TTN3BV" : {
+        "9DCDJF54F8TTN3BV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9DCDJF54F8TTN3BV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "9DCDJF54F8TTN3BV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9DCDJF54F8TTN3BV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Osaka)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -21282,6 +22916,27 @@
           "termAttributes" : { }
         }
       },
+      "JSJD9BKKJ42BG9XV" : {
+        "JSJD9BKKJ42BG9XV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JSJD9BKKJ42BG9XV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JSJD9BKKJ42BG9XV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JSJD9BKKJ42BG9XV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Middle East (UAE)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "29UJ6MC9STVMG993" : {
         "29UJ6MC9STVMG993.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -21296,6 +22951,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P3UP28RAW2SRKW37" : {
+        "P3UP28RAW2SRKW37.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P3UP28RAW2SRKW37",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "P3UP28RAW2SRKW37.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P3UP28RAW2SRKW37.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -21501,6 +23177,27 @@
             "8DWMRRSY2MCWWSVC.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "8DWMRRSY2MCWWSVC.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for Aurora to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JBG6TUF7DW8UM5AV" : {
+        "JBG6TUF7DW8UM5AV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JBG6TUF7DW8UM5AV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JBG6TUF7DW8UM5AV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JBG6TUF7DW8UM5AV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for restore from Warm backup storage for Aurora DSQL in US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -21849,6 +23546,27 @@
           "termAttributes" : { }
         }
       },
+      "257SWB9W2XBAKE2P" : {
+        "257SWB9W2XBAKE2P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "257SWB9W2XBAKE2P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "257SWB9W2XBAKE2P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "257SWB9W2XBAKE2P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Mumbai)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "PH7ZCG7SWYXJUDFM" : {
         "PH7ZCG7SWYXJUDFM.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -21947,6 +23665,48 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0860000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RAPY4VRJ3RQYKYM6" : {
+        "RAPY4VRJ3RQYKYM6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RAPY4VRJ3RQYKYM6",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RAPY4VRJ3RQYKYM6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RAPY4VRJ3RQYKYM6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (Ohio)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q745X4HET6Q92CZD" : {
+        "Q745X4HET6Q92CZD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q745X4HET6Q92CZD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q745X4HET6Q92CZD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q745X4HET6Q92CZD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for cross-Region backup data transfer for DynamoDB to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
               },
               "appliesTo" : [ ]
             }
@@ -22248,6 +24008,27 @@
           "termAttributes" : { }
         }
       },
+      "D2VG2KRABYA7SYA4" : {
+        "D2VG2KRABYA7SYA4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D2VG2KRABYA7SYA4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D2VG2KRABYA7SYA4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D2VG2KRABYA7SYA4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to AWS GovCloud (US-West)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "XT9GDXVGNMXPNATD" : {
         "XT9GDXVGNMXPNATD.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -22514,6 +24295,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RRJSSXC5SX97PPNS" : {
+        "RRJSSXC5SX97PPNS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RRJSSXC5SX97PPNS",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RRJSSXC5SX97PPNS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RRJSSXC5SX97PPNS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Seoul)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -23277,6 +25079,27 @@
           "termAttributes" : { }
         }
       },
+      "U93SHAN7MV7SQM5P" : {
+        "U93SHAN7MV7SQM5P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U93SHAN7MV7SQM5P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "U93SHAN7MV7SQM5P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U93SHAN7MV7SQM5P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Tokyo)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "YF6W53ZJNWY7ZKZQ" : {
         "YF6W53ZJNWY7ZKZQ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -23508,6 +25331,27 @@
           "termAttributes" : { }
         }
       },
+      "KYTPNTM63H74EK4N" : {
+        "KYTPNTM63H74EK4N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KYTPNTM63H74EK4N",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KYTPNTM63H74EK4N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KYTPNTM63H74EK4N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for EFS to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "BDA88AFG62QJEG2F" : {
         "BDA88AFG62QJEG2F.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -23543,6 +25387,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZQ3B6FP3D2WRHR6U" : {
+        "ZQ3B6FP3D2WRHR6U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZQ3B6FP3D2WRHR6U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZQ3B6FP3D2WRHR6U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZQ3B6FP3D2WRHR6U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Sydney)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -23592,6 +25457,27 @@
           "termAttributes" : { }
         }
       },
+      "DMT7WH95E9NE6QAJ" : {
+        "DMT7WH95E9NE6QAJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DMT7WH95E9NE6QAJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DMT7WH95E9NE6QAJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DMT7WH95E9NE6QAJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.08 per GB for cross-Region backup data transfer for EFS to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "E8CE7JD2EXZWSVVG" : {
         "E8CE7JD2EXZWSVVG.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -23601,6 +25487,27 @@
             "E8CE7JD2EXZWSVVG.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "E8CE7JD2EXZWSVVG.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for FSx to Asia Pacific (Sydney)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3E25DHXTP4ANAEDN" : {
+        "3E25DHXTP4ANAEDN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3E25DHXTP4ANAEDN",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3E25DHXTP4ANAEDN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3E25DHXTP4ANAEDN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -23865,6 +25772,27 @@
           "termAttributes" : { }
         }
       },
+      "PRS65QS4CCMGB2ZK" : {
+        "PRS65QS4CCMGB2ZK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PRS65QS4CCMGB2ZK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PRS65QS4CCMGB2ZK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PRS65QS4CCMGB2ZK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.09 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "SNQVQVTYU8MYMNUR" : {
         "SNQVQVTYU8MYMNUR.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -23937,6 +25865,27 @@
             "UPPPS4HSWVUA6HCY.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "UPPPS4HSWVUA6HCY.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for FSx to Canada West (Calgary)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FSW75459XVNSPSBC" : {
+        "FSW75459XVNSPSBC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FSW75459XVNSPSBC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FSW75459XVNSPSBC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FSW75459XVNSPSBC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to EU (Milan)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -24264,6 +26213,27 @@
           "termAttributes" : { }
         }
       },
+      "SYM2RQY8G5FMKH69" : {
+        "SYM2RQY8G5FMKH69.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SYM2RQY8G5FMKH69",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "SYM2RQY8G5FMKH69.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SYM2RQY8G5FMKH69.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "36U8FPFKXGAB96EC" : {
         "36U8FPFKXGAB96EC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -24341,6 +26311,48 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GYFG6G7A29MT53W4" : {
+        "GYFG6G7A29MT53W4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GYFG6G7A29MT53W4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GYFG6G7A29MT53W4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GYFG6G7A29MT53W4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US West (N. California)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P5WTZCB77HZFEQAJ" : {
+        "P5WTZCB77HZFEQAJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P5WTZCB77HZFEQAJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "P5WTZCB77HZFEQAJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P5WTZCB77HZFEQAJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Asia Pacific (Melbourne)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -24467,6 +26479,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0400000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KC4VEPWGN7A9REWT" : {
+        "KC4VEPWGN7A9REWT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KC4VEPWGN7A9REWT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KC4VEPWGN7A9REWT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KC4VEPWGN7A9REWT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.10 per GB-month for Warm backup storage for Aurora DSQL in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-month",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
               },
               "appliesTo" : [ ]
             }
@@ -24845,6 +26878,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.1100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZBVQ9BBYPUBGZED7" : {
+        "ZBVQ9BBYPUBGZED7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZBVQ9BBYPUBGZED7",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZBVQ9BBYPUBGZED7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZBVQ9BBYPUBGZED7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for CrossRegion-WarmBytes-DSQL to Mexico (Central)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }
@@ -25524,6 +27578,27 @@
           "termAttributes" : { }
         }
       },
+      "GFQW8C67GNRGRG3G" : {
+        "GFQW8C67GNRGRG3G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GFQW8C67GNRGRG3G",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GFQW8C67GNRGRG3G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GFQW8C67GNRGRG3G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for DynamoDB to Asia Pacific (Taipei)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "R2NGA8PZYRRBEX4M" : {
         "R2NGA8PZYRRBEX4M.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -25755,6 +27830,27 @@
           "termAttributes" : { }
         }
       },
+      "GGG5F3NAM8AVP6UJ" : {
+        "GGG5F3NAM8AVP6UJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GGG5F3NAM8AVP6UJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GGG5F3NAM8AVP6UJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GGG5F3NAM8AVP6UJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Europe (Zurich)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
       "EA6ZP3NN5F4266XA" : {
         "EA6ZP3NN5F4266XA.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -25869,6 +27965,27 @@
             "9JXBUK4XDVS3DAGJ.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "9JXBUK4XDVS3DAGJ.JRTCKXETXF.6YS6EN2CT7",
               "description" : "USD 0.02 per GB for data transfer from logically air-gapped vault for Aurora to EU (London)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "66NMWBB8A8H8PQQM" : {
+        "66NMWBB8A8H8PQQM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "66NMWBB8A8H8PQQM",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "66NMWBB8A8H8PQQM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "66NMWBB8A8H8PQQM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to Canada (Central)",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "GB",
@@ -26903,6 +29020,27 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.1670000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YMMCX89C9JARXH6D" : {
+        "YMMCX89C9JARXH6D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YMMCX89C9JARXH6D",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YMMCX89C9JARXH6D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YMMCX89C9JARXH6D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB for cross-Region backup data transfer for Aurora DSQL to US West (Oregon)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
               },
               "appliesTo" : [ ]
             }

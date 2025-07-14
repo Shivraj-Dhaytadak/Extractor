@@ -2,8 +2,8 @@
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
   "offerCode" : "AmazonGuardDuty",
-  "version" : "20250513231918",
-  "publicationDate" : "2025-05-13T23:19:18Z",
+  "version" : "20250604175312",
+  "publicationDate" : "2025-06-04T17:53:12Z",
   "products" : {
     "AYWD62WMUUDMNWPU" : {
       "sku" : "AYWD62WMUUDMNWPU",
@@ -201,20 +201,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "XZZAMJ5K5SQ9WSF7" : {
-      "sku" : "XZZAMJ5K5SQ9WSF7",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0003",
-        "usagetype" : "USE1-PaidRDSvCPUMonitored",
-        "operation" : "CreateDBInstance:0003",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "8KW9X7PS4NFEPCPY" : {
       "sku" : "8KW9X7PS4NFEPCPY",
       "productFamily" : "GuardDuty",
@@ -224,6 +210,20 @@
         "locationType" : "AWS Region",
         "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0003",
         "usagetype" : "USE1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0003",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "XZZAMJ5K5SQ9WSF7" : {
+      "sku" : "XZZAMJ5K5SQ9WSF7",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0003",
+        "usagetype" : "USE1-PaidRDSvCPUMonitored",
         "operation" : "CreateDBInstance:0003",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
@@ -257,20 +257,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "EYKXHRMWJ48DFC37" : {
-      "sku" : "EYKXHRMWJ48DFC37",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0005",
-        "usagetype" : "USE1-PaidRDSACUMonitored",
-        "operation" : "CreateDBInstance:0005",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "GTTY6CJPSAJF6RM4" : {
       "sku" : "GTTY6CJPSAJF6RM4",
       "productFamily" : "GuardDuty",
@@ -281,6 +267,20 @@
         "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0019",
         "usagetype" : "USE1-PaidRDSACUMonitored",
         "operation" : "CreateDBInstance:0019",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "EYKXHRMWJ48DFC37" : {
+      "sku" : "EYKXHRMWJ48DFC37",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0005",
+        "usagetype" : "USE1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0005",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
       }
@@ -509,20 +509,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "G2F6ZF2RVMK7JFDT" : {
-      "sku" : "G2F6ZF2RVMK7JFDT",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0020",
-        "usagetype" : "USE1-FreeRDSvCPUMonitored",
-        "operation" : "CreateDBInstance:0020",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "8BV7SY7BH9HEZG8H" : {
       "sku" : "8BV7SY7BH9HEZG8H",
       "productFamily" : "GuardDuty",
@@ -533,6 +519,20 @@
         "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance",
         "usagetype" : "USE1-FreeRDSACUMonitored",
         "operation" : "CreateDBInstance",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "G2F6ZF2RVMK7JFDT" : {
+      "sku" : "G2F6ZF2RVMK7JFDT",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0020",
+        "usagetype" : "USE1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0020",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
       }
@@ -677,20 +677,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "DD8EG8E675SDCR8T" : {
-      "sku" : "DD8EG8E675SDCR8T",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Free EC2 vCPU Monitored",
-        "usagetype" : "USE1-FreeEC2vCPUMonitored",
-        "operation" : "",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "JWY56TTYR6QJB5AA" : {
       "sku" : "JWY56TTYR6QJB5AA",
       "productFamily" : "GuardDuty",
@@ -700,6 +686,20 @@
         "locationType" : "AWS Region",
         "group" : "Security Services - Amazon GuardDuty Paid Fargate vCPU Monitored",
         "usagetype" : "USE1-PaidFargatevCPUMonitored",
+        "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "DD8EG8E675SDCR8T" : {
+      "sku" : "DD8EG8E675SDCR8T",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free EC2 vCPU Monitored",
+        "usagetype" : "USE1-FreeEC2vCPUMonitored",
         "operation" : "",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
@@ -985,20 +985,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "MC7UYVC4V3769Z3Q" : {
-      "sku" : "MC7UYVC4V3769Z3Q",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0012",
-        "usagetype" : "USE1-PaidRDSACUMonitored",
-        "operation" : "CreateDBInstance:0012",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "PANHTVH4AFRDB8UE" : {
       "sku" : "PANHTVH4AFRDB8UE",
       "productFamily" : "GuardDuty",
@@ -1009,6 +995,20 @@
         "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0009",
         "usagetype" : "USE1-FreeRDSvCPUMonitored",
         "operation" : "CreateDBInstance:0009",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "MC7UYVC4V3769Z3Q" : {
+      "sku" : "MC7UYVC4V3769Z3Q",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0012",
+        "usagetype" : "USE1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0012",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
       }
@@ -1125,20 +1125,6 @@
         "servicename" : "Amazon GuardDuty"
       }
     },
-    "VRY6GJ4P6QR7MP9R" : {
-      "sku" : "VRY6GJ4P6QR7MP9R",
-      "productFamily" : "GuardDuty",
-      "attributes" : {
-        "servicecode" : "AmazonGuardDuty",
-        "location" : "US East (N. Virginia)",
-        "locationType" : "AWS Region",
-        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0018",
-        "usagetype" : "USE1-FreeRDSACUMonitored",
-        "operation" : "CreateDBInstance:0018",
-        "regionCode" : "us-east-1",
-        "servicename" : "Amazon GuardDuty"
-      }
-    },
     "85FZ2QD48UHH4GTT" : {
       "sku" : "85FZ2QD48UHH4GTT",
       "productFamily" : "GuardDuty",
@@ -1149,6 +1135,20 @@
         "group" : "Security Services - Amazon GuardDuty Malware Protection S3 Request Monitored",
         "usagetype" : "USE1-MalwareProtectionS3ScanRequest",
         "operation" : "",
+        "regionCode" : "us-east-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "VRY6GJ4P6QR7MP9R" : {
+      "sku" : "VRY6GJ4P6QR7MP9R",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "US East (N. Virginia)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0018",
+        "usagetype" : "USE1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0018",
         "regionCode" : "us-east-1",
         "servicename" : "Amazon GuardDuty"
       }
@@ -1415,27 +1415,6 @@
           "termAttributes" : { }
         }
       },
-      "URWHG644G3GKEEBG" : {
-        "URWHG644G3GKEEBG.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "URWHG644G3GKEEBG",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "URWHG644G3GKEEBG.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "URWHG644G3GKEEBG.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "4HDJWEYA32APVXHW" : {
         "4HDJWEYA32APVXHW.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1445,69 +1424,6 @@
             "4HDJWEYA32APVXHW.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "4HDJWEYA32APVXHW.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "G2F6ZF2RVMK7JFDT" : {
-        "G2F6ZF2RVMK7JFDT.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "G2F6ZF2RVMK7JFDT",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "G2F6ZF2RVMK7JFDT.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "G2F6ZF2RVMK7JFDT.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "5WEV62VK9GFZHAZK" : {
-        "5WEV62VK9GFZHAZK.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "5WEV62VK9GFZHAZK",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "5WEV62VK9GFZHAZK.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "5WEV62VK9GFZHAZK.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "DD8EG8E675SDCR8T" : {
-        "DD8EG8E675SDCR8T.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "DD8EG8E675SDCR8T",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "DD8EG8E675SDCR8T.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "DD8EG8E675SDCR8T.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month monitored (free trial) in US East (N. Virginia) region",
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "vCPU-Months",
@@ -1574,6 +1490,913 @@
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PANHTVH4AFRDB8UE" : {
+        "PANHTVH4AFRDB8UE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PANHTVH4AFRDB8UE",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PANHTVH4AFRDB8UE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PANHTVH4AFRDB8UE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MHH6GB2KQR9AHUFD" : {
+        "MHH6GB2KQR9AHUFD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MHH6GB2KQR9AHUFD",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "MHH6GB2KQR9AHUFD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MHH6GB2KQR9AHUFD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UKPUZDD433MB8KHV" : {
+        "UKPUZDD433MB8KHV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UKPUZDD433MB8KHV",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UKPUZDD433MB8KHV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UKPUZDD433MB8KHV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YDW9WYKPAH7CSZPT" : {
+        "YDW9WYKPAH7CSZPT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YDW9WYKPAH7CSZPT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YDW9WYKPAH7CSZPT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YDW9WYKPAH7CSZPT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XMQMJSKBDYEC6QA2" : {
+        "XMQMJSKBDYEC6QA2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XMQMJSKBDYEC6QA2",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "XMQMJSKBDYEC6QA2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XMQMJSKBDYEC6QA2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BFBQQVHJCRMSYKYT" : {
+        "BFBQQVHJCRMSYKYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BFBQQVHJCRMSYKYT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BFBQQVHJCRMSYKYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BFBQQVHJCRMSYKYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GTTY6CJPSAJF6RM4" : {
+        "GTTY6CJPSAJF6RM4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GTTY6CJPSAJF6RM4",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GTTY6CJPSAJF6RM4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GTTY6CJPSAJF6RM4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3RQ79GT5K8HQUFN5" : {
+        "3RQ79GT5K8HQUFN5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3RQ79GT5K8HQUFN5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3RQ79GT5K8HQUFN5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3RQ79GT5K8HQUFN5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "67K3RUGE6GR924SC" : {
+        "67K3RUGE6GR924SC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "67K3RUGE6GR924SC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "67K3RUGE6GR924SC.JRTCKXETXF.8EEUB22XNJ" : {
+              "rateCode" : "67K3RUGE6GR924SC.JRTCKXETXF.8EEUB22XNJ",
+              "description" : "$0.00 per GB - for the first 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "67K3RUGE6GR924SC.JRTCKXETXF.JTU8TKNAMW" : {
+              "rateCode" : "67K3RUGE6GR924SC.JRTCKXETXF.JTU8TKNAMW",
+              "description" : "$0.09 per GB - for above 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
+              "beginRange" : "1",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C64KBBFJ84TA64MJ" : {
+        "C64KBBFJ84TA64MJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C64KBBFJ84TA64MJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "C64KBBFJ84TA64MJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C64KBBFJ84TA64MJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "96Y7YK7A74GE5VYZ" : {
+        "96Y7YK7A74GE5VYZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "96Y7YK7A74GE5VYZ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "96Y7YK7A74GE5VYZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "96Y7YK7A74GE5VYZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WTRDEEJ34ETE77YF" : {
+        "WTRDEEJ34ETE77YF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WTRDEEJ34ETE77YF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "WTRDEEJ34ETE77YF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WTRDEEJ34ETE77YF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KH4J644BBQSAUDQB" : {
+        "KH4J644BBQSAUDQB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KH4J644BBQSAUDQB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KH4J644BBQSAUDQB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KH4J644BBQSAUDQB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V342GESQ8KAVRFTN" : {
+        "V342GESQ8KAVRFTN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V342GESQ8KAVRFTN",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "V342GESQ8KAVRFTN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V342GESQ8KAVRFTN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3AKEDAQC4YJN2XXW" : {
+        "3AKEDAQC4YJN2XXW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3AKEDAQC4YJN2XXW",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3AKEDAQC4YJN2XXW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3AKEDAQC4YJN2XXW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "44VQU5F3JGBTMP6P" : {
+        "44VQU5F3JGBTMP6P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "44VQU5F3JGBTMP6P",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "44VQU5F3JGBTMP6P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "44VQU5F3JGBTMP6P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D3TMTSAXEBF84JYQ" : {
+        "D3TMTSAXEBF84JYQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D3TMTSAXEBF84JYQ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D3TMTSAXEBF84JYQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D3TMTSAXEBF84JYQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZMYURKKV4J2T3SZB" : {
+        "ZMYURKKV4J2T3SZB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZMYURKKV4J2T3SZB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZMYURKKV4J2T3SZB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZMYURKKV4J2T3SZB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KM3AH2Q87UZFX9MJ" : {
+        "KM3AH2Q87UZFX9MJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KM3AH2Q87UZFX9MJ",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "KM3AH2Q87UZFX9MJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KM3AH2Q87UZFX9MJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000004 per CloudTrail event analyzed in US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000040000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3SH3P52F9FASEHAA" : {
+        "3SH3P52F9FASEHAA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3SH3P52F9FASEHAA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3SH3P52F9FASEHAA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3SH3P52F9FASEHAA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FKWDBTMFANHDCQMP" : {
+        "FKWDBTMFANHDCQMP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FKWDBTMFANHDCQMP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FKWDBTMFANHDCQMP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FKWDBTMFANHDCQMP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4GZ2WSWMPXBTMDZB" : {
+        "4GZ2WSWMPXBTMDZB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4GZ2WSWMPXBTMDZB",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4GZ2WSWMPXBTMDZB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4GZ2WSWMPXBTMDZB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeMalwareProtectionEBSDataScanned in US East (N. Virginia)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8KW9X7PS4NFEPCPY" : {
+        "8KW9X7PS4NFEPCPY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8KW9X7PS4NFEPCPY",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8KW9X7PS4NFEPCPY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8KW9X7PS4NFEPCPY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3QAAAXW46RDD3V64" : {
+        "3QAAAXW46RDD3V64.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3QAAAXW46RDD3V64",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "3QAAAXW46RDD3V64.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3QAAAXW46RDD3V64.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per CloudTrail events analyzed (free trial) US East (N.Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4RAQN65QGX6R3SXF" : {
+        "4RAQN65QGX6R3SXF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4RAQN65QGX6R3SXF",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4RAQN65QGX6R3SXF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4RAQN65QGX6R3SXF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RNJT5SZG6ENR37TR" : {
+        "RNJT5SZG6ENR37TR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RNJT5SZG6ENR37TR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "RNJT5SZG6ENR37TR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RNJT5SZG6ENR37TR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z5YHDEV4BFKVYTYU" : {
+        "Z5YHDEV4BFKVYTYU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z5YHDEV4BFKVYTYU",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z5YHDEV4BFKVYTYU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Z5YHDEV4BFKVYTYU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FQVP8345G4ZVKBD5" : {
+        "FQVP8345G4ZVKBD5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FQVP8345G4ZVKBD5",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FQVP8345G4ZVKBD5.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.5 per vCPU for the first 500 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FQVP8345G4ZVKBD5.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.75 per vCPU for the next 4500 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "FQVP8345G4ZVKBD5.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.25 per vCPU for above 5000 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "85FZ2QD48UHH4GTT" : {
+        "85FZ2QD48UHH4GTT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "85FZ2QD48UHH4GTT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "85FZ2QD48UHH4GTT.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "85FZ2QD48UHH4GTT.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "$0 per request for the first 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "85FZ2QD48UHH4GTT.JRTCKXETXF.MUBTP6UPGZ" : {
+              "rateCode" : "85FZ2QD48UHH4GTT.JRTCKXETXF.MUBTP6UPGZ",
+              "description" : "$0.000215 per request for above 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "1000",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0002150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CMVQ76VQPCXJ3EHP" : {
+        "CMVQ76VQPCXJ3EHP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CMVQ76VQPCXJ3EHP",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CMVQ76VQPCXJ3EHP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CMVQ76VQPCXJ3EHP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FZCYBSCU36JGTK5U" : {
+        "FZCYBSCU36JGTK5U.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FZCYBSCU36JGTK5U",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "FZCYBSCU36JGTK5U.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FZCYBSCU36JGTK5U.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PBUSD7DTGCS4WP4A" : {
+        "PBUSD7DTGCS4WP4A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PBUSD7DTGCS4WP4A",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "PBUSD7DTGCS4WP4A.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.5 per vCPU for the first 500 EC2 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PBUSD7DTGCS4WP4A.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.75 per vCPU for the next 4500 EC2 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PBUSD7DTGCS4WP4A.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.25 per vCPU for above 5000 EC2 vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JWY56TTYR6QJB5AA" : {
+        "JWY56TTYR6QJB5AA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JWY56TTYR6QJB5AA",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "JWY56TTYR6QJB5AA.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.5 per vCPU for the first 500 Fargate vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JWY56TTYR6QJB5AA.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.75 per vCPU for the next 4500 Fargate vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "JWY56TTYR6QJB5AA.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.25 per vCPU for above 5000 Fargate vCPU / month monitored in US East (N. Virginia) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CX5N5CRQR8ZUGUAR" : {
+        "CX5N5CRQR8ZUGUAR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CX5N5CRQR8ZUGUAR",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CX5N5CRQR8ZUGUAR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CX5N5CRQR8ZUGUAR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QP8TFT296CZ22TRC" : {
+        "QP8TFT296CZ22TRC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QP8TFT296CZ22TRC",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QP8TFT296CZ22TRC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QP8TFT296CZ22TRC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "URWHG644G3GKEEBG" : {
+        "URWHG644G3GKEEBG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "URWHG644G3GKEEBG",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "URWHG644G3GKEEBG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "URWHG644G3GKEEBG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.2500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "G2F6ZF2RVMK7JFDT" : {
+        "G2F6ZF2RVMK7JFDT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "G2F6ZF2RVMK7JFDT",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "G2F6ZF2RVMK7JFDT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "G2F6ZF2RVMK7JFDT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5WEV62VK9GFZHAZK" : {
+        "5WEV62VK9GFZHAZK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5WEV62VK9GFZHAZK",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5WEV62VK9GFZHAZK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5WEV62VK9GFZHAZK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DD8EG8E675SDCR8T" : {
+        "DD8EG8E675SDCR8T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DD8EG8E675SDCR8T",
+          "effectiveDate" : "2025-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DD8EG8E675SDCR8T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DD8EG8E675SDCR8T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month monitored (free trial) in US East (N. Virginia) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
               },
@@ -1688,90 +2511,6 @@
           "termAttributes" : { }
         }
       },
-      "PANHTVH4AFRDB8UE" : {
-        "PANHTVH4AFRDB8UE.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "PANHTVH4AFRDB8UE",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "PANHTVH4AFRDB8UE.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "PANHTVH4AFRDB8UE.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "MHH6GB2KQR9AHUFD" : {
-        "MHH6GB2KQR9AHUFD.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "MHH6GB2KQR9AHUFD",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "MHH6GB2KQR9AHUFD.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "MHH6GB2KQR9AHUFD.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "UKPUZDD433MB8KHV" : {
-        "UKPUZDD433MB8KHV.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "UKPUZDD433MB8KHV",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "UKPUZDD433MB8KHV.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "UKPUZDD433MB8KHV.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "YDW9WYKPAH7CSZPT" : {
-        "YDW9WYKPAH7CSZPT.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "YDW9WYKPAH7CSZPT",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "YDW9WYKPAH7CSZPT.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "YDW9WYKPAH7CSZPT.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "2XWRXT2KBKTGMZSC" : {
         "2XWRXT2KBKTGMZSC.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -1843,27 +2582,6 @@
           "priceDimensions" : {
             "W7CNE3BP9CD82GHN.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "W7CNE3BP9CD82GHN.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "XMQMJSKBDYEC6QA2" : {
-        "XMQMJSKBDYEC6QA2.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "XMQMJSKBDYEC6QA2",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "XMQMJSKBDYEC6QA2.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "XMQMJSKBDYEC6QA2.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
               "beginRange" : "0",
               "endRange" : "Inf",
@@ -1994,27 +2712,6 @@
           "termAttributes" : { }
         }
       },
-      "BFBQQVHJCRMSYKYT" : {
-        "BFBQQVHJCRMSYKYT.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "BFBQQVHJCRMSYKYT",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "BFBQQVHJCRMSYKYT.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "BFBQQVHJCRMSYKYT.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "6ZEXAXKEA6Z9D5QN" : {
         "6ZEXAXKEA6Z9D5QN.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2036,48 +2733,6 @@
           "termAttributes" : { }
         }
       },
-      "GTTY6CJPSAJF6RM4" : {
-        "GTTY6CJPSAJF6RM4.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "GTTY6CJPSAJF6RM4",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "GTTY6CJPSAJF6RM4.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "GTTY6CJPSAJF6RM4.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "3RQ79GT5K8HQUFN5" : {
-        "3RQ79GT5K8HQUFN5.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "3RQ79GT5K8HQUFN5",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "3RQ79GT5K8HQUFN5.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "3RQ79GT5K8HQUFN5.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "VRY6GJ4P6QR7MP9R" : {
         "VRY6GJ4P6QR7MP9R.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2092,59 +2747,6 @@
               "unit" : "ACU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "67K3RUGE6GR924SC" : {
-        "67K3RUGE6GR924SC.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "67K3RUGE6GR924SC",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "67K3RUGE6GR924SC.JRTCKXETXF.8EEUB22XNJ" : {
-              "rateCode" : "67K3RUGE6GR924SC.JRTCKXETXF.8EEUB22XNJ",
-              "description" : "$0.00 per GB - for the first 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
-              "beginRange" : "0",
-              "endRange" : "1",
-              "unit" : "GB",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "67K3RUGE6GR924SC.JRTCKXETXF.JTU8TKNAMW" : {
-              "rateCode" : "67K3RUGE6GR924SC.JRTCKXETXF.JTU8TKNAMW",
-              "description" : "$0.09 per GB - for above 1GB for Malware Protection S3 Data Scanned in US East (N. Virginia)",
-              "beginRange" : "1",
-              "endRange" : "Inf",
-              "unit" : "GB",
-              "pricePerUnit" : {
-                "USD" : "0.0900000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "C64KBBFJ84TA64MJ" : {
-        "C64KBBFJ84TA64MJ.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "C64KBBFJ84TA64MJ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "C64KBBFJ84TA64MJ.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "C64KBBFJ84TA64MJ.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
               },
               "appliesTo" : [ ]
             }
@@ -2188,48 +2790,6 @@
               "unit" : "Events",
               "pricePerUnit" : {
                 "USD" : "0.0000002000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "96Y7YK7A74GE5VYZ" : {
-        "96Y7YK7A74GE5VYZ.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "96Y7YK7A74GE5VYZ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "96Y7YK7A74GE5VYZ.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "96Y7YK7A74GE5VYZ.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "WTRDEEJ34ETE77YF" : {
-        "WTRDEEJ34ETE77YF.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "WTRDEEJ34ETE77YF",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "WTRDEEJ34ETE77YF.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "WTRDEEJ34ETE77YF.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
               },
               "appliesTo" : [ ]
             }
@@ -2396,27 +2956,6 @@
           "termAttributes" : { }
         }
       },
-      "KH4J644BBQSAUDQB" : {
-        "KH4J644BBQSAUDQB.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "KH4J644BBQSAUDQB",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "KH4J644BBQSAUDQB.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "KH4J644BBQSAUDQB.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "R33U345GJHAJ6H99" : {
         "R33U345GJHAJ6H99.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2429,27 +2968,6 @@
               "beginRange" : "0",
               "endRange" : "Inf",
               "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "V342GESQ8KAVRFTN" : {
-        "V342GESQ8KAVRFTN.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "V342GESQ8KAVRFTN",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "V342GESQ8KAVRFTN.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "V342GESQ8KAVRFTN.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
               },
@@ -2480,27 +2998,6 @@
           "termAttributes" : { }
         }
       },
-      "3AKEDAQC4YJN2XXW" : {
-        "3AKEDAQC4YJN2XXW.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "3AKEDAQC4YJN2XXW",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "3AKEDAQC4YJN2XXW.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "3AKEDAQC4YJN2XXW.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "NJ4WY6RCMK6H7QYZ" : {
         "NJ4WY6RCMK6H7QYZ.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2515,27 +3012,6 @@
               "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "44VQU5F3JGBTMP6P" : {
-        "44VQU5F3JGBTMP6P.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "44VQU5F3JGBTMP6P",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "44VQU5F3JGBTMP6P.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "44VQU5F3JGBTMP6P.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
               },
               "appliesTo" : [ ]
             }
@@ -2628,69 +3104,6 @@
           "termAttributes" : { }
         }
       },
-      "D3TMTSAXEBF84JYQ" : {
-        "D3TMTSAXEBF84JYQ.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "D3TMTSAXEBF84JYQ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "D3TMTSAXEBF84JYQ.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "D3TMTSAXEBF84JYQ.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "ZMYURKKV4J2T3SZB" : {
-        "ZMYURKKV4J2T3SZB.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "ZMYURKKV4J2T3SZB",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "ZMYURKKV4J2T3SZB.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "ZMYURKKV4J2T3SZB.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "KM3AH2Q87UZFX9MJ" : {
-        "KM3AH2Q87UZFX9MJ.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "KM3AH2Q87UZFX9MJ",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "KM3AH2Q87UZFX9MJ.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "KM3AH2Q87UZFX9MJ.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.000004 per CloudTrail event analyzed in US East (N.Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Events",
-              "pricePerUnit" : {
-                "USD" : "0.0000040000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "XZZAMJ5K5SQ9WSF7" : {
         "XZZAMJ5K5SQ9WSF7.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2699,27 +3112,6 @@
           "priceDimensions" : {
             "XZZAMJ5K5SQ9WSF7.JRTCKXETXF.6YS6EN2CT7" : {
               "rateCode" : "XZZAMJ5K5SQ9WSF7.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "3SH3P52F9FASEHAA" : {
-        "3SH3P52F9FASEHAA.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "3SH3P52F9FASEHAA",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "3SH3P52F9FASEHAA.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "3SH3P52F9FASEHAA.JRTCKXETXF.6YS6EN2CT7",
               "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
               "beginRange" : "0",
               "endRange" : "Inf",
@@ -2747,27 +3139,6 @@
               "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "FKWDBTMFANHDCQMP" : {
-        "FKWDBTMFANHDCQMP.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "FKWDBTMFANHDCQMP",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "FKWDBTMFANHDCQMP.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "FKWDBTMFANHDCQMP.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
               },
               "appliesTo" : [ ]
             }
@@ -2859,90 +3230,6 @@
           "termAttributes" : { }
         }
       },
-      "4GZ2WSWMPXBTMDZB" : {
-        "4GZ2WSWMPXBTMDZB.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "4GZ2WSWMPXBTMDZB",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "4GZ2WSWMPXBTMDZB.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "4GZ2WSWMPXBTMDZB.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.0 per GB for FreeMalwareProtectionEBSDataScanned in US East (N. Virginia)",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "GB",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "8KW9X7PS4NFEPCPY" : {
-        "8KW9X7PS4NFEPCPY.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "8KW9X7PS4NFEPCPY",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "8KW9X7PS4NFEPCPY.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "8KW9X7PS4NFEPCPY.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "3QAAAXW46RDD3V64" : {
-        "3QAAAXW46RDD3V64.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "3QAAAXW46RDD3V64",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "3QAAAXW46RDD3V64.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "3QAAAXW46RDD3V64.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per CloudTrail events analyzed (free trial) US East (N.Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "Events",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "4RAQN65QGX6R3SXF" : {
-        "4RAQN65QGX6R3SXF.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "4RAQN65QGX6R3SXF",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "4RAQN65QGX6R3SXF.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "4RAQN65QGX6R3SXF.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per vCPU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "MEW4RCPE4R4ZBHTH" : {
         "MEW4RCPE4R4ZBHTH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -2978,27 +3265,6 @@
               "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "1.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "RNJT5SZG6ENR37TR" : {
-        "RNJT5SZG6ENR37TR.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "RNJT5SZG6ENR37TR",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "RNJT5SZG6ENR37TR.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "RNJT5SZG6ENR37TR.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
               },
               "appliesTo" : [ ]
             }
@@ -3048,27 +3314,6 @@
           "termAttributes" : { }
         }
       },
-      "Z5YHDEV4BFKVYTYU" : {
-        "Z5YHDEV4BFKVYTYU.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "Z5YHDEV4BFKVYTYU",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "Z5YHDEV4BFKVYTYU.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "Z5YHDEV4BFKVYTYU.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "ZUQW952RN4R6VEKS" : {
         "ZUQW952RN4R6VEKS.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -3090,81 +3335,6 @@
           "termAttributes" : { }
         }
       },
-      "FQVP8345G4ZVKBD5" : {
-        "FQVP8345G4ZVKBD5.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "FQVP8345G4ZVKBD5",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "FQVP8345G4ZVKBD5.JRTCKXETXF.C2QCTD4VXQ" : {
-              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.C2QCTD4VXQ",
-              "description" : "$1.5 per vCPU for the first 500 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "500",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.5000000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "FQVP8345G4ZVKBD5.JRTCKXETXF.JJUTPMMDBH" : {
-              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.JJUTPMMDBH",
-              "description" : "$0.75 per vCPU for the next 4500 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "500",
-              "endRange" : "5000",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.7500000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "FQVP8345G4ZVKBD5.JRTCKXETXF.YKYQ4272N3" : {
-              "rateCode" : "FQVP8345G4ZVKBD5.JRTCKXETXF.YKYQ4272N3",
-              "description" : "$0.25 per vCPU for above 5000 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "5000",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "85FZ2QD48UHH4GTT" : {
-        "85FZ2QD48UHH4GTT.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "85FZ2QD48UHH4GTT",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "85FZ2QD48UHH4GTT.JRTCKXETXF.JXGPBPHWFF" : {
-              "rateCode" : "85FZ2QD48UHH4GTT.JRTCKXETXF.JXGPBPHWFF",
-              "description" : "$0 per request for the first 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "1000",
-              "unit" : "Events",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "85FZ2QD48UHH4GTT.JRTCKXETXF.MUBTP6UPGZ" : {
-              "rateCode" : "85FZ2QD48UHH4GTT.JRTCKXETXF.MUBTP6UPGZ",
-              "description" : "$0.000215 per request for above 1000 S3 PUT requests / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "1000",
-              "endRange" : "Inf",
-              "unit" : "Events",
-              "pricePerUnit" : {
-                "USD" : "0.0002150000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "S8D79MAS3RAUFZPH" : {
         "S8D79MAS3RAUFZPH.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -3179,27 +3349,6 @@
               "unit" : "vCPU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "CMVQ76VQPCXJ3EHP" : {
-        "CMVQ76VQPCXJ3EHP.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "CMVQ76VQPCXJ3EHP",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "CMVQ76VQPCXJ3EHP.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "CMVQ76VQPCXJ3EHP.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$1 per vCPU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.0000000000"
               },
               "appliesTo" : [ ]
             }
@@ -3270,27 +3419,6 @@
           "termAttributes" : { }
         }
       },
-      "FZCYBSCU36JGTK5U" : {
-        "FZCYBSCU36JGTK5U.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "FZCYBSCU36JGTK5U",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "FZCYBSCU36JGTK5U.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "FZCYBSCU36JGTK5U.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
       "7UK5YP4TYDYNVRHE" : {
         "7UK5YP4TYDYNVRHE.JRTCKXETXF" : {
           "offerTermCode" : "JRTCKXETXF",
@@ -3305,92 +3433,6 @@
               "unit" : "ACU-Months",
               "pricePerUnit" : {
                 "USD" : "0.0000000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "PBUSD7DTGCS4WP4A" : {
-        "PBUSD7DTGCS4WP4A.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "PBUSD7DTGCS4WP4A",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "PBUSD7DTGCS4WP4A.JRTCKXETXF.C2QCTD4VXQ" : {
-              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.C2QCTD4VXQ",
-              "description" : "$1.5 per vCPU for the first 500 EC2 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "500",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.5000000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "PBUSD7DTGCS4WP4A.JRTCKXETXF.JJUTPMMDBH" : {
-              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.JJUTPMMDBH",
-              "description" : "$0.75 per vCPU for the next 4500 EC2 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "500",
-              "endRange" : "5000",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.7500000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "PBUSD7DTGCS4WP4A.JRTCKXETXF.YKYQ4272N3" : {
-              "rateCode" : "PBUSD7DTGCS4WP4A.JRTCKXETXF.YKYQ4272N3",
-              "description" : "$0.25 per vCPU for above 5000 EC2 vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "5000",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "JWY56TTYR6QJB5AA" : {
-        "JWY56TTYR6QJB5AA.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "JWY56TTYR6QJB5AA",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "JWY56TTYR6QJB5AA.JRTCKXETXF.C2QCTD4VXQ" : {
-              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.C2QCTD4VXQ",
-              "description" : "$1.5 per vCPU for the first 500 Fargate vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "500",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "1.5000000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "JWY56TTYR6QJB5AA.JRTCKXETXF.JJUTPMMDBH" : {
-              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.JJUTPMMDBH",
-              "description" : "$0.75 per vCPU for the next 4500 Fargate vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "500",
-              "endRange" : "5000",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.7500000000"
-              },
-              "appliesTo" : [ ]
-            },
-            "JWY56TTYR6QJB5AA.JRTCKXETXF.YKYQ4272N3" : {
-              "rateCode" : "JWY56TTYR6QJB5AA.JRTCKXETXF.YKYQ4272N3",
-              "description" : "$0.25 per vCPU for above 5000 Fargate vCPU / month monitored in US East (N. Virginia) region",
-              "beginRange" : "5000",
-              "endRange" : "Inf",
-              "unit" : "vCPU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
               },
               "appliesTo" : [ ]
             }
@@ -3475,48 +3517,6 @@
               "unit" : "GB",
               "pricePerUnit" : {
                 "USD" : "0.0300000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "CX5N5CRQR8ZUGUAR" : {
-        "CX5N5CRQR8ZUGUAR.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "CX5N5CRQR8ZUGUAR",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "CX5N5CRQR8ZUGUAR.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "CX5N5CRQR8ZUGUAR.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.25 per ACU / month analyzed in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.2500000000"
-              },
-              "appliesTo" : [ ]
-            }
-          },
-          "termAttributes" : { }
-        }
-      },
-      "QP8TFT296CZ22TRC" : {
-        "QP8TFT296CZ22TRC.JRTCKXETXF" : {
-          "offerTermCode" : "JRTCKXETXF",
-          "sku" : "QP8TFT296CZ22TRC",
-          "effectiveDate" : "2025-05-01T00:00:00Z",
-          "priceDimensions" : {
-            "QP8TFT296CZ22TRC.JRTCKXETXF.6YS6EN2CT7" : {
-              "rateCode" : "QP8TFT296CZ22TRC.JRTCKXETXF.6YS6EN2CT7",
-              "description" : "$0.00 per ACU / month analyzed (free trial) in US East (N. Virginia) region",
-              "beginRange" : "0",
-              "endRange" : "Inf",
-              "unit" : "ACU-Months",
-              "pricePerUnit" : {
-                "USD" : "0.0000000000"
               },
               "appliesTo" : [ ]
             }
